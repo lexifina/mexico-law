@@ -1,0 +1,11 @@
+ARTÍCULO SEGUNDO.- ...
+TRANSITORIOS
+PRIMERO. La Ley Federal de Defensoría Pública y las reformas a la Ley Orgánica del Poder Judicial de la Federación, entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO. Se abroga la Ley de la Defensoría de Oficio Federal, publicada en el Diario Oficial de la Federación el día 9 de febrero de 1922.
+TERCERO. Todos los recursos humanos y materiales adscritos a la Unidad de Defensoría del Fuero Federal, pasarán al Instituto Federal de Defensoría Pública. Los derechos laborales del personal que preste sus servicios en la citada Unidad, serán respetados en todos sus términos. Los asuntos que estén a cargo de la Unidad de Defensoría pasarán al Instituto Federal de Defensoría Pública.
+CUARTO. El Consejo de la Judicatura Federal nombrará al Director General del Instituto Federal de Defensoría Pública, en un plazo de treinta días y en un plazo de sesenta días, a las personas que integrarán la Junta Directiva del propio Instituto; ambos plazos contados a partir de la entrada en vigor de la presente Ley.
+QUINTO. Dentro de los seis meses siguientes a la entrada en vigor de la Ley Federal de Defensoría Pública, todos los miembros del Instituto Federal de Defensoría Pública deberán estar ejerciendo sus funciones y brindando los servicios previstos en esta Ley.
+SEXTO. Dentro de los seis meses siguientes a la entrada en vigor de esta Ley, la Junta Directiva del Instituto Federal de Defensoría Pública deberá aprobar las Bases Generales de Organización y Funcionamiento del propio Instituto.
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+México, D.F., a 28 de abril de 1998.- Sen. Dionisio Pérez Jácome, Presidente.- Dip. Aurora Bazán López, Presidente.- Sen. José Luis Medina Aguiar, Secretario.- Dip. Francisco Antonio Ordaz Hernández, Secretario.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de mayo de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
