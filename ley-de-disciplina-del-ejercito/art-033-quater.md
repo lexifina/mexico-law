@@ -1,0 +1,1 @@
+Artículo 33 Quáter.- El que haya recibido orden de arresto, deberá comunicar al superior de quien dependa así como al que se la impuso, el inicio y término de su cumplimiento. Los Generales, Jefes y Oficiales lo harán por escrito y la Tropa de forma verbal.
