@@ -1,0 +1,1 @@
+Artículo 117 bis.- Tanto el artista intérprete o el ejecutante, tiene el derecho irrenunciable a percibir una remuneración por el uso o explotación de sus interpretaciones o ejecuciones que se hagan con fines de lucro directo o indirecto, por cualquier medio, comunicación pública o puesta a disposición.
