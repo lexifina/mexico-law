@@ -1,0 +1,4 @@
+TRANSITORIO
+UNICO.- El presente decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+Enrique Sada Baigts, D. P.- Guillermo Ramírez Valadez, S. P.- Juan José Osorio Palacios, D. S.- José Rodríguez Elías, S. S.- Rúbricas.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos sesenta.- Adolfo López Mateos.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortiz Mena.- Rúbrica.- El Secretario de Relaciones Exteriores, Manuel Tello.- Rúbrica.- El Secretario de Gobernación, Gustavo Díaz Ordaz.- Rúbrica.

@@ -1,0 +1,9 @@
+DECRETO por el que se reforma el Artículo 2o. de la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento.
+Publicado en el Diario Oficial de la Federación el 16 de julio de 1993
+ARTICULO PRIMERO.- Se reforma el Artículo 2o. de la Ley que Establece Bases para la Ejecución en México por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1960, modificada por Decretos publicados en el propio Diario Oficial de la Federación el 8 de enero de 1981, 28 de diciembre de 1981, 4 de noviembre de 1983, 24 de diciembre de 1984, 13 de enero de 1986, 19 de enero de 1988 y 26 de julio de 1990, para quedar como sigue:
+...
+ARTICULO SEGUNDO.- Se autoriza al Ejecutivo Federal para actualizar las aportaciones a que se refiere la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, para dar cumplimiento a lo dispuesto en el artículo anterior.
+TRANSITORIO
+ARTICULO UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+México, D.F., a 6 de julio de 1993.- Dip. Juan Ramiro Robledo Ruiz, Presidente.- Sen. Mauricio Valdés Rodríguez, Presidente.- Dip. Diego Velázquez Duarte, Secretario.- Sen. Ramón Serrano Ahumada, Secretario.- Rúbricas.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de julio de 1993.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
