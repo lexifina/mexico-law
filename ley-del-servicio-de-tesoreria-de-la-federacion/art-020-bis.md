@@ -1,0 +1,1 @@
+Artículo 20-Bis.- La Tesorería podrá realizar los actos necesarios para la recuperación de todo tipo de créditos distintos de los fiscales que tenga radicados. Para estos efectos, podrá reestructurar o bien ceder a título oneroso los créditos respectivos, así como contratar los servicios de cobranza de personas físicas o morales.

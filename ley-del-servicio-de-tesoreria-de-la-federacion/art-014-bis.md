@@ -1,0 +1,7 @@
+Artículo 14-Bis.- La Tesorería estará facultada para celebrar las operaciones y prestar los servicios a que se refiere la presente Ley, mediante la utilización de documentos escritos con la correspondiente firma autógrafa del servidor público competente, o bien, a través de equipos o sistemas automatizados, para lo cual, en sustitución de la firma autógrafa, se emplearán medios de identificación electrónica.
+Para la utilización de los equipos o sistemas automatizados a los que alude el párrafo anterior, la Tesorería dará a conocer a las dependencias y entidades de la administración pública federal como mínimo lo siguiente:
+I. Las operaciones y servicios cuya prestación se establezca;
+II. Los medios de identificación del usuario y las responsabilidades correspondientes a su uso, y
+III. Los medios por los que se haga constar la creación, establecimiento, transmisión, modificación o extinción de derechos y obligaciones inherentes a las operaciones y servicios de que se trate.
+El uso de los medios de identificación que se establezca conforme a lo previsto en esta Ley, en sustitución de la firma autógrafa, producirá los mismos efectos que las leyes otorgan a los documentos correspondientes y, en consecuencia, tendrán el mismo valor probatorio.
+La Tesorería será responsable de llevar un estricto control de los medios de identificación electrónica que autorice, así como de cuidar la seguridad y protección de los equipos o sistemas automatizados y, en su caso, de la confidencialidad de la información en ellos contenida.
