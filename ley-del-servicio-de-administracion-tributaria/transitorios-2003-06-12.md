@@ -1,0 +1,19 @@
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones contenidas en la Ley del Servicio de Administración Tributaria.
+Publicado en el Diario Oficial de la Federación el 12 de junio de 2003
+Artículo Único. Se Reforman los artículos 2o.; 7o., fracciones IX, XII y XIII; 8o., fracción II; 9o., fracciones I y II; 10, fracción VII; 11, primer párrafo y 13, primer párrafo y fracciones II y III; se Adicionan los artículos 7o., con las fracciones XIV, XV, XVI y XVII; 7o.-A; 7o.-B; 7o.-C; 7o.-D; 10, con las fracciones VIII, IX y X; 13, con la fracción IV; 13-A; y 20-A; un Título Quinto denominado "De la Información, la Transparencia y la Evaluación de la Eficiencia Recaudatoria y de Fiscalización", que contiene el Capítulo I "De la Información y la Transparencia" con los artículos 21, 22, 23, 24, 25, 26 y 27 y el Capítulo II, "De la Evaluación de la Eficiencia Recaudatoria y de Fiscalización" con los artículos 28, 29, 30, 31, 32 y 33; así como un Título Sexto denominado "De la Responsabilidad del Servicio de Administración Tributaria", que contiene un Capítulo Único con el artículo 34; y se Derogan las fracciones III y IV del artículo 9o., de la Ley del Servicio de Administración Tributaria, para quedar como sigue:
+...
+TRANSITORIOS
+Artículo Primero. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Diario Oficial de la Federación.
+Artículo Segundo. Para los efectos de lo dispuesto por los artículos 7o.-B y 7o.-D, la Junta de Gobierno del Servicio de Administración Tributaria llevará a cabo la designación de los ocho expertos en artes plásticas que por vez primera integrarán el Comité a que se refieren dichos numerales, previa opinión del Consejo Nacional para la Cultura y las Artes.
+El periodo de vigencia de las designaciones mencionadas se determinará por la Junta de Gobierno, en la forma siguiente:
+a) Dos integrantes, un año.
+b) Dos integrantes, dos años.
+c) Dos integrantes, tres años.
+d) Dos integrantes, cuatro años.
+Los miembros que cubran las vacantes que se produzcan antes de la terminación del periodo respectivo, durarán en su cargo sólo por el tiempo que faltare por desempeñar al sustituido.
+Artículo Tercero. En las disposiciones donde se refiera al Presidente del Servicio de Administración Tributaria se entenderá como Jefe del Servicio de Administración Tributaria.
+Artículo Cuarto. El Ejecutivo Federal propondrá al titular del Servicio de Administración Tributaria dentro de los 60 días naturales posteriores a la publicación del presente Decreto en el Diario Oficial de la Federación, conforme al artículo 13 de esta Ley.
+Artículo Quinto. En el marco del proceso de modernización del Servicio de Administración Tributaria, este organismo deberá llevar a cabo una revisión de su plan estratégico. Con base en dicha revisión elaborará un programa de acciones necesarias de corto plazo, así como los programas operativos de cada una de las unidades administrativas, incluyendo los indicadores de cumplimiento respectivo. Además, establecerá un sistema de evaluación del desempeño de dichas unidades hasta el nivel de administración local, tanto de impuestos internos como de aduanas.
+Las medidas anteriores deberán ser cumplidas dentro de los 180 días naturales posteriores a la entrada en vigor del presente Decreto.
+México, D.F., a 30 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Adela Cerezo Bautista, Secretario.- Sen. Lydia Madero García, Secretaria.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de junio de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
