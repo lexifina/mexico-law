@@ -1,0 +1,9 @@
+DECRETO por el que se reforman y adicionan diversas disposiciones del Estatuto de Gobierno del Distrito Federal y de la Ley Federal de Responsabilidades de los Servidores Públicos.
+Publicado en el Diario Oficial de la Federación el 12 de diciembre de 1995
+ARTICULO SEGUNDO.- Se reforma la fracción VI del artículo 3o., el primer párrafo del artículo 51 y el segundo párrafo del artículo 79 de la Ley Federal de Responsabilidades de los Servidores Públicos, para quedar como sigue:
+...
+TRANSITORIOS
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- A los miembros del Consejo de la Judicatura del Distrito Federal en funciones a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones contenidas en el Artículo Primero del mismo, salvo la duración en el cargo, la cual se sujetará a lo previsto en el Artículo Séptimo transitorio del Decreto por el que se reforman diversos artículos de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 31 de diciembre de 1994.
+México, D.F., a 28 de noviembre de 1995.- Dip. Fernando Salgado Delgado, Presidente.- Sen. Ernesto Navarro González, Presidente.- Dip. Audomaro Alba Padilla, Secretario.- Sen. Raúl Juárez Valencia, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
