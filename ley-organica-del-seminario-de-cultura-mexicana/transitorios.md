@@ -1,0 +1,5 @@
+TRANSITORIOS
+ARTICULO PRIMERO.- Esta Ley entrará en vigor el día siguiente de su publicación en el "Diario Oficial".
+ARTICULO SEGUNDO.- La Secretaría de Educación Pública tendrá por designados, con plena sujeción a esta Ley, a los miembros del Seminario de Cultura Mexicana que actualmente lo integran.
+Francisco Hernández Hernández, D. P.- Edmundo Games Orozco, S. P.- Rafael Suárez Ocaña, D. S.- Alfonso Corona del Rosal, S. S.- Rúbricas".
+En cumplimiento por lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D.F., a los treinta días del mes de diciembre de mil novecientos cuarenta y nueve.- Miguel Alemán.- Rúbrica.- El Secretario de Educación Pública, Manuel Gual Vidal.- Rúbrica.- El Secretario de Comunicaciones y Obras Públicas, Agustín García López.- Rúbrica.- El Subsecretario de Crédito y Presupuesto, Encargado del Despacho, Rafael Mancera O.- Rúbrica.- El Secretario de Gobernación, Adolfo Ruiz Cortines.- Rúbrica.
