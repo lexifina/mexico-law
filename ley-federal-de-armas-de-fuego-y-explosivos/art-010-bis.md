@@ -1,0 +1,1 @@
+Artículo 10 Bis.- La posesión de cartuchos correspondientes a las armas que pueden poseerse o portarse se limitará a las cantidades que se establecen en el artículo 50 de esta Ley, por cada arma manifestada en el Registro Federal de Armas.
