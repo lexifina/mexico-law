@@ -1,4 +1,4 @@
-CÓDIGO FISCAL DE LA FEDERACIÓN
+CODIGO FISCAL DE LA FEDERACION
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 28 DE DICIEMBRE DE 1994.
 Código publicado en el Diario Oficial de la Federación el jueves 31 de diciembre de 1981.
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
