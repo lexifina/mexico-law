@@ -1,0 +1,4 @@
+TRANSITORIO
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+México, D.F., a 1o. de octubre de 1996.- Sen. Melchor de los Santos Ordóñez, Presidente.- Dip. Carlos Humberto Aceves del Olmo, Presidente.- Sen. Rosendo A. Villarreal Dávila, Secretario.- Dip. Sabino González Alba, Secretario.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de octubre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
