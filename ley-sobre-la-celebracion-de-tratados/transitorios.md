@@ -1,0 +1,4 @@
+TRANSITORIO
+ARTICULO UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+México, D.F. a 21 de diciembre de 1991.- Sen. Artemio Iglesias Miramontes, Presidente.- Dip. Rigoberto Ochoa Zaragoza, Presidente.- Sen. Oscar Ramírez Mijares, Secretario.- Dip. Domingo Alapizco Jiménez.- Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia expido el presente Decreto, en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal a los veintitrés días del mes de diciembre de mil novecientos noventa y uno.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
