@@ -1,0 +1,18 @@
+Artículos Transitorios
+Primero. Esta Ley entrará en vigor a los cuarenta y cinco días de su publicación en el Diario Oficial de la Federación.
+Segundo. Se abroga la Ley de creación del Instituto Nacional Indigenista, publicada en el Diario Oficial de la Federación el 4 de diciembre de 1948, conservando la Comisión Nacional para el Desarrollo de los Pueblos Indígenas la personalidad jurídica y el patrimonio del Instituto Nacional Indigenista.
+Tercero. La Secretaría de Hacienda y Crédito Público realizará las adecuaciones presupuestarias necesarias para el tratamiento de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas como entidad no sectorizada.
+Cuarto. La Junta de Gobierno de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas expedirá el Estatuto Orgánico de dicha entidad en un plazo de noventa días, contado a partir de la entrada en vigor de esta Ley.
+En tanto se expide el Estatuto Orgánico, se continuará aplicando el del Instituto Nacional Indigenista en lo que no se oponga a esta Ley; y en lo no previsto se estará a lo que resuelva la Junta de Gobierno.
+Quinto. El Consejo Consultivo de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas deberá estar instalado dentro de los seis meses siguientes a la entrada en vigor de esta Ley.
+Sexto. La Comisión Nacional para el Desarrollo de los Pueblos Indígenas establecerá el Servicio Profesional de Carrera a que se refiere el artículo 19 dentro del año siguiente a la entrada en vigor de esta Ley.
+Séptimo. Los trabajadores del Instituto Nacional Indigenista seguirán siéndolo de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, conservando su antigüedad, derechos y condiciones laborales.
+Octavo. Dentro de los nueve meses siguientes a la entrada en vigor de esta Ley, las dependencias de la Administración Pública Federal propondrán al Presidente de la República, dentro del ámbito de sus respectivas competencias, las modificaciones del marco jurídico que consideren necesarias para el pleno desarrollo de los pueblos indígenas.
+Noveno. Los asuntos pendientes de trámite del Instituto Nacional Indigenista seguirán a cargo de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+Décimo. Cualquier referencia que en otras disposiciones jurídicas y administrativas se haga al Instituto Nacional Indigenista, se entenderá hecha a la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+Onceavo. Aquellos programas del Instituto Nacional Indigenista cuya finalidad se relacione con las atribuciones que la Ley Orgánica de la Administración Pública Federal y otras leyes confieren a las distintas dependencias y entidades, serán transferidos a las mismas, con los recursos correspondientes, en el plazo que convenga la Comisión Nacional para el Desarrollo de los Pueblos Indígenas con la instancia respectiva.
+ARTÍCULOS SEGUNDO Y TERCERO.- ...
+Transitorio
+Unico.- Los artículos segundo y tercero de este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+México, D.F., a 30 de abril de 2003.- Dip. Armando Salinas Torre, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Adela Cerezo Bautista, Secretario.- Sen. Lydia Madero García, Secretaria.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de mayo de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
