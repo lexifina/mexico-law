@@ -1,0 +1,7 @@
+TRANSITORIOS
+PRIMERO. Esta ley entrará en vigor el 1o. de junio de 1995.
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en esta Ley, en particular los diversos recursos administrativos de las diferentes leyes administrativas en las materias reguladas por este ordenamiento. Los recursos administrativos en trámite a la entrada en vigor de esta Ley, se resolverán conforme a la ley de la materia.
+TERCERO. En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de esta Ley.
+CUARTO. Los procedimientos de conciliación y arbitraje previstos en los ordenamientos materia de la presente Ley, se seguirán sustanciando conforme a lo dispuesto en dichos ordenamientos legales.
+México, D.F., a 14 de julio de 1994.- Dip. Manuel Huerta Ladrón de Guevara, Presidente.- Sen. Ricardo Monreal Avila, Presidente.- Dip. José Raúl Hernández Avila, Secretario.- Sen. Antonio Melgar Aranda, Secretario.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de julio de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Jorge Carpizo.- Rúbrica.
