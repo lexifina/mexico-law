@@ -1,5 +1,6 @@
 ARTICULOS TRANSITORIOS
-ARTICULO 1o. Este Código entrará en vigor, en la fecha que fije el Ejecutivo.
+(REFORMADO, D.O.F. 1o. DE SEPTIEMBRE DE 1932)
+ARTICULO 1o. Este Código comenzará a regir el 1o. de octubre de 1932.
 ARTICULO 2o. Sus disposiciones regirán los efectos jurídicos de los actos anteriores a su vigencia, si con su aplicación no se violan derechos adquiridos.
 ARTICULO 3o. La capacidad jurídica de las personas se rige por lo dispuesto en este Código, aun cuando modifique o quite la que antes gozaban; pero los actos consumados por personas capaces quedan firmes, aun cuando se vuelvan incapaces conforme a la presente ley.
 ARTICULO 4o. Los bienes adquiridos antes de la vigencia de la Ley de Relaciones Familiares, por matrimonios celebrados bajo el régimen de sociedad legal, constituyen una copropiedad de los cónyuges, si la sociedad no se liquidó conforme a lo dispuesto en el artículo 4o. transitorio de la citada ley; cesando la sociedad de producir sus efectos desde que esa ley entró en vigor.
@@ -14,3 +15,4 @@ Dado en el Palacio del Poder Ejecutivo Federal, en México, a los treinta días 
 Lo comunico a usted para su publicación y demás fines.
 Sufragio Efectivo. No Reelección.
 México, a 30 de agosto de 1928.- El Secretario de Estado y del Despacho de Gobernación, Emilio Portes Gil.- Rúbrica.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
