@@ -1,0 +1,1 @@
+Artículo 38 ter.- Tratándose de la enajenación a través del procedimiento de subasta, los participantes ajustarán sus posturas en función de la de los competidores hasta llegar a un nivel donde ningún postor está dispuesto a ofrecer más. La última postura determina al ganador y el precio de transacción.
