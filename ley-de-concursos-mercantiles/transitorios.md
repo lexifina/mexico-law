@@ -1,0 +1,18 @@
+TRANSITORIOS
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- Se abroga la Ley de Quiebras y de Suspensión de Pagos publicada en el Diario Oficial de la Federación el día 20 de abril de 1943, y se derogan o modifican todas las demás disposiciones legales que se opongan a lo dispuesto en esta Ley.
+TERCERO.- Las referencias que otras leyes y disposiciones hagan al estado o a los procedimientos de quiebra y de suspensión de pagos, se entenderán referidas al concurso mercantil.
+CUARTO.- Las entidades de la administración pública paraestatal que no estén constituidas como sociedades mercantiles no serán declaradas en concurso mercantil.
+Las instituciones y sociedades mutualistas de seguros, las instituciones de fianzas, las de reaseguro y las de reafianzamiento, se regirán por lo dispuesto en sus leyes especiales.
+QUINTO.- Los procedimientos de quiebra y de suspensión de pagos que hubiesen sido iniciados con anterioridad a la entrada en vigor de esta Ley, continuarán rigiéndose por la Ley de Quiebras y de Suspensión de Pagos publicada en el Diario Oficial de la Federación el día 20 de abril de 1943.
+SEXTO.- Dentro de los treinta días naturales siguientes a la entrada en vigor de la presente Ley, deberá instalarse el Instituto y dentro de los sesenta días naturales siguientes a su instalación deberá expedir las disposiciones reglamentarias previstas en la misma.
+En caso de que se presente alguna solicitud o demanda para la declaración del concurso mercantil de un Comerciante sin que se haya cumplido con lo dispuesto en el primer párrafo de este artículo, dicha solicitud o demanda quedará suspendida hasta que se haya concluido la instalación del Instituto y se hubiese emitido la reglamentación correspondiente.
+SÉPTIMO.- La designación de los miembros de la Junta Directiva del Instituto se hará dentro de los treinta días naturales siguientes a la entrada en vigor de la presente Ley. La Junta Directiva deberá entrar en funciones dentro de los cinco días naturales siguientes a la designación de sus miembros.
+El periodo del primer Director General del Instituto concluirá el 31 de diciembre del año 2003. Los periodos de los cuatro primeros vocales, concluirán el 31 de diciembre del año 2000, 2002, 2004 y 2006, respectivamente.
+OCTAVO.- Lo dispuesto en el artículo 87 sólo se aplicará a las estipulaciones que se incluyan en contratos celebrados a partir de la entrada en vigor de la presente Ley.
+NOVENO.- Dentro de los 5 años siguientes a su entrada en vigor, la presente Ley no se aplicará a los Comerciantes que, a la fecha de entrada en vigor de esta Ley, tengan un pasivo que, computado como la suma del valor nominal de cada crédito a la fecha de su contratación, no exceda de su equivalente a quinientas mil UDIs, salvo que voluntariamente y por escrito acepten someterse a esta Ley.
+ARTÍCULO SEGUNDO.- ...
+TRANSITORIO
+ARTÍCULO ÚNICO.- ...
+México, D.F., a 27 de abril de 2000.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Enrique González Pedrero, Vicepresidente en funciones.- Dip. Marta Laura Carranza Aguayo, Secretario.- Sen. Raúl Juárez Valencia, Secretario.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
