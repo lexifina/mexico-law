@@ -1,0 +1,7 @@
+D.O.F. 6 DE ENERO DE 1994.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- Todas las referencias en la Ley del Notariado para el Distrito Federal, al Departamento del Distrito Federal se entenderán hechas a las autoridades del Distrito Federal; las relativas a libro autorizado y fojas, se tendrán hechas a folios, y cuando se haga alusión a notas marginales se entenderán notas complementarias.
+TERCERO.- Los notarios deberán empezar a formar el protocolo bajo el nuevo sistema de folios, a más tardar el día 1o. de mayo de 1994. Dentro de ese plazo, se podrán autorizar a los notarios los libros necesarios. Transcurrido dicho plazo, los notarios asentarán la razón de terminación de cada libro después de la última escritura pasada y cancelarán las hojas no utilizadas, si las hubiere.
+CUARTO.- La numeración de los instrumentos con la que cada notario iniciará el uso del protocolo a que se refieren las presentes reformas, será la que continúe al último instrumento asentado en los libros que dejarán de usarse.
+QUINTO.- Los folios del Protocolo Abierto Especial actualmente en uso, serán utilizados por los notarios hasta que se terminen.
+SEXTO.- En los casos en que con anterioridad a la entrada en vigor del presente Decreto, se hubieren otorgado escrituras de adquisición de los inmuebles a que se refiere el artículo 1549-Bis del Código Civil, los propietarios podrán instituir uno o más legatarios en los términos establecidos por dicho artículo.
