@@ -18,7 +18,8 @@ Art. 13o.- Quedan extinguidas de pleno derecho las deudas que por razón de trab
 Art. 14o.- Queda suprimida la Secretaría de Justicia.
 Art. 15.- Se faculta al C. Encargado del Poder Ejecutivo de la Unión para que expida la ley de responsabilidad civil aplicable a los autores, cómplices y encubridores de los delitos cometidos contra el orden constitucional en el mes de febrero de 1913 y contra el Gobierno Constitucionalista.
 Art. 16.- El Congreso Constitucional en el período ordinario de sus sesiones, que comenzará el 1o. de septiembre de este año, expedirá todas las leyes orgánicas de la Constitución que no hubieren sido ya expedidas en el período extraordinario a que se refiere el artículo 6o. transitorio, y dará preferencia a las leyes relativas a Garantías Individuales, y artículos 30, 32, 33, 35, 36, 38, 107 y parte final del artículo 111 de esta Constitución.
-Art. 17.- (DEROGADO, D.O.F. 6 DE ABRIL DE 1990)
+(ADICIONADO, D.O.F. 28 DE ENERO DE 1992)
+Art. 17.- Los Templos y demás bienes que, conforme a la fracción II del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos que se reforma por este Decreto, son propiedad de la nación, mantendrán su actual situación jurídica.
 Art. 18.- (DEROGADO, D.O.F. 6 DE ABRIL DE 1990)
 Art. 19.- (DEROGADO, D.O.F. 6 DE ABRIL DE 1990)
 (F. DE E., D.O.F. 6 DE FEBRERO DE 1917)
