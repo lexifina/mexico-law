@@ -1,0 +1,1 @@
+Artículo 138 Bis.- La aclaración de las actas del estado civil, procede cuando en el Registro Civil existan errores mecanográficos, ortográficos o de otra índole que no afecten los datos esenciales de aquéllas, y deberán tramitarse ante la Oficina del Registro Civil.
