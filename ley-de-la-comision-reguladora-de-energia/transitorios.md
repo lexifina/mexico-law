@@ -1,0 +1,5 @@
+TRANSITORIOS
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- El período del primer presidente de la Comisión, a partir de la entrada en vigor de esta Ley, será de cinco años, y el de los demás comisionados de uno, dos, tres y cuatro años, debiendo el Titular del Ejecutivo Federal señalar cuál corresponde a cada comisionado.
+México, D.F., a 26 octubre de 1995.- Dip. Adolfo R. Flores Rodríguez, Presidente.- Sen. Eugenio Ruiz Orozco, Presidente.- Dip. Francisco Martínez Rivera, Secretario.- Sen. Manuel Medellín Milán, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de octubre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
