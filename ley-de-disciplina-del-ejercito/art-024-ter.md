@@ -1,0 +1,1 @@
+Artículo 24 Ter.- Correctivo disciplinario es la medida coercitiva que se impone a todo militar del Ejército y Fuerza Aérea Mexicanos, por haber infringido las leyes o reglamentos militares, siempre y cuando no constituyan un delito.
