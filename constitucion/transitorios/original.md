@@ -14,7 +14,8 @@ Art. 10o.- Los que hubieren figurado en el Gobierno emanado de la rebelión, con
 Art. 11o.- Entre tanto el Congreso de la Unión y los de los Estados legislan sobre los problemas agrario y obrero, las bases establecidas por esta Constitución para dichas leyes, se pondrán en vigor en toda la República.
 Art. 12o.- Los mexicanos que hayan militado en el Ejército Constitucionalista, los hijos y viudas de éstos, y las demás personas que hayan prestado servicios a la causa de la Revolución o a la Instrucción Pública, tendrán preferencia para la adquisición de fracciones a que se refiere el artículo 27 y derecho a los descuentos que las leyes señalarán.
 Art. 13o.- Quedan extinguidas de pleno derecho las deudas que por razón de trabajo hayan contraído los trabajadores, hasta la fecha de esta Constitución, con los patronos, sus familiares o intermediarios.
-Art. 14o.- Quedan suprimidas las Secretarías de Justicia y de Instrucción Pública y Bellas Artes.
+(REFORMADO, D.O.F. 8 DE JULIO DE 1921)
+Art. 14o.- Queda suprimida la Secretaría de Justicia.
 Art. 15.- Se faculta al C. Encargado del Poder Ejecutivo de la Unión para que expida la ley de responsabilidad civil aplicable a los autores, cómplices y encubridores de los delitos cometidos contra el orden constitucional en el mes de febrero de 1913 y contra el Gobierno Constitucionalista.
 Art. 16.- El Congreso Constitucional en el período ordinario de sus sesiones, que comenzará el 1o. de septiembre de este año, expedirá todas las leyes orgánicas de la Constitución que no hubieren sido ya expedidas en el período extraordinario a que se refiere el artículo 6o. transitorio, y dará preferencia a las leyes relativas a Garantías Individuales, y artículos 30, 32, 33, 35, 36, 38, 107 y parte final del artículo 111 de esta Constitución.
 (F. DE E., D.O.F. 6 DE FEBRERO DE 1917)
@@ -25,3 +26,4 @@ Al C. Lic. Manuel Aguirre Berlanga, Subsecretario Encargado del Despacho de Gobe
 Lo que hónrome en comunicar a usted para su publicación y demás efectos.
 Constitución y Reformas.- México, cinco de febrero de mil novecientos diez y siete.- AGUIRRE BERLANGA.
 Al Ciudadano ..
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.
