@@ -1,0 +1,1 @@
+ARTÍCULO 123 BIS. "La Autoridad del Agua" iniciará los procedimientos ante la instancia competente para sancionar a las autoridades y servidores públicos que hayan emitido permisos o Títulos, en contravención a esta Ley, a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y al Código Penal Federal.

@@ -1,0 +1,16 @@
+ARTÍCULO 113 BIS. Quedarán al cargo de "la Autoridad del Agua" los materiales pétreos localizados dentro de los cauces de las aguas nacionales y en sus bienes públicos inherentes.
+Será obligatorio contar con concesión para el aprovechamiento de los materiales referidos; los permisos que se expidan tendrán carácter provisional previo a la expedición del título, y deberán ser canjeados por los títulos de concesión respectivos. Estos últimos serán expedidos por "la Autoridad del Agua" en un plazo que no excederá de sesenta días a partir de la solicitud, conforme a las disposiciones de esta Ley y sus reglamentos.
+"La Autoridad del Agua" vigilará la explotación de dichos materiales y revisará periódicamente la vigencia y cumplimiento de las concesiones y de los permisos con carácter provisional otorgados a personas físicas y morales, con carácter público o privado.
+Son causas de revocación ya sea del permiso con carácter provisional o de la concesión, lo siguiente:
+I. Disponer de materiales pétreos en volúmenes mayores que los autorizados;
+II. Disponer de materiales pétreos sin cumplir con las Normas Oficiales Mexicanas respectivas;
+III. Depositar en cauces y otros cuerpos de agua de propiedad nacional, materiales pétreos y desperdicios de éstos, incluyendo escombro y cascajo, u otros desechos en forma permanente, intermitente o fortuita;
+IV. Dejar de pagar oportunamente las cuotas y derechos respectivos;
+V. No ejecutar adecuadamente las obras y trabajos autorizados;
+VI. Dañar ecosistemas vitales al agua como consecuencia de la disposición de materiales pétreos;
+VII. Transmitir los derechos del título sin permiso de "la Autoridad del Agua" o en contravención a lo dispuesto en esta Ley;
+VIII. Permitir a terceros en forma provisional la explotación de los materiales pétreos amparados por la concesión respectiva, sin mediar la transmisión definitiva de derechos, la modificación de las condiciones del título respectivo, o la autorización previa de "la Autoridad del Agua";
+IX. Incumplir las medidas preventivas y correctivas que ordene "la Autoridad del Agua", y
+X. Las demás previstas en esta Ley, en sus reglamentos o en el propio título de concesión.
+Al extinguirse los títulos, por término de la concesión, o cuando se haya revocado el título, las obras e instalaciones adheridas de manera permanente al motivo de la concesión deberán ser removidas, sin perjuicio de que "la Autoridad del Agua" las considere de utilidad posterior, en cuyo caso se revertirán en su favor.
+De detectarse daños apreciables a taludes, cauces y otros elementos vinculados con la gestión del agua, a juicio de "la Autoridad del Agua", conforme a sus respectivas atribuciones, deberán repararse totalmente por los causantes, sin menoscabo de la aplicación de otras sanciones administrativas y penales que pudieran proceder conforme a la reglamentación que se expida al respecto.

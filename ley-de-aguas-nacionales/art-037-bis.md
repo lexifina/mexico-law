@@ -1,0 +1,1 @@
+ARTÍCULO 37 BIS. "La Comisión" podrá establecer definitiva o temporalmente instancias en las que se gestionen operaciones reguladas de transmisión de derechos que se denominarán "bancos del agua", cuyas funciones serán determinadas en los reglamentos respectivos.

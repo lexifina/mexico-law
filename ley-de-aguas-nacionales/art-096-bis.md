@@ -1,0 +1,1 @@
+ARTÍCULO 96 BIS. "La Autoridad del Agua" intervendrá para que se cumpla con la reparación del daño ambiental, incluyendo aquellos daños que comprometan a ecosistemas vitales, debiendo sujetarse en sus actuaciones en términos de Ley.

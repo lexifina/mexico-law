@@ -1,0 +1,11 @@
+ARTÍCULO 7 BIS. Se declara de interés público:
+I. La cuenca conjuntamente con los acuíferos como la unidad territorial básica para la gestión integrada de los recursos hídricos;
+II. La descentralización y mejoramiento de la gestión de los recursos hídricos por cuenca hidrológica, a través de Organismos de Cuenca de índole gubernamental y de Consejos de Cuenca de composición mixta, con participación de los tres órdenes de gobierno, de los usuarios del agua y de las organizaciones de la sociedad en la toma de decisiones y asunción de compromisos;
+III. La descentralización y mejoramiento de la gestión de los recursos hídricos con la participación de los estados, del Distrito Federal y de los municipios;
+IV. El mejoramiento permanente del conocimiento sobre la ocurrencia del agua en el ciclo hidrológico, en su explotación, uso o aprovechamiento y en su conservación en el territorio nacional, y en los conceptos y parámetros fundamentales para alcanzar la gestión integrada de los recursos hídricos, así como la realización periódica de inventarios de usos y usuarios, cuerpos de agua, infraestructura hidráulica y equipamiento diverso necesario para la gestión integrada de los recursos hídricos;
+V. La atención prioritaria de la problemática hídrica en las localidades, acuíferos, cuencas hidrológicas y regiones hidrológicas con escasez del recurso;
+VI. La prevención, conciliación, arbitraje, mitigación y solución de conflictos en materia del agua y su gestión;
+VII. El control de la extracción y de la explotación, uso o aprovechamiento de las aguas superficiales y del subsuelo;
+VIII. La incorporación plena de la variable ambiental y la valoración económica y social de las aguas nacionales en las políticas, programas y acciones en materia de gestión de los recursos hídricos, en el ámbito de las instituciones y de la sociedad;
+IX. El mejoramiento de las eficiencias y modernización de las áreas bajo riego, particularmente en distritos y unidades de riego, para contribuir a la gestión integrada de los recursos hídricos, y
+X. La organización de los usuarios, asociaciones civiles y otros sistemas y organismos públicos y privados prestadores de servicios de agua rurales y urbanos, así como su vinculación con los tres órdenes de gobierno, para consolidar su participación en los Consejos de Cuenca.

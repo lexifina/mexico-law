@@ -1,0 +1,1 @@
+ARTÍCULO 84 BIS 1. "La Secretaría", "la Comisión" y los Organismos de Cuenca, deberán promover el mejoramiento de la cultura del agua con apoyo en las instancias del Ejecutivo Federal que correspondan, con el propósito de utilizar medios masivos de comunicación para su difusión, en los términos dispuestos en la Ley Federal de Radio y Televisión.
