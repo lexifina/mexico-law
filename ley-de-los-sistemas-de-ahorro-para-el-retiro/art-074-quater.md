@@ -1,0 +1,4 @@
+Artículo 74 quáter.- La administración de los recursos de fondos de previsión social podrá llevarse por las administradoras e invertirse en las sociedades de inversión que se elijan, en los términos que se pacten al efecto.
+Al efecto, las administradoras podrán llevar el registro, individualización o inversión de los recursos de dichos fondos de previsión social, o bien prestar todos los servicios mencionados conjuntamente y entregar los recursos a quien proceda conforme a lo establecido para cada fondo.
+La Comisión establecerá mediante disposiciones de carácter general, los términos en que se llevará la administración de los recursos a que se refiere el presente artículo.
+Las comisiones que se cobren por la administración de los recursos a que se refiere este artículo deberán pactarse entre las partes de conformidad con las reglas de carácter general que al efecto expida la Comisión.

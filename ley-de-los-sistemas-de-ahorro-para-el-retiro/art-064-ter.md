@@ -1,0 +1,3 @@
+Artículo 64 ter.- Los contralores normativos de las administradoras, deberán contar con un estudio realizado por un tercero independiente para verificar que se cumpla con lo señalado en el artículo 64 bis.
+El contralor normativo deberá informar el resultado de dicho estudio al consejo de administración de la administradora, para que éste último tome las medidas que considere pertinentes.
+Si en el estudio realizado por el tercero independiente se determinara que los precios o montos de contraprestación pactados no corresponden a los que se hubieran acordado por partes independientes en actos comparables, el contralor normativo deberá informar este hecho a la Comisión.
