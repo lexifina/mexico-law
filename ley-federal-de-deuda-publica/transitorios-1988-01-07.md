@@ -1,0 +1,13 @@
+DECRETO que reforma las Leyes de Obras Públicas; de Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con Bienes Muebles; General de Bienes Nacionales, y General de Deuda Pública.
+Publicado en el Diario Oficial de la Federación el 7 de enero de 1988
+ARTICULO CUARTO.- Se reforman los artículos 4o., fracción III; 5o., fracción IV; 12; 17, segundo párrafo; 19, primer párrafo; 20 y 22, segundo párrafo, y se adicionan los artículos 3o., con un segundo párrafo; 6o., con un tercer párrafo, y 22 con un tercer párrafo de la Ley General de Deuda Pública para quedar como sigue:
+...
+TRANSITORIOS
+ARTICULO PRIMERO.- El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+ARTICULO SEGUNDO.- Se derogan:
+I.- La fracción VII del artículo 1o.; el artículo 10; la fracción V del artículo 13, pasando las actuales fracciones VI y VII a ser V y VI; el penúltimo párrafo del artículo 14; el tercer párrafo del artículo 38; el tercer párrafo del artículo 51; la fracción I del artículo 56, pasando las actuales fracciones II a VI a ser I a V, y el segundo párrafo del artículo 59, de la Ley de Obras Públicas.
+II.- Los artículos 56; 57 y 59 de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con Bienes Muebles;
+III.- Las demás disposiciones que se opongan a lo establecido por este ordenamiento.
+ARTICULO TERCERO.- Al entrar en vigor este Decreto, el Ejecutivo Federal procederá a revisar las normas reglamentarias y administrativas que se hubieren expedido con anterioridad sobre las materias a que se refiere este ordenamiento, y realizará respecto de dichas normas, las adecuaciones y derogaciones que resulten pertinentes, las cuales surtirán efectos, en lo que hace a las entidades paraestatales, una vez que los órganos de gobierno de éstas hayan expedido las políticas, bases y lineamientos a que se refiere este Decreto, para lo cual el Ejecutivo Federal establecerá el plazo necesario.
+México, D. F., a 18 de diciembre de 1987.- Dip. David Jiménez González, Presidente.- Sen. Armando Trasviña Taylor, Presidente.- Dip. Marco Antonio Espinoza P., Secretario.- Sen. Abraham Martínez Rivero, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de diciembre de mil novecientos ochenta y siete.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
