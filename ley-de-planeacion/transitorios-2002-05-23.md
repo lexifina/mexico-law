@@ -1,0 +1,11 @@
+DECRETO por el que se reforman los artículos 2, párrafo primero y fracción III; 3; 8, párrafo segundo; 9, párrafo primero; 16, fracciones I y III; 17, fracciones I y II; 21, párrafo segundo; 27; 40, párrafo primero y 41 de la Ley de Planeación.
+Publicado en el Diario Oficial de la Federación el 23 de mayo de 2002
+ARTÍCULO ÚNICO.- Se reforman los artículos 2, párrafo primero y fracción III; 3; 8, párrafo segundo; 9, párrafo primero; 16, fracciones I y III; 17, fracciones I y II; 21, párrafo segundo; 27; 40, párrafo primero y 41 de la Ley de Planeación para quedar como sigue:
+...
+TRANSITORIOS
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- Se derogan todas las disposiciones de carácter legal que se contrapongan con el presente Decreto; y se dejan sin efecto las disposiciones de carácter administrativo que lo contravengan.
+TERCERO.- Hasta en tanto no se emitan las disposiciones reglamentarias correspondientes, se seguirán aplicando las vigentes a la fecha de entrada del presente Decreto en cuanto no se le contrapongan.
+CUARTO.- El Ejecutivo Federal observará en la medida de lo posible las disposiciones del presente Decreto para la elaboración del Plan Nacional de Desarrollo para el periodo presidencial 2000-2006; e instruirá a las dependencias de la administración pública centralizada y paraestatal, para que en la elaboración de los programas sectoriales respectivos a dicho periodo, se apliquen estrictamente los criterios de sustentabilidad a que se refiere el presente Decreto.
+México, D.F., a 23 de abril de 2002.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Yolanda González Hernández, Secretario.- Dip. Martha Silvia Sánchez González, Secretario.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de mayo de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
