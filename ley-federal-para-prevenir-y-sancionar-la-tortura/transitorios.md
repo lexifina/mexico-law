@@ -1,0 +1,5 @@
+ARTICULOS TRANSITORIOS
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- Se abroga la Ley Federal para Prevenir y Sancionar la Tortura, publicada en el Diario Oficial de la Federación el 27 de mayo de 1986; pero deberá continuar aplicándose por los delitos cometidos durante su vigencia, a menos que el acusado manifieste su voluntad de acogerse a la presente ley.
+México, D. F., 12 de diciembre de 1991.- Sen. Artemio Iglesias Miramontes, Presidente.- Dip. Martín Tavira Uriostegui, Presidente.- Sen. Antonio Melgar Miranda, Secretario.- Dip. Irma Piñeiro Arias, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de diciembre de mil novecientos noventa y uno.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
