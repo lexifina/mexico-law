@@ -9,4 +9,4 @@ Lo que comunico a usted para su publicación y demás fines.
 Sufragio Efectivo. No Reelección.
 México, D.F., a 29 de agosto de 1933.- El Secretario de Gobernación.- Eduardo Vasconcelos.- Rúbrica.
 Al C....
-N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO
