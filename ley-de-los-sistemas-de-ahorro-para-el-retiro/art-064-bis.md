@@ -1,0 +1,1 @@
+Artículo 64 bis.- Las administradoras que celebren actos con empresas con las que tengan nexo patrimonial, deberán pactar los precios o montos de contraprestación de la misma forma que lo hubieran hecho partes independientes en actos comparables, aplicando los elementos de comparación y la metodología que emita la Comisión.

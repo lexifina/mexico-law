@@ -1,0 +1,2 @@
+Artículo 115 bis.- La expresión "Sistema de Ahorro para el Retiro" y su abreviatura "SAR", sólo podrá utilizarse para designar a los sistemas de cuentas individuales capitalizables previstos en la presente ley y en las leyes de seguridad social.
+Las personas que utilicen alguna de las expresiones mencionadas en el párrafo anterior para denominar o promocionar productos o servicios distintos serán sancionadas conforme a lo dispuesto en el artículo 100 fracción XXVII de esta ley.
