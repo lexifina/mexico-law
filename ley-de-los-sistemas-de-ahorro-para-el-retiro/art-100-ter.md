@@ -1,0 +1,3 @@
+Artículo 100 ter.- Los programas de corrección a que se refiere el artículo anterior, deberán presentarse ante la Comisión, por el Contralor Normativo o, en caso de aquellos participantes en los sistemas de ahorro para el retiro que no estén obligados a contar con éste, por un funcionario autorizado por la Comisión para estos efectos.
+Los programas de corrección deberán reunir los requisitos que mediante disposiciones de carácter general establezca esta Comisión.
+En caso de que el programa de corrección presentado no cumpla con los requisitos señalados en dichas disposiciones o no se cumpla, la Comisión impondrá la sanción correspondiente, aumentando el monto de ésta en un 20%.
