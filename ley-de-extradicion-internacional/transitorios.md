@@ -1,0 +1,5 @@
+TRANSITORIOS
+ARTICULO PRIMERO.- Esta ley entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación y abroga la Ley de Extradición de 1o. de mayo de 1897.
+ARTICULO SEGUNDO.- Todas las extradiciones que estén en trámite al entrar en vigor esta ley se sujetarán a sus disposiciones.
+México, D. F., a 18 de diciembre de 1975.- Emilio M. González Parra, S. P,- Luis del Toro Calero, D. P.- Germán Corona del Rosal, S. S.- Rogelio García González, D. S.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintidós días del mes de diciembre de mil novecientos setenta y cinco.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Relaciones Exteriores, Emilio O. Rabasa.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.
