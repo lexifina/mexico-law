@@ -1,0 +1,6 @@
+TRANSITORIOS
+ARTICULO PRIMERO.- Al entrar en vigor la presente ley el personal a quien se le haya conferido alguna mención honorífica, tramitará la autorización para portar el gafete correspondiente.
+ARTICULO SEGUNDO.- La presente ley abroga a la Ley de Recompensas de la Armada de México de diecisiete de diciembre de mil novecientos cuarenta y cinco y deroga todas las disposiciones que se le opongan.
+ARTICULO TERCERO.- La presente ley entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+México, D.F., a 13 de diciembre de 1984.- Celso Humberto Delgado Ramírez, S.P.- Enrique Soto Izquierdo, D.P.- Rafael Armando Herrera Morales, S.S.- Arturo Contreras Cuevas, D.S.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de diciembre de mil novecientos ochenta y cuatro.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Marina, Miguel Angel Gómez Ortega.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
