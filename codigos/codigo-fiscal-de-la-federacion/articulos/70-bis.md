@@ -1,3 +1,2 @@
-(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)
-Artículo 70 BIS.- Los ingresos que la Federación obtenga efectivamente de multas por infracción a las disposiciones fiscales distintas a las de la Ley Aduanera, se destinarán a la formación de fondos para el otorgamiento de estímulos y recompensas por productividad y cumplimiento del personal que ejerza las facultades de comprobación, determinación, notificación y ejecución de créditos fiscales relativos a dichas disposiciones.
-Sólo ingresará a los citados fondos el importe de las multas efectivamente pagadas y que hubieren quedado firmes. Salvo que por ley estén destinados a otros fines. La distribución de los fondos se hará en los términos que señale el reglamento.
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DE LA LEY DEL SERVICIO DE ADMINISTRACION TRIBUTARIA.
+Artículo 70 BIS.- (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL SERVICIO DE ADMINISTRACION TRIBUTARIA, D.O.F. 15 DE DICIEMBRE DE 1995)
