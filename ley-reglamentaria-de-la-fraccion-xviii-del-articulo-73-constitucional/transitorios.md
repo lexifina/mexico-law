@@ -1,0 +1,4 @@
+TRANSITORIO
+ARTICULO UNICO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+México, D. F., 14 de diciembre de 1982.- Antonio Riva Palacio López, S.P.- Mariano Piña Olaya, D.P.- Alfonso Segbe Sanen, S.S.- Hilda Anderson Nevárez de Rojas, D.S.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los quince días del mes de diciembre de mil novecientos ochenta y dos.- "Año del General Vicente Guerrero".- Miguel de la Madrid Hurtado.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog.- Rúbrica.- El Secretario de Comercio, Héctor Hernández Cervantes.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett Díaz.- Rúbrica.
