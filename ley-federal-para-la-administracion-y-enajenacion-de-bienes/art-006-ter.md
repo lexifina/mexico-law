@@ -1,0 +1,2 @@
+Artículo 6 ter.- Las Entidades Transferentes contarán con un plazo de 30 días naturales, contados a partir de la fecha de adjudicación o de que legalmente puedan disponer de los bienes a que se refiere el artículo anterior, para llevar a cabo la transferencia de los mismos al SAE.
+Una vez concluido el plazo a que se refiere al párrafo anterior, el SAE contará con un plazo de 540 días naturales para enajenar los bienes o los derechos litigiosos sobre los mismos, de acuerdo con los procedimientos de enajenación establecidos en el Título Cuarto de la presente Ley.
