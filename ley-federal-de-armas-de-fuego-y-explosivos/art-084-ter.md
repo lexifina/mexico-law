@@ -1,0 +1,1 @@
+Artículo 84 Ter.- Las penas a que se refieren los artículos 82, 83, 83 Bis, 83 Ter, 83 Quat, 84 y 84 Bis de esta Ley se aumentarán hasta en una mitad cuando el responsable sea o haya sido servidor público de alguna corporación policial, miembro de algún servicio privado de seguridad o miembro del Ejército, Armada o Fuerza Aérea en situación de retiro, de reserva o en activo.
