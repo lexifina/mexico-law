@@ -1,0 +1,4 @@
+TRANSITORIO
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+México, D. F., a 29 de diciembre de 1981.- Blas Chumacero Sánchez, S.P.- Marco Antonio Aguilar Cortés, D.P.- Luis León Aponte, S.S.- Silvio Lagos Martínez, D.S.- Rúbricas".
+En cumplimiento de lo dispuesto por la Fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos ochenta y uno.- José López Portillo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.- El Secretario de Relaciones Exteriores, Jorge Castañeda.- Rúbrica.- El Secretario de Gobernación, Enrique Olivares Santana.- Rúbrica.
