@@ -1,0 +1,16 @@
+ARTÍCULO SEGUNDO...
+Transitorios
+Primero. El presente Decreto entrará en vigor a los 180 días naturales contados a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo. Se abroga la Ley Federal para la Administración de Bienes Asegurados, Decomisados y Abandonados.
+Tercero. Se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en el presente Decreto.
+Cuarto. Los asuntos iniciados ante el Servicio de Administración de Bienes Asegurados, que a la fecha de entrada en vigor de este Decreto se encuentren en trámite, se seguirán tramitando hasta su conclusión por el SAE.
+Los recursos que deriven de los asuntos a que se refiere el párrafo anterior, recibirán el tratamiento previsto en este Decreto.
+Quinto. Las referencias al Servicio de Administración de Bienes Asegurados que hagan las leyes y demás disposiciones, se entenderán hechas al SAE.
+Sexto. El Reglamento de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, así como el Estatuto Orgánico del SAE, deberán ser emitidos con la debida oportunidad para que entren en vigor el mismo día que el presente Decreto.
+El Director General del SAE deberá ser nombrado, a más tardar, a los 10 días hábiles siguientes al de la entrada en vigor del presente Decreto.
+Séptimo. Los recursos financieros y materiales asignados al Servicio de Administración de Bienes Asegurados, pasarán a formar parte del patrimonio del SAE.
+Octavo. Los mandatos y demás operaciones que hasta antes de la fecha de entrada en vigor del presente Decreto, tenga encomendados el Fideicomiso Liquidador de Instituciones y Organizaciones Auxiliares de Crédito, se entenderán conferidos al SAE, salvo que dentro de los treinta días naturales siguientes a la fecha indicada, el mandante o quien haya girado las instrucciones correspondientes manifieste por escrito ante el SAE su voluntad de dar por concluido el mandato. Así mismo, los recursos financieros, humanos y materiales asignados al citado Fideicomiso, pasarán a formar parte del patrimonio del SAE.
+Dentro del plazo a que se refiere el Transitorio Primero de este Decreto, se deberán realizar todas las acciones conducentes a efecto de extinguir el Fideicomiso Liquidador de Instituciones y Organizaciones Auxiliares de Crédito.
+Noveno. Las referencias a la Ley Federal para la Administración de Bienes Asegurados, Decomisados y Abandonados que hagan las leyes y demás disposiciones, se entenderán hechas a la Ley Federal para la Administración y Enajenación de Bienes del Sector Público.
+México, D.F., a 31 de octubre de 2002.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Yolanda E. González Hernández, Secretario.- Dip. Rodolfo Dorador Pérez Gavilán, Secretario.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los once días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
