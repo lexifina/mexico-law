@@ -1,0 +1,5 @@
+DECRETO que deroga el que modificó el Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos.
+Publicado en el Diario Oficial de la Federación el 1o. de noviembre de 1937
+ARTICULO UNICO.- Se deroga el Decreto que modifica el Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos, aprobado por la XXXVI Legislatura en sesión del 30 de diciembre de 1935 y publicado en el "Diario Oficial" de la Federación, de fecha 16 de octubre actual, quedando en vigor las disposiciones contenidas en el reglamento publicado el 20 de marzo de 1934.
+Antolíno Piña Seria, D. P.-Rodolfo T. Loaiza, S. P.-Fernando Amilpa, D. S.-Augusto Hernández O., S. S.-Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los veinticinco días del mes de octubre de mil novecientos treinta y siete.-Lázaro Cárdenas.-Rúbrica.-El Secretario de Estado y del Despacho de Gobernación, Silvestre Guerrero.-Rúbrica.
