@@ -1,0 +1,1 @@
+ARTÍCULO 12 BIS 5. Los recursos al cargo de los Organismos de Cuenca y las disposiciones para su manejo y rendición de cuentas serán determinados por "la Comisión", la cual actuará conforme a las disposiciones que establezca la Autoridad en la materia.

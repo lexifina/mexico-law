@@ -1,0 +1,5 @@
+ARTÍCULO 112 BIS. Las cuotas de los derechos y otras contribuciones federales y demás cuotas y tarifas que se establezcan por uso o aprovechamiento de agua, o por la prestación de los servicios relacionados con las obras de infraestructura hidráulica deberán estar diseñadas, en concordancia con las disposiciones que dicte la Autoridad en la materia, para:
+I. Privilegiar la gestión de la demanda, al propiciar el uso eficiente del agua, la racionalización de los patrones de consumo, y, en su caso, inhibir actividades que impongan una demanda excesiva;
+II. Prever los ajustes necesarios en función de los costos variables correspondientes, conforme a los indicadores conocidos que puedan ser medidos y que establezcan las propias bases de las contribuciones, cuotas y tarifas;
+III. Recuperar inversiones federales mediante contribuciones en un periodo establecido que no será menor que el periodo de recuperación del costo de capital o del cumplimiento de las obligaciones financieras que se contraigan con motivo de la concesión, y
+IV. Las demás que resulten aplicables, en términos de Ley.

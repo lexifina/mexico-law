@@ -1,0 +1,3 @@
+ARTÍCULO 56 BIS. En los casos en que los ejidatarios o comuneros transmitan la titularidad de la tierra conforme a la Ley, podrán también transmitir sus derechos de agua.
+Los ejidos y comunidades, así como los ejidatarios y comuneros dentro de los distritos y unidades de riego, se regirán por lo dispuesto para los mismos en esta Ley y sus Reglamentos.
+Cuando los ejidatarios y comuneros en las unidades y distritos de riego asuman el dominio individual pleno sobre sus parcelas, sus derechos de agua correspondientes se inscribirán en el Registro Público de Derechos de Agua y en el padrón de las asociaciones o sociedades de usuarios titulares de las concesiones para la explotación, uso o aprovechamiento de aguas nacionales.
