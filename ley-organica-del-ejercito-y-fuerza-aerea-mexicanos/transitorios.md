@@ -1,0 +1,8 @@
+TRANSITORIOS
+ARTICULO PRIMERO. Los Militares de la clase de Servicio que al entrar en vigor esta Ley, posean un grado superior al máximo especificado en los artículos 193 y 195 de la misma, lo conservarán con todos sus efectos legales.
+Los militares de la clase de auxiliares, lo conservarán mientras sus servicios sean utilizados por el Ejército y Fuerza Aérea.
+ARTICULO SEGUNDO. Los militares que al entrar en vigor esta Ley, no queden comprendidos en lo señalado en los artículos 191, 192 y 193, serán reclasificados a un Arma, Servicio, Especialidad o Cuerpo Especial afín, según corresponda, conservando sus derechos adquiridos.
+ARTICULO TERCERO. Se abroga la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos promulgada el 18 de marzo de 1971 y se derogan todas las disposiciones que se opongan a la presente Ley.
+ARTICULO CUARTO. Esta Ley entrará en vigor a los tres días de su publicación en el Diario Oficial de la Federación.
+México, D.F., a 8 de diciembre de 1986, Sen. Gonzalo Martínez Corbalá, Presidente.- Dip. Reyes Rodolfo Flores Z., Presidente.- Sen. Héctor Vázquez Paredes, Secretario.- Dip. Eliseo Rodríguez Ramírez, Secretario.- Rúbricas.
+En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de diciembre de mil novecientos ochenta y seis.- El Presidente de la República, Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
