@@ -1,0 +1,5 @@
+ARTÍCULOS TRANSITORIOS
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO. En el caso de que el Ejecutivo Federal haya iniciado negociaciones deberá atender el requerimiento de información en los términos del artículo 5 junto con los avances de las mismas conforme a las disposiciones aplicables del artículo 6 de la presente Ley.
+México, D.F., a 29 de abril de 2004.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Lydia Madero García, Secretario.- Dip. Marcos Morales Torres, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, al primer día del mes de septiembre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
