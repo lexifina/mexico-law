@@ -1,0 +1,1 @@
+ARTICULO 222 bis.- A fin de garantizarle a los indígenas, el acceso pleno a la jurisdicción del Estado en los procedimientos en que sean parte, el juez deberá considerar, al momento de dictar la resolución, sus usos, costumbres y especificidades culturales.
