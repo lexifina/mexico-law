@@ -1,0 +1,3 @@
+TRANSITORIO
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Diario Oficial.- Félix de la Lanza, D. P.- Alejandro Antuna López, S. P.- César Martino, D. S.- Camilo Gastélum Jr., S. S.- Rúbricas."
+En cumplimiento de lo dispuesto en la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a los treinta y un días del mes de diciembre de mil novecientos treinta y ocho.- Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado y del Despacho de Educación Pública, Gonzalo Vázquez Vela.- Rúbrica.- Al C. licenciado Ignacio García Téllez, Secretario de Gobernación.- Presente.
