@@ -1,0 +1,2 @@
+ARTÍCULO 14 BIS 2. El Servicio Meteorológico Nacional, unidad técnica especializada autónoma adscrita directamente al Titular de "la Comisión", tiene por objeto generar, interpretar y difundir la información meteorológica, su análisis y pronóstico, que se consideran de interés público y estratégico de acuerdo con lo establecido por la presente Ley y sus reglamentos.
+Capítulo V BIS 2 Instituto Mexicano de Tecnología del Agua
