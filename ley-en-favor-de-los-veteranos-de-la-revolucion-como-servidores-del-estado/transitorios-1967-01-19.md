@@ -1,0 +1,8 @@
+REFORMAS a la Ley en favor de los Veteranos de la Revolución como Servidores del Estado.
+Publicado en el Diario Oficial de la Federación el 19 de enero de 1967
+ARTICULO UNICO.- Se reforman los artículos 15 y 16 de la Ley en favor de los Veteranos de la Revolución como Servidores del Estado, para quedar como sigue:
+...
+TRANSITORIO
+UNICO.- Los trabajadores al servicio civil de la Federación que se crean con derecho a ser reconocidos como Veteranos de la Revolución, deberán presentar la solicitud respectiva a la Secretaría de la Defensa Nacional, Comisión Pro Veteranos, en el término de un año contado a partir de la fecha en que entre en vigor el presente Decreto, en la inteligencia de que, de no hacerlo dentro de ese plazo, prescribirá su derecho a solicitar los beneficios, de pensión establecidos por el mismo.
+México, D. F., a 28 de diciembre de 1966.- Guillermo Morales Blumenkron, D. V. P.- Lic. Raúl Bolaños Cacho, S. P.- Guillermo Molina Reyes, D. S.- Dr. Luciano Huerta Sánchez, S. S.- Rúbricas"
+En cumplimiento a lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintiocho días del mes de diciembre de mil novecientos sesenta y seis.- Gustavo Díaz Ordaz.- Rúbrica.- El Secretario de la Defensa Nacional, Marcelino García Barragán.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortiz Mena.- El Secretario de Gobernación, Antonio Vázquez del Mercado.- Rúbrica.
