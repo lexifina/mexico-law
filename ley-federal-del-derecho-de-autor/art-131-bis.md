@@ -1,0 +1,1 @@
+Artículo 131 bis.- Los productores de fonogramas tienen el derecho a percibir una remuneración por el uso o explotación de sus fonogramas que se hagan con fines de lucro directo o indirecto, por cualquier medio o comunicación pública o puesta a disposición.
