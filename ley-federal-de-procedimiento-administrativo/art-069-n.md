@@ -1,0 +1,3 @@
+Artículo 69-N.- La información a que se refiere el artículo anterior deberá entregarse a la Comisión en la forma en que dicho órgano lo determine y la Comisión deberá inscribirla en el Registro, sin cambio alguno, dentro de los cinco días hábiles siguientes.
+Las dependencias y los organismos descentralizados de la administración pública federal, deberán notificar a la Comisión cualquier modificación a la información inscrita en el Registro, dentro de los diez días hábiles siguientes a que entre en vigor la disposición que fundamente dicha modificación.
+Las unidades administrativas que apliquen trámites deberán tener a disposición del público la información que al respecto esté inscrita en el Registro.
