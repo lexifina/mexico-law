@@ -1,0 +1,7 @@
+TRANSITORIOS
+PRIMERO.- El presente decreto entrará en vigor 30 días después de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- Las controversias constitucionales y ordinarias pendientes de resolución a la entrada en vigor del presente decreto, se tramitarán y resolverán en los términos establecidos en las disposiciones aplicables al momento en que se iniciaron.
+TERCERO.- Se derogan los párrafos segundo a cuarto, inclusive, del artículo 12 de la Ley de Coordinación Fiscal, así como todas las disposiciones legales y reglamentarias que se opongan a esta ley.
+CUARTO.- En tanto entra en vigor el presente decreto, la Suprema Corte de Justicia de la Nación dictará los acuerdos generales necesarios para la debida aplicación de esta ley.
+México, D.F., a 24 de abril de 1995.- Sen. Martha Lara Alatorre, Presidenta.- Dip. Anselmo García Cruz, Presidente.- Sen. Juan Fernando Palomino Topete, Secretario.- Dip. Ricardo Fidel Pacheco Rodríguez, Secretario.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de mayo de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Esteban Moctezuma Barragán.- Rúbrica.
