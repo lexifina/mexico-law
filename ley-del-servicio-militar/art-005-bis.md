@@ -1,0 +1,1 @@
+ARTICULO 5 BIS.- En tiempo de paz, los mexicanos por nacimiento que adquieran otra nacionalidad, al cumplir con sus obligaciones del servicio de las armas no serán considerados en el activo en los términos de lo dispuesto en esta ley y en las disposiciones reglamentarias.
