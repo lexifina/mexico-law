@@ -1,0 +1,9 @@
+TRANSITORIOS
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- El Titular del Poder Ejecutivo Federal expedirá el reglamento de esta Ley en un plazo no mayor de 90 días naturales a partir de su entrada en vigor.
+TERCERO.- En un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, deberán quedar constituidos e instalados el Consejo Nacional de Evaluación de la Política de Desarrollo Social, la Comisión Nacional, la Comisión Intersecretarial y el Consejo Consultivo.
+CUARTO.- Para el cumplimiento de su objeto, el Consejo Nacional de Evaluación deberá sujetarse a criterios de austeridad y eficiencia.
+QUINTO.- Las comisiones de Desarrollo Social, y de Hacienda y Crédito Público de la Cámara de Diputados deberán revisar la distribución de los fondos relativos al desarrollo social contenidos en el Capítulo V de la Ley de Coordinación Fiscal, en un plazo no mayor a 90 días y, en su caso, recomendar las modificaciones que se consideren pertinentes.
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+México, D.F., a 9 de diciembre de 2003.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Amalín Yabur Elías, Secretario.- Sen. Lydia Madero García, Secretaria.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de enero de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
