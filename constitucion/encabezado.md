@@ -1,5 +1,4 @@
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
-N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 12 DE ABRIL DE 2000.
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 VENUSTIANO CARRANZA, Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de los Estados Unidos Mexicanos, hago saber:
