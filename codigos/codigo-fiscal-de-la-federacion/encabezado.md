@@ -1,5 +1,5 @@
 CÓDIGO FISCAL DE LA FEDERACIÓN
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 20 DE ENERO DE 2003.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 21 DE NOVIEMBRE DE 2003.
 Código publicado en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 JOSE LOPEZ PORTILLO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
