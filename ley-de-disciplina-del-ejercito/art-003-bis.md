@@ -1,0 +1,1 @@
+Artículo 3 Bis.- La disciplina es la base fundamental del Ejército y Fuerza Aérea Mexicanos, los cuales existen primordialmente para defender los intereses de la Patria y preservar su vida institucional.

@@ -1,0 +1,1 @@
+Artículo 24 Bis.- El militar, atendiendo a su honor y principios, debe obrar con equidad y justicia, ser ejemplo de puntualidad y preocuparse por cumplir con lo ordenado, anteponiendo su iniciativa e inteligencia.
