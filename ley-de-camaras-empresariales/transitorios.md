@@ -1,0 +1,11 @@
+TRANSITORIOS
+ARTÍCULO PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+ARTÍCULO SEGUNDO.- Se abroga la Ley de Cámaras Empresariales y sus Confederaciones, publicada en el Diario Oficial de la Federación el 20 de diciembre de 1996, así como sus reformas y adiciones.
+ARTÍCULO TERCERO.- Las Cámaras de Industria específica regionales constituidas con anterioridad a la vigencia de esta Ley, continuarán operando en los términos en que hayan sido inicialmente autorizadas.
+ARTÍCULO CUARTO.- Las Cámaras de Comercio en Pequeño constituidas con anterioridad a la vigencia de esta Ley, continuarán operando en los términos en que hayan sido inicialmente autorizadas.
+ARTÍCULO QUINTO.- Se otorga un plazo de un año a todas las Cámaras y sus Confederaciones, para adecuar sus Estatutos a lo dispuesto en esta Ley.
+ARTÍCULO SEXTO.- Las Cámaras específicas nacionales, genéricas nacionales y regionales y las Cámaras nacionales de Comercio, Servicios y Turismo constituidas con anterioridad a la vigencia de esta Ley, continuarán operando aun y cuando no cumplan con lo establecido por esta Ley, en lo que se refiere a los requisitos para su constitución.
+ARTÍCULO SÉPTIMO.- Las Cámaras autorizadas por la Secretaría para operar el SIEM mantendrán la vigencia de su autorización previa a la publicación de esta Ley.
+ARTÍCULO OCTAVO.- La Secretaría, con la participación de las Cámaras y Confederaciones, elaborará un proyecto del Reglamento de esta Ley, en un plazo no mayor a seis meses de su publicación en el Diario Oficial de la Federación.
+México, D.F., a 14 de diciembre de 2004.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Sara I. Castellanos Cortés, Secretaria.- Dip. Marcos Morales Torres, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de enero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
