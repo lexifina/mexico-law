@@ -1,0 +1,6 @@
+ACLARACION a la Ley que declara reservas minerales los yacimientos de uranio, torio y las demás substancias de las cuales se obtengan isótopos hendibles que puedan producir energía nuclear, publicada el día 26 de enero último.
+Publicada en el Diario Oficial de la Federación el 3 de febrero de 1950
+En el artículo 10, inciso II, renglón tercero, dice: .. efectúe cualquier acto o de adquisición...
+Debe decir: ... efectúe cualquier acto de adquisición...
+México, D. F., a 1º de febrero de 1950.
+LA DIRECCIÓN.

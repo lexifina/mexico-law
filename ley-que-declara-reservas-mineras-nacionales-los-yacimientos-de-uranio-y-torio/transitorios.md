@@ -1,0 +1,5 @@
+TRANSITORIOS:
+ARTICULO UNICO.- La presente Ley entrará en vigor tres días después al de su publicación en el "Diario Oficial" de la Federación.
+Francisco Hernández y Hernández, D.P.- Gustavo A. Uruchurtu, S.P.- Rafael Suárez Ocaña, D.
+S.- Alfonso Corona del Rosal, S.S.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida aplicación y observancia, expido la presente Ley, en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos cuarenta y nueve.- Miguel Alemán.- Rúbrica.- El Secretario de Economía, Antonio Martínez Báez.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ramón Beteta.- Rúbrica.- El Subsecretario de Bienes Nacionales e Inspección Administrativa, Encargado del Despacho, Hugo Rangel Couto.- Rúbrica.- El Secretario de Salubridad y Asistencia, Rafael Pascasio Gamboa.- Rúbrica.- El Secretario de Gobernación, Adolfo Ruiz Cortines.- Rúbrica.- El jefe del Departamento del Distrito Federal, Fernando Casas Alemán.- Rúbrica.
