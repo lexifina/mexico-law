@@ -1,0 +1,8 @@
+TRANSITORIOS
+Artículo Primero.- La presente Ley entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+Artículo Segundo.- Las aportaciones a que se refiere el Capítulo III del Título Cuarto de la Ley Federal del Trabajo empezarán a causarse a partir del 1o. de mayo del presente año.
+Artículo Tercero.- El Consejo de Administración del Instituto presentará a la Asamblea, para su consideración y aprobación en su caso, los dictámenes a que se refiere el Artículo 147 de la Ley Federal del Trabajo.
+Artículo Cuarto.- El primer ejercicio del Instituto terminará el 31 de diciembre de 1972. A dicho ejercicio sólo se aplicarán en lo conducente, los preceptos que contiene esta Ley en materia de programas, presupuestos y estados financieros.
+Artículo Quinto.- La primera Asamblea General del Instituto deberá instalarse dentro de los 15 días siguientes a la fecha en que se expidan las bases a que se refiere el artículo 8o. de esta Ley.
+México, D. F., a 21 de Abril de 1972.- "Año de Juárez".- Renato Vega Alvarado, D. P.- Vicente Fuentes Díaz, S. P.- Ignacio F. Herrerías, D. S.- Juan Sabines Gutiérrez, S. S.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintidós días del mes de abril de mil novecientos setenta y dos.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Rafael Hernández Ochoa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Hugo B. Margáin.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.
