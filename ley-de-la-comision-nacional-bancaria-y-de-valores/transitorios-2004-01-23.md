@@ -1,0 +1,7 @@
+DECRETO por el que se adiciona un segundo párrafo al artículo décimo primero transitorio del decreto publicado el 1 de junio de 2001 y reforman, adicionan y derogan diversas disposiciones de la Ley del Mercado de Valores y de la Ley de la Comisión Nacional Bancaria y de Valores.
+Publicado en el Diario Oficial de la Federación el 23 de enero de 2004
+Artículo Unico.- Se adiciona un segundo párrafo al artículo décimo primero transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Mercado de Valores y de la Ley de la Comisión Nacional Bancaria y de Valores de 30 de abril de 2001, publicado en el Diario Oficial de la Federación el 1 de junio de 2001.
+TRANSITORIO
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+México, D.F., a 27 de diciembre de 2003.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Amalín Yabur Elías, Secretaria.- Sen. Lydia Madero García, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de enero de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
