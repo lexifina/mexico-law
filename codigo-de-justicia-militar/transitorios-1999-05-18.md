@@ -1,0 +1,9 @@
+DECRETO por el que se reforman diversas disposiciones en materia penal.
+Publicado en el Diario Oficial de la Federación el 18 de mayo de 1999
+ARTICULO SEGUNDO.- Se reforman el artículo 78; la fracción I del artículo 83; la denominación del Capítulo III, del Título Segundo, del Libro Tercero; el párrafo segundo del artículo 453; el artículo 454 y las fracciones III, V y VII y los párrafos segundo y cuarto del artículo 515, y se adicionan los artículos 801 bis y 801 ter, todos del Código de Justicia Militar, para quedar como sigue:
+...
+TRANSITORIOS
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, se entenderán referidas al Código Penal Federal.
+México, D.F., a 29 de abril de 1999.- Sen. Héctor Ximénez González, Presidente.- Dip. María Mercedes Maciel Ortiz, Presidente.- Sen. Sonia Alcántara Magos, Secretario.- Dip. Leticia Villegas Nava, Secretario.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de mayo de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
