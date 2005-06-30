@@ -1,0 +1,1 @@
+Artículo 801 ter.- El juez podrá en todo caso revocar la libertad provisional concedida al inculpado cuando aparezca durante el proceso cualesquiera de las causas previstas en el artículo anterior y así lo solicite el Ministerio Público.
