@@ -1,0 +1,21 @@
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular, así como de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros.
+Publicado en el Diario Oficial de la Federación el 23 de febrero de 2005
+ARTÍCULO SEGUNDO.- Se Reforman los artículos 2 fracción IV, 4, 6 párrafo primero; 7 fracciones I, III, VIII y IX; 8 fracciones V y VIII; 17 párrafo tercero del inciso b) de la fracción I; 22; 23 párrafo cuarto; 25; 27 párrafo primero; 28 párrafo segundo y 29 párrafos primero y segundo; se Adicionan los artículos 7 fracción X; 8 fracciones IX, X, XI y XII, recorriéndose la actual fracción IX para quedar como XIII, todos de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros, para quedar como sigue:
+...
+TRANSITORIOS
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+ARTÍCULO SEGUNDO.- Se derogan las disposiciones legales y administrativas que se opongan al presente Decreto.
+ARTÍCULO TERCERO.- Las Federaciones a que se refiere la Ley de Ahorro y Crédito Popular podrán afiliar y prestar servicios de asesoría técnica, legal, financiera y de capacitación a sociedades o asociaciones que, sin haber obtenido autorización para constituirse y organizarse como Entidades, puedan captar recursos de sus socios o clientes para su colocación entre éstos en los términos de esa Ley.
+Las sociedades o asociaciones que se afilien a una Federación en términos de lo dispuesto por este artículo, no podrán participar en las sesiones de los órganos sociales de la Federación cuando se traten asuntos que estén relacionados, directa o indirectamente, con la organización, integración, funcionamiento y desempeño del Comité de Supervisión correspondiente, o con cualquier otro aspecto relacionado con la supervisión auxiliar que ejerza la Federación. No podrán formar parte del Comité de Supervisión de la Federación, personas que tengan vínculos laborales o económicos con las sociedades o asociaciones que la propia Federación tenga afiliadas en términos de este artículo.
+Las restricciones previstas en el párrafo anterior, deberán hacerse constar expresamente en los estatutos sociales o bases constitutivas de las Federaciones, así como en su reglamento interior.
+México, D.F., a 14 de diciembre de 2004.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Sara I. Castellanos Cortés, Secretaria.- Dip. Antonio Morales de la Peña, Secretario.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de febrero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+DECRETO por el que se reforman y adicionan diversos artículos de las Leyes Orgánicas de la Banca de Desarrollo.
+Publicado en el Diario Oficial de la Federación el 1º de agosto de 2005
+Artículo Quinto.- Se Reforma la fracción VII y se Adiciona una fracción XI, del artículo 7 de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros, para quedar como sigue:
+...
+TRANSITORIOS
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+Segundo.- Quedan sin efecto las disposiciones que a la entrada en vigor del presente Decreto contravengan las disposiciones del mismo.
+México, D.F., a 26 de abril de 2005.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de mayo de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
