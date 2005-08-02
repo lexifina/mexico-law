@@ -1,0 +1,7 @@
+TRANSITORIOS
+Artículo Primero.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Artículo Segundo.- La presente Ley abroga la Ley Orgánica de Nacional Financiera, Sociedad Anónima, expedida el 29 de diciembre de 1974, publicada en el Diario Oficial de la Federación el 2 de enero de 1975.
+Artículo Tercero.- Las autorizaciones, poderes, mandatos y demás actos jurídicos y medidas administrativas, otorgados, dictados o celebrados con fundamento en la Ley que se abroga, continuarán en vigor hasta en tanto no sean revocados o modificados por los órganos o autoridades competentes.
+Artículo Cuarto.- El Reglamento Orgánico de la Sociedad deberá expedirse en un plazo no mayor de 180 días, contados a partir de la fecha de la vigencia de la presente Ley. Hasta en tanto, continuará en vigor el expedido el 26 de julio de 1985.
+México, D. F., a 17 de diciembre de 1986.- Dip. Reyes R. Flores Zaragoza, Presidente.- Sen. Gonzalo Martínez Corbalá, Presidente.- Dip. Eliseo Rodríguez R., Secretario.- Sen. Héctor Vázquez Paredes, Secretario.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente decreto en la residencia del Poder Ejecutivo Federal en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de diciembre de mil novecientos ochenta y seis.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
