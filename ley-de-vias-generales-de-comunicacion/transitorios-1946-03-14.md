@@ -1,0 +1,6 @@
+DECRETO que modifica el artículo 124 de la Ley Vías Generales de Comunicación de 31 de diciembre de 1939.
+Publicado en el Diario Oficial de la Federación el 14 de marzo de 1946
+ARTICULO UNICO.- Se modifica el artículo 124 de la Ley de Vías Generales de Comunicación de 31 de diciembre de 1939, publicado en el "Diario Oficial" de la Federación de 19 de febrero de 1940, en los siguientes términos:
+...
+Julián Garza Tijerina, D. P.-Eugenio Prado, S. P.-Juan Fernández Albarrán, D. S.-Arturo Martínez Adame, S. S.-Rúbricas".
+En cumplimiento de lo dispuesto de la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos cuarenta y cinco.- Manuel Avila Camacho.-Rúbrica.- El Secretario de Estado y del Despacho de Comunicaciones y Obras Públicas, Pedro Martínez Tornel.-Rúbrica.- El Secretario de Estado y del Despacho de Trabajo y Previsión Social, Francisco Trujillo Gurría.-Rúbrica.- El Secretario de Estado y del Despacho de Hacienda y Crédito Público, Eduardo Suárez.-Rúbrica.- Al C. Lic. Primo Villa Michel, Secretario de Gobernación.-Presente.
