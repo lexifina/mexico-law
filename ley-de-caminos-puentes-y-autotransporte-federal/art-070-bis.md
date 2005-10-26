@@ -1,0 +1,1 @@
+Artículo 70 Bis. La Secretaría y la Secretaría de Seguridad Pública, en el ámbito de sus respectivas competencias, se coordinarán en la vigilancia, verificación e inspección de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado.
