@@ -1,0 +1,8 @@
+LEY Federal de Radio y Televisión.
+Publicado en el Diario Oficial de la Federación el 19 de enero de 1960
+TRANSITORIOS:
+ARTICULO 1o.- La presente ley entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+ARTICULO 2o.- Se deroga el capítulo sexto del libro quinto de la Ley de Vías Generales de Comunicación, con excepción de lo relativo a instalaciones de aficionados, consignado en su artículo 406. Se derogan también todas aquellas disposiciones que se opongan a la presente ley.
+ARTICULOS 3o. a 7o.- ...
+Juan Sabines Gutiérrez, D. P.- Guillermo Ibarra Ibarra, S. P.- Marta Andrade del Rosal, D. S.- Carlos Román Celis, S. S.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido la presente ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los ocho días del mes de enero de mil novecientos sesenta.- Adolfo López Mateos.- Rúbrica.- El Secretario de Gobernación, Gustavo Díaz Ordaz.- Rúbrica.- El Secretario de Comunicaciones y Transporte, Walter C. Buchanan.- Rúbrica.- El Secretario de Educación Pública, Jaime Torres Bodet.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortiz Mena.- Rúbrica.- El Secretario de Relaciones Exteriores, Manuel Tello.- Rúbrica.- El Secretario de Salubridad y Asistencia, José Alvarez Amézquita.- Rúbrica.- El Secretario del Patrimonio Nacional, Eduardo Bustamante.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Salomón González Blanco.- Rúbrica.
