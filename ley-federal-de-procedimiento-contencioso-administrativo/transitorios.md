@@ -1,0 +1,7 @@
+TRANSITORIOS
+Primero.- La presente Ley entrará en vigor en toda la República el día 1o. de enero del 2006.
+Segundo.- A partir de la entrada en vigor de esta Ley se derogan el Título VI del Código Fiscal de la Federación y los artículos que comprenden del 197 al 263 del citado ordenamiento legal, por lo que las leyes que remitan a esos preceptos se entenderán referidos a los correspondientes de esta Ley Federal de Procedimiento Contencioso Administrativo.
+Tercero.- Quedan sin efectos las disposiciones legales, que contravengan o se opongan a lo preceptuado en esta Ley.
+Cuarto.- Los juicios que se encuentren en trámite ante el Tribunal Federal de Justicia Fiscal y Administrativa, al momento de entrar en vigor la presente Ley, se tramitarán hasta su total resolución conforme a las disposiciones legales vigentes en el momento de presentación de la demanda.
+México, D.F., a 4 de octubre de 2005.- Dip. Heliodoro Díaz Escárraga, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Patricia Garduño Morales, Secretaria.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de noviembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
