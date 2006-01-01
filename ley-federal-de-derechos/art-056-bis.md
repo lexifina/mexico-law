@@ -1,0 +1,1 @@
+Artículo 56 Bis. En ningún caso se pagará el derecho de permiso de generación de energía eléctrica por el análisis, evaluación de la solicitud y, en su caso, la expedición o modificación del título de permiso, exclusivamente, cuando sea bajo las modalidades de fuentes de energía renovables.

@@ -1,0 +1,2 @@
+Artículo 176-A. Por el trámite de la solicitud y, en su caso, el otorgamiento del permiso de exportación temporal de monumentos artísticos que se soliciten al Instituto Nacional de Bellas Artes y Literatura en los términos de la legislación aplicable, se pagará el derecho sobre monumentos artísticos, por pieza, conforme a la cuota de: ... $30.36
+No se pagará este derecho por los permisos que soliciten la Federación, las Entidades Federativas o los Municipios.

@@ -1,0 +1,1 @@
+Artículo 29-L.- Las bolsas de valores se abstendrán de inscribir valor alguno, mientras el emisor de que se trate no exhiba la documentación que acredite el cumplimiento de la obligación de pago a que alude este Capítulo.

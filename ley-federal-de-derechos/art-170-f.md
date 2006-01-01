@@ -1,0 +1,1 @@
+Artículo 170-F.- Por la autorización a las personas físicas o morales para realizar a nombre del gobierno mexicano el servicio de recepción de las aguas sucias y residuales de las embarcaciones o artefactos navales, así como para expedir la certificación correspondiente se pagará anualmente el derecho de recepción conforme a la cuota de ... $29,158.00

@@ -1,0 +1,1 @@
+Artículo 29-J.- Los ingresos que se obtengan por el pago de derechos por los servicios a los que se refieren los artículos 29, 29-A, 29-B, 29-C, 29-D, 29-E, 29-F, 29-G y 29-H de este Capítulo, se destinarán a la Comisión Nacional Bancaria y de Valores.

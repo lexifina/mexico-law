@@ -1,0 +1,1 @@
+Artículo 89-B.- Se pagará el 50% del monto del derecho correspondiente a que se refiere esta Sección, cuando los servicios sean prestados a instituciones de enseñanza e investigación, públicas o propiedad de particulares que tengan autorización o reconocimiento de validez oficial de estudios en los términos de la Ley General de Educación.

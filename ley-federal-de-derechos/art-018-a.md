@@ -1,0 +1,1 @@
+Artículo 18-A.- Los ingresos que se obtengan por la recaudación del derecho establecido en la fracción I del artículo 8o. de la presente Ley, se destinarán en un 50% al Instituto Nacional de Migración para mejorar los servicios que en materia migratoria proporciona, y en un 50% al Consejo de Promoción Turística de México para la promoción turística del país.

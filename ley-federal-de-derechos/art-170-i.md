@@ -1,0 +1,1 @@
+Artículo 170-I. Por la revisión y, en su caso, aprobación u homologación de chalecos salvavidas, aros salvavidas, dispositivos y medios de salvamento, por cada tipo, se pagará anualmente el derecho conforme a la cuota de: ... $1,935.00

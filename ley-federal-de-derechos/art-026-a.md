@@ -1,0 +1,1 @@
+Artículo 26-A. Las cuotas de los derechos señaladas en el presente Capítulo, se ajustarán para su pago a múltiplos de $5.00. Para efectuar este ajuste, las cuotas aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima. Cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste, se disminuirá a la unidad inmediata anterior.

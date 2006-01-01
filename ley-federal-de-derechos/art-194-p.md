@@ -1,0 +1,1 @@
+Artículo 194-P.- Por los servicios de verificación y certificación de equipos de medición de contaminantes de vehículos automotores en circulación en centros autorizados, se pagará el derecho de prevención y control de la contaminación conforme a la cuota de ... $358.00

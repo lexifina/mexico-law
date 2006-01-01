@@ -1,0 +1,10 @@
+Artículo 194-U.- Por el otorgamiento de actas, constancias, registros de verificación o certificación, que efectúe la Procuraduría Federal de Protección al Ambiente, se pagarán derechos conforme a las siguientes cuotas:
+I. Por el registro de verificación del cumplimiento de restricciones no arancelarias a la importación o exportación de flora y fauna silvestre, sus productos y subproductos; recursos acuáticos, pesqueros y marinos; productos y subproductos forestales; materiales o residuos peligrosos, cuyo objetivo final es el comercio o la industrialización de los mismos ... $385.00
+II. Por el registro de verificación del cumplimiento de restricciones no arancelarias a la importación o exportación de flora y fauna silvestre, sus productos y subproductos; recursos acuáticos, pesqueros y marinos; productos y subproductos forestales; materiales o residuos peligrosos, cuyo objetivo final es distinto del comercio o la industrialización ... $103.00
+III. Por la constancia de cumplimiento de la inspección ocular de las envolturas, tarimas y embalajes de madera que se importan como soporte de mercancías ... $107.00
+IV. Por la expedición del acta para la certificación de dispositivos excluidores de tortugas marinas a embarcaciones mayores dedicadas al aprovechamiento de todas las especies de camarón en aguas marinas de jurisdicción federal, que acrediten la debida instalación de los excluidores, por cada acta ... $1,075.00
+V. Por la expedición de la constancia de no daño ambiental en la zona federal marítimo terrestre ... $2,551.00
+VI. Por la revisión, evaluación y, en su caso, certificación de vehículos nuevos en planta, por cada vehículo ... $12.00
+VII. Por la revisión, evaluación y certificación excepcional de vehículos nuevos, por cada vehículo ... $267.00
+VIII. Por la expedición del certificado de aprobación para los Laboratorios de Prueba, por cada laboratorio ... $9,600.00
+El 60% de los ingresos que se obtengan por la recaudación del derecho a que se refieren las fracciones I, II, III, VI, VII y VIII, se destinarán a la Procuraduría Federal de Protección al Ambiente para el fortalecimiento de los servicios de inspección y vigilancia.

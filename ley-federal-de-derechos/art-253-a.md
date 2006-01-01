@@ -1,0 +1,1 @@
+Artículo 253-A.- El 35 por ciento de los ingresos que se obtengan por la recaudación de los derechos a que se refiere el presente Capítulo, se destinarán a la Comisión Federal de Telecomunicaciones, para el Sistema de Información Integral en Materia de Telecomunicaciones y para el fortalecimiento de la red nacional de monitoreo

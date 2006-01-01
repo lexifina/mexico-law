@@ -1,0 +1,1 @@
+Artículo 192-D.- No pagarán los derechos a que se refieren los artículos 192 y 192-A, fracciones II, III y V del presente Capítulo, los usuarios de aguas nacionales, zona federal y descarga de aguas residuales, que se dediquen a actividades agrícolas o pecuarias y el uso doméstico que se relacione con estos usos y las localidades rurales iguales o inferiores a 2,500 habitantes.

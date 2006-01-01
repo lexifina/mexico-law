@@ -1,0 +1,1 @@
+Artículo 201-A.- Los derechos a que se refieren los artículos 200, 200-A y 201 de esta ley se pagarán dentro de los 5 días siguientes a aquél en que entre a puerto la embarcación o previo a su salida, lo que ocurra primero.

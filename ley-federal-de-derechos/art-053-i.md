@@ -1,0 +1,1 @@
+Artículo 53-I.- Por los servicios de estudio y trámite de solicitudes de personas físicas y morales mexicanas, para invertir en empresas mexicanas utilizando el sistema de intercambio de deuda pública por capital, se pagará el derecho de 2.5 al millar sobre el valor original de la deuda pública a ser intercambiada.

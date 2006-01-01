@@ -1,0 +1,1 @@
+Artículo 122-A.- (Se deroga).
