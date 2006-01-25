@@ -1,0 +1,1 @@
+Artículo 20 A.- La Secretaría aceptará los certificados de firma electrónica emitidos por los prestadores de servicios de certificación que estén acreditados en los términos del Código de Comercio, así como los que ella misma emita, para efecto de los trámites y notificaciones relacionadas con las regulaciones no arancelarias y los programas previstos en la presente Ley.
