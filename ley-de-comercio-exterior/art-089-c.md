@@ -1,0 +1,1 @@
+Artículo 89 C.- Las partes interesadas podrán solicitar a la Secretaría, en cualquier tiempo, que aclare o precise determinado aspecto de las resoluciones por las que se impongan cuotas compensatorias definitivas.
