@@ -1,0 +1,3 @@
+Artículo 17 A.- Las restricciones y regulaciones no arancelarias, deberán cumplirse conforme a lo establecido en los ordenamientos aplicables.
+Dicho cumplimiento deberá demostrarse mediante documentos que contengan medidas de seguridad o a través de medios electrónicos, o ambos, que determine la Secretaría, conjuntamente con las Dependencias y Entidades de la Administración Pública Federal que corresponda, con excepción de los que hayan sido pactados con países con los que México haya suscrito algún acuerdo o tratado de libre comercio.
+Los documentos a que se refiere este artículo deberán acompañar al pedimento que se presente ante la aduana por conducto del agente o apoderado aduanal, en los términos de la legislación aduanera.

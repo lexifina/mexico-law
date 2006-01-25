@@ -1,0 +1,1 @@
+Artículo 70 A.- La Secretaría publicará en el Diario Oficial de la Federación un aviso sobre la próxima expiración de la vigencia de cuotas compensatorias, al menos 45 días anteriores a su vencimiento, el cual se deberá notificar a los productores nacionales de que se tenga conocimiento.
