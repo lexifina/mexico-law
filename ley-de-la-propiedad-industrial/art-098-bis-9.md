@@ -1,0 +1,1 @@
+Artículo 98 bis-9. Para efectos de su transmisión, la declaratoria se considerará ligada al o los registros marcarios que le dieron origen.

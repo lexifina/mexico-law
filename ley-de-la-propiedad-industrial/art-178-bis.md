@@ -1,0 +1,4 @@
+Artículo 178 bis.- Los esquemas de trazado de circuitos integrados serán registrados y estarán protegidos en términos del presente Título. Al efecto, el Instituto tendrá las facultades siguientes:
+I.- Tramitar y, en su caso, otorgar el registro a los esquemas de trazado de circuitos integrados, así como la inscripción de sus transmisiones y licencias de uso y explotación, en los términos de esta Ley y su reglamento;
+II.- Sustanciar los procedimientos de declaración administrativa de infracción, nulidad o caducidad, relacionados con el registro de los esquemas de trazado de circuitos integrados, emitir las resoluciones que correspondan a dichos procedimientos e imponer las sanciones que procedan, y
+III.- Cuando no lo hayan convenido las partes, fijar el monto de las regalías a que se refiere el artículo 178 bis 5, fracción V, segundo párrafo, de este Título.

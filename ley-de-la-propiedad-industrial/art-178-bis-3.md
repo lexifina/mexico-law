@@ -1,0 +1,1 @@
+Artículo 178 bis 3.- El registro de un esquema de trazado tendrá una vigencia de diez años improrrogables contados a partir de la fecha de presentación de la solicitud de registro y estará sujeta al pago de la tarifa correspondiente.

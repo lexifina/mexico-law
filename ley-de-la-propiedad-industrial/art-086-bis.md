@@ -1,0 +1,1 @@
+Artículo 86 BIS.- La información requerida por las leyes especiales para determinar la seguridad y eficacia de productos farmoquímicos y agroquímicos que utilicen nuevos componentes químicos quedará protegida en los términos de los tratados internacionales de los que México sea parte.
