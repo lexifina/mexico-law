@@ -1,0 +1,3 @@
+Artículo 98 bis-1. La declaratoria o cualquiera de sus actualizaciones constituyen un acto administrativo por medio del cual el Instituto declara, con base en los elementos de prueba aportados, que las condiciones por virtud de las cuales una marca es notoriamente conocida o famosa, subsisten al tiempo en que el acto se emite.
+Los impedimentos previstos en el artículo 90 fracciones XV y XV bis, para la protección de marcas notoriamente conocidas o famosas, se aplicarán con independencia de que éstas se encuentren registradas o declaradas.
+Sin embargo, para que el titular de una marca pueda obtener declaratoria, la misma debe estar registrada en México y amparar los productos o servicios en los que la marca originó su notoriedad o fama.

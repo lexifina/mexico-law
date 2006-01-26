@@ -1,0 +1,1 @@
+Artículo 199 BIS 5.- El Instituto decidirá en la resolución definitiva del procedimiento de declaración administrativa de infracción, sobre el levantamiento o definitividad de las medidas adoptadas.

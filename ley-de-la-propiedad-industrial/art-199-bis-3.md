@@ -1,0 +1,3 @@
+Artículo 199 BIS 3.- El solicitante de las medidas provisionales a que se refiere el artículo 199 BIS será responsable del pago de los daños y perjuicios causados a la persona en contra de quien se hubiesen ejecutado cuando:
+I. La resolución definitiva que hubiese quedado firme sobre el fondo de la controversia declare que no existió violación ni amenaza de violación a los derechos del solicitante de la medida, y
+II. Se haya solicitado una medida provisional y no se hubiese presentado la demanda o solicitud de declaración administrativa de infracción ante la autoridad competente o ante el Instituto respecto del fondo de la controversia, dentro de un plazo de veinte días contado a partir de la ejecución de la medida.

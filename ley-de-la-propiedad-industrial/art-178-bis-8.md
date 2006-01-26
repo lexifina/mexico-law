@@ -1,0 +1,1 @@
+Artículo 178 bis 8.- El registro de un esquema de trazado protegido será nulo cuando se haya otorgado en contravención a lo dispuesto en el artículo 178 bis 2 de este Título, siendo aplicable, en lo conducente, lo dispuesto en los artículos 78 al 81 de esta Ley.
