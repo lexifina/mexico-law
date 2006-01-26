@@ -1,0 +1,2 @@
+Artículo 55 BIS.- Los documentos que se presenten en cumplimiento de alguno de los requerimientos a que se refieren los artículos 50 y 55 de esta Ley, o en el caso de enmiendas voluntarias, no podrán contener materias adicionales ni reivindicaciones que den mayor alcance al que esté contenido en la solicitud original considerada en su conjunto.
+Sólo se aceptarán enmiendas voluntarias hasta antes de la expedición de la resolución sobre la procedencia o negativa de otorgamiento de la patente a que se refieren los artículos 56 y 57 de esta Ley.

@@ -1,0 +1,1 @@
+Artículo 7 BIS 2.- Corresponde al Director General del Instituto el ejercicio de las facultades a que se refiere el artículo 6 de esta Ley, quien, sin perjuicio de su ejercicio directo, únicamente podrá delegarlas en los términos que se establezcan en los acuerdos respectivos, que deberán ser aprobados por la Junta de Gobierno y publicados en el Diario Oficial.

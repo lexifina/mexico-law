@@ -1,0 +1,1 @@
+Artículo 199 BIS 6.- En cualquier medida provisional que se practique, deberá cuidarse que ésta no sirva como medio para violar secretos industriales o para realizar actos que constituyan competencia desleal.

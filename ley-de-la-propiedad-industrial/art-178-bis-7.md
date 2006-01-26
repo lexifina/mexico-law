@@ -1,0 +1,2 @@
+Artículo 178 bis 7.- El registro de un esquema de trazado se llevará a cabo, en lo conducente, conforme a lo dispuesto en los artículos 34, 35, 38, 38 bis, 39, 50 y 55 bis al 60 de esta Ley.
+Para la transmisión o licencia de los derechos que confiere un registro de esquema de trazado protegido serán aplicables las disposiciones contenidas en los artículos 62 al 69 de esta Ley. No procederá el otorgamiento de licencias obligatorias.
