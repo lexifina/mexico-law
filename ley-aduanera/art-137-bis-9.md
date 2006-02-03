@@ -1,0 +1,1 @@
+ARTICULO 137 bis 9.- En lo conducente, serán aplicables a las importaciones de vehículos usados, a que se refieren los artículos anteriores, las disposiciones contenidas en la Ley Aduanera, su Reglamento y demás.

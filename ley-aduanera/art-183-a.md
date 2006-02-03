@@ -1,0 +1,9 @@
+ARTICULO 183-A. Las mercancías pasarán a ser propiedad del Fisco Federal, sin perjuicio de las demás sanciones aplicables, en los siguientes casos:
+I. Cuando no sean retiradas de los almacenes generales de depósito, dentro del plazo establecido en el artículo 144-A de esta Ley.
+II. En el supuesto previsto en el artículo 151, fracción VI de esta Ley, así como cuando se señale en el pedimento el nombre, domicilio fiscal o la clave del registro federal de contribuyentes de alguna persona que no hubiera solicitado la operación de comercio exterior.
+III. En los casos previstos en el artículo 176, fracciones III, V, VI, VIII y X de esta Ley, salvo que en este último caso, se demuestre que el pago correspondiente se efectuó con anterioridad a la presentación de las mercancías, o cuando se trate de los excedentes o sobrantes detectados a maquiladoras de mercancía registrada en su programa, a que se refiere el artículo 153, último párrafo de esta Ley.
+IV. En el supuesto previsto en el artículo 178, fracción IV de esta Ley, excepto cuando el infractor cumpla con las regulaciones y restricciones no arancelarias, dentro de los treinta días siguientes a la notificación del acta de inicio del procedimiento administrativo en materia aduanera.
+V. Los vehículos, cuando no se haya obtenido el permiso de la autoridad competente.
+VI. En los casos a que se refiere el artículo 182, fracciones I, incisos d) y e), III, excepto yates y veleros turísticos y IV de esta Ley.
+VII. En el supuesto a que se refiere el artículo 183, fracción III de esta Ley.
+Cuando existiere imposibilidad material para que las mercancías pasen a propiedad del Fisco Federal, el infractor deberá pagar el importe de su valor comercial en el territorio nacional al momento de la aplicación de las sanciones que correspondan.
