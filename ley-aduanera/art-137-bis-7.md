@@ -1,0 +1,1 @@
+ARTICULO 137 bis 7.- La internación al resto del territorio nacional de los vehículos importados al amparo de las disposiciones legales que preceden, se regirá por lo dispuesto en la Ley Aduanera, en especial por el párrafo final de su artículo 62, por las normas contenidas en el Reglamento de la Ley Aduanera y por las demás disposiciones normativas aplicables.
