@@ -1,0 +1,1 @@
+ARTICULO 84-A. Las cuentas aduaneras de garantía servirán para garantizar mediante depósitos en las instituciones del sistema financiero que autorice el Servicio de Administración Tributaria, el pago de las contribuciones y cuotas compensatorias que pudieran causarse con motivo de las operaciones de comercio exterior a que se refiere el artículo 86-A de esta Ley.
