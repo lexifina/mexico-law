@@ -1,0 +1,1 @@
+ARTICULO 63-A.- Quienes introduzcan mercancías al territorio nacional bajo un programa de diferimiento o de devolución de aranceles, estarán obligados al pago de los impuestos al comercio exterior que corresponda, de acuerdo con lo dispuesto en los Tratados de que México sea parte, en la forma que establezca la Secretaría mediante reglas.
