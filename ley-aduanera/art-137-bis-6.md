@@ -1,0 +1,2 @@
+ARTICULO 137 bis 6.- La importación de vehículos automotores usados que se realice en los términos de los artículos anteriores, se limitará a una unidad por persona.
+Asimismo, la persona física que afecte la importación de una unidad vehicular usada, no podrá volver a efectuar la importación de otra unidad vehicular, en los términos de los artículos precedentes, sino después de haber transcurrido un año de la primer importación, siendo aplicables a su comercialización las limitaciones que derivan de las disposiciones aduaneras vigentes.
