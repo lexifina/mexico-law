@@ -1,0 +1,1 @@
+ARTICULO 137 bis 8.- A partir del año 2009, la importación de autos usados a las franjas y regiones fronterizas a que se refieren los artículos anteriores, se realizará de conformidad con lo establecido en el apéndice 300-A.2 del Tratado de Libre Comercio de América del Norte.
