@@ -1,0 +1,8 @@
+TRANSITORIOS
+ARTÍCULO PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+ARTÍCULO SEGUNDO. La constitución del Consejo Nacional de Producción Orgánica y sus grupos de trabajo deberá realizarse dentro de los seis meses siguientes a la fecha de publicación de esta Ley en el Diario Oficial de la Federación.
+ARTÍCULO TERCERO. El Ejecutivo Federal expedirá el Reglamento y demás disposiciones complementarias correlativas a esta Ley dentro de los seis meses posteriores a su entrada en vigor.
+ARTÍCULO CUARTO. Las erogaciones que se generen por la aplicación de la presente Ley deberán cubrirse con cargo al presupuesto aprobado para la Secretaría por la Cámara de Diputados para ese efecto.
+ARTÍCULO QUINTO. La Secretaría y la Secretaría de Medio Ambiente y Recursos Naturales suscribirán bases de colaboración para que, en ejercicio de sus respectivas atribuciones, coordinen acciones conjuntas conforme a lo dispuesto en el segundo párrafo del artículo 4 de la presente Ley.
+México, D.F., a 8 de diciembre de 2005.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Heliodoro Díaz Escárraga, Presidente.- Sen. Sara Isabel Castellanos Cortés, Secretaria.- Dip. Patricia Garduño Morales, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de enero de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
