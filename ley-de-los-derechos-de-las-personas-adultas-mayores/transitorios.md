@@ -1,0 +1,9 @@
+TRANSITORIOS
+PRIMERO. Esta Ley entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+SEGUNDO. El patrimonio y los bienes del actual Instituto Nacional de Adultos en Plenitud, pasarán a formar parte del patrimonio del Instituto Nacional de las Personas Adultas Mayores. Asimismo, sus trabajadores seguirán siéndolo de este último, sin afectación alguna de sus derechos laborales.
+TERCERO. Se abroga el Decreto del Ejecutivo Federal publicado en el Diario Oficial de la Federación de fecha 22 de agosto de 1979, por el que se crea el Instituto Nacional de la Senectud.
+CUARTO. Se abroga el Decreto del Ejecutivo Federal de fecha 17 de enero de 2002, por el que se regula el organismo descentralizado Instituto Nacional de Adultos en Plenitud.
+QUINTO. La expedición del Estatuto Orgánico del Instituto Nacional de las Personas Adultas Mayores se dará dentro de los ciento veinte días posteriores a la entrada en vigor de la presente Ley.
+SEXTO. Cualquier referencia al Instituto Nacional de Adultos en Plenitud o al Instituto Nacional de la Senectud, en otras disposiciones jurídicas, se entenderá hecha al Instituto Nacional de las Personas Adultas Mayores.
+México, D.F., a 30 de abril de 2002.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. María Lucero Saldaña Pérez, Secretario.-Dip. Martha Silvia Sánchez González, Secretario.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de junio de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
