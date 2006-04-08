@@ -1,0 +1,10 @@
+DECRETO por el que se declaran reformados los artículos 30, 32 y 37 de la Constitución Política de los Estados Unidos Mexicanos.
+Publicado en el Diario Oficial de la Federación el 20 de marzo de 1997
+TRANSITORIOS
+Artículo Primero.- El presente Decreto entrará en vigor al año siguiente de su publicación en el Diario Oficial de la Federación.
+Artículo Segundo.- Quienes hayan perdido su nacionalidad mexicana por nacimiento, por haber adquirido voluntariamente una nacionalidad extranjera y si se encuentran en pleno goce de sus derechos, podrán beneficiarse de lo dispuesto en el artículo 37, apartado A), constitucional, previa solicitud que hagan a la Secretaría de Relaciones Exteriores, en cualquier tiempo.
+Artículo Tercero.- Las disposiciones vigentes con anterioridad a la entrada en vigor de este Decreto, seguirán aplicándose a los nacidos o concebidos durante su vigencia, únicamente en todo aquello que les favorezca, sin perjuicio de los beneficios que les otorga la reforma contenida en el presente decreto
+Artículo Cuarto.- En tanto el Congreso de la Unión emita las disposiciones correspondientes en materia de nacionalidad, seguirá aplicándose la Ley de Nacionalidad vigente, en lo que no se oponga al presente Decreto.
+Artículo Quinto.- El último párrafo del apartado C) del artículo 37, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SALÓN DE SESIONES DE LA COMISIÓN PERMANENTE DEL H. CONGRESO DE LA UNIÓN.- México, D.F., a 5 de marzo de 1997.- Dip. Juan José Osorio Palacios, Presidente.- Sen. Melquiades Morales Flores, Secretario.- Dip. Armando Ballinas Mayes, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los siete días del mes de marzo de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.

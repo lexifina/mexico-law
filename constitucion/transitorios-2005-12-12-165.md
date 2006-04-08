@@ -1,0 +1,9 @@
+DECRETO por el que se declara reformado el párrafo cuarto y adicionados los párrafos quinto y sexto, y se recorre en su orden los últimos dos párrafos del Artículo 18 de la Constitución Política de los Estados Unidos Mexicanos.
+Publicado en el Diario Oficial de la Federación el 12 de diciembre de 2005
+Artículo Único.- Se reforma el párrafo cuarto y se adicionan los párrafos quinto y sexto, y se recorre en su orden los últimos dos párrafos del Artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+...
+TRANSITORIOS
+PRIMERO. El presente Decreto entrará en vigor a los tres meses siguientes de su publicación en el Diario Oficial de la Federación.
+SEGUNDO. Los Estados de la Federación y el Distrito Federal contarán con seis meses a partir de la entrada en vigor del Decreto, para crear las leyes, instituciones y órganos que se requieran para la aplicación del presente Decreto.
+México, D.F., a 8 de noviembre de 2005.- Dip. Heliodoro Díaz Escárraga, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Ma. Sara Rocha Medina, Secretaria.- Sen. Yolanda E. González Hernández, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los primer día del mes de diciembre de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
