@@ -1,0 +1,5 @@
+Artículo 79-A. En cumplimiento de la función social de la radiodifusión a que se refiere el artículo 5 de esta ley, en la difusión de propaganda electoral, los concesionarios observarán las siguientes disposiciones:
+I. Tratándose de elecciones federales, deberán informar al Instituto Federal Electoral sobre la propaganda que hubiese sido contratada por los partidos políticos o por los candidatos a cualquier puesto de elección, así como los ingresos derivados de dicha contratación, conforme a la metodología y formatos que al efecto emita ese Instituto en el Reglamento de Fiscalización respectivo;
+II. Atenderán los requerimientos de información en la materia que les formule el Instituto Federal Electoral;
+III. Tratándose de concesionarios, éstos ofrecerán tarifas equivalentes a la publicidad comercial, y
+IV. El Instituto Federal Electoral, durante los procesos electorales federales, será la instancia encargada de pagar la publicidad electoral de los partidos políticos con cargo a sus prerrogativas, y dictará las medidas necesarias para ello.

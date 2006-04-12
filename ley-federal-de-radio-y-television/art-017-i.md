@@ -1,0 +1,1 @@
+Artículo 17-I. Dentro de los 30 días siguientes a la notificación de la resolución que declare al ganador de la licitación, éste deberá acreditar el pago de la contraprestación a que se refiere el artículo 17 de esta Ley.

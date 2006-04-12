@@ -1,0 +1,2 @@
+Artículo 72-A. Los concesionarios que cubran con producción nacional independiente cuando menos un veinte por ciento de su programación, podrán incrementar el porcentaje de tiempo de publicidad a que se refiere el Reglamento de esta ley, hasta en un cinco por ciento.
+Este incentivo se aplicará de manera directamente proporcional al porcentaje de producción nacional independiente con el que se dé cumplimiento a lo establecido en el párrafo anterior.
