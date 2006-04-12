@@ -1,0 +1,1 @@
+Artículo 17-B. La Comisión deberá publicar la convocatoria para la licitación de nuevas concesiones en el Diario Oficial de la Federación, poniendo a disposición de los interesados las bases de la licitación en un plazo máximo de 30 días naturales contados a partir de la citada publicación.

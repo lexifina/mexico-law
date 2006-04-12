@@ -1,0 +1,2 @@
+Artículo 17-J. Una vez acreditado el pago a que se refiere el artículo anterior, la resolución que declare al ganador de la licitación deberá ser presentada al Secretario de Comunicaciones y Transportes para la emisión del título de concesión. A su vez, se deberá notificar a los participantes que no hubiesen sido seleccionados, con fundamento en la misma resolución.
+El título de concesión será publicado, a costa del interesado, en el Diario Oficial de la Federación.
