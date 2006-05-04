@@ -1,0 +1,1 @@
+Artículo 121-A.- El Presidente del Tribunal Federal de Conciliación y Arbitraje disfrutará de emolumentos iguales a los de los Ministros de la Suprema Corte de Justicia de la Nación, y los Presidentes de las Salas y Salas Auxiliares, así como los magistrados de las mismas disfrutarán de los que correspondan a los que perciben los Jueces de Distrito.
