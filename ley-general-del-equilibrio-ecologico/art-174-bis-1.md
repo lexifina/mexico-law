@@ -1,0 +1,3 @@
+ARTÍCULO 174 BIS 1.- Para efectos de lo previsto en las fracciones I y II del artículo anterior, únicamente serán procedentes dichos supuestos, cuando los bienes decomisados sean susceptibles de apropiación conforme a las disposiciones jurídicas aplicables.
+En la determinación del valor de los bienes sujetos a remate o venta, la Secretaría considerará el precio que respecto de dichos bienes corra en el mercado, al momento de realizarse la operación.
+En ningún caso, los responsables de la infracción que hubiera dado lugar al decomiso podrán participar ni beneficiarse de los actos señalados en el artículo 174 BIS de esta Ley, mediante los cuales se lleve a cabo la enajenación de los bienes decomisados.

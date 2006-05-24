@@ -1,0 +1,1 @@
+ARTÍCULO 45 BIS. Las autoridades competentes garantizarán el otorgamiento de estímulos fiscales y retribuciones económicas, con la aplicación de los instrumentos económicos referidos en el presente ordenamiento, a los propietarios, poseedores o titulares de otros derechos sobre tierras, aguas y bosques comprendidos dentro de áreas naturales protegidas.
