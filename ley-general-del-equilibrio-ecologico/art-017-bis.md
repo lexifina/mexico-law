@@ -1,0 +1,1 @@
+ARTÍCULO 17 BIS.- La Administración Pública Federal, el Poder Legislativo Federal y el Poder Judicial de la Federación, expedirán los manuales de sistemas de manejo ambiental, que tendrán por objeto la optimización de los recursos materiales que se emplean para el desarrollo de sus actividades, con el fin de reducir costos financieros y ambientales.

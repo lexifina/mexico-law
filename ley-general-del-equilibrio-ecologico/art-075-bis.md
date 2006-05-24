@@ -1,0 +1,1 @@
+ARTÍCULO 75 BIS.- Los ingresos que la Federación perciba por concepto del otorgamiento de permisos, autorizaciones y licencias en materia de áreas naturales protegidas, conforme lo determinen los ordenamientos aplicables, se destinarán a la realización de acciones de preservación y restauración de la biodiversidad dentro de las áreas en las que se generen dichos ingresos.

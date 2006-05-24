@@ -1,0 +1,1 @@
+ARTÍCULO 159 BIS 1.- La Secretaría deberá elaborar y publicar bianualmente un informe detallado de la situación general existente en el país en materia de equilibrio ecológico y protección al ambiente.
