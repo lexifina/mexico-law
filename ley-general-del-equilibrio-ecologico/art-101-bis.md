@@ -1,0 +1,1 @@
+ARTÍCULO 101 BIS.- En la realización de actividades en zonas áridas, deberán observarse los criterios que para la preservación y aprovechamiento sustentable del suelo se establecen en esta Ley y las demás disposiciones que resulten aplicables.

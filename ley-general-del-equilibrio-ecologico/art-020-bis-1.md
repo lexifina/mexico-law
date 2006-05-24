@@ -1,0 +1,2 @@
+ARTÍCULO 20 BIS 1.- La Secretaría deberá apoyar técnicamente la formulación y ejecución de los programas de ordenamiento ecológico regional y local, de conformidad con lo dispuesto en esta Ley.
+Las entidades federativas y los municipios podrán participar en las consultas y emitir las recomendaciones que estimen pertinentes para la formulación de los programas de ordenamiento ecológico general del territorio y de ordenamiento ecológico marino.

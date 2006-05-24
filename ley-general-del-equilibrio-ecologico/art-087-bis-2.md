@@ -1,0 +1,1 @@
+ARTÍCULO 87 BIS 2.- El Gobierno Federal, los gobiernos de los Estados, del Distrito Federal y de los Municipios, en el ámbito de sus respectivas competencias, regularán el trato digno y respetuoso que deberá darse a los animales.

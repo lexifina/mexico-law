@@ -1,0 +1,3 @@
+ARTÍCULO 78 BIS 1.- Todos los actos y convenios relativos a la propiedad, posesión o cualquier otro derecho relacionado con bienes inmuebles ubicados en las zonas que fueren materia de las declaratorias a que se refiere el artículo 78 BIS quedarán sujetas a la aplicación de las modalidades previstas en las propias declaratorias.
+Los notarios y cualesquiera otros fedatarios públicos, harán constar tal circunstancia al autorizar las escrituras públicas, actos, convenios o contratos en los que intervengan.
+Será nulo todo acto, convenio o contrato que contravenga lo establecido en la mencionada declaratoria.
