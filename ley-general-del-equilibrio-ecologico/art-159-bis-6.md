@@ -1,0 +1,1 @@
+ARTÍCULO 159 BIS 6.- Quien reciba información ambiental de las autoridades competentes, en los términos del presente Capítulo, será responsable de su adecuada utilización y deberá responder por los daños y perjuicios que se ocasionen por su indebido manejo.
