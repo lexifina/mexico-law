@@ -1,0 +1,1 @@
+ARTÍCULO 54 Bis.- Cuando se requiera destruir alguna réplica de la Bandera Nacional, se hará mediante la incineración, en acto respetuoso y solemne, de conformidad con las especificaciones que el reglamento correspondiente determine.
