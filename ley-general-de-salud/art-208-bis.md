@@ -1,0 +1,1 @@
+Artículo 208 Bis.- Se considera falsificado un producto cuando se fabrique, envase o se venda haciendo referencia a una autorización que no existe; o se utilice una autorización otorgada legalmente a otro; o se imite al legalmente fabricado y registrado.

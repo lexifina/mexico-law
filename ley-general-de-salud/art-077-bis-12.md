@@ -1,0 +1,2 @@
+Artículo 77 bis 12.- El Gobierno Federal cubrirá anualmente una cuota social por cada familia beneficiaria del Sistema de Protección Social en Salud equivalente a quince por ciento de un salario mínimo general vigente diario para el Distrito Federal. La cantidad resultante se actualizará trimestralmente de acuerdo a la variación del Índice Nacional de Precios al Consumidor.
+Esta aportación se hará efectiva a los estados y al Distrito Federal que cumplan con el artículo siguiente.

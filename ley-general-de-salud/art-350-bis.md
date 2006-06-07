@@ -1,0 +1,1 @@
+Artículo 350 bis.- La Secretaría de Salud determinará el tiempo mínimo que han de permanecer los restos en las fosas. Mientras el plazo señalado no concluya, sólo podrán efectuarse las exhumaciones que aprueben las autoridades sanitarias y las ordenadas por las judiciales o por el Ministerio Público, previo el cumplimiento de los requisitos sanitarios correspondientes.

@@ -1,0 +1,1 @@
+Artículo 77 bis 23.- Las cuotas familiares y reguladoras, que en su caso se establezcan, serán recibidas, administradas y ejercidas por los Servicios Estatales de Salud, a través de los Regímenes Estatales de Protección Social en Salud, conforme a lo dispuesto por el artículo 77 Bis 22.

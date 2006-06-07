@@ -1,0 +1,1 @@
+Artículo 77 bis 15.- El Gobierno Federal transferirá a los gobiernos de los estados y el Distrito Federal los recursos que por concepto de cuota social y de aportación solidaria le correspondan, con base en los padrones de familias incorporadas, que no gocen de los beneficios de las instituciones de seguridad social, validados por la Secretaría de Salud.

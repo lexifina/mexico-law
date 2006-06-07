@@ -1,0 +1,1 @@
+Artículo 350 bis 2.- Para la práctica de necropsias en cadáveres de seres humanos se requiere consentimiento del cónyuge, concubinario, concubina, ascendientes, descendientes o de los hermanos, salvo que exista orden por escrito del disponente, o en el caso de la probable comisión de un delito, la orden de la autoridad judicial o el Ministerio Público.
