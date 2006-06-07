@@ -1,0 +1,1 @@
+Artículo 77 bis 3.- Las familias y personas que no sean derechohabientes de las instituciones de seguridad social o no cuenten con algún otro mecanismo de previsión social en salud, se incorporarán al Sistema de Protección Social en Salud que les corresponda en razón de su domicilio, con lo cual gozarán de las acciones de protección en salud a que se refiere este Título.

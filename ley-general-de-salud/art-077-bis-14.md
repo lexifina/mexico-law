@@ -1,0 +1,1 @@
+Artículo 77 bis 14.- Cualquier aportación adicional a la establecida en el artículo anterior de los gobiernos de los estados y el Distrito Federal para las acciones de protección social en salud, tendrán que canalizarse directamente a través de las estructuras de los servicios estatales de salud.

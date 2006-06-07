@@ -1,0 +1,1 @@
+Artículo 282 bis.- Para los efectos de esta Ley, se consideran productos biotecnológicos, aquellos alimentos, ingredientes, aditivos, materias primas, insumos para la salud, plaguicidas, sustancias tóxicas o peligrosas, y sus desechos, en cuyo proceso intervengan organismos vivos o parte de ellos, modificados por técnica tradicional o ingeniería genética.

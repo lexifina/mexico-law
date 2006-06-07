@@ -1,0 +1,1 @@
+Artículo 77 bis 22.- Las cuotas familiares se recibirán, administrarán y aplicarán conforme a las disposiciones de esta Ley y serán destinadas específicamente al abasto de medicamentos, equipo y otros insumos para la salud que sean necesarios para el Sistema de Protección Social en Salud.

@@ -1,0 +1,2 @@
+Artículo 277 Bis.- Las unidades hospitalarias y clínicas del Sistema Nacional de Salud, deberán contar con áreas en donde se prohíba el consumo de tabaco. Se consideran como tales las de atención médica, auditorios, aulas y zonas de peligro para la seguridad laboral y colectiva, así como los sitios de trabajo de ambiente cerrado.
+La Secretaría de Salud en su caso, los Gobiernos de las Entidades Federativas reglamentarán las áreas restringidas para los fumadores.
