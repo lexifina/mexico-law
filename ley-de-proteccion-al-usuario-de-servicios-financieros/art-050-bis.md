@@ -1,0 +1,8 @@
+Artículo 50 Bis.- Cada Institución Financiera deberá contar con una Unidad Especializada que tendrá por objeto atender consultas y reclamaciones de los Usuarios. Dicha Unidad se sujetará a lo siguiente:
+I. El Titular de la Unidad deberá tener facultades para representar y obligar a la Institución Financiera al cumplimiento de los acuerdos derivados de la atención que se dé a la reclamación;
+II. Contará con personal en cada entidad federativa en que la Institución Financiera tenga sucursales u oficinas;
+III. Los gastos derivados de su funcionamiento, operación y organización correrán a cargo de las Instituciones Financieras;
+IV. Deberá responder por escrito al Usuario dentro de un plazo que no exceda de treinta días hábiles, contado a partir de la fecha de recepción de las consultas o reclamaciones, y
+V. El titular de la Unidad Especializada deberá presentar un informe trimestral a la Comisión Nacional diferenciado por producto o servicio, identificando las operaciones o áreas que registren el mayor número de consultas o reclamaciones, con el alcance que la Comisión Nacional estime procedente. Dicho informe deberá realizarse en el formato que al efecto autorice, o en su caso proponga la propia Comisión Nacional.
+La presentación de reclamaciones ante la Unidad Especializada suspenderá la prescripción de las acciones a que pudieren dar lugar.
+Las Instituciones Financieras deberán informar mediante avisos colocados en lugares visibles en todas sus sucursales la ubicación, horario de atención y responsable o responsables de la Unidad Especializada. Los Usuarios podrán a su elección presentar su consulta o reclamación ante la Unidad Especializada de la Institución Financiera de que se trate o ante la Comisión Nacional.
