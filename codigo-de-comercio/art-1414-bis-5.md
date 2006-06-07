@@ -1,0 +1,1 @@
+Artículo 1414 bis 5.- En caso de que el fiduciario o el acreedor prendario, según corresponda, no pueda obtener la posesión de los bienes, se seguirá el procedimiento de ejecución forzosa a que se refiere el siguiente Capítulo de este Código.
