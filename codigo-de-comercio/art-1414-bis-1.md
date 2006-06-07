@@ -1,0 +1,2 @@
+Artículo 1414 bis 1.- El procedimiento se iniciará con el requerimiento formal de entrega de la posesión de los bienes, que formule al deudor el fiduciario o el acreedor prendario, según corresponda, mediante fedatario público.
+Una vez entregada la posesión de los bienes al fiduciario o acreedor prendario, éste tendrá el carácter de depositario judicial hasta en tanto no se realice lo previsto en el artículo 1414 bis 4.
