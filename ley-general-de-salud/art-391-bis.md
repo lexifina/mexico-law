@@ -1,0 +1,6 @@
+Artículo 391 bis.- La Secretaría de Salud podrá expedir certificados, autorizaciones o cualquier otro documento, con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen terceros autorizados, de conformidad con lo siguiente:
+I. El procedimiento para la autorización de terceros tendrá por objeto el aseguramiento de la capacidad técnica y la probidad de estos agentes;
+II. Las autorizaciones de los terceros se publicarán en el Diario Oficial de la Federación y señalarán expresamente las materias para las que se otorgan;
+III. Los dictámenes de los terceros tendrán el carácter de documentos auxiliares del control sanitario, pero además tendrán validez general en los casos y con los requisitos establecidos en la Ley Federal sobre Metrología y Normalización;
+IV. Los terceros autorizados serán responsables solidarios con los titulares de las autorizaciones o certificados que se expidan con base en sus dictámenes y recomendaciones, del cumplimiento de las disposiciones sanitarias, durante el tiempo y con las modalidades que establezcan las disposiciones reglamentarias de esta ley, y
+V. La Secretaría de Salud podrá reconocer centros de investigación y organizaciones nacionales e internacionales del área de la salud, que podrán fungir como terceros autorizados para los efectos de este artículo.

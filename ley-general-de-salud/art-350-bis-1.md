@@ -1,0 +1,2 @@
+Artículo 350 bis 1.- La internación y salida de cadáveres del territorio nacional sólo podrán realizarse, mediante autorización de la Secretaría de Salud o por orden de la autoridad judicial o del Ministerio Público.
+En el caso del traslado de cadáveres entre entidades federativas se requerirá dar aviso a la autoridad sanitaria competente del lugar en donde se haya expedido el certificado de defunción.
