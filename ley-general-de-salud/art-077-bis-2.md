@@ -1,0 +1,3 @@
+Artículo 77 bis 2.- Para los efectos de esta Ley, se entenderá por Sistema de Protección Social en Salud a las acciones que en esta materia provean los Regímenes Estatales de Protección Social en Salud.
+La Secretaría de Salud coordinará las acciones de los Regímenes Estatales de Protección Social en Salud, los cuales contarán con la participación subsidiaria y coordinada de la Federación, de conformidad con lo dispuesto en este Título.
+Para efectos de este Título se entenderá por Regímenes Estatales, a las acciones de protección social en salud de los Estados de la República y del Distrito Federal.

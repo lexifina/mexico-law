@@ -1,0 +1,1 @@
+Artículo 401 Bis-2.- En el caso de los productos recogidos en procedimientos de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la Secretaría para tal efecto podrán determinar por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.

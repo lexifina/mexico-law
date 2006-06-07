@@ -1,0 +1,2 @@
+Artículo 350 bis 3.- Para la utilización de cadáveres o parte de ellos de personas conocidas, con fines de docencia e investigación, se requiere el consentimiento del disponente.
+Tratándose de cadáveres de personas desconocidas, las instituciones educativas podrán obtenerlos del Ministerio Público o de establecimientos de prestación de servicios de atención médica o de asistencia social. Para tales efectos, las instituciones educativas deberán dar aviso a la Secretaría de Salud, en los términos de esta Ley y demás disposiciones aplicables.

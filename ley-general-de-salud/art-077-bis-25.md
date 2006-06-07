@@ -1,0 +1,2 @@
+Artículo 77 bis 25.- Para la determinación de las cuotas familiares se tomarán en cuenta las condiciones socioeconómicas de los beneficiarios, mediante la aplicación de un instrumento estandarizado fijado a nivel nacional por la Secretaría de Salud, el cual permitirá ubicarlos en el estrato adecuado.
+Los niveles de las cuotas familiares podrán ser revisados anualmente tomando como base la variación del Índice Nacional de Precios al Consumidor.
