@@ -1,0 +1,1 @@
+Artículo 21 bis 1.- La prelación entre derechos sobre dos o más actos que se refieran a un mismo folio mercantil electrónico, se determinará por el número de control que otorgue el registro, cualquiera que sea la . fecha de su constitución o celebración.
