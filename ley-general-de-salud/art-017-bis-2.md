@@ -1,0 +1,1 @@
+Artículo 17 bis 2.- Al frente de la Comisión Federal para la Protección contra Riesgos Sanitarios estará un Comisionado Federal el cual será nombrado por el Presidente de la República, a propuesta del Secretario de Salud; siendo la Secretaría de Salud a quien corresponderá la supervisión de este órgano desconcentrado.

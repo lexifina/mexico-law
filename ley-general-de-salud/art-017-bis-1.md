@@ -1,0 +1,4 @@
+Artículo 17 bis 1.- El órgano desconcentrado a que se refiere el artículo 17 bis tendrá, únicamente, autonomía administrativa, técnica y operativa y su presupuesto estará constituido por:
+I. Las asignaciones que establezca la Ley de Ingresos y el Presupuesto de Egresos de la Federación, y
+II. Los recursos financieros que le sean asignados, así como aquellos que, en lo sucesivo, se destinen a su servicio.
+Los ingresos que la Comisión Federal para la Protección contra Riesgos Sanitarios obtenga por concepto de donativos nacionales e internacionales, rescate de seguros y otros ingresos de carácter excepcional podrán ser recuperados por dicha Comisión y destinados a su gasto de operación conforme a lo que establezca el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente.

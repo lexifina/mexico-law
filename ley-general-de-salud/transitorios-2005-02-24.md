@@ -1,0 +1,11 @@
+DECRETO por el que se reforma el artículo 376 de la Ley General de Salud.
+Publicado en el Diario Oficial de la Federación el 24 de febrero de 2005
+ARTÍCULO ÚNICO: Se reforma el artículo 376 de la Ley General de Salud, para quedar como sigue:
+...
+TRANSITORIOS
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Segundo.- Para los efectos de lo establecido por el artículo 376 de esta Ley a la entrada en vigor de este Decreto las solicitudes que se encuentren en trámite de registro sanitario de medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan, equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos, de curación y productos higiénicos, así como los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas, tendrán a partir de la fecha de su expedición una vigencia de 5 años.
+Tercero.- Los titulares de los registros sanitarios de medicamentos y demás insumos para la salud otorgados por tiempo indeterminado deberán someterlos a revisión para obtener la renovación del registro en un plazo de hasta cinco años a partir de la publicación del presente Decreto en el Diario Oficial de la Federación.
+La renovación se otorgará únicamente cuando la Secretaría haya constatado la seguridad y eficacia terapéutica de los insumos para la salud sometidas a revisión de conformidad a las disposiciones sanitarias vigentes, en caso contrario las autorizaciones otorgadas para tiempo indeterminado se entenderán como revocadas para todos los efectos legales y administrativos a que haya lugar.
+México, D.F., a 14 de diciembre de 2004.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de febrero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
