@@ -1,0 +1,2 @@
+Artículo 350 bis 4.- Las instituciones educativas que obtengan cadáveres de personas desconocidas serán depositarias de ellos durante diez días, con objeto de dar oportunidad al cónyuge, concubinario, concubina o familiares para reclamarlos. En este lapso los cadáveres permanecerán en las instituciones y únicamente recibirán el tratamiento para su conservación y el manejo sanitario que señalen las disposiciones respectivas.
+Una vez concluido el plazo correspondiente sin reclamación, las instituciones educativas podrán utilizar el cadáver.

@@ -1,0 +1,1 @@
+Artículo 77 bis 17.- De la cuota social y de las aportaciones solidarias a que se refieren los artículos 77 Bis 12 y 77 Bis 13, la Secretaría de Salud canalizará anualmente el 8% de dichos recursos al Fondo de Protección contra Gastos Catastróficos establecido en el Capítulo VI de este Título.

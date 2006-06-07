@@ -1,0 +1,1 @@
+Artículo 77 bis 11.- El Sistema de Protección Social en Salud será financiado de manera solidaria por la Federación, los estados, el Distrito Federal y los beneficiarios en los términos de este Capítulo y el Capítulo V.
