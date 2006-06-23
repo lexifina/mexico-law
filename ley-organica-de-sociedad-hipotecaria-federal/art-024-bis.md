@@ -1,0 +1,2 @@
+Artículo 24 Bis.- La participación de la Sociedad en el capital social de las instituciones de seguros a que se refiere el artículo 4, fracción X Bis, de esta Ley sólo podrá hacerse en la totalidad menos una de las acciones representativas del capital de tales instituciones y, en consecuencia, éstas serán empresas de participación estatal mayoritaria. La acción restante será suscrita por el Gobierno Federal, por conducto de la Tesorería de la Federación.
+Las inversiones a que se refiere este artículo se restarán del capital neto de la Sociedad.
