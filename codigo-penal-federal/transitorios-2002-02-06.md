@@ -1,0 +1,9 @@
+DECRETO por el que se reforman y adicionan diversas disposiciones de los códigos Penal Federal y Federal de Procedimientos Penales.
+Publicado en el Diario Oficial de la Federación el 6 de febrero de 2002
+ARTÍCULO PRIMERO.- Se reforman los artículos 60, segundo párrafo, 414, 415, 416, 417, 418, 419, 420, 421, 422 y 423, así como la denominación del Título Vigésimo Quinto, y se adicionan un último párrafo al artículo 421 y los Capítulos Primero al Quinto, y artículos 420 Bis, 420 Ter y 420 Quater del Código Penal Federal, para quedar como sigue:
+...
+TRANSITORIOS
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- Los artículos del Título Vigésimo Quinto del Código Penal Federal, vigentes hasta la entrada en vigor del presente decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal Federal.
+México, D.F., a 27 de diciembre de 2001.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Martha Silvia Sánchez González, Secretario.- Sen. Yolanda E. González Hernández, Secretaria.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de febrero de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.

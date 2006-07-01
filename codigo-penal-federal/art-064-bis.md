@@ -1,0 +1,1 @@
+Artículo 64 Bis.- En los casos previstos por las fracciones VI, VII y VIII del artículo 13, se impondrá como pena hasta las tres cuartas partes de la correspondiente al delito de que se trate y, en su caso, de acuerdo con la modalidad respectiva.
