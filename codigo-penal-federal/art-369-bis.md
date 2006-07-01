@@ -1,0 +1,1 @@
+Artículo 369 Bis.- Para establecer la cuantía que corresponda a los delitos previstos en este Título, se tomará en consideración el salario mínimo general vigente en el momento y en el lugar en que se cometió el delito.
