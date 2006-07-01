@@ -1,0 +1,3 @@
+Artículo 164 Bis.- Cuando se cometa algún delito por pandilla, se aplicará a los que intervengan en su comisión, hasta una mitad más de las penas que les correspondan por el o los delitos cometidos.
+Se entiende por pandilla, para los efectos de esta disposición, la reunión habitual, ocasional o transitoria, de tres o más personas que sin estar organizadas con fines delictuosos, cometen en común algún delito.
+Cuando el miembro de la pandilla sea o haya sido servidor público de alguna corporación policiaca, la pena se aumentará hasta en dos terceras partes de las penas que le corresponda por el o los delitos cometidos y se le impondrá además, destitución del empleo, cargo o comisión públicos e inhabilitación de uno a cinco años para desempeñar otro.

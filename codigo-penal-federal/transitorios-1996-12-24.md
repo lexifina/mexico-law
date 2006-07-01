@@ -1,0 +1,13 @@
+DECRETO por el que se deroga la fracción XVI del artículo 387, se reforma el artículo 419, y se adiciona un Título Vigésimo Sexto al Libro Segundo, todos ellos del Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.
+Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1996
+ARTICULO PRIMERO.- Se deroga la fracción XVI del artículo 387 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+...
+ARTICULO SEGUNDO.- Se reforma el artículo 419 del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+...
+ARTICULO TERCERO.- Se adiciona un Título Vigésimo Sexto al Libro Segundo del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal, para quedar como sigue:
+...
+TRANSITORIOS
+PRIMERO.- El artículo Segundo del presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Los artículos Primero y Tercero entrarán en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- A las personas que hubieren cometido delitos contemplados en la Ley Federal de Derechos de Autor publicada en el Diario Oficial de la Federación el 29 de diciembre de 1956, con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las sanciones vigentes al momento en que se hubieren realizado dichas conductas. Al efecto, los artículos 135 a 144 de dicha ley, seguirán vigentes y se aplicarán a la persecución, sanción y ejecución de sentencias por hechos ejecutados hasta antes de la entrada en vigor del Título Vigésimo Sexto que se adiciona al Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal por este Decreto.
+México, D.F., a 5 de diciembre de 1996.- Dip. Sara Esther Muza Simón, Presidente.- Sen. Laura Pavón Jaramillo, Presidenta.- Dip. José Luis Martínez Alvarez, Secretario.- Sen. Angel Ventura Valle, Secretario.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de diciembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
