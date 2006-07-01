@@ -1,0 +1,1 @@
+Artículo 276-Bis.- Cuando a consecuencia de la comisión de alguno de los delitos previstos en este Título resulten hijos, la reparación del daño comprenderá el pago de alimentos para éstos y para la madre, en los términos que fija la legislación civil para los casos de divorcio.
