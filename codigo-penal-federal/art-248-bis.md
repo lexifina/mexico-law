@@ -1,0 +1,1 @@
+Artículo 248 Bis.- Al que con el propósito de inculpar a alguien como responsable de un delito ante la autoridad, simule en su contra la existencia de pruebas materiales que hagan presumir su responsabilidad, se le impondrá prisión de uno a cinco años y de cien a trescientos días multa.
