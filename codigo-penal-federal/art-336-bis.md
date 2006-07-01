@@ -1,0 +1,1 @@
+Artículo 336 Bis.- Al que dolosamente se coloque en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá pena de prisión de seis meses a tres años. El juez resolverá la aplicación del producto de trabajo que realice el agente a la satisfacción de las obligaciones alimentarias de éste.
