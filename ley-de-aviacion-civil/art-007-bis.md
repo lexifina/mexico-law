@@ -1,0 +1,11 @@
+Artículo 7 Bis. Los comandantes de aeropuerto deberán ser mexicanos por nacimiento que no adquieran otra nacionalidad, y en el ejercicio de sus atribuciones dependerán funcional y operativamente de la Dirección General de Aeronáutica Civil, a través de los comandantes regionales.
+Los comandantes de aeropuerto tendrán las atribuciones que a continuación se mencionan, las cuales ejercerán en las demarcaciones geográficas que expresamente les sean determinadas por la propia Dirección General de Aeronáutica Civil:
+I. Autorizar o suspender la operación de las aeronaves, conforme a lo dispuesto por esta Ley;
+II. Verificar que los servicios de control de tránsito aéreo, de radioayudas a la navegación y de ayudas visuales se ajusten a las disposiciones aplicables;
+III. Verificar la vigencia de las licencias y capacidades del personal técnico aeronáutico, de los certificados de matrícula y de aeronavegabilidad de las aeronaves;
+IV. Verificar el cumplimiento de las condiciones de seguridad y eficiencia en los servicios de transporte aéreo;
+V. Disponer el cierre parcial o total de aeropuertos, helipuertos o aeródromos en general, cuando no reúnan las condiciones de seguridad para las operaciones aéreas;
+VI. Prohibir a cualquier piloto o miembro de la tripulación la realización de operaciones, cuando no cumplan con las disposiciones aplicables;
+VII. Levantar actas administrativas por violaciones a lo previsto en esta Ley, sus reglamentos y normas oficiales mexicanas; actuar como auxiliar del ministerio público; cumplimentar las resoluciones judiciales y coordinar sus actividades con las demás autoridades que ejerzan funciones en los aeropuertos; y
+VIII. Las demás que señalen esta Ley y otros ordenamientos aplicables.
+Para estos efectos, los comandantes dispondrán del apoyo de un cuerpo de verificadores aeronáuticos subordinados a ellos.
