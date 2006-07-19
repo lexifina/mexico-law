@@ -1,0 +1,1 @@
+Artículo 114-B.- Se impondrá sanción de uno a seis años de prisión, al servidor público que revele a terceros, en contravención a lo dispuesto por el artículo 69 de este Código, la información que las instituciones que componen el sistema financiero hayan proporcionado a las autoridades fiscales.
