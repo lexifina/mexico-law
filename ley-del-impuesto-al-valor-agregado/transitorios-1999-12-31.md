@@ -1,0 +1,18 @@
+LEY que Reforma, Adiciona y Deroga Diversas Disposiciones Fiscales.
+Publicada en el Diario Oficial de la Federación el 31 de diciembre de 1999
+Ley del Impuesto al Valor Agregado
+Artículo Sexto. Se REFORMAN los artículos 3o., tercer párrafo; 4o.; 5o., cuarto párrafo y actual quinto párrafo; 6o., primer párrafo y 7o., segundo párrafo; y se ADICIONAN los artículos 1o.-A, fracción II, con los incisos c) y d); 2o.-A, fracción I, inciso b), con el numeral 4; 4o.-A, con un tercer párrafo; 5o., con un quinto y sexto párrafos, pasando los actuales quinto y sexto a ser séptimo y octavo párrafos, respectivamente, de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
+...
+Disposiciones Transitorias de la Ley del Impuesto al Valor Agregado
+Artículo Séptimo. En relación con las modificaciones a que se refiere el Artículo Sexto de esta Ley, se estará a lo siguiente:
+I. La reforma al artículo 3o., tercer párrafo y la adición de los incisos c) y d) a la fracción II del artículo 1o.-A, de la Ley del Impuesto al Valor Agregado, entrarán en vigor el 1o. de abril del año 2000.
+II. Los contribuyentes que en los términos de la Ley del Impuesto al Valor Agregado vigente hasta el 31 de diciembre de 1999 hayan estado obligados a presentar la declaración por dicho ejercicio, podrán optar por aplicar lo dispuesto en los artículos 4o., 4o.-A, 5o., 6o. y 7o. de la Ley citada vigente hasta el 31 de diciembre de 1999, durante el periodo comprendido del 1o. de enero al 31 de marzo de 2000, siempre que cumplan con lo siguiente:
+a) Considerarán que el ejercicio de 1999 comprende el periodo del 1o. de enero de 1999 al 31 de marzo de 2000. Para estos efectos, considerarán el valor de los actos o actividades realizados, los pagos provisionales efectuados, el monto equivalente al del impuesto al valor agregado que les hubiera sido trasladado y el propio impuesto que hubiesen pagado con motivo de la importación, correspondientes a dicho periodo.
+b) Deberán presentar la declaración del ejercicio a que se refiere el inciso anterior, a más tardar el último día del mes siguiente a aquél en que en los términos de lo dispuesto en la Ley del Impuesto al Valor Agregado vigente hasta el 31 de diciembre de 1999, se deba presentar la declaración del ejercicio.
+c) Los contribuyentes del impuesto al valor agregado que ejerzan la opción establecida en esta fracción, considerarán que el ejercicio de 2000 comprende el periodo del 1o. de abril al 31 de diciembre de 2000.
+d) La Secretaría de Hacienda y Crédito Público emitirá las reglas de carácter general que en su caso resulten necesarias para la debida aplicación de la opción a que se refiere la presente fracción.
+III. Durante el ejercicio fiscal de 2000 el Impuesto al Valor Agregado sobre el servicio o suministro de agua para uso doméstico que se efectúe en dicho ejercicio, se causará a la tasa del cero por ciento.
+TRANSITORIO
+Único. La presente Ley entrará en vigor el 1o. de enero de 2000.
+México, D.F., a 15 de diciembre de 1999.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Dionisio Pérez Jácome, Vicepresidente en funciones.- Dip. Francisco J. Loyo Ramos, Secretario.- Sen. Raúl Juárez Valencia, Secretario.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de diciembre de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
