@@ -1,0 +1,1 @@
+Artículo 5 Bis 4.- No se les aplicará lo establecido en los artículos 5 Bis 1, 5 Bis 2 y 5 Bis 3 a las autoridades administrativas en el ejercicio de sus atribuciones de supervisión, inspección y vigilancia.

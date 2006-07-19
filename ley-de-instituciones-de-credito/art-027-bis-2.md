@@ -1,0 +1,1 @@
+Artículo 27 Bis 2.- Las instituciones de banca múltiple que organice y opere el Instituto para la Protección al Ahorro Bancario en términos del artículo anterior tendrán una duración de hasta seis meses, que podrá prorrogarse por una sola vez y hasta por el mismo plazo, por acuerdo de la asamblea de accionistas.

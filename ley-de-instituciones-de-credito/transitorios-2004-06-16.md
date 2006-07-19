@@ -1,0 +1,12 @@
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Instituciones de Crédito.
+Publicado en el Diario Oficial de la Federación el 16 de junio de 2004
+ARTÍCULO ÚNICO.- Se REFORMAN las fracciones III, VIII y IX del artículo 28; el artículo 134 Bis y el artículo 134 Bis 1, y se ADICIONAN una fracción X al artículo 28; un último párrafo al artículo 108, y un artículo 134 Bis 2, todos de la Ley de Instituciones de Crédito, para quedar como sigue:
+...
+TRANSITORIOS
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+ARTÍCULO SEGUNDO.- Las instituciones de banca múltiple deberán prever en los contratos que celebren a partir de la entrada en vigor de este Decreto, así como en la demás documentación relativa, las restricciones señaladas en el inciso f) de la fracción I y en el inciso c) de la fracción III, ambas del artículo 134 Bis 1, que en su caso resulten aplicables.
+ARTÍCULO TERCERO.- Las instituciones de banca múltiple contarán con un plazo de 180 días naturales a partir de la entrada en vigor de este Decreto para modificar sus estatutos sociales conforme a lo previsto en el presente Decreto y someterlos a la aprobación de la Secretaría de Hacienda y Crédito Público.
+ARTÍCULO CUARTO.- Para efectos de lo previsto en el inciso e) de la fracción I del artículo 134 Bis 1 de esta Ley, las emisiones de obligaciones subordinadas que las instituciones de banca múltiple hayan emitido con anterioridad a la entrada en vigor del presente Decreto, se regirán por las disposiciones vigentes al momento de su emisión.
+ARTÍCULO QUINTO.- La Comisión Nacional Bancaria y de Valores contará con un plazo de 180 días naturales, contados a partir de la publicación de este Decreto, para emitir las reglas de carácter general a que se refiere el artículo 134 Bis de esta Ley.
+México, D.F., a 29 de abril de 2004.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Lydia Madero García, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de junio de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
