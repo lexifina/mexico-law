@@ -1,0 +1,1 @@
+Artículo 228 c.- Para los efectos de la emisión de certificados de participación podrán constituirse fideicomisos sobre toda clase de empresas industriales y mercantiles, consideradas como unidades económicas.
