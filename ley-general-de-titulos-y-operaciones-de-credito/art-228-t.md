@@ -1,0 +1,1 @@
+Artículo 228 t.- El fideicomiso base de la emisión, no se extinguirá mientras haya saldos insolutos por concepto de créditos a cargo de la masa fiduciaria, de certificados o de participación en los frutos o rendimientos.

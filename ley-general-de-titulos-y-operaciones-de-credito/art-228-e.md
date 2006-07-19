@@ -1,0 +1,1 @@
+Artículo 228 e.- Tratándose de certificados de participación inmobiliarios, la sociedad emisora podrá establecer en beneficio de los tenedores, derechos de aprovechamiento directo del inmueble fideicometido, cuya extensión, alcance y modalidades se determinarán en el acta de la emisión correspondiente.
