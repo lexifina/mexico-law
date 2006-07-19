@@ -1,0 +1,1 @@
+Artículo 113 bis 1.- Los consejeros, funcionarios, comisarios o empleados de una institución de crédito que inciten u ordenen a funcionarios o empleados de la institución a la comisión de los delitos a que se refiere la fracción III, del artículo 112 y los artículos 113 y 113 Bis, serán sancionados hasta en una mitad más de las penas previstas en los artículos respectivos.

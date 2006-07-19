@@ -1,0 +1,1 @@
+Artículo 113 Bis 4.- Se sancionará con prisión de tres años a nueve años y con multa de treinta mil a trescientos mil días de salario al que, con motivo de la realización del estudio técnico a que se refiere el artículo 122 Bis 26 de esta Ley, utilice la información a la que tenga acceso para fines distintos a los establecidos en dicha disposición.
