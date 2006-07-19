@@ -1,0 +1,1 @@
+Artículo 43 bis.- El Consejo Directivo, así como los servidores públicos de las instituciones de banca de desarrollo, no podrán otorgar jubilaciones ni pensiones en términos y condiciones distintos a lo previsto en sus respectivas condiciones generales de trabajo.

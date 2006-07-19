@@ -1,0 +1,9 @@
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley para Regular las Agrupaciones Financieras; Ley de Instituciones de Crédito; Ley del Mercado de Valores; y Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+Publicado en el Diario Oficial de la Federación el 30 de abril de 1996
+ARTICULO SEGUNDO.- Se REFORMAN los artículos 27, primer párrafo y fracción I; 100; 103, cuarto párrafo; 106, fracción IV, y 122, fracción VI, primer párrafo; se ADICIONAN los artículos 81, con un segundo párrafo; 93, con un segundo párrafo, dos fracciones y un último párrafo, y 106 con un inciso c) a la fracción XVII, y se DEROGAN el último párrafo del artículo 2o. y el segundo párrafo de la fracción VI del artículo 122, de la Ley de Instituciones de Crédito, para quedar como sigue:
+...
+TRANSITORIOS
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- En tanto la Secretaría de Hacienda y Crédito Público emite las disposiciones de carácter general a que se refiere el párrafo segundo de la fracción I del artículo 15 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, seguirá observándose el texto anteriormente aplicable.
+México, D.F., a 17 de abril de 1996.- Dip. Ma. Claudia Esqueda Llanes, Presidente.- Sen. Miguel Alemán Velasco, Presidente.- Dip. Jesús Carlos Hernández Martínez, Secretario.- Sen. Humberto Mayans Canabal, Secretario.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de abril de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.

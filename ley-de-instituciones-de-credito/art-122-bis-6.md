@@ -1,0 +1,3 @@
+Artículo 122 Bis 6.- No podrán adquirir directa o indirectamente las acciones que enajene el Instituto para la Protección al Ahorro Bancario conforme a los dos artículos anteriores las personas que hayan mantenido el control de la institución de banca múltiple de que se trate en términos de lo previsto por esta Ley, a la fecha en que se constituya el fideicomiso a que se refiere el artículo 29 Bis 4 de esta Ley o a la fecha en que el Instituto instruya a la fiduciaria correspondiente en dicho fideicomiso a convocar a la asamblea general extraordinaria conforme al artículo 122 Bis 3 de esta Ley.
+Apartado C
+Del Saneamiento Financiero de las Instituciones de Banca Múltiple Mediante Créditos
