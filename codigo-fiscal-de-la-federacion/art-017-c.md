@@ -1,0 +1,1 @@
+Artículo 17-C.- Tratándose de contribuciones administradas por organismos fiscales autónomos, las disposiciones de este Código en materia de medios electrónicos sólo serán aplicables cuando así lo establezca la ley de la materia.
