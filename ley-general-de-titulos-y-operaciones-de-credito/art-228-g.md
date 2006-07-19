@@ -1,0 +1,1 @@
+Artículo 228 g.- Cuando la sociedad emisora esté autorizada para practicar también operaciones financieras en los términos de la Ley respectiva podrán garantizar a los tenedores de los certificados que emita un mínimo de rendimiento; esta garantía será otorgada sin obligar al departamento fiduciario de la institución.
