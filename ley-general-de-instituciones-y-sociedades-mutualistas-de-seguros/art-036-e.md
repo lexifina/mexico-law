@@ -1,0 +1,6 @@
+Artículo 36-E.- La celebración de las operaciones y la prestación de servicios de las instituciones de seguros, se podrán pactar mediante el uso de equipos, medios electrónicos, ópticos o de cualquier otra tecnología, sistemas automatizados de procesamiento de datos y redes de telecomunicaciones, ya sean privados o públicos, estableciendo en los contratos respectivos las bases para determinar lo siguiente:
+I.- Las operaciones y servicios cuya prestación se pacte;
+II.- Los medios de identificación del usuario y las responsabilidades correspondientes a su uso, y
+III.- Los medios por los que se hagan constar la creación, transmisión, modificaciones o extinción de derechos y obligaciones inherentes a las operaciones y servicios de que se trate.
+El uso de los medios de identificación que se establezcan conforme a lo previsto por este artículo, en sustitución de la firma autógrafa, producirá los mismos efectos que las leyes otorgan a los documentos correspondientes y, en consecuencia, tendrán el mismo valor probatorio.
+La instalación y el uso de los equipos y medios señalados en el primer párrafo de este artículo se sujetarán a las disposiciones de carácter general que en su caso, emita la Comisión Nacional de Seguros y Fianzas.

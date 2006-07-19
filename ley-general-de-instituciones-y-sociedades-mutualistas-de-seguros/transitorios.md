@@ -1,0 +1,15 @@
+TRANSITORIOS
+Artículo 1º.- Las instituciones de seguros que a la fecha de la expedición de esta ley, tengan incluida en su denominación la palabra nacional, podrán seguir haciendo uso de esa denominación hasta el término de su respectiva duración.
+Artículo 2º.- Se concede un plazo de seis meses contados a partir de la vigencia de esta ley, para que las instituciones nacionales, mexicanas y sucursales de instituciones extranjeras de seguros obtengan en los términos de esta ley, nuevas autorizaciones para operar. Este término puede ser ampliado por tres meses más, a juicio de la Secretaría de Hacienda y Crédito Público, tomando en cuenta las condiciones especiales de cada caso.
+Artículo 3º.- Las sociedades mutualistas que actualmente tengan celebrado contrato de gestión con algún particular o empresa, deberán someterlo a la revisión de su Asamblea General antes de un año de la vigencia de esta ley. En cualquier caso, dichos contratos no podrán subsistir por más de dos años, después de su ratificación por la Asamblea.
+Artículo 4º.- Se concede un plazo de cuatro años contados a partir de la vigencia de esta Ley, para que las instituciones de seguros que operan actualmente dentro del país, se ajusten a lo dispuesto por los artículos 32, 87 y 88 de la misma.
+Artículo 5º.- Si por la aplicación de las disposiciones contenidas en el artículo 92 de esta ley, en lo que se refiere a inversiones en bienes inmuebles y derechos reales, aparece un deficiente en las reservas, éste deberá cubrirse en un plazo que vencerá el 31 de marzo de 1939. Las instituciones deberán abonar cada año, a partir del presente, la quinta parte del deficiente que resulte.
+Artículo 6º.- Dentro de un plazo que vencerá el 31 de diciembre de 1935, las instituciones de seguros ajustarán su contabilidad, auxiliares y registros a lo que dispone el Capítulo I del Título III de esta ley.
+Artículo 7º.- El Ejecutivo Federal, después de tres años contados a partir de la fecha de vigencia de esta ley, reglamentará el funcionamiento de un Consejo Consultivo de Seguros.
+Artículo 8º.- Se deroga la Ley de 25 de mayo de 1926 y su Reglamento de 25 de noviembre del mismo año.
+Artículo 9º.- Esta Ley comenzará a surtir sus efectos a partir de la fecha de su publicación en el Diario Oficial de la Federación.
+En cumplimiento de lo dispuesto en la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, promulgo el presente decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los veintiséis días del mes de agosto de mil novecientos treinta y cinco.- Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado y del Despacho de Hacienda y Crédito Público, Eduardo Suárez.- Rúbrica.- Al C. Secretario de Gobernación.- Presente.
+Lo que comunico a usted para su publicación y demás fines.
+Sufragio Efectivo. No Reelección.
+México, D. F., a 30 de agosto de 1935.- El Secretario de Gobernación, Silvano Barba González.- Rúbrica.
+Al C...
