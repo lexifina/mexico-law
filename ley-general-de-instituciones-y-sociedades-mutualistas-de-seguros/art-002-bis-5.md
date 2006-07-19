@@ -1,0 +1,1 @@
+Artículo 2 BIS-5.- Las disposiciones a que se refieren los Capítulos Único del Título Cuarto y el Capítulo II y III del Título Quinto de esta Ley, así como sus artículos 75, 97, 112, 113, 114, 115, 116, 117 y 118, no se les aplicará lo establecido en los artículos 2o. Bis, 2o. Bis-3 y 2o. Bis-4.
