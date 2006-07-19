@@ -1,0 +1,4 @@
+Artículo 45 Bis-7.- El capital social de las Filiales estará representado por dos series de acciones. Cuando menos el cincuenta y uno por ciento del capital social de las Filiales se integrará por acciones de la Serie "F". El cuarenta y nueve por ciento restante del capital social podrá integrarse indistinta o conjuntamente por acciones Serie "F" y "B".
+La totalidad de las acciones Serie "F" deberán ser propiedad en todo momento de una Institución Financiera del Exterior, directa o indirectamente, o de una Sociedad Controladora Filial. Las acciones Serie "B" que no sean propiedad de dicha Institución Financiera del Exterior o Sociedad Controladora Filial, estarán sujetas a lo dispuesto por las fracciones III y IV del artículo 8o. de esta Ley.
+Las acciones deberán pagarse íntegramente en el acto de ser suscritas.
+Las Filiales no podrán emitir acciones de voto limitado.
