@@ -1,0 +1,7 @@
+Artículo 81-A.- No se requerirá la autorización a que se refiere el Artículo anterior cuando única y exclusivamente se realicen con divisas las operaciones siguientes:
+I. Compra y venta de billetes así como piezas acuñadas y metales comunes, con curso legal en el país de emisión, hasta por un monto equivalente no superior a diez mil dólares diarios de los Estados Unidos de América por cada cliente;
+II. Compra y venta de cheques de viajero denominados en moneda extranjera, hasta por un monto equivalente no superior a diez mil dólares diarios de los Estados Unidos de América por cada cliente;
+III. Compra y venta de piezas metálicas acuñadas en forma de moneda, hasta por un monto equivalente no superior a diez mil dólares diarios de los Estados Unidos de América por cada cliente, y
+IV. Compra de documentos a la vista denominados y pagaderos en moneda extranjera, a cargo de entidades financieras hasta por un monto equivalente no superior a diez mil dólares diarios de los Estados Unidos de América por cada cliente. Estos documentos sólo podrán venderlos a las instituciones de crédito y casas de cambio.
+V. (Se deroga).
+En la celebración de las operaciones descritas en las fracciones I a IV anteriores, el contravalor deberá entregarse en el mismo acto en que se lleven a cabo y únicamente podrán liquidarse mediante la entrega de efectivo, cheques de viajero o cheques denominados en moneda nacional, sin que en ningún caso se comprenda la transferencia o transmisión de fondos.
