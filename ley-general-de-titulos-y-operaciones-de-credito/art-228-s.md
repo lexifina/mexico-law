@@ -1,0 +1,2 @@
+Artículo 228 s.- La asamblea general de tenedores de certificados de participación representará el conjunto de éstos y sus decisiones, tomadas en los términos de esta Ley y de acuerdo con las estipulaciones relativas del acta de emisión, serán válidas respecto de todos los tenedores, aun de los ausentes o disidentes.
+Son aplicables a la asamblea general de tenedores de certificados de participación las disposiciones de los artículos 218, 219, 220 y 221 de esta Ley.
