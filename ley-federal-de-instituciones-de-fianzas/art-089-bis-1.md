@@ -1,0 +1,1 @@
+Artículo 89 Bis-1.- Los agentes deberán abstenerse de recibir de las instituciones o de interpósitas personas, pólizas o contratos que establezcan obligaciones para la institución sin requisitar, firmados previamente por funcionario, representante legal o persona autorizada para tal efecto, infringiendo lo dispuesto por el artículo 60 fracción VI de esta Ley.
