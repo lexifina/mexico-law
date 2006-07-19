@@ -1,0 +1,1 @@
+Artículo 45-L.- Se exceptúa a los directores generales de las instituciones de banca múltiple Filiales del requisito previsto en la fracción I del artículo 24 de la presente Ley. Los directores generales de las Filiales deberán residir en territorio nacional.

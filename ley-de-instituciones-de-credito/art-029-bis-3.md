@@ -1,0 +1,1 @@
+Artículo 29 Bis 3.- No podrán acogerse al régimen de operación condicionada a que se refiere la presente Sección, aquellas instituciones de banca múltiple cuyo índice de capitalización sea igual o menor al cincuenta por ciento del requerido conforme a lo establecido en el artículo 50 de esta Ley y en las disposiciones a que dicho precepto se refiere.
