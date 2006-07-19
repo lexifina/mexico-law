@@ -1,0 +1,9 @@
+LEY que modifica al Código Fiscal de la Federación y a las leyes del Impuesto sobre la Renta, Impuesto al Valor Agregado, Impuesto Especial sobre Producción y Servicios, Impuesto sobre Tenencia o Uso de Vehículos, Federal del Impuesto sobre Automóviles Nuevos y Federal de Derechos.
+Publicada en el Diario Oficial de la Federación el 29 de diciembre de 1997
+LEY DEL IMPUESTO AL VALOR AGREGADO
+Artículo Quinto.- Se REFORMAN los artículos 2o-C; 4o., fracción III; 12, tercer párrafo; 15, fracción X, incisos b), primer párrafo y d) y 18-A, primer párrafo, la fracción I, inciso b), primer párrafo y el actual último párrafo del artículo; se ADICIONAN los artículos 4o-B; 12, con un cuarto, quinto, sexto y séptimo párrafos, pasando los actuales cuarto y quinto a ser octavo y noveno párrafos, respectivamente; 18-A, con dos párrafos finales; 19, con un último párrafo; 25, con una fracción VIII, y 32, con un último párrafo y se DEROGAN los artículos 35; 35-A; 35-B; 36 y 37, de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
+...
+Transitorio
+ÚNICO.- La presente Ley entrará en vigor el día 1o. de enero de 1998.
+México, D.F., a 13 de diciembre de 1997.- Dip. Juan Cruz Martínez, Presidente.- Sen. Heladio Ramírez López, Presidente.- Dip. José Antonio Álvarez Hernández, Secretario.- Sen. Gilberto Gutiérrez Quiroz, Secretario.- Rúbricas.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
