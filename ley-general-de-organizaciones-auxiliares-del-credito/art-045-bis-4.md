@@ -1,0 +1,2 @@
+Artículo 45 Bis-4.- Las autoridades financieras, en el ámbito de sus respectivas competencias, garantizarán el cumplimiento de los compromisos de trato nacional que en su caso sean asumidos por México, en los términos establecidos en el tratado o acuerdo internacional aplicable.
+Las Filiales podrán realizar las mismas operaciones que las organizaciones auxiliares del crédito o las casas de cambio, según corresponda, a menos que el tratado o acuerdo internacional aplicable establezca alguna restricción.

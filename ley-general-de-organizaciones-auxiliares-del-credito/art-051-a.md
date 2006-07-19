@@ -1,0 +1,1 @@
+Artículo 51-A.- Las organizaciones auxiliares del crédito y las casas de cambio, deberán presentar la información y documentación que en el ámbito de sus respectivas competencias, le soliciten la Secretaría de Hacienda y Crédito Público, el Banco de México y la Comisión Nacional Bancaria, dentro de los plazos que las mismas establezcan.

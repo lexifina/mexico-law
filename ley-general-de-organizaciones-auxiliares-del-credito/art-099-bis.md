@@ -1,0 +1,1 @@
+Artículo 99 bis.- Los consejeros, funcionarios, comisarios, empleados o accionistas que inciten u ordenen a funcionarios o empleados de la organización auxiliar del crédito o casa de cambio a la comisión de los delitos que se refieren en los artículos 97 y 98 fracción II, serán sancionados hasta en una mitad más de las penas previstas en los artículos respectivos.
