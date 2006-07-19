@@ -1,0 +1,2 @@
+Artículo 114-A.- Se sancionará con prisión de uno a cinco años al servidor público que amenazare de cualquier modo a un contribuyente o a sus representantes o dependientes, con formular por sí o por medio de la dependencia de su adscripción, una denuncia, querella o declaratoria al ministerio público para que se ejercite acción penal por la posible comisión de delitos fiscales.
+Se aumentará la sanción hasta por una mitad más de la que resulte aplicable, al servidor público que promueva o gestione una querella o denuncia notoriamente improcedente.

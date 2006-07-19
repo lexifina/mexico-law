@@ -1,0 +1,1 @@
+Artículo 32-E.- Las casas de bolsa deberán expedir los estados de cuenta a que se refiere el artículo 29-C de este Código, con los requisitos que al efecto emita el Servicio de Administración Tributaria mediante reglas de carácter general.
