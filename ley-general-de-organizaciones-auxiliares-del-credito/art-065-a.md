@@ -1,0 +1,1 @@
+Artículo 65-A.- La Comisión Nacional Bancaria, a efecto de hacer cumplir eficazmente sus resoluciones de clausura, intervención administrativa, intervención gerencial y demás que se contemplan en esta Ley, podrá solicitar cuando lo considere pertinente, el auxilio de la fuerza pública.

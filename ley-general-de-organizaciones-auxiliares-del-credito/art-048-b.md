@@ -1,0 +1,3 @@
+Artículo 48-B.- La emisión de las obligaciones subordinadas convertibles obligatoriamente a capital y demás títulos de crédito, en serie o en masa, a que se refieren los artículos 11 fracción VII, y 40 fracción III, de esta Ley, requerirán del correspondiente dictamen emitido por una institución calificadora de valores.
+Texto del artículo 48-B de esta Ley, que seguirá vigente hasta el 18 de julio de 2013:
+Artículo 48-B.- La emisión de las obligaciones subordinadas convertibles obligatoriamente a capital y demás títulos de crédito, en serie o en masa, a que se refieren los artículos 11 fracción VII, 24 fracción IV-Bis, 40 fracción III y 45-A fracción III, de esta Ley, requerirán del correspondiente dictamen emitido por una institución calificadora de valores.
