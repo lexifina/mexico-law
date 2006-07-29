@@ -1,0 +1,9 @@
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Procedimiento Administrativo; de la Ley Federal sobre Metrología y Normalización; de la Ley Minera; de la Ley de Inversión Extranjera; de la Ley General de Sociedades Mercantiles y del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal.
+Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1996
+ARTÍCULO QUINTO.- Se reforma el párrafo segundo del artículo 251 de la Ley General de Sociedades Mercantiles, para quedar como sigue:
+...
+TRANSITORIOS
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
+SEGUNDO.- El segundo párrafo del artículo 10 A de la Ley de Inversión Extranjera entrará en vigor a los treinta días hábiles siguientes a aquél en que se publique este Decreto en el Diario Oficial de la Federación. En este plazo deberá publicarse la lista a que se refiere dicho precepto.
+México, D.F., a 10 de diciembre de 1996.- Sen. Laura Pavón Jaramillo, Presidenta.- Dip. Felipe Amadeo Flores Espinosa, Presidente.- Sen. Ángel Ventura Valle, Secretario.- Dip. Carlos Núñez Hurtado, Secretario."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de diciembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
