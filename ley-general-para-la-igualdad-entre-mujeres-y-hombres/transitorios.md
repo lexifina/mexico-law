@@ -1,0 +1,5 @@
+TRANSITORIOS
+Artículo Primero. El presente decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+Artículo Segundo. La Comisión Nacional de los Derechos Humanos operará el área correspondiente a la observancia dando seguimiento, evaluación y monitoreo, en las materias que expresamente le confiere esta Ley y en las que le sea requerida su opinión, al siguiente día de la entrada en vigor del presente Decreto.
+México, D.F., a 27 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Saúl López Sollano, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de julio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
