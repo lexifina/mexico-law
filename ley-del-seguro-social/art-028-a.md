@@ -1,0 +1,1 @@
+Artículo 28 A. La base de cotización para los sujetos obligados señalados en la fracción II del artículo 12 de esta Ley, se integrará por el total de las percepciones que reciban por la aportación de su trabajo personal, aplicándose en lo conducente lo establecido en los artículos 28, 29, 30, 32 y demás aplicables de esta Ley.

@@ -1,0 +1,10 @@
+DECRETO por el que se reforma el párrafo primero del artículo primero transitorio de la Ley del Seguro Social, publicado el 21 de diciembre de 1995.
+Publicado en el Diario Oficial de la Federación el 21 de noviembre de 1996
+ARTÍCULO PRIMERO.- Se reforma el párrafo primero del artículo primero transitorio de la Ley del Seguro Social publicada en el Diario Oficial de la Federación el día 21 de diciembre de 1995, para quedar como sigue:
+...
+ARTÍCULO SEGUNDO.- Las fechas, plazos, periodos y bimestres previstos en los artículos transitorios, tanto de la Ley del Seguro Social publicada en el Diario Oficial de la Federación el día 21 de diciembre de 1995, como del Decreto de Ley de los Sistemas de Ahorro para el Retiro, publicado en el Diario Oficial de la Federación el día 23 de mayo de 1996, relacionados con la entrada en vigor de la citada Ley del Seguro Social, se extenderán por un periodo de seis meses para guardar congruencia con la nueva entrada en vigor de dicha Ley.
+La Secretaría de Hacienda y Crédito Público y el Instituto Mexicano del Seguro Social, en sus respectivas competencias, publicarán en el Diario Oficial de la Federación el resultado de los cómputos a que se refiere el párrafo anterior.
+TRANSITORIO
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+México, D.F., a 7 de noviembre de 1996.- Dip. Heriberto M. Galindo Quiñones, Presidente.- Sen. Ángel Sergio Guerrero Mier, Presidente.- Dip. Josué Valdés Mondragón, Secretario.- Sen. Jorge Omar Polanco Zapata, Secretario.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de noviembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
