@@ -1,0 +1,1 @@
+Artículo 303 A. El incumplimiento de las obligaciones administrativas, que en su caso correspondan, serán sancionadas en los términos previstos en la Ley Federal de Responsabilidades de los Servidores Públicos, salvo los que se encuentren comprendidos en el artículo 5o. de dicho ordenamiento.
