@@ -1,0 +1,4 @@
+Artículo 172 A. A la muerte del pensionado por cesantía en edad avanzada o vejez que estuviere gozando de una pensión garantizada, el Instituto deberá contratar una renta vitalicia que cubra la pensión correspondiente conforme a lo previsto en las fracciones I a III del artículo 171 de esta Ley, a favor de los beneficiarios con la aseguradora que éstos elijan.
+A efecto de lo anterior, el Instituto deberá informar del fallecimiento a la administradora de fondos para el retiro que, en su caso, estuviere pagando la pensión, y observarse lo siguiente:
+I. La administradora de fondos para el retiro deberá entregar al Instituto los recursos que hubiere en la cuenta individual del pensionado fallecido, los cuales se destinarán al pago del monto constitutivo de la renta vitalicia de los beneficiarios, y
+II. El Gobierno Federal, por conducto del Instituto, deberá aportar los recursos faltantes para el pago del monto constitutivo de la mencionada renta vitalicia.
