@@ -1,0 +1,4 @@
+Artículo 304 C. No se impondrán multas cuando se cumplan en forma espontánea las obligaciones patronales fuera de los plazos señalados por la Ley o cuando se haya incurrido en infracción por caso fortuito o fuerza mayor. Se considerará que el cumplimiento no es espontáneo en el caso de que:
+I. La omisión sea descubierta por el Instituto;
+II. La omisión haya sido corregida por el patrón después de que el Instituto hubiere notificado una orden de visita domiciliaria, o haya mediado requerimiento o cualquier otra gestión notificada por el mismo, tendientes a la comprobación del cumplimiento de sus obligaciones en materia de seguridad social, y
+III. La omisión haya sido corregida por el patrón con posterioridad a los 15 días siguientes a la presentación del dictamen por contador público autorizado ante el Instituto, respecto de actos u omisiones en que hubiere incurrido y que se observen en el dictamen.

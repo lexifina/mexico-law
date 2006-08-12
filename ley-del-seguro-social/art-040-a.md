@@ -1,0 +1,1 @@
+Artículo 40 A. Cuando no se enteren las cuotas o los capitales constitutivos dentro del plazo establecido en las disposiciones respectivas, el patrón cubrirá a partir de la fecha en que los créditos se hicieran exigibles, la actualización y los recargos correspondientes en los términos del Código, sin perjuicio de las sanciones que procedan.

@@ -1,0 +1,20 @@
+Artículo 5 A. Para los efectos de esta Ley, se entiende por:
+I. Ley: la Ley del Seguro Social;
+II. Código: el Código Fiscal de la Federación;
+III. Instituto: el Instituto Mexicano del Seguro Social;
+IV. Patrones o patrón: la persona física o moral que tenga ese carácter en los términos de la Ley Federal del Trabajo;
+V. Trabajadores o trabajador: la persona física que la Ley Federal del Trabajo define como tal;
+VI. Trabajador permanente: aquél que tenga una relación de trabajo por tiempo indeterminado;
+VII. Trabajador eventual: aquél que tenga una relación de trabajo para obra determinada o por tiempo determinado en los términos de la Ley Federal del Trabajo;
+VIII. Sujetos o sujeto obligado: los señalados en los artículos 12, 13, 229, 230, 241 y 250 A, de la Ley, cuando tengan la obligación de retener las cuotas obrero patronales del seguro social o de realizar el pago de las mismas;
+IX. Sujetos o sujeto de aseguramiento: los señalados en los artículos 12, 13, 241 y 250 A, de la Ley;
+X. Responsables o responsable solidario: para los efectos de las aportaciones de seguridad social son aquellos que define como tales el artículo 26 del Código y los previstos en esta Ley;
+XI. Asegurados o asegurado: el trabajador o sujeto de aseguramiento inscrito ante el Instituto, en los términos de la Ley;
+XII. Beneficiarios: el cónyuge del asegurado o pensionado y a falta de éste, la concubina o el concubinario en su caso, así como los ascendientes y descendientes del asegurado o pensionado señalados en la Ley;
+XIII. Derechohabientes o derechohabiente: el asegurado, el pensionado y los beneficiarios de ambos, que en los términos de la Ley tengan vigente su derecho a recibir las prestaciones del Instituto;
+XIV. Pensionados o pensionado: el asegurado que por resolución del Instituto tiene otorgada pensión por: incapacidad permanente total; incapacidad permanente parcial superior al cincuenta por ciento o en su caso incapacidad permanente parcial entre el veinticinco y el cincuenta por ciento; invalidez; cesantía en edad avanzada y vejez, así como los beneficiarios de aquél cuando por resolución del Instituto tengan otorgada pensión de viudez, orfandad, o de ascendencia;
+XV. Cuotas obrero patronales o cuotas: las aportaciones de seguridad social establecidas en la Ley a cargo del patrón, trabajador y sujetos obligados;
+XVI. Cédulas o cédula de determinación: el medio magnético, digital, electrónico, óptico, magneto óptico o de cualquier otra naturaleza, o bien el documento impreso, en el que el patrón o sujeto obligado determina el importe de las cuotas a enterar al Instituto, el cual puede ser emitido y entregado por el propio Instituto;
+XVII. Cédulas o cédula de liquidación: el medio magnético, digital, electrónico o de cualquier otra naturaleza, o bien el documento impreso, mediante el cual el Instituto, en ejercicio de sus facultades como organismo fiscal autónomo, determina en cantidad líquida los créditos fiscales a su favor previstos en la Ley;
+XVIII. Salarios o salario: la retribución que la Ley Federal del Trabajo define como tal. Para efectos de esta Ley, el salario base de cotización se integra con los pagos hechos en efectivo por cuota diaria, gratificaciones, percepciones, alimentación, habitación, primas, comisiones, prestaciones en especie y cualquiera otra cantidad o prestación que se entregue al trabajador por su trabajo, con excepción de los conceptos previstos en el artículo 27 de la Ley, y
+XIX. Trabajador eventual del campo: persona física que es contratada para labores de siembra, deshije, cosecha, recolección, preparación de productos para su primera enajenación y otras de análoga naturaleza agrícola, ganadera, forestal o mixta, a cielo abierto o en invernadero. Puede ser contratada por uno o más patrones durante un año, por períodos que en ningún caso podrán ser superiores a veintisiete semanas por cada patrón. En caso de rebasar dicho período por patrón será considerado trabajador permanente. Para calcular las semanas laboradas y determinar la forma de cotización se estará a lo previsto en la ley y en el reglamento respectivo.
