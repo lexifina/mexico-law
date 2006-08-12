@@ -1,0 +1,4 @@
+Artículo 304 D. El Instituto podrá dejar sin efectos las multas impuestas por infracción a las disposiciones de esta Ley y sus reglamentos, cuando a su juicio, con la sola exhibición documental por los interesados se acredite que no se incurrió en la infracción.
+La solicitud de dejar sin efectos las multas en los términos de este artículo, no constituye instancia y las resoluciones que dicte el Instituto al respecto no podrán ser impugnadas por los medios de defensa que establece esta Ley.
+La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se solicita y se garantiza el interés del Instituto.
+Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
