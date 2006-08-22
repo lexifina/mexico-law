@@ -1,0 +1,14 @@
+DECRETO por el que se reforma la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales y la Ley Federal de Responsabilidades de los Servidores Públicos.
+Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1996
+ARTÍCULO SEGUNDO.- Se reforman el primer párrafo y la fracción I del artículo 62 de la Ley Federal de las Entidades Paraestatales, para quedar como sigue:
+...
+TRANSITORIOS
+PRIMERO.- El presente decreto entrará en vigor el día 1o. de enero de 1997.
+SEGUNDO.- Se derogan las disposiciones legales y administrativas que se opongan al presente decreto.
+TERCERO.- En tanto el Secretario de Contraloría y Desarrollo Administrativo designa a los titulares de los órganos de control interno, así como a los de sus áreas de auditoría, quejas y responsabilidades, los actuales titulares continuarán en su cargo y ejercerán sus atribuciones en los términos de este decreto.
+CUARTO.- Los órganos de control interno de las entidades paraestatales resolverán los procedimientos de responsabilidades administrativas y los recursos de revocación que, a la entrada en vigor del presente decreto, se encuentren en trámite en las Dependencias Coordinadoras de Sector, relativos a asuntos de las citadas entidades, así como los que se inicien por hechos consumados con anterioridad a la entrada en vigor antes mencionada. Dichos procedimientos y recursos continuarán resolviéndose conforme a las disposiciones legales que los rigen.
+QUINTO.- La Secretaría de Hacienda y Crédito Público realizará los actos que correspondan a efecto de que, para el ejercicio fiscal de 1997, los recursos financieros destinados al pago de los sueldos y prestaciones de los servidores públicos que por virtud del presente decreto pasarán a depender de la Secretaría de Contraloría y Desarrollo Administrativo, se transfieran a esta última.
+Las dependencias y entidades continuarán proporcionando los espacios físicos, los recursos humanos y materiales que requieran los referidos órganos de control interno.
+La relación laboral del resto del personal de dichos órganos de control interno no se modifica por la entrada en vigor del presente decreto.
+México, D.F., a 6 de diciembre de 1996.- Sen. Laura Pavón Jaramillo, Presidenta.- Dip. Agustín Torres Delgado, Presidente.- Sen. Ricardo Naumann Escobar, Secretario.- Dip. Victoria Eugenia Méndez Márquez, Secretario.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de diciembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
