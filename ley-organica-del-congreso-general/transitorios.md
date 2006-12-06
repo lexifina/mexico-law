@@ -15,10 +15,10 @@ Población y Desarrollo
 Protección Civil
 Radio, Televisión y Cinematografía
 Seguridad Pública
-Gobernación, Población y Seguridad Pública Gobernación y Puntos Constitucionales Puntos Constitucionales y Sistema Federal (iniciativas de reforma constitucional)
+Gobernación, Población y Seguridad Pública Gobernación y Puntos Constitucionales (iniciativas de reforma constitucional)
 Fortalecimiento del Federalismo
 Fortalecimiento Municipal
-Derechos Humanos
+Puntos Constitucionales y Sistema Federal Derechos Humanos
 Justicia
 Justicia y Derechos Humanos Relaciones Exteriores
 Relaciones Exteriores Defensa Nacional
@@ -33,19 +33,19 @@ Desarrollo Social y Vivienda Asuntos Hidráulicos
 Bosques y Selvas
 Ecología y Medio Ambiente
 Pesca
-Medio Ambiente, Recursos Naturales y Pesca Energéticos
-Energía Artesanías
+Medio Ambiente, Recursos Naturales y Pesca Energéticos Energía
+Artesanías
 Comercio
 Patrimonio y Fomento Industrial
 Comercio y Fomento Industrial Agricultura
 Ganadería
 Agricultura, Ganadería y Desarrollo Rural Comunicaciones y Transportes
 Comunicaciones y Transportes Ciencia y Tecnología
-Educación Pública, Cultura y Ciencia y Tecnología Corrección de Estilo
+Corrección de Estilo
 Cultura
 Deporte
 Educación
-Pensionados y Jubilados
+Educación Pública, Cultura y Ciencia y Tecnología Pensionados y Jubilados
 Salud
 Seguridad Social
 Salud y Seguridad Social Trabajo y Previsión Social
