@@ -1,0 +1,10 @@
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Comercio Exterior.
+Publicado en el Diario Oficial de la Federación el 21 de diciembre de 2006
+Artículo Único.- Se reforman los artículos 53, último párrafo; 64, segundo párrafo en su encabezado; 68, primer párrafo; 89 D, fracción I; 93, penúltimo párrafo; y 97, fracciones II y III; se adiciona el artículo 65 A; y se derogan los artículos 68, último párrafo y 93, fracción V, de la Ley de Comercio Exterior, para quedar como sigue:
+...
+TRANSITORIOS
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación, y será aplicable a la totalidad de las importaciones, independientemente de su origen y procedencia, incluidas las de Estados Unidos de América y Canadá.
+Segundo. Las disposiciones del Reglamento de la Ley de Comercio Exterior publicado en el Diario Oficial de la Federación el 30 de diciembre de 1993, continuarán aplicándose en todo lo que no se oponga al presente Decreto, hasta que se expidan las reformas correspondientes.
+Tercero. Los procedimientos administrativos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, se resolverán en los términos de la Ley de Comercio Exterior publicada en el Diario Oficial de la Federación el 27 de julio de 1993, y de las reformas a dicha ley publicadas en dicho órgano informativo el 13 de marzo de 2003 y 24 de enero de 2006.
+México, D.F., a 12 de diciembre de 2006.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Renan Cleominio Zoreda Novelo, Secretario.- Dip. Ma. Mercedez Maciel Ortiz, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de diciembre de dos mil seis.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
