@@ -1,0 +1,11 @@
+ARTÍCULO 63 QUATER.- Serán causas de revocación de la autorización otorgada al proveedor, las siguientes:
+I. No iniciar operaciones dentro del plazo de seis meses a partir del otorgamiento de la autorización correspondiente, o la suspensión de operaciones sin causa justificada por un periodo superior a seis meses;
+II. La realización de actividades contrarias a la ley, al reglamento y a las demás disposiciones aplicables, así como la no observancia de las condiciones conforme a las cuales se haya otorgado la autorización;
+III. La omisión de la presentación de información que le requieran la Secretaría, la Procuraduría o los auditores que correspondan, o que la que presenten sea falsa, imprecisa o incompleta;
+IV. El indebido o inoportuno registro contable de las operaciones que haya efectuado el proveedor respecto de cada uno de los grupos constituidos, o por incumplimiento de sus obligaciones fiscales;
+V. La pérdida de la capacidad administrativa del proveedor para cumplir con sus obligaciones, así como por la pérdida de la viabilidad económica, financiera y operativa del sistema, y
+VI. Por cambio de objeto social, liquidación, concurso mercantil o disolución del proveedor.
+Cuando la Procuraduría detecte que el proveedor ha incurrido en alguna de las causas de revocación previstas en este artículo, lo hará del conocimiento de la Secretaría.
+Para los efectos de lo dispuesto por este precepto, la Secretaría notificará al proveedor la causal de revocación en la que éste hubiere incurrido, a fin de que éste manifieste lo que a su derecho convenga, en un plazo de cinco días hábiles. En caso de que la resolución definitiva que se emita determine la revocación de la autorización, el proveedor pondrá a la sociedad correspondiente en estado de disolución y liquidación sin necesidad de acuerdo de la asamblea de accionistas.
+Salvo por lo previsto en el presente ordenamiento, la disolución y liquidación de la sociedad deberán realizarse de conformidad con lo dispuesto en la Ley General de Sociedades Mercantiles.
+En el caso de decretarse la revocación a que se refiere este artículo, el proveedor deberá establecer los mecanismos y procedimientos que le permitan llevar a cabo la liquidación de los grupos existentes, así como cumplir con las obligaciones contraídas con los consumidores.
