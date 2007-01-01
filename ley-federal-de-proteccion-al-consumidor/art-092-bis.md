@@ -1,0 +1,1 @@
+ARTÍCULO 92 BIS.- Los consumidores tendrán derecho a la bonificación o compensación cuando la prestación de un servicio sea deficiente, no se preste o proporcione por causas imputables al proveedor, o por los demás casos previstos por la ley.
