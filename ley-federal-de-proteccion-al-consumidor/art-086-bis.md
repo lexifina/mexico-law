@@ -1,0 +1,2 @@
+ARTÍCULO 86 BIS.- En los contratos de adhesión de prestación de servicios deben incluirse por escrito o por vía electrónica los servicios adicionales, especiales, o conexos, que pueda solicitar el consumidor de forma opcional por conducto y medio del servicio básico.
+El proveedor sólo podrá prestar un servicio adicional o conexo no previsto en el contrato original si cuenta con el consentimiento expreso del consumidor, ya sea por escrito o por vía electrónica.

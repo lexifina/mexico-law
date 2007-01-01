@@ -1,0 +1,1 @@
+ARTÍCULO 87 TER.- Cuando el contrato de adhesión de un proveedor contenga variaciones respecto del modelo de contrato publicado por la Procuraduría a que se refiere el artículo anterior, el proveedor deberá solicitar su registro en los términos del procedimiento previsto en el artículo 87.
