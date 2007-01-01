@@ -1,4 +1,4 @@
-III.- Por registro y servicios de inspección y vigilancia por peritos valuadores se cubrirá la cuota de LEY que modifica a las diversas de los Impuestos Sobre la Renta, al Activo, Especial sobre Producción y Servicios y Federal de Derechos.
+LEY que modifica a las diversas de los Impuestos Sobre la Renta, al Activo, Especial sobre Producción y Servicios y Federal de Derechos.
 Publicada en el Diario Oficial de la Federación el 10 de mayo de 1996
 LEY DEL IMPUESTO AL ACTIVO
 ARTICULO TERCERO.- Se REFORMAN los artículos 1o., primer párrafo; 6o., fracción V y el antepenúltimo párrafo; 13-A, fracciones I y II; se ADICIONAN los artículos 1o., con un tercer párrafo; 2o.- BIS, que se ubicará inmediatamente después del artículo 2o.; 5o.-A, con un tercer párrafo y 5o.-B; y se DEROGA el artículo 6o., fracción II, de la Ley del Impuesto al Activo, para quedar como sigue:
