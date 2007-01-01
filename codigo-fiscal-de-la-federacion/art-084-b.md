@@ -5,5 +5,5 @@ III. De $30.00 a $40.00, por cada dato no asentado o asentado incorrectamente, a
 IV. De $310,090.00 a $620,170.00, a la establecida en la fracción IV.
 V. De $4,070.00 a $60,980.00, a la establecida en la fracción V.
 VI. De $15,500.00 a $46,510.00, a la establecida en la fracción VI.
-VII. De $56.00 a $113.00, por cada estado de cuenta no emitido en términos del artículo 32-B de este Código, a la señalada en la fracción VII.
+VII. De $60.00 a $130.00, por cada estado de cuenta no emitido en términos del artículo 32-B de este Código, a la señalada en la fracción VII.
 VIII. (Se deroga).
