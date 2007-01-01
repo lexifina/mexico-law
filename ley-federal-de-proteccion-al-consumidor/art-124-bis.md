@@ -1,0 +1,1 @@
+ARTÍCULO 124 BIS.- Para la sustanciación del procedimiento por infracciones a la ley a que se refiere el presente Capítulo, se aplicará supletoriamente lo dispuesto en la Ley Federal de Procedimiento Administrativo.
