@@ -1,0 +1,1 @@
+ARTÍCULO 97 BIS.- La orden de verificación a que se refiere el artículo 65 de la Ley Federal de Procedimiento Administrativo deberá ser exhibida y entregada en original a la persona con quien se entienda la diligencia. Si ésta se niega a recibirla, dicha circunstancia se asentará en el acta respectiva, sin que ello afecte la validez del acto.

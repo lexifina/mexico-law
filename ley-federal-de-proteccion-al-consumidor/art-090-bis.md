@@ -1,0 +1,2 @@
+ARTÍCULO 90 BIS.- Cuando con posterioridad a su registro se aprecie que un contrato contiene cláusulas que sean contrarias a esta ley o a las normas oficiales mexicanas, la Procuraduría, de oficio o a petición de cualquier persona interesada, procederá a la cancelación del registro correspondiente.
+En tales casos, la Procuraduría procederá conforme al procedimiento establecido en el artículo 123 de esta ley.

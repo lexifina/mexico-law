@@ -1,0 +1,2 @@
+ARTÍCULO 8 BIS.- La Procuraduría elaborará material informativo, de orientación y de educación a los consumidores y acordará con los proveedores su divulgación en los lugares o establecimientos respectivos.
+La Procuraduría establecerá módulos o sistemas de atención y orientación a los consumidores en función de la afluencia comercial, del número de establecimientos y operaciones mercantiles, de la temporada del año y conforme a sus programas y medios, debiéndose otorgar a aquélla las facilidades necesarias para ello.
