@@ -1,0 +1,14 @@
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación; de las leyes de los Impuestos sobre la Renta, al Activo y Especial sobre Producción y Servicios; de la Ley Federal del Impuesto sobre Automóviles Nuevos y de la Ley Federal de Procedimiento Contencioso Administrativo.
+Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2006
+LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
+ARTÍCULO NOVENO. Se REFORMA el artículo 14, primer párrafo de la Ley Federal del Impuesto sobre Automóviles Nuevos, para quedar como sigue:
+...
+Disposición de Vigencia Anual de la Ley Federal del Impuesto sobre Automóviles Nuevos
+ARTÍCULO DÉCIMO. En el ejercicio fiscal de 2007, el fondo previsto en el artículo 14 de la Ley Federal del Impuesto sobre Automóviles Nuevos vigente a partir del 1 de enero de 2007, se integrará adicionalmente con un monto de $88,399,701.00, el cual se distribuirá de acuerdo con los coeficientes de distribución establecidos en el segundo párrafo del artículo mencionado y se entregará en una sola exhibición a las Entidades Federativas a más tardar el 31 marzo de 2007.
+Disposición transitoria de la Ley Federal del Impuesto sobre Automóviles Nuevos
+ARTÍCULO DÉCIMO PRIMERO. Para los efectos de lo dispuesto por los párrafos primero y cuarto del artículo 14 de la Ley Federal del Impuesto sobre Automóviles Nuevos, la cantidad vigente a partir del 1 de enero de 2007 conforme a lo dispuesto por el Artículo Noveno del presente Decreto, se entiende que se encuentra actualizada a la fecha mencionada.
+Transitorios
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2007.
+Segundo. Los contribuyentes que hayan causado el impuesto especial sobre producción y servicios de conformidad con lo dispuesto en el artículo 2o., fracción I, incisos G) y H) de la Ley del Impuesto Especial sobre Producción y Servicios, vigente antes de la entrada en vigor del presente Decreto, deberán cumplir con las obligaciones correspondientes a dicho impuesto en las formas y plazos establecidos en las disposiciones vigentes antes de la entrada en vigor de este Decreto.
+México, D.F., a 21 de diciembre de 2006.- Sen. Francisco Arroyo Vieyra, Vicepresidente.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Dip. Antonio Xavier Lopez Adame, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil seis.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
