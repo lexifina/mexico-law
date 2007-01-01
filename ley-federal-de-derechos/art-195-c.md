@@ -1,6 +1,6 @@
 Artículo 195-C.- Por los servicios de verificación o fomento sanitario, para evaluar o supervisar sobre las condiciones sanitarias de las actividades, productos y servicios, la aplicación de los métodos de prueba de laboratorios analíticos, procedimientos de verificación o ambos, cuando se realice a solicitud de los particulares, se pagará el derecho de verificación o fomento sanitario, conforme a las siguientes cuotas:
-I. Por cada solicitud de visita de verificación sanitaria para la certificación de buenas prácticas sanitarias con fines de exportación en establecimientos donde se procesen alimentos, bebidas no alcohólicas y alcohólicas, tabaco, productos de aseo, limpieza, perfumería y belleza, y de las materias primas y aditivos que intervengan en su elaboración, por tipo de producto, se pagará la cuota de ... $1,400.00
-II.- Por cada solicitud de visita de evaluación para la autorización de las unidades de verificación, organismos de certificación, laboratorios de prueba y terceros autorizados ... $2,693.00
+I. Por cada solicitud de visita de verificación sanitaria para la certificación de buenas prácticas sanitarias con fines de exportación en establecimientos donde se procesen alimentos, bebidas no alcohólicas y alcohólicas, tabaco, productos de aseo, limpieza, perfumería y belleza, y de las materias primas y aditivos que intervengan en su elaboración, por tipo de producto, se pagará la cuota de ... $1,581.00
+II.- Por cada solicitud de visita de evaluación para la autorización de las unidades de verificación, organismos de certificación, laboratorios de prueba y terceros autorizados ... $3,042.00
 III. Por cada solicitud de visita de verificación para estupefacientes o psicotrópicos por:
-a). Destrucción ... $1,416.00
-b). Enfajillamiento, sello y lacre con fines de exportación ... $1,416.00
+a). Destrucción ... $1,599.00
+b). Enfajillamiento, sello y lacre con fines de exportación ... $1,599.00

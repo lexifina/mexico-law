@@ -1,10 +1,10 @@
 Artículo 19-C.- Por los servicios en materia de cinematografía se pagará el derecho de cinematografía, conforme a las siguientes cuotas:
 I. Por el trámite y estudio de la solicitud y, en su caso, y clasificación de películas destinadas a exhibición pública en cualquier local o para su comercialización, incluidas la renta o venta:
-a).- De 35 milímetros o más, por rollo de 300 metros o fracción ... $251.00
-b).- De 16 milímetros, 8 milímetros, Super 8 milímetros, por rollo de 100 metros o fracción ... $127.00
-c).- Videograma o material grabado, en cualquier formato o modalidad, por cada media hora o fracción ... $629.00
+a).- De 35 milímetros o más, por rollo de 300 metros o fracción ... $284.00
+b).- De 16 milímetros, 8 milímetros, Super 8 milímetros, por rollo de 100 metros o fracción ... $143.00
+c).- Videograma o material grabado, en cualquier formato o modalidad, por cada media hora o fracción ... $710.00
 No pagarán los derechos a que se refiere esta fracción, las instituciones públicas que exhiban películas con fines culturales.
 El pago de los derechos previstos en esta fracción, incisos a), b) y c) se destinará en su totalidad al Fondo de Inversión y Estímulos al Cine, para el fomento y promoción de la industria cinematográfica nacional.
-II.- Expedición de certificados de origen de material filmado y grabado ... $750.00
-III. Por la autorización del doblaje de películas, para exhibición ... $769.00
+II.- Expedición de certificados de origen de material filmado y grabado ... $847.00
+III. Por la autorización del doblaje de películas, para exhibición ... $869.00
 IV. (Se deroga).

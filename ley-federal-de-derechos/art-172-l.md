@@ -1,1 +1,1 @@
-Artículo 172-L.- Por la verificación para el inicio de la operación de terminales interiores de carga, se pagará la cuota de ... $7,900.00
+Artículo 172-L.- Por la verificación para el inicio de la operación de terminales interiores de carga, se pagará la cuota de ... $8,921.00
