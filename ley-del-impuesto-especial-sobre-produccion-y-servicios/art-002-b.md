@@ -1,0 +1,1 @@
+Artículo 2o.-B.- La tasa aplicable para la importación de gasolinas o diesel será la menor de las que resulten para la enajenación del combustible de que se trate en los términos del artículo 2o-A de esta Ley, vigente en el mes en que se realice la importación.
