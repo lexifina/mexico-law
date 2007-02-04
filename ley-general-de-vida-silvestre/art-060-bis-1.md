@@ -1,0 +1,1 @@
+Artículo 60 Bis 1.- Ningún ejemplar de tortuga marina, cualquiera que sea la especie, podrá ser sujeto de aprovechamiento extractivo, ya sea de subsistencia o comercial, incluyendo sus partes y derivados.
