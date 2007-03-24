@@ -1,0 +1,5 @@
+TRANSITORIOS
+PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- Además de la legislación aplicable para la difusión de la presente Ley, las autoridades nacionales y la Cruz Roja Mexicana a las que se hace referencia en la presente Ley, adoptarán las medidas necesarias para que su contenido sea lo más ampliamente conocido.
+México, D.F., a 19 de diciembre de 2006.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Dip. Eduardo Sergio de la Torre Jaramillo, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de marzo de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
