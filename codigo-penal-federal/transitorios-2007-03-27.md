@@ -1,0 +1,8 @@
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal, del Código Federal de Procedimientos Penales y de la Ley Federal contra la Delincuencia Organizada, en materia de explotación sexual infantil.
+Publicado en el Diario Oficial de la Federación el 27 de marzo de 2007
+ARTÍCULO PRIMERO: Se reforma el inciso c) del artículo 85; las denominaciones del Título Octavo y de sus correspondientes Capítulos Primero, Segundo, Tercero y Cuarto del Libro Segundo; los artículos 200; 201 bis; 202; 203; 204; 205; 206, 207, 208 y 209. Se adicionan los artículos 202 bis 203 bis, 204 bis, 205 bis y 206 bis; tres nuevos Capítulos Quinto, Sexto y Séptimo al Título Octavo, un Capítulo Tercero al Título Décimo Octavo ambos del Libro Segundo. Se derogan los artículos 201 BIS 1, 201 BIS 2 y 201 BIS 3, todos del Código Penal Federal, para quedar como sigue:
+...
+TRANSITORIOS
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+México, D.F., a 20 de febrero de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de marzo de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
