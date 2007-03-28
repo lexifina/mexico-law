@@ -150,14 +150,15 @@ CAPITULO I
 CAPITULO II
 Del peligro de contagio
 TITULO OCTAVO
-Delitos Contra la Moral Pública y las Buenas Costumbres
-CAPITULO I
-Ultrajes a la moral pública
-CAPITULO II
-CAPITULO III
-Trata de personas y lenocinio
-CAPITULO IV
-Provocación de un delito y apología de éste o de algún vicio
+DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD.
+CAPÍTULO I
+CAPÍTULO II
+CAPÍTULO III
+CAPÍTULO IV
+CAPÍTULO V
+CAPITULO VI
+Lenocinio y Trata de Personas.
+CAPÍTULO VII
 TITULO NOVENO
 Revelación de secretos y acceso ilícito a sistemas y equipos de informática
 CAPITULO I
