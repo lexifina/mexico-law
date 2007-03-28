@@ -1,1 +1,1 @@
-Artículo 201 Bis 2.- Si el delito es cometido con un menor de dieciséis años de edad, las penas aumentarán hasta una tercera parte más de las sanciones a que se refieren los artículos 201 y 201 bis. Si el delito se comete con menor de doce años de edad, las penas aumentarán hasta una mitad de las sanciones a que se refieren los artículos 201 y 201 bis de esta Ley.
+Artículo 201 bis 2. Se deroga

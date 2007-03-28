@@ -1,2 +1,3 @@
-Artículo 201 Bis 3.- Al que promueva, publicite, invite, facilite o gestione por cualquier medio a persona o personas a que viaje al interior o exterior del territorio nacional y que tenga como propósito, tener relaciones sexuales con menores de dieciocho años de edad, se le impondrá una pena de cinco a catorce años de prisión y de cien a dos mil días multa.
-Las mismas penas se impondrán a quien realice las acciones a que se refiere el párrafo anterior, con el fin de que persona o personas obtengan relaciones sexuales con menores de dieciocho años.
+Artículo 201 bis 3. Se deroga
+Pornografía de Personas Menores de Dieciocho Años de Edad o de Personas que no tienen Capacidad para comprender el Significado del Hecho o de Personas que no tienen
+Capacidad para Resistirlo.
