@@ -1,1 +1,1 @@
-Artículo 201 Bis 1.- Si el delito de corrupción de menores o de quien no tenga capacidad para comprender el resultado del hecho o el de pornografía infantil es cometido por quien se valiese de una función pública que tuviese, se le impondrá hasta una tercera parte más de las penas a que se refieren los artículos 201 y 201 bis y destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñarlo, hasta por un tiempo igual al de la pena impuesta para ejercer otro.
+Artículo 201 bis 1. Se deroga
