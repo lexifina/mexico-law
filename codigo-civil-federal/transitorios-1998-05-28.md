@@ -1,0 +1,11 @@
+DECRETO por el que se reforma y adiciona al Código Civil para el Distrito Federal, en materia común y para toda la República en materia federal y al Código de Procedimientos Civiles para el Distrito Federal.
+Publicado en el Diario Oficial de la Federación el 28 de mayo de 1998
+ARTÍCULO PRIMERO.- SE REFORMAN los artículos 86; 87; 88; 133; 157; 295; 390, fracciones I a III; 391; 394; 395, segundo párrafo; 397, último párrafo; 402; 403; 404; 405; primer párrafo; 1612; 1613; y 1620, y SE ADICIONAN los artículos 293, con un segundo párrafo; 397, con la fracción V; 405, con la fracción III; 410 A; 410 B; 410 C; 410 D; 410 E, y 410 F; así como cuatro secciones al Capítulo V del Título Séptimo del Libro Primero, todos ellos del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal, para quedar como sigue:
+...
+TRANSITORIOS
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- Las adopciones que se encuentren en trámite a la fecha de publicación de las presentes reformas se resolverán de acuerdo con las disposiciones vigentes hasta antes de la publicación del presente Decreto.
+No obstante, si en las adopciones que actualmente se tramitan hubiere la voluntad del adoptante de obtener la adopción plena, podrá seguirse el procedimiento establecido por el presente Decreto.
+Las adopciones realizadas con anterioridad a la entrada en vigor del presente Decreto podrán convertirse a plenas, de acuerdo con los requisitos y procedimientos establecidos por este Decreto.
+México, D.F., a 28 de abril de 1998.- Sen. Dionisio Pérez Jácome, Presidente.- Dip. Aurora Bazán López, Presidente.- Sen. José Luis Medina Aguiar, Secretario.- Dip. Teresa Núñez Casas, Secretario.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de mayo de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
