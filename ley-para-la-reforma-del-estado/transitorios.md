@@ -1,0 +1,10 @@
+TRANSITORIOS
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Segundo. La Comisión Ejecutiva deberá quedar integrada e instalada dentro de los quince días naturales siguientes de la entrada en vigor de esta Ley.
+Tercero. La Comisión Ejecutiva deberá, dentro de los quince días naturales siguientes a su instalación, integrar e instalar las Subcomisiones Redactora y de Consulta Pública.
+Cuarto. La Comisión Ejecutiva y las Subcomisiones deberán aprobar sus reglas y lineamientos de operación a más tardar en la sesión inmediata posterior a la de su instalación.
+Quinto. La Comisión Ejecutiva deberá expedir la Convocatoria para la Consulta Pública de la Reforma del Estado, dentro de los treinta días naturales siguientes a partir de la instalación de ésta.
+Sexto. A efecto de cubrir los gastos que ocasione el cumplimiento de esta Ley, se autorizan las transferencias indispensables del Presupuesto de Egresos de la Federación del año 2007, preferentemente de las partidas de programas no sustantivos, que estimen pertinentes los Poderes Legislativo y Ejecutivo de la Federación.
+Séptimo. La presente Ley para la Reforma del Estado concluirá su vigencia transcurridos doce meses calendario a partir de su publicación en el Diario Oficial de la Federación.
+México, D.F., a 29 de marzo de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria Eugenia Jimenez Valenzuela, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de abril de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
