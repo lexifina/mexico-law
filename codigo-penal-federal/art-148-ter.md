@@ -1,0 +1,1 @@
+Artículo 148 Ter.- Se impondrá pena de cinco a diez años de prisión y de cien a trescientos días multa, a quien encubra a un terrorista, teniendo conocimiento de su identidad o de que realiza alguna de las actividades previstas en el presente capítulo.
