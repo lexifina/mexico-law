@@ -103,11 +103,13 @@ Conspiración
 CAPITULO IX
 Disposiciones comunes para los capítulos de este Título
 TITULO SEGUNDO
-Delitos Contra el Derecho Internacional
+DELITOS CONTRA EL DERECHO INTERNACIONAL
 CAPITULO I
 Piratería
 CAPITULO II
 Violación de inmunidad y de neutralidad
+CAPITULO III
+TERRORISMO INTERNACIONAL
 TITULO TERCERO
 Delitos Contra la Humanidad
 CAPITULO I
