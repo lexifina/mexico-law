@@ -1,0 +1,9 @@
+DECRETO por el que se reforman diversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley Federal contra la Delincuencia Organizada; de la Ley de Instituciones de Crédito; de la Ley de Ahorro y Crédito Popular; de la Ley de los Sistemas de Ahorro para el Retiro; de la Ley de Sociedades de Inversión; de la Ley del Mercado de Valores; de la Ley Federal de Instituciones de Fianzas; de la Ley General de Instituciones y Sociedades Mutualistas de Seguros; y de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+Publicado en el Diario Oficial de la Federación el 28 de junio de 2007
+ARTICULO CUARTO. Se reforma el artículo 115, fracción I, de la Ley de Instituciones de Crédito, para quedar como sigue:
+...
+TRANSITORIOS
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones del Código Penal Federal vigentes en el momento de su comisión.
+México, D.F., a 26 de abril de 2007.- Dip. Jorge Zermeño Infante, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Antonio Xavier Lopez Adame, Secretario.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiséis de junio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
