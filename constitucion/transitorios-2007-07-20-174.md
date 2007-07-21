@@ -1,0 +1,10 @@
+DECRETO por el que se adiciona un segundo párrafo con siete fracciones al Artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos.
+Publicado en el Diario Oficial de la Federación el 20 de julio de 2007
+Artículo Único.- Se adiciona un segundo párrafo con siete fracciones al Artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+...
+TRANSITORIOS
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo.- La Federación, los Estados y el Distrito Federal, en sus respectivos ámbitos de competencia, deberán expedir las leyes en materia de acceso a la información pública y transparencia, o en su caso, realizar las modificaciones necesarias, a más tardar un año después de la entrada en vigor de este Decreto.
+Tercero.- La Federación, los Estados y el Distrito Federal deberán contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información y de los procedimientos de revisión a los que se refiere este Decreto, a más tardar en dos años a partir de la entrada en vigor del mismo. Las leyes locales establecerán lo necesario para que los municipios con población superior a setenta mil habitantes y las demarcaciones territoriales del Distrito Federal cuenten en el mismo plazo con los sistemas electrónicos respectivos.
+México, D.F., a 13 de junio de 2007.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Javier Orozco Gómez, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de julio de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
