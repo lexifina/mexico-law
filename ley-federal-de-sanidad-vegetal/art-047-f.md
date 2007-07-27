@@ -1,0 +1,1 @@
+Artículo 47-F.- La periodicidad con la que deberá renovarse la certificación de cumplimiento de BPA's por parte de los interesados se especificará en las normas oficiales mexicanas o demás disposiciones legales aplicables en la materia.

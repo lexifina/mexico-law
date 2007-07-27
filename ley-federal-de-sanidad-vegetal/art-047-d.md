@@ -1,0 +1,1 @@
+Artículo 47-D.- Los certificados que emita la Secretaría tendrán las características, vigencia, requisitos y formalidades que establezcan los ordenamientos que deriven de esta Ley, su reglamento, normas oficiales mexicanas, demás disposiciones legales aplicables y tratados internacionales en la materia;

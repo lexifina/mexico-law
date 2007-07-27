@@ -1,0 +1,1 @@
+Artículo 50-bis.- Para realizar actividades de auditorias de cumplimiento de BPA's en unidades de producción primaria de vegetales, la Secretaría emitirá, a través de disposiciones legales aplicables, los criterios bajo los cuales se reconocerá a terceros especialistas que realizarán dichas actividades.
