@@ -1,0 +1,1 @@
+Artículo 39 bis.- Las personas físicas o morales que desarrollen o presten actividades fitosanitarias, deberán observar las especificaciones establecidas en el dictamen de efectividad biológica de los insumos fitosanitarios y de nutrición vegetal.
