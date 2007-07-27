@@ -1,0 +1,1 @@
+Artículo 41 ter.- La Secretaría podrá solicitar a los propietarios de los registros de los insumos fitosanitarios o de nutrición vegetal, información sobre el uso fitosanitario relacionada con los volúmenes de aplicación, cultivos, regiones, plagas por cada producto registrado.

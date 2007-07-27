@@ -1,0 +1,1 @@
+Artículo 42 bis.- La Secretaría establecerá y desarrollará el Programa Nacional de Monitoreo de Residuos de Plaguicidas en vegetales para determinar que los insumos fitosanitarios, son utilizados conforme a lo establecido en los dictámenes técnicos de efectividad biológica otorgados.

@@ -1,0 +1,1 @@
+Artículo 47-G.- Los particulares que cuenten con un certificado de cumplimiento de BPA's y detecten una posible fuente de contaminación en la producción primaria de vegetales, deberán establecer las medidas de control necesarias para corregirlo.

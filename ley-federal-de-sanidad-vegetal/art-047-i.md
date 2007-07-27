@@ -1,0 +1,1 @@
+Artículo 47-I.- La Secretaría supervisará y podrá reconocer, la implementación de sistemas de minimización de riesgos de contaminación durante la producción primaria de vegetales que se aplique en otros países.

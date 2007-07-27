@@ -1,0 +1,1 @@
+Artículo 47-E.- Únicamente los particulares cuyos procesos de producción primaria de vegetales cuenten con un certificado de cumplimiento de BPA's podrán ostentar el distintivo de sistema reducción de riesgos de contaminación que emita la Secretaría.

@@ -1,0 +1,1 @@
+Artículo 41 bis.- Las personas físicas o morales que desarrollen o presten actividades fitosanitarias relacionadas con insumos fitosanitarios o de nutrición vegetal deberán contar con programas de capacitación y promoción sobre el buen uso de insumos, así como participar en los programas que la Secretaría determine en esta materia.

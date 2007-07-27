@@ -1,0 +1,1 @@
+Artículo 47-H.- La Secretaría podrá requerir que los particulares que pretendan ingresar vegetales al país, presenten un certificado o documentación oficial del país de origen que avale la aplicación de sistemas de reducción de riesgos durante su producción primaria.

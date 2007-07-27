@@ -1,0 +1,2 @@
+Artículo 29-A.- Las importaciones que cumplan con los requisitos establecidos en la Norma Oficial Mexicana específica o en las hojas de requisitos fitosanitarios, se les expedirá el certificado fitosanitario de importación, en los Puntos de Ingreso al país.
+El personal oficial deberá realizar una verificación documental y física de las importaciones para constatar su cumplimiento antes de expedir dicho certificado.
