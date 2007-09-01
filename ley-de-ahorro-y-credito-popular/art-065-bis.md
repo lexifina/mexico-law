@@ -1,2 +1,3 @@
-Artículo 65 Bis.- Las Federaciones a través de su asamblea general de afiliados, podrán designar consejeros independientes para que participen en los trabajos del consejo de administración, en igualdad de circunstancias que el resto de los consejeros.
+Artículo 65 Bis.- Las Federaciones a través de su asamblea general de afiliados, deberán designar, al menos, un consejero independiente para que participe en los trabajos del consejo de administración, en igualdad de circunstancias que el resto de los consejeros.
+34
 Se entenderá por consejero independiente a la persona que sea ajena a la administración de la Federación de que se trate, y que reúna los requisitos y condiciones que determine la Comisión, mediante disposiciones de carácter general.
