@@ -31,6 +31,7 @@ De los recursos transferidos a las entidades federativas
 CAPÍTULO II
 De la regionalización del gasto
 CAPÍTULO III
+De la Transparencia e Información sobre el ejercicio del gasto federalizado
 TÍTULO QUINTO
 De la Contabilidad Gubernamental
 CAPÍTULO I
