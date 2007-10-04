@@ -2,7 +2,7 @@ Artículo 18-A. Las promociones que se presenten ante las autoridades fiscales e
 I.- Señalar los números telefónicos, en su caso, del contribuyente y el de los autorizados en los términos del artículo 19 de este Código.
 II.- Señalar los nombres, direcciones y el registro federal de contribuyentes o número de identificación fiscal tratándose de residentes en el extranjero, de todas las personas involucradas en la solicitud o consulta planteada.
 III.- Describir las actividades a las que se dedica el interesado.
-IV.- Indicar el monto de la operación u operaciones objeto de la promoción.
+IV.- I ndicar el monto de la operación u operaciones objeto de la promoción.
 V.- Señalar todos los hechos y circunstancias relacionados con la promoción, así como acompañar los documentos e información que soporten tales hechos o circunstancias.
 VI.- Describir las razones de negocio que motivan la operación planteada.
 VII. Indicar si los hechos o circunstancias sobre los que versa la promoción han sido previamente planteados ante la misma autoridad u otra distinta, o han sido materia de medios de defensa ante autoridades administrativas o jurisdiccionales y, en su caso, el sentido de la resolución.
