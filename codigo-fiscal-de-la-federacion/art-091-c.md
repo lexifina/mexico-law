@@ -1,1 +1,1 @@
-Artículo 91-C. Es infracción de los contadores, abogados o cualquier otro asesor en materia fiscal, no advertir a los destinatarios de la opinión que otorgue por escrito, si el criterio contenido en la misma es diverso a los criterios que en su caso hubiere dado a conocer la autoridad fiscal conforme al inciso h) de la fracción I, del artículo 33 de este Código.
+Artículo 91-C. (Se deroga)
