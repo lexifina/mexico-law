@@ -6,3 +6,13 @@ TRANSITORIO
 ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 9 de diciembre de 2004.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Manlio Fabio Beltrones Rivera, Presidente.- Sen. Sara I. Castellanos Cortés, Secretaria.- Dip. Marcos Morales Torres, Secretario.- Rúbricas."
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cuatro días del mes de julio de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de las Leyes Federal de Presupuesto y Responsabilidad Hacendaria; Orgánica de la Administración Pública Federal; de Coordinación Fiscal; de Adquisiciones, Arrendamientos y Servicios del Sector Público, y de Obras Públicas y Servicios Relacionados con las Mismas.
+Publicado en el Diario Oficial de la Federación el 1º de octubre de 2007
+LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
+ARTÍCULO SEXTO.- Se REFORMAN los artículos 33, párrafo segundo, y 45, párrafo tercero, y se ADICIONA el artículo 36, con un párrafo tercero, pasando los actuales párrafos tercero a quinto a ser párrafos cuarto a sexto, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, para quedar como sigue:
+...
+TRANSITORIOS
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO. Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.
+México, D.F., a 14 de septiembre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Patricia Villanueva Abrajan, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de septiembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
