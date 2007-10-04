@@ -13,5 +13,11 @@ La visita domiciliaria o el requerimiento de información que se realice a un co
 Ultimo párrafo (Se deroga)
 El plazo a que se refiere el segundo párrafo de la fracción I de este artículo es independiente del que se establece en el artículo 46-A de este Código.
 Las facultades de comprobación a que se refiere este artículo, se podrán ejercer sin perjuicio de lo dispuesto en el antepenúltimo párrafo del artículo 42 de este Código.
-Para el ejercicio de las facultades de comprobación de las autoridades fiscales, no se deberá observar el orden establecido en este artículo, cuando en el dictamen exista abstención de opinión, opinión negativa o salvedades que tengan implicaciones fiscales, tampoco se seguirá el mencionado orden en el caso de que se determinen diferencias de impuestos a pagar y éstos no se enteren de conformidad con lo dispuesto en el penúltimo párrafo del artículo 32-A de este Código.
+Para el ejercicio de las facultades de comprobación de las autoridades fiscales, no se deberá observar el orden establecido en este artículo, cuando:
+a) En el dictamen exista abstención de opinión, opinión negativa o salvedades que tengan implicaciones fiscales.
+b) En el caso de que se determinen diferencias de impuestos a pagar y éstos no se enteren de conformidad con lo dispuesto en el penúltimo párrafo del artículo 32-A de este Código.
+c) El dictamen no surta efectos fiscales.
+d) El contador público que formule el dictamen no esté autorizado o su registro esté suspendido o cancelado.
+e) El contador público que formule el dictamen desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio en los términos del Reglamento de este Código.
+f) El objeto de los actos de comprobación verse sobre contribuciones o aprovechamientos en materia de comercio exterior; clasificación arancelaria; cumplimiento de regulaciones o restricciones no arancelarias; la legal importación, estancia y tenencia de mercancías de procedencia extranjera en territorio nacional.
 Tratándose de la revisión de pagos provisionales o mensuales, sólo se aplicará el orden establecido en este artículo, respecto de aquellos comprendidos en los periodos por los cuales ya se hubiera presentado el dictamen.

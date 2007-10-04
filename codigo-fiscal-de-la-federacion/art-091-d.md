@@ -1,1 +1,1 @@
-Artículo 91-D. Los contadores, abogados o cualquier otro asesor en materia fiscal que cometan la infracción a que se refiere el artículo anterior serán sancionados con una multa de $20,000.00 a $30,000.00.
+Artículo 91-D. (Se deroga)
