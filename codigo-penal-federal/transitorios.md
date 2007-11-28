@@ -7,7 +7,7 @@ Dado en el Palacio del Poder Ejecutivo Federal, en México, a los trece días de
 Lo que comunico a usted para su publicación y demás fines.
 Sufragio Efectivo. No Reelección.
 México, D.F., a 14 de agosto de 1931.- El Subsecretario de Gobernación. Encargado del Despacho, Octavio Mendoza González.- Rúbrica.
-111 de 143 APENDICE 1
+110 de 143 APENDICE 1
 TABLA 1 PRIMODELINCUENCIA 1ª REINCIDENCIA 2ª REINCIDENCIA MARIHUANA RESINA DE CANNABIS (HASCHICH) MORFINA BUPRENORFINA A (NUVAINE) CLORHIDRATO DE COCAINA SULFATO DE COCAINA HEROINA (DIACETIL - MORFINA) FENTANIL (ALFA - METIL) (CHINA - WHITE) MEPERIDINA (DEMEROL) PENA DE PRISION máx 250 grs máx 5 grs máx 150 mgs máx 200 mgs máx 25 grs máx 250 mgs máx 1 gr máx 2 grs máx 2 grs 10 meses a 1 año 4 meses 1 año a 1 año 6 meses 1 año 3 meses a 1 año 9 meses 250 grs a 1 kg 5-20 grs 150-300 mgs 200-400 mgs 25-50 grs 250-500 mgs 1-2 grs 2-4-grs 2-4 grs 1 año 4 meses a 1 año 9 meses 1 año 6 meses a 2 años 1 año 9 meses a 2 años 3 meses 1 a 2.5 kg 20-50 grs 300-500 mgs 400-800 mgs 50-100 grs 500 mgs-1gr 2-4 grs 4-8 grs 4-8 grs 1 año 9 meses a 2 años 9 meses 2 años a 3 años 1 mes 2 años 3 meses a 3 años 5 meses
 2.5 a 5 kg 50-100 grs 500-1 gr 800-1 gr 100-200 grs 1-2 grs 4-6 grs 8-16 grs 8-16 grs 2 años 9 meses a 4 años 3 meses 3 años 1 mes a 4 años 9 meses 3 años 5 meses a 5 años 3 meses
 TABLA 2 PRIMODELINCUENCIA 1ª REINCIDENCIA 2ª REINCIDENCIA FENCICLIDINA (PCP) MEZCALINA ACIDO LISERGICO (LSD) PSILOCIBINA CLORHIDRATO DE METANFETAMINA (ICE) METANFETAMINA PENA DE PRISIÓN máx 2 grs máx 2.5 grs máx 50 mgs máx 2.5 grs máx 1.5 gr máx 1.5 gr 10 meses a 1 año 4 meses 1 años a 1 año 6 meses 1 año 3 meses a 1 año 9 meses 2-4 grs
