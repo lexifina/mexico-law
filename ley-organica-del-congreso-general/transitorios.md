@@ -20,8 +20,8 @@ Fortalecimiento del Federalismo
 Fortalecimiento Municipal
 Puntos Constitucionales y Sistema Federal Derechos Humanos
 Justicia
-Justicia y Derechos Humanos Relaciones Exteriores
-Relaciones Exteriores Defensa Nacional
+Justicia y Derechos Humanos Relaciones Exteriores Relaciones Exteriores
+Defensa Nacional
 Defensa Nacional Marina
 Marina Hacienda y Crédito Público
 Hacienda y Crédito Público Desarrollo Regional y Apoyo a la Producción
@@ -33,8 +33,8 @@ Desarrollo Social y Vivienda Asuntos Hidráulicos
 Bosques y Selvas
 Ecología y Medio Ambiente
 Pesca
-Medio Ambiente, Recursos Naturales y Pesca Energéticos Energía
-Artesanías
+Medio Ambiente, Recursos Naturales y Pesca Energéticos
+Energía Artesanías
 Comercio
 Patrimonio y Fomento Industrial
 Comercio y Fomento Industrial Agricultura
@@ -46,9 +46,9 @@ Cultura
 Deporte
 Educación
 Educación Pública, Cultura y Ciencia y Tecnología Pensionados y Jubilados
-Salud
+Salud Salud y Seguridad Social
 Seguridad Social
-Salud y Seguridad Social Trabajo y Previsión Social
+Trabajo y Previsión Social
 Trabajo y Previsión Social Reforma Agraria
 Reforma Agraria Turismo
 Turismo Estudios Legislativos
