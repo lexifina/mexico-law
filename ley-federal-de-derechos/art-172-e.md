@@ -4,4 +4,4 @@ II.- Para construir accesos, cruzamientos e instalaciones marginales en el derec
 III.- Para instalar anuncios y señales publicitarias en el derecho de vía, por anuncio o señal publicitaria ... $5,776.00
 IV.- Para construir y operar puentes sobre vías férreas ... $13,620.00
 V.- Por el otorgamiento de permisos de maniobras de carga, descarga, estiba, desestiba, alijo, acarreo, almacenaje y transbordo que se ejecuten en el derecho de vía de las vías férreas ... $8,380.00
-VI.- Por asignación de inicial y número, o matrícula al equipo ferroviario ... $427.00
+VI.- Por asignación de inicial y número, o matrícula al equipo ferroviario ... $426.00

@@ -33,7 +33,7 @@ F.- Por la expedición o revalidación de cada licencia para la portación de ar
 I.- Por la expedición de:
 a) Licencia particular individual ... $1,493.00
 b) Licencia particular colectiva ... $23,208.00
-c) Licencia oficial colectiva ... $12,601.00
+c) Licencia oficial colectiva ... $12,600.00
 II.- Por la revalidación de:
 a) Licencia particular individual ... $1,493.00
 b) Licencia particular colectiva ... $23,208.00
