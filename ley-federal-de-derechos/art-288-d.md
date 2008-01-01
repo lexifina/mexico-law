@@ -7,3 +7,10 @@ B. Tomas fotográficas:
 I. Por día en zona arqueológica, museo, o monumento del patrimonio nacional bajo custodia de los institutos competentes ... 3,481.00
 II. Las instituciones públicas dedicadas a la promoción, enseñanza o investigación de la cultura, la ciencia o el arte, pagarán el 60% del monto de los derechos citados en la fracción I de este apartado.
 No pagarán los derechos establecidos en este artículo, las autoridades e instituciones públicas competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos, en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
+Artículo 288-D-1. Por el uso, goce o aprovechamiento, con fines comerciales para filmación, videograbación y tomas fotográficas de museos, bibliotecas, recintos culturales y artísticos y demás inmuebles administrados por el Consejo Nacional para la Cultura y las Artes se pagará el derecho de filmación y tomas fotográficas conforme a las siguientes cuotas:
+A. Filmaciones o videograbaciones:
+I. Por día ... $6,962.00
+II. Por día, cuando se trata de locaciones ... $45,000.00
+El cobro de este derecho es independiente a los que se causen por el uso o aprovechamiento de los inmuebles.
+B. Tratándose de tomas fotográficas ... $3,481.00 por día.
+No pagarán los derechos establecidos en este artículo las instituciones públicas que realicen conjuntamente con el Consejo Nacional para la Cultura y las Artes, eventos culturales, educativos, cívicos o de asistencia social, así como las que realicen actividades de promoción, difusión y comercialización culturales, educativas, cívicas o de asistencia social, previa celebración de un convenio.

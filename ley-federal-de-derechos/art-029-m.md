@@ -1,3 +1,1 @@
-Artículo 29-M. Cuando en la determinación del importe de los derechos a pagar señalados en los artículos 29-D y 29-E de esta Ley, resultare un importe menor respecto de aquél pagado en el ejercicio fiscal inmediato anterior, las entidades estarán obligadas a pagar dicha cuota siempre que la diferencia no sea mayor al 5 por ciento entre el importe pagado y el importe determinado para el ejercicio fiscal que corresponda.
-En caso de que la diferencia sea mayor al 5 por ciento entre el importe pagado en el ejercicio fiscal inmediato anterior y el importe determinado para el ejercicio fiscal que corresponda, las entidades estarán obligadas a pagar el importe que resulte de restar el 5 por ciento a la cuota pagada en el ejercicio fiscal inmediato anterior.
-Lo dispuesto en este artículo no se aplicará a los importes mínimos y cuotas fijas establecidos en los artículos 29-D y 29-E de esta Ley.
+Artículo 29-M. (Se deroga).

@@ -3,7 +3,7 @@ I. Hasta 500 metros cúbicos ... Exento
 II. De más de 500 metros cúbicos hasta 1,500 metros cúbicos ... $2,142.00
 III. De más de 1,500 metros cúbicos hasta 3,000 metros cúbicos ... $2,892.00
 IV. De más de 3,000 metros cúbicos ... $3,749.00
-Por la solicitud y, en su caso, autorización de la modificación de los programas de manejo a que se refiere este artículo se pagará el 35% de la cuota según corresponda.
+Por la solicitud y, en su caso, autorización de la modificación de los programas de manejo a que se refiere este artículo se pagará el 35% de la cuota según corresponda, tomando como base el total de los volúmenes autorizados pendientes de aprovechar.
 No se pagarán los derechos establecidos en el presente artículo, cuando se cumpla alguno de los siguientes supuestos:
 a). La solicitud de modificación al programa de manejo sea exclusivamente para incluir el aprovechamiento de recursos forestales no maderables;
 b). Hayan pagado los derechos a que se refiere el artículo 194-H de la presente Ley y se trate del mismo proyecto, o

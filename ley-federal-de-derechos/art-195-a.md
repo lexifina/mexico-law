@@ -1,12 +1,13 @@
 Artículo 195-A.- Por las autorizaciones, permisos, solicitudes y registros que implican análisis y manejo de riesgos sanitarios para la salud pública, se pagará el derecho de riesgo sanitario conforme a las siguientes cuotas:
 I. Por la solicitud y, en su caso, el registro de Medicamentos Alopáticos, se pagará por cada uno, el derecho conforme a las siguientes cuotas:
-a). Medicamento nuevo ... $39,525.00
-b). Medicamento genérico ... $28,684.00
-II. Por la solicitud y, en su caso, el registro de medicamentos homeopáticos, herbolarios y vitamínicos, se pagará por cada uno, el derecho conforme a la cuota de ... $6,776.00
+a). Medicamento nuevo ... $74,000.00
+b). Medicamento genérico ... $44,000.00
+c). Medicamento molécula nueva ... $80,000.00
+II. Por la solicitud y, en su caso, el registro de medicamentos homeopáticos, herbolarios y vitamínicos, se pagará por cada uno el derecho conforme a la cuota de ... $12,000.00
 III. Por la solicitud y, en su caso, el registro de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, materiales quirúrgicos, de curación, productos higiénicos e insumos de uso odontológico que no sean medicamentos, se pagará por cada uno, el derecho conforme a las siguientes cuotas:
-a). Clase I ... $4,517.00
-b). Clase II ... $6,776.00
-c). Clase III ... $9,034.00
+a). Clase I ... $7,500.00
+b). Clase II ... $11,000.00
+c). Clase III ... $14,000.00
 IV. Por la solicitud y, en su caso, el registro de plaguicidas, se pagará el derecho de registro por cada producto, conforme a las siguientes cuotas:
 a). Categoría toxicológica I (Extremadamente Tóxico) ... $48,204.00
 b). Categoría toxicológica II (Altamente Tóxico) ... $40,170.00
