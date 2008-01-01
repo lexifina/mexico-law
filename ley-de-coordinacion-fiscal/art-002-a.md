@@ -17,19 +17,17 @@ Petróleos Mexicanos y sus organismos subsidiarios, por conducto de Petróleos M
 III.- 1% de la recaudación federal participable, en la siguiente forma:
 a) El 16.8% se destinará a formar un Fondo de Fomento Municipal.
 b) El 83.2% incrementará dicho Fondo de Fomento Municipal y sólo corresponderá a las entidades que se coordinen en materia de derechos, siempre que se ajusten estrictamente a los lineamientos establecidos en el artículo 10-A de esta Ley.
-El Fondo de Fomento Municipal se distribuirá entre las entidades mediante la aplicación del coeficiente de participación que se determinará para cada uno de ellos conforme a la siguiente fórmula:
-i i A CE = ----- t TA
+El Fondo de Fomento Municipal se distribuirá entre las entidades conforme a la fórmula siguiente:
+C FFM F F,, 07 07,, Δ + =
+∑ - - - - =
+n R R n R R C 2, 1, 2, 1,,
 Donde:
-i CE = t
-Coeficiente de participación en el Fondo de Fomento Municipal de la Entidad i en el año para el que se efectúa el cálculo.
-i TA = Suma de A
-i = cada Entidad.
-i i (CE ) (IPDA ) i t-1 t-1 A = -------------------------- IPDA t-2
-i CE = t-1
-Coeficiente de participación de la Entidad, i en el año inmediato anterior a aquél para el cual se efectúe el cálculo.
-i IPDA = t-1
-Recaudación local del predial y de los derechos de agua en la Entidad i en el año inmediato anterior para el cual se efectúa el cálculo.
-i IPDA = t-2
-Recaudación local del predial y de los derechos de agua en la Entidad i en el segundo año inmediato anterior para el cual se efectúa el cálculo.
+Ci,t es el coeficiente de distribución del Fondo de Fomento Municipal de la entidad i en el año en que se efectúa el cálculo.
+Fi,t es la participación del fondo al que se refiere este artículo de la entidad i en el año t.
+Fi,07 es la participación del fondo al que se refiere este artículo que la entidad i recibió en el año 2007.
+ΔFFM07,t es el crecimiento en el Fondo de Fomento Municipal entre el año 2007 y el periodo t.
+Ri,t es la recaudación local de predial y de los derechos de agua de la entidad i en el año t.
+ni es la última información oficial de población que hubiere dado a conocer el Instituto Nacional de Estadística, Geografía e Informática para la entidad i.
 Los Estados entregarán íntegramente a sus municipios las cantidades que reciban del Fondo de Fomento Municipal, de acuerdo con lo que establezcan las legislaturas locales, garantizando que no sea menor a lo recaudado por los conceptos que se dejan de recibir por la coordinación en materia de derechos.
 Las cantidades que correspondan a los Municipios en los términos de las fracciones I y II, se pagarán por la Federación directamente a dichos municipios.
+La fórmula del Fondo de Fomento Municipal no será aplicable en el evento de que en el año que se calcula el monto de dicho Fondo sea inferior al obtenido en el año 2007. En dicho supuesto, la distribución se realizará en relación con la cantidad efectivamente generada en el año que se calcula y de acuerdo al coeficiente efectivo que cada entidad haya recibido del Fondo de Fomento Municipal en el 2007.
