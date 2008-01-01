@@ -1,1 +1,0 @@
-Artículo 2o.-A.- Cuando en un ejercicio los contribuyentes del impuesto sobre la renta tengan derecho a la reducción de dicho impuesto en los términos de la Ley respectiva, podrán reducir los pagos provisionales del impuesto establecido en esta Ley, así como el impuesto del ejercicio, en la misma proporción en que se reduzca el citado impuesto sobre la renta a su cargo.

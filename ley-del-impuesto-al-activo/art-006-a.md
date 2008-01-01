@@ -1,1 +1,0 @@
-Artículo 6o.-A.- Los contribuyentes que reciban créditos de una empresa de comercio exterior residente en México debidamente registrada, podrán optar por pagar por cuenta y orden de dicha empresa, el impuesto que a esta última le corresponda por los créditos que les otorguen.
