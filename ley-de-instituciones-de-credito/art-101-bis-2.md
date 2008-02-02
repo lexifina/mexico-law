@@ -1,0 +1,1 @@
+Artículo 101 Bis 2.- Las instituciones de crédito deberán observar lo dispuesto en los artículos 101 y 101 Bis 3 de esta Ley, respecto a los requisitos que debe cumplir la persona moral que les proporcione los servicios de auditoría externa, así como el auditor externo que suscriba el dictamen y otros informes correspondientes a los estados financieros.
