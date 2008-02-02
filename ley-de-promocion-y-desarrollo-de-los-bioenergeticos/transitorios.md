@@ -1,0 +1,7 @@
+TRANSITORIOS
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- Los Programas a que se refieren las fracciones IV y VIII de los Artículos 11 y 12 respectivamente, deberán ser expedidos en un plazo no mayor a seis meses contados a partir de la entrada en vigor de esta Ley.
+TERCERO.- La Comisión de Bioenergéticos se instalará dentro del mes siguiente a la entrada en vigor de la presente Ley, y propondrá al Ejecutivo Federal su Reglamento Interno, en un plazo no mayor a tres meses, contados a partir de la fecha de su instalación.
+CUARTO.- El Ejecutivo Federal expedirá el Reglamento de la Presente Ley en un periodo no mayor a nueve meses a partir de la publicación de la presente Ley.
+México, D.F., a 13 de diciembre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Santiago Gustavo Pedro Cortes, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta y uno de enero de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
