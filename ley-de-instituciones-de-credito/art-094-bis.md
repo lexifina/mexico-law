@@ -1,0 +1,1 @@
+Artículo 94 Bis.- La Comisión Nacional Bancaria y de Valores podrá emitir disposiciones de carácter general en las que se definan las actividades que se aparten de las sanas prácticas y usos comerciales en el ofrecimiento y prestación de los servicios financieros de las instituciones de crédito, buscando en todo momento la adecuada protección de los intereses del público.
