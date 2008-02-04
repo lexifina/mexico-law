@@ -1,0 +1,4 @@
+Artículo 45-O.- Las instituciones de banca múltiple que mantengan vínculos de negocio o patrimoniales con personas morales que realicen actividades empresariales, se regirán por lo previsto en el presente capítulo y las demás disposiciones contenidas en esta Ley.
+Sin perjuicio de lo anterior, las disposiciones contenidas en este Capítulo, no serán aplicables a:
+I. Instituciones de banca múltiple que formen parte de un grupo financiero constituido en términos de la Ley para Regular las Agrupaciones Financieras, respecto de las sociedades integrantes del grupo financiero y sus subsidiarias, incluyendo a la sociedad controladora, y
+II. Instituciones de banca múltiple que no sean integrantes de un grupo financiero respecto de aquellas entidades financieras reguladas por las leyes financieras vigentes que pertenezcan al mismo Grupo empresarial o Consorcio al que pertenezca la institución de banca múltiple.

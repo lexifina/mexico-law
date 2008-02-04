@@ -1,0 +1,1 @@
+Artículo 98 Bis.- La Comisión Nacional Bancaria y de Valores publicará en el Diario Oficial de la Federación las disposiciones y reglas de carácter general que emita en ejercicio de las facultades que esta u otras leyes le otorgan, así como los actos administrativos que, en cumplimiento de las leyes, deban publicarse en el mismo medio.
