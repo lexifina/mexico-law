@@ -19,6 +19,6 @@ Sanciones que podrá imponer la Comisión
 Sección III
 Sanciones que podrá imponer el Banco de México
 Sección IV
-Sanciones que podrá imponer la Procuraduría Federal del Consumidor
+Sanciones que podrá imponer la Profeco y la Condusef
 CAPÍTULO VI
 QUITAS Y REESTRUCTURAS
