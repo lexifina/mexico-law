@@ -1,0 +1,1 @@
+Artículo 68 Bis.- Las multas a que se refiere el artículo anterior podrán ser impuestas tanto a las Empresas Comerciales y Sofomes, E.N.R., como a sus administradores, funcionarios, empleados o apoderados que sean responsables de la infracción.
