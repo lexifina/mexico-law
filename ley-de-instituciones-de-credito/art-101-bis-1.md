@@ -1,0 +1,6 @@
+Artículo 101 Bis 1.- La Comisión Nacional Bancaria y de Valores contará con facultades de inspección y vigilancia, respecto de las personas morales que presten servicios de auditoría externa en términos de esta Ley, incluyendo los socios o empleados de aquéllas que formen parte del equipo de auditoría, a fin de verificar el cumplimiento de esta Ley y la observancia de las disposiciones de carácter general que de ella emanen. Para tal efecto, la citada Comisión podrá:
+I. Requerir toda clase de información y documentación relacionada con la prestación de este tipo de servicios;
+II. Practicar visitas de inspección;
+III. Requerir la comparecencia de socios, representantes y demás empleados de las personas morales que presten servicios de auditoría externa, y
+IV. Emitir o reconocer normas y procedimientos de auditoría que deberán observar las personas morales que presten servicios de auditoría externa al dictaminar o emitir opiniones relativas a los estados financieros de las instituciones de crédito.
+El ejercicio de las facultades a que se refiere este artículo estará circunscrito a los dictámenes, opiniones y prácticas de auditoría que, en términos de esta Ley, practiquen las personas morales que presten servicios de auditoría externa, así como sus socios o empleados.

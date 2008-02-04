@@ -1,0 +1,8 @@
+Artículo 137 Bis.- La Comisión Nacional Bancaria y de Valores podrá, previo derecho de audiencia de las instituciones de crédito, suspender o limitar de manera parcial la celebración de las operaciones activas, pasivas y de servicios a que se refiere el artículo 46 de esta Ley, cuando dichas actividades se ubiquen en cualquiera de los supuestos siguientes:
+I. No se cuente con la infraestructura o controles internos necesarios para realizar las operaciones y servicios respectivos, conforme a las disposiciones aplicables;
+II. Se deje de cumplir o se incumpla con alguno de los requisitos para el inicio de las operaciones y servicios de que se trate;
+III. Se realicen operaciones distintas a las autorizadas;
+IV. Se incumpla con los requisitos necesarios para realizar operaciones o proporcionar servicios específicos, establecidos en disposiciones de carácter general;
+V. Se realicen operaciones o proporcionen servicios que impliquen conflicto de interés en perjuicio de sus clientes o intervengan en actividades que estén prohibidas en esta Ley o en las disposiciones que de ella emanen, y
+VI. En los demás casos que señalen ésta u otras leyes.
+La orden de suspensión a que se refiere este artículo es sin perjuicio de las sanciones que puedan resultar aplicables en términos de lo previsto en esta Ley y demás disposiciones.
