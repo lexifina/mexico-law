@@ -1,0 +1,1 @@
+Artículo 109 Bis 3.- Las sanciones serán impuestas por la Junta de Gobierno de la Comisión Nacional Bancaria y de Valores, la que podrá delegar esa facultad, en razón de la naturaleza de la infracción o del monto de la multa, al presidente o a los demás servidores públicos de esa Comisión.

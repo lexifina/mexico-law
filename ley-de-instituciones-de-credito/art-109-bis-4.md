@@ -1,0 +1,1 @@
+Artículo 109 Bis 4.- La Comisión Nacional Bancaria y de Valores podrá, atendiendo a las circunstancias de cada caso, imponer la multa que corresponda al infractor en los supuestos señalados en las fracciones I y II del artículo 108 de esta ley, o bien, solamente amonestarlo.

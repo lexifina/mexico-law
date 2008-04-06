@@ -1,0 +1,1 @@
+Artículo 114 Bis.- Las penas previstas en esta Ley, se reducirán a un tercio cuando se acredite haber reparado el daño o haber resarcido el perjuicio ocasionado.
