@@ -17,6 +17,7 @@ CAPITULO II
 De las Instituciones de Banca de Desarrollo
 CAPITULO III
 De las Filiales de Instituciones Financieras del Exterior.
+Capítulo IV
 TITULO TERCERO
 De las Operaciones
 CAPITULO I
@@ -39,7 +40,9 @@ CAPITULO I
 De las Prohibiciones
 CAPITULO II
 De las Sanciones Administrativas
-CAPITULO III
+Capítulo III
+De las Notificaciones
+Capítulo IV
 De los Delitos
 TÍTULO SEXTO
 De la Protección de los Intereses del Público

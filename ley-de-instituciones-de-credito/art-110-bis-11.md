@@ -1,0 +1,1 @@
+Artículo 110 Bis 11.- Las notificaciones por medios electrónicos, con acuse de recibo, podrán realizarse siempre y cuando el interesado o su representante así lo haya aceptado o solicitado expresamente por escrito a las autoridades financieras a través de los sistemas automatizados y mecanismos de seguridad que las mismas establezcan.
