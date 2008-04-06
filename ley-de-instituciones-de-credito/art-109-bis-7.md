@@ -1,0 +1,1 @@
+Artículo 109 Bis 7.- Los procedimientos para la imposición de las sanciones administrativas a que se refiere esta ley se iniciarán con independencia de la opinión de delito que, en su caso, emita la Comisión Nacional Bancaria y de Valores en términos del artículo 115 del presente ordenamiento legal.
