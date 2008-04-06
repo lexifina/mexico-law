@@ -1,0 +1,1 @@
+Artículo 110 Bis 12.- Las notificaciones que no fueren efectuadas conforme a este Capítulo, se entenderán legalmente hechas y surtirán sus efectos el día hábil siguiente a aquél en el que el interesado o su representante se manifiesten sabedores de su contenido.
