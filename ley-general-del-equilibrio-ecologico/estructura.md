@@ -39,6 +39,7 @@ Tipos y Características de las Áreas Naturales Protegidas
 SECCIÓN III
 SECCIÓN IV
 Sistema Nacional de Áreas Naturales Protegidas
+SECCIÓN V
 CAPÍTULO II
 Zonas de Restauración
 CAPÍTULO III
