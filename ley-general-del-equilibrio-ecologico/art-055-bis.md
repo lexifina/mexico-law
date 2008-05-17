@@ -1,0 +1,3 @@
+ARTÍCULO 55 BIS.- Las áreas destinadas voluntariamente a la conservación son aquellas que pueden presentar cualquiera de las características y elementos biológicos señalados en los artículos 48 al 55 de la presente Ley; proveer servicios ambientales o que por su ubicación favorezcan el cumplimiento de los objetivos previstos en el artículo 45 de esta Ley. Para tal efecto, la Secretaría emitirá un certificado, en los términos de lo previsto por la Sección V del presente Capítulo.
+Dichos predios se considerarán como áreas productivas dedicadas a una función de interés público.
+El establecimiento, administración y manejo de las áreas destinadas voluntariamente a la conservación se sujetará a lo previsto en la Sección V del presente Capítulo.
