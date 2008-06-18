@@ -39,6 +39,6 @@ Del Trabajo y de la Previsión Social
 Título Séptimo
 Prevenciones Generales
 Título Octavo
-De las Reformas a la Constitución
+De las Reformas de la Constitución
 Título Noveno
 De la Inviolabilidad de la Constitución
