@@ -84,3 +84,6 @@ CAPITULO VI
 Del arrendamiento financiero
 CAPITULO VII
 Del Factoraje Financiero
+Título Tercero
+De los Delitos en Materia de Títulos y Operaciones de Crédito
+Capítulo Único

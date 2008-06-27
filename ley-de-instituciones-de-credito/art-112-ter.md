@@ -1,0 +1,1 @@
+Artículo 112 Ter.- Se sancionará con prisión de tres a nueve años y de treinta mil a trescientos mil días multa, al que posea, adquiera, utilice, comercialice o distribuya, cualquiera de los objetos a que se refiere el párrafo primero del artículo 112 Bis de esta Ley, a sabiendas de que estén alterados o falsificados.
