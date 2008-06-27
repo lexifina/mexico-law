@@ -20,8 +20,8 @@ Fortalecimiento del Federalismo
 Fortalecimiento Municipal
 Puntos Constitucionales y Sistema Federal Derechos Humanos
 Justicia
-Justicia y Derechos Humanos Relaciones Exteriores Relaciones Exteriores
-Defensa Nacional
+Justicia y Derechos Humanos Relaciones Exteriores
+Relaciones Exteriores Defensa Nacional
 Defensa Nacional Marina
 Marina Hacienda y Crédito Público
 Hacienda y Crédito Público Desarrollo Regional y Apoyo a la Producción
@@ -40,15 +40,15 @@ Patrimonio y Fomento Industrial
 Comercio y Fomento Industrial Agricultura
 Ganadería
 Agricultura, Ganadería y Desarrollo Rural Comunicaciones y Transportes
-Comunicaciones y Transportes Ciencia y Tecnología
+Comunicaciones y Transportes Ciencia y Tecnología Educación Pública, Cultura y Ciencia y
 Corrección de Estilo
 Cultura
 Deporte
 Educación
-Educación Pública, Cultura y Ciencia y Tecnología Pensionados y Jubilados
-Salud Salud y Seguridad Social
+Tecnología Pensionados y Jubilados
+Salud
 Seguridad Social
-Trabajo y Previsión Social
+Salud y Seguridad Social Trabajo y Previsión Social
 Trabajo y Previsión Social Reforma Agraria
 Reforma Agraria Turismo
 Turismo Estudios Legislativos
@@ -65,8 +65,8 @@ Fomento Cooperativo y Economía Social Vigilancia de la Contaduría Mayor de Hac
 Vigilancia de la Contaduría Mayor de Hacienda Comisión Información, Gestoría y Quejas
 Comité de Información, Gestoría y Quejas
 COMITES VIGENTES ORGANO O AREA QUE ASUME SUS TAREAS
-Administración
-Junta de Coordinación Política Asuntos Editoriales
+Administración Junta de Coordinación Política
+Asuntos Editoriales
 Coordinación de Comunicación Social Asuntos Internacionales
 Comisión de Relaciones Exteriores Biblioteca e Informática
 Servicios de Bibliotecas Comunicación Social
