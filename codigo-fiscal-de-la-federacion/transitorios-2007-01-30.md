@@ -29,3 +29,11 @@ TRANSITORIO
 Único. El presente Decreto entrará en vigor a partir del 1 de enero de 2008, salvo la reforma al artículo 109, fracción XXVI de la Ley del Impuesto sobre la Renta, la cual entrará en vigor al día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación.
 México, D.F., a 14 de septiembre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Antonio Xavier Lopez Adame, Secretario.- Sen. Claudia Sofía Corichi García, Secretaria.- Rúbricas."
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de septiembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
+DECRETO por el que se reforman y adicionan diversas disposiciones al Código Fiscal de la Federación y a la Ley de Instituciones de Crédito.
+Publicado en el Diario Oficial de la Federación el 1º de julio de 2008
+Artículo Primero. Se adiciona un párrafo tercero, pasando los actuales tercer a sexto párrafos a ser cuarto a séptimo párrafos del artículo 69 del Código Fiscal de la Federación, para quedar como sigue:
+...
+TRANSITORIO
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+México, D.F., a 20 de junio de 2008.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Jacinto Gomez Pasillas, Secretario.- Sen. Claudia Sofía Corichi García, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de junio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
