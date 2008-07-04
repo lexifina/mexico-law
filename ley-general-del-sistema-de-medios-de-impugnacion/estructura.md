@@ -32,8 +32,7 @@ CAPITULO XI
 De las notificaciones
 CAPITULO XII
 De la acumulación
-CAPITULO XIII
-De los medios de apremio y de las correcciones disciplinarias
+CAPÍTULO XIII
 LIBRO SEGUNDO
 De los medios de impugnación y de las nulidades en materia electoral federal
 TITULO PRIMERO
@@ -104,8 +103,8 @@ CAPITULO I
 De las reglas generales
 CAPITULO II
 De la nulidad de la votación recibida en casilla
-CAPITULO III
-De la nulidad de la elección de diputados o de senadores
+CAPÍTULO III
+De la nulidad de las elecciones federales
 LIBRO TERCERO
 TITULO UNICO
 De las reglas particulares
