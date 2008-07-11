@@ -6,6 +6,6 @@ IV. El impuesto no sea acreditable contra otros impuestos locales o federales.
 V. No se traslade en forma expresa y por separado el impuesto a las personas que adquieran los bienes. El traslado del impuesto deberá incluirse en el precio correspondiente, sin que se considere que forma parte del precio de venta al público, ni se entienda violatorio de precios o tarifas, incluyendo los oficiales.
 VI. El impuesto se cause en el momento en que efectivamente se perciban los ingresos y sobre el monto que de ellos se perciba.
 VII. El impuesto no se aplique en dos o más etapas del proceso de comercialización.
-VIII. Tratándose de gasolinas y diesel, el monto recaudado se destine exclusivamente a infraestructura vial, rural y urbana; hidráulica: así como a programas ambientales, entre otros, de movilidad urbana.
+VIII. [Tratándose de gasolinas y diesel, el monto recaudado se destine exclusivamente a infraestructura vial, rural y urbana; hidráulica: así como a programas ambientales, entre otros, de movilidad urbana.]
 Las entidades podrán convenir con el Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, que los impuestos locales que en términos de este artículo, en su caso, establezca la entidad, se paguen en las mismas declaraciones del impuesto sobre la renta identificados por entidad.
 Los municipios recibirán como mínimo el 20% de la recaudación que corresponda a las entidades federativas en términos de este artículo. Tratándose del Distrito Federal, la distribución de dichos recursos se efectuará a sus demarcaciones territoriales.
