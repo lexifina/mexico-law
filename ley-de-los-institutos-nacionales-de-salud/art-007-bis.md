@@ -1,5 +1,6 @@
 ARTÍCULO 7 bis.- El Instituto Nacional de Medicina Genómica tendrá las siguientes atribuciones:
 I. Realizar estudios e investigaciones clínicas, epidemiológicas, experimentales, de desarrollo tecnológico y básicas en las áreas de su especialidad, para la comprensión, prevención, diagnóstico y tratamiento de las enfermedades, rehabilitación de los afectados, así como para promover medidas de salud;
+5
 II. Realizar las actividades a que se refieren las fracciones II, III, IV, V, VI, IX, X, XI, XII, XIII y XIV del artículo 6 del presente ordenamiento;
 III. Las actividades a que se refieren las fracciones VII y VIII del artículo 6 de esta Ley se realizarán a través de otras instituciones de salud;
 IV. Impulsar en forma decidida la vinculación con instituciones nacionales para conformar una red de investigación y desarrollo en el campo de la medicina genómica y disciplinas afines, con la participación de instituciones internacionales; de conformidad con lo dispuesto en la presente Ley;
