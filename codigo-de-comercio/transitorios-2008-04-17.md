@@ -1,0 +1,8 @@
+DECRETO por el que se reforman y adicionan diversas disposiciones del Código de Comercio.
+Publicado en el Diario Oficial de la Federación el 17 de abril de 2008
+ARTÍCULO ÚNICO.- Se reforman los Artículos 1054, 1057, 1058, 1063, 1069, 1079, 1154, 1165 último párrafo, 1191, 1193, 1203, 1223, 1224, 1232, fracción I, 1235, 1247, 1250, 1253, fracciones III, IV, VI y VII, 1254, 1255, 1263, 1336, 1337 fracción III, 1338, 1339, 1340, 1342, 1344, 1345, 1348, 1378, 1396, 1414, y se adicionan los artículos 1250 bis, 1250 bis 1, 1337 fracción IV, 1345 bis, 1345 bis 1, 1345 bis 2, 1345 bis 3, 1345 bis 4, 1345 bis 5, 1345 bis 6, 1345 bis 7, 1345 bis 8 y 1407 bis, todo del Código de Comercio, para quedar como sigue:
+...
+TRANSITORIO
+Único.- El presente Decreto entrará en vigor a los noventa días siguientes al de su publicación en el Diario Oficial de la Federación, en el entendido que los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor de la presente reforma, se tramitarán con las reglas anteriores a la misma.
+México, D.F., a 11 de marzo de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Esmeralda Cardenas Sanchez, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de abril de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
