@@ -1,0 +1,8 @@
+TRANSITORIOS
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Artículo Segundo.- Con la publicación de la presente Ley y su entrada en vigor se abroga la Ley de Fomento para la Lectura y el Libro publicada en el Diario Oficial de la Federación el 8 de junio del año 2000.
+Artículo Tercero.- En el término de noventa días contados a partir de la entrada en vigor de la presente Ley deberá formarse el Consejo Nacional de Fomento para el Libro y la Lectura con base en lo establecido en los artículos 12 y 14 de la presente Ley. De no hacerlo, convocará la Secretaría Ejecutiva.
+Artículo Cuarto.- El Consejo Nacional de Fomento para el Libro y la Lectura deberá expedir su manual de operación y programa de trabajo a los sesenta días de su integración.
+Artículo Quinto.- El Programa de Fomento para el Libro y la Lectura establecido en el artículo 6 de la presente Ley tendrá que ser expedido por el Secretario de Educación Pública en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor de esta Ley.
+México, D.F., a 30 de abril de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de julio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
