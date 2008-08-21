@@ -7,15 +7,11 @@ CAPITULO I
 De los almacenes generales de depósito
 CAPITULO II
 De las Arrendadoras Financieras
-CAPITULO II
-De las Arrendadoras Financieras
 CAPITULO II BIS
 De las sociedades de ahorro y préstamo
 CAPITULO III
 De las uniones de crédito
 CAPITULO III-BIS
-De las Empresas de Factoraje Financiero
-CAPITULO III BIS
 De las Empresas de Factoraje Financiero
 CAPITULO III BIS-I
 De las Filiales de Instituciones Financieras del Exterior
