@@ -1,1 +1,13 @@
 Artículo 45-A.- Se deroga.
+Artículo 45-A, derogado por DOF 18-07-2006, que seguirá vigente hasta el 18 de julio de 2013:
+Artículo 45-A.- Las sociedades que disfruten de autorización para operar como empresa de factoraje financiero, sólo podrán realizar las operaciones siguientes:
+I. Celebrar contratos de factoraje financiero, entendiéndose como tal, para efectos de esta Ley, aquella actividad en la que mediante contrato que celebre la empresa de factoraje financiero con sus clientes, personas morales o personas físicas que realicen actividades empresariales, la primera adquiera de los segundos derechos de crédito relacionados a proveeduría de bienes, de servicios o de ambos, con recursos provenientes de las operaciones pasivas a que se refiere este Artículo;
+II. Obtener préstamos y créditos de instituciones de crédito, de seguros y de fianzas del país o de entidades financieras del exterior, destinados a la realización de las operaciones autorizadas en este capítulo o para cubrir necesidades de liquidez relacionadas con su objeto social;
+III. Emitir obligaciones subordinadas y demás títulos de crédito, en serie o en masa, para su colocación entre el gran público inversionista;
+IV. Descontar, dar en garantía o negociar en cualquier forma los títulos de crédito o derechos de crédito provenientes de los contratos de factoraje, con las personas de las que reciban los financiamientos a que se refiere la fracción II anterior, así como afectar en fideicomiso irrevocable los títulos de crédito y los derechos provenientes de los contratos de factoraje finaciero a efecto de garantizar el pago de las emisiones a que se refiere la fracción III de este Artículo;
+V. Constituir depósitos, a la vista y a plazo, en instituciones de crédito del país o en entidades financieras del exterior, así como adquirir valores aprobados para el efecto por la Comisión Nacional de Valores;
+VI. Adquirir bienes muebles o inmuebles destinados a sus oficinas o necesarios para su operación;
+VII. Adquirir acciones de sociedades que se organicen exclusivamente para prestarles servicios, así como para adquirir el dominio y administrar inmuebles en los cuales las empresas de factoraje financiero, tengan establecidas o establezcan su oficina principal, alguna sucursal o una agencia;
+VIII. Prestar servicios de administración y cobranza de derechos de crédito;
+IX. Las demás que ésta u otras leyes les autoricen; y
+X. Las demás operaciones análogas y conexas que, mediante reglas de carácter general, autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México.
