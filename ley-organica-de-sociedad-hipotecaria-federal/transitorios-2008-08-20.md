@@ -1,0 +1,10 @@
+DECRETO por el que se reforma y adiciona diversas disposiciones de la Ley Orgánica de Sociedad Hipotecaria Federal y deroga el artículo noveno transitorio del Decreto por el cual se expidió la Ley Orgánica de Sociedad Hipotecaria Federal, publicado el 11 de octubre de 2001.
+Publicado en el Diario Oficial de la Federación el 20 de agosto de 2008
+ARTÍCULO PRIMERO.- Se REFORMAN los artículos 2o. primer párrafo; 4o. fracción X Ter; 5o.; 14 fracción I, inciso e); 17 fracción I; 20, fracción VI; 22 fracciones I y II Bis; 23 quinto y sexto párrafos; 23 Bis fracción I, incisos d) y e); 24 Quáter primer párrafo, y 29; se ADICIONAN la fracciones V Bis y V Ter al artículo 4o.; un cuarto párrafo al artículo 16 que recorre el actual al quinto párrafo; las fracciones VII, VIII con los incisos a), b) y c), IX y X al artículo 20; un segundo párrafo a la fracción I y las fracciones II Bis 1 y III Bis al artículo 22; el inciso f) a la fracción I y la fracción II Bis al artículo 23 Bis, y el artículo 33 de la Ley Orgánica de Sociedad Hipotecaria Federal, para quedar como sigue:
+...
+ARTÍCULO SEGUNDO.- Se deroga el artículo Noveno Transitorio del Decreto por el cual se expidió la Ley Orgánica de Sociedad Hipotecaria Federal, publicado en el Diario Oficial de la Federación el 11 de octubre de 2001, para quedar como sigue:
+...
+TRANSITORIO
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+México, D.F., a 30 de abril de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Jacinto Gomez Pasillas, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecinueve de agosto de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.

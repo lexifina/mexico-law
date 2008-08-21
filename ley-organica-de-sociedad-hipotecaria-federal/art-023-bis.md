@@ -3,9 +3,11 @@ I. Proponer, para la aprobación del Consejo Directivo:
 a) Las políticas contables referentes al registro, valuación de rubros de los estados financieros y presentación y revelación de información financiera, con el fin de que sea correcta, precisa, íntegra, confiable, oportuna, apegada a las disposiciones legales y administrativas aplicables y que coadyuve con la toma de decisiones;
 b) Los lineamientos generales a seguir para la selección, contratación y determinación de los honorarios de los asesores ligados a las funciones del propio Comité de Auditoría;
 c) Los objetivos, lineamientos y políticas generales del sistema de control interno de la Sociedad, así como sus actualizaciones;
-d) El código de conducta de los servidores públicos y consejeros de la Sociedad, y
-e) Las políticas y reglas de operación del propio Comité de Auditoría, las cuales deberán sujetarse a las disposiciones aplicables;
+d) El código de conducta de los servidores públicos y consejeros de la Sociedad;
+e) Las políticas y reglas de operación del propio Comité de Auditoría, las cuales deberán sujetarse a las disposiciones aplicables, y
+f) El programa de auditoría de cada ejercicio elaborado por el contralor interno;
 II. Verificar, cuando menos una vez al año o cuando lo requiera la Secretaría de la Función Pública, que el programa de auditoría de la Sociedad se esté aplicando de conformidad con estándares de calidad adecuados y que las actividades respectivas se realicen con efectividad;
+II Bis. Recibir del contralor interno los informes de la auditoría interna, el cual se coordinará con el órgano interno de control dependiente de la Secretaría de la Función Pública a efecto de que pueda desempeñar las funciones de su competencia conforme a las disposiciones de la Comisión Nacional Bancaria y de Valores, y establecer los lineamientos para no duplicar las funciones de auditoría interna;
 III. Con base en los resultados de las auditorías que realicen las instancias competentes, verificar la aplicación del sistema de control interno de la Sociedad, así como evaluar su eficiencia y efectividad;
 IV. Informar al Consejo Directivo, cuando menos una vez al año:
 a) La situación que guarda el sistema de control interno de la Sociedad, mediante la descripción de las deficiencias, desviaciones o aspectos que requieran una mejoría, derivadas de los resultados de las revisiones de los auditores internos y externos;
