@@ -1,0 +1,1 @@
+Artículo 149 Bis. El derecho al servicio materno infantil para la cónyuge, la concubina y las hijas menores de edad dependientes económicas, se perderá al fallecimiento del militar, salvo cuando acrediten que el nacimiento fue dentro del término de 300 días a partir del deceso del militar.
