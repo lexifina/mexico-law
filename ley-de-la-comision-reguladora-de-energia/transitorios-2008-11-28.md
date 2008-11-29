@@ -1,0 +1,10 @@
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de la Comisión Reguladora de Energía.
+Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2008
+ARTÍCULO ÚNICO. Se reforman y adicionan los artículos 1; 2, fracciones V, VI y VII; 3, fracciones VII, VIII, IX, X, XI, XIII, XIV, XV y XXI; 4; 6; 7, fracción VIII; 10; 12 y 13; y se deroga la fracción VIII del artículo 2, todos de la Ley de la Comisión Reguladora de Energía, para quedar como sigue:
+...
+Transitorios
+Primero.- El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo.- La Cámara de Diputados proveerá lo necesario en el Presupuesto de Egresos de la Federación para que la Secretaría de Energía cuente con los recursos humanos y materiales necesarios para que la Comisión dé cabal cumplimiento a las atribuciones conferidas con motivo del presente Decreto.
+Tercero.- Respecto de los comisionados que al inicio de la vigencia de este Decreto hubiesen sido designados por el Ejecutivo Federal y cuyos nombramientos expiren los días 24 de febrero de 2009, 14 de diciembre de 2010, 31 de agosto y 31 de octubre de 2011 y 15 de noviembre de 2012, sus períodos de gestión vencerán los días 31 de diciembre de los años 2009, 2010, 2011, 2012 y 2013, por única vez, como excepción a lo establecido en el artículo 6 de esta Ley.
+México, D.F., a 28 de Octubre de 2008.- Sen. Gustavo Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Dip. Margarita Arenas Guzmán, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de noviembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Fernando Francisco Gómez Mont Urueta.- Rúbrica.
