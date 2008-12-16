@@ -1,0 +1,1 @@
+Artículo 157 Bis.- La Secretaría de Salud y los gobiernos de las entidades federativas en el ámbito de sus respectivas competencias, se coordinarán para la promoción del uso del condón, priorizando a las poblaciones de mayor vulnerabilidad y riesgo de contraer la infección del VIH/SIDA.
