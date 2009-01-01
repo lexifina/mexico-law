@@ -1,8 +1,7 @@
 Artículo 195-A.- Por las autorizaciones, permisos, solicitudes y registros que implican análisis y manejo de riesgos sanitarios para la salud pública, se pagará el derecho de riesgo sanitario conforme a las siguientes cuotas:
 I. Por la solicitud y, en su caso, el registro de Medicamentos Alopáticos, se pagará por cada uno, el derecho conforme a las siguientes cuotas:
-a). Medicamento nuevo ... $74,000.00
-b). Medicamento genérico ... $44,000.00
-c). Medicamento molécula nueva ... $80,000.00
+a). Medicamento genérico ... $53,608.00
+b). Medicamento molécula nueva ... $95,854.00
 II. Por la solicitud y, en su caso, el registro de medicamentos homeopáticos, herbolarios y vitamínicos, se pagará por cada uno el derecho conforme a la cuota de ... $12,000.00
 III. Por la solicitud y, en su caso, el registro de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, materiales quirúrgicos, de curación, productos higiénicos e insumos de uso odontológico que no sean medicamentos, se pagará por cada uno, el derecho conforme a las siguientes cuotas:
 a). Clase I ... $7,500.00
@@ -24,11 +23,11 @@ b). Categoría toxicológica II (Altamente Tóxico) ... $9,181.00
 c). Categoría toxicológica III (Moderadamente Tóxico) ... $3,953.00
 d). Categoría toxicológica IV (Ligeramente Tóxico) ... $1,526.00
 No se pagarán los derechos a que se refiere esta fracción, cuando los permisos de importación sean solicitados por instituciones educativas en el país reconocidas oficialmente para la investigación y cuando lo soliciten la Federación, el Distrito Federal, los estados y los municipios, para las campañas fitozoosanitarias, sanitarias y ecológicas.
-Por la modificación a la autorización de permiso para importación de plaguicidas, se pagará el 75% del derecho conforme a la categoría que corresponda.
+(Se deroga tercer párrafo).
 VIII. Por la solicitud y, en su caso, expedición de la licencia sanitaria de Bancos de Sangre, se pagará el derecho conforme a la cuota de ... $7,498.00
 Por la modificación a la licencia sanitaria de bancos de sangre se pagará el 75% del derecho que corresponda.
 No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
-IX. Por cada solicitud y, en su caso, autorización del permiso de importación para suplementos alimenticios, se pagará el derecho conforme a la cuota de ... $2,823.00
+IX. Por cada solicitud y, en su caso, autorización del permiso de importación para suplementos alimenticios, se pagará el derecho conforme a la cuota de: ... $3,400.00
 Por las modificaciones o prórrogas que se soliciten a los permisos señalados en esta fracción, se pagará el 75% del derecho que corresponda.
 X. Por la solicitud y, en su caso, expedición de la licencia sanitaria para:
 a). Establecimientos con disposición de órganos y tejidos ... $7,200.00

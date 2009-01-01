@@ -7,8 +7,9 @@ ZONA V. Estado de Baja California: Mexicali; Estado de Campeche: Campeche; Estad
 ZONA VI. Estado de Baja California: Ensenada; Estado de Baja California Sur: Comondú; Estado de Veracruz: Alvarado y Tecolutla; Estado de Yucatán: Progreso.
 ZONA VII. Estado de Baja California; Tijuana; Estado de Baja California Sur; Mulegé; Estado de Jalisco: Cihuatlan; Estado de Nayarit: Compostela; Estado de Sonora: Guaymas; Estado de Veracruz: Coatzacoalcos.
 ZONA VIII. Estado de Baja California: Playas de Rosarito; Estado de Baja California Sur: Loreto; Estado de Colima: Manzanillo; Estado de Oaxaca: San Pedro Mixtepec; Estado de Quintana Roo: Isla Mujeres; Estado de Nayarit: Bahía de Banderas; Estado de Sinaloa: Mazatlán; Estado de Sonora: Puerto Peñasco; Estado de Veracruz: Boca del Río y Veracruz.
-ZONA IX. Estado de Baja California Sur: La Paz; Estado de Guerrero: José Azueta; Estado de Oaxaca: Santa María Huatulco; Estado de Quintana Roo: Cozumel.
-ZONA X. Estado de Baja California Sur: Los Cabos; Estado de Guerrero: Acapulco de Juárez; Estado de Jalisco: Puerto Vallarta; Estado de Quintana Roo: Benito Juárez y Solidaridad.
+ZONA IX. Estado de Baja California Sur: La Paz; Estado de Guerrero: José Azueta; Estado de Oaxaca: Santa María Huatulco.
+ZONA X. Estado de Baja California Sur: Los Cabos; Estado de Guerrero: Acapulco de Juárez; Estado de Jalisco: Puerto Vallarta.
+ZONA XI. Subzona A. Estado de Quintana Roo: Cozumel. Subzona B. Estado de Quintana Roo: Benito Juárez, Solidaridad y Tulum.
 Artículo 232-D-1.- Están obligadas a pagar el derecho por extracción de materiales pétreos, las personas físicas y morales que los extraigan de las playas, la zona federal marítimo terrestre y los terrenos ganados al mar o de cualquier otro depósito de aguas marítimas, así como del lecho marino, conforme a la cuota que resulte por metro cúbico:
 Material $/M3
 Grava ... $10.20

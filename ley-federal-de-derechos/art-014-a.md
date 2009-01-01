@@ -1,7 +1,9 @@
 Artículo 14-A.- Por los servicios migratorios que se presten en días inhábiles o fuera del horario de trámite ordinario señalado por la Secretaría de Gobernación, o en lugares distintos a las oficinas migratorias, las empresas de transporte pagarán el derecho por servicios migratorios extraordinarios, conforme a las siguientes cuotas:
 I.- En puertos marítimos:
 a).- Por cada revisión de la documentación de la tripulación en embarcaciones cargueras, al desembarque y despacho, respectivamente ... $4,044.00
-b).- Por cada revisión de la documentación de la tripulación de las embarcaciones turísticas comerciales, al desembarque y despacho, respectivamente, de acuerdo al número de personas a bordo:
+b). (Se deroga).
+b).- Por cada revisión de la documentación de la tripulación de las embarcaciones turísticas comerciales, al
+desembarque y despacho, respectivamente, de acuerdo al número de personas a bordo:
 1. De 1 a 500 personas ... $2,626.00
 2. De 501 a 1000 personas ... $3,410.00
 3. De 1001 a 1500 personas ... $4,060.00

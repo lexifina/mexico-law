@@ -14,6 +14,7 @@ No pagarán el derecho que se establece en esta fracción, cuando se trate del r
 II. Por el trámite y, en su caso, expedición de cada licencia de prestadores de servicios de aprovechamiento en caza deportiva ... $833.00
 Por la reposición de la licencia referida en esta fracción, se pagará la cuota de $364.00
 III. Por la expedición de cintillo de aprovechamiento cinegético ... $193.00
-IV. Por cada licencia de caza deportiva ... $375.00
-Por la reposición de la licencia de caza deportiva se pagará la cuota a que se refiere esta fracción.
+IV. Por la expedición o reposición de cada licencia de caza deportiva:
+a). De modalidad anual ... $374.92
+b). De modalidad indefinida ... $1,287.00
 V. (Se deroga).

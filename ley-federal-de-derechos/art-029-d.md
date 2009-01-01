@@ -38,7 +38,7 @@ b). El resultado de multiplicar 8.363500 al millar, por el valor de su cartera d
 c). El resultado de multiplicar 0.138800 al millar, por el valor de su cartera de factoraje menos las estimaciones preventivas para riesgos crediticios.
 La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a: ... $250,000.00
 VIII. Inmobiliarias:
-Cada entidad que pertenezca al sector de Inmobiliarias, entendiéndose por ello aquellas sociedades inmobiliarias que sean propietarias o administradoras de bienes destinados a las oficinas de instituciones de crédito o de casas de bolsa, en términos de la Ley de Instituciones de Crédito o de la Ley del Mercado de Valores, según corresponda, pagará una cuota equivalente al resultado de multiplicar 0.432864 al millar, por el valor de su capital contable.
+Cada entidad que pertenezca al sector de Inmobiliarias, entendiéndose por ello aquellas sociedades inmobiliarias que sean propietarias o administradoras de bienes destinados a las oficinas de instituciones de crédito, casas de bolsa o uniones de crédito, en términos de la Ley de Instituciones de Crédito, de la Ley del Mercado de Valores o de la Ley de Uniones de Crédito, según corresponda, pagará una cuota equivalente al resultado de multiplicar 0.432864 al millar, por el valor de su capital contable.
 a). (Se deroga).
 La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a ... $57,706.00
 IX. Organismos de Integración:
@@ -55,9 +55,9 @@ c). El resultado de multiplicar 0.008060 al millar, por el valor del total de su
 La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a: ... $80,000.00
 XI. Sociedades de Inversión:
 Cada entidad que pertenezca al sector de Sociedades de Inversión, entendiéndose para estos efectos a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable excluyendo a las Sociedades de Inversión Especializadas en Fondos de Ahorro para el Retiro, pagará una cuota equivalente a lo siguiente:
-a). El resultado de multiplicar 0.300000 al millar, por el valor de los primeros $2'000,000,000.00 y 0.150000 al millar por el valor restante del total de las acciones representativas de su capital social en circulación, valuadas a precio corriente en el mercado y, a falta de éste, a su valor contable o precio actualizado de valuación, determinado por la sociedad valuadora o el comité de valuación que corresponda.
-La cuota que resulte de conformidad con lo previsto en esta fracción en ningún caso podrá ser inferior a $30,000.00 sin que pueda ser superior a: ... $900,000.00
-Cuando las sociedades de inversión paguen derechos por inscripción de sus acciones en la sección de valores del Registro Nacional de Valores, no se pagarán cuotas adicionales por inspección y vigilancia en el ejercicio fiscal correspondiente.
+a). El resultado de multiplicar 0.300000 al millar, por el valor total de las acciones representativas de su capital social en circulación, valuadas a precio corriente en el mercado y, a falta de éste, a su valor contable o precio actualizado de valuación, determinado por la sociedad valuadora o por el comité de valuación que corresponda.
+La cuota que resulte de conformidad con lo previsto en esta fracción en ningún caso podrá ser inferior a $20,000.00 sin que pueda ser superior a: ... $1'500,000.00
+Cuando las sociedades de inversión paguen derechos por inscripción de sus acciones en el Registro Nacional de Valores, no se pagarán cuotas adicionales por inspección y vigilancia en el ejercicio fiscal correspondiente.
 XII. Sociedades Financieras de Objeto Limitado:
 Cada entidad que pertenezca al sector de Sociedades Financieras de Objeto Limitado, entendiéndose para tales efectos, a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 a). El resultado de multiplicar 0.152310 al millar, por el valor del total de sus pasivos.
@@ -74,11 +74,11 @@ XIV. Financiera Rural:
 La Financiera Rural, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 a). Una cuota de ... $1,606,800.00
 b). El resultado de multiplicar 0.240474 al millar, por el total de sus activos.
-XV. Fondos y Fideicomisos Públicos:
-Cada una de las entidades que integran el sector de Fondos y Fideicomisos Públicos, pagarán una cuota equivalente al resultado de la suma de las siguientes cantidades:
+XV. Fideicomisos Públicos:
+Los fideicomisos públicos, que conforme a la Ley de Instituciones de Crédito formen parte del Sistema Bancario Mexicano, pagarán una cuota equivalente al resultado de la suma de las siguientes cantidades:
 a). Una cuota de ... $1,561,947.00
 b). El resultado de multiplicar 0.020883 al millar, por el total de sus activos.
-Para los efectos de lo previsto en esta fracción, forman parte del sector Fondos y Fideicomisos Públicos, el Fideicomiso de Fomento Minero; el Fondo de Capitalización e Inversión del Sector Rural; el Fondo Nacional de Fomento al Turismo; el Fondo de la Vivienda para los Militares en Activo; el Fondo Especial para Financiamientos Agropecuarios; el Fideicomiso Fondo Nacional de Habitaciones Populares; el Fondo de Garantía para la Agricultura, Ganadería y Avicultura; el Fondo de Garantía y Fomento para las Actividades Pesqueras; el Fondo de Operación y Financiamiento Bancario a la Vivienda; el Fondo Especial de Asistencia Técnica y Garantía para Créditos Agropecuarios; el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y los demás fondos y fideicomisos públicos constituidos por el Gobierno Federal para el fomento económico que la Comisión Nacional Bancaria y de Valores supervise.
+(Se deroga último párrafo).
 XVI. Instituto del Fondo Nacional para el Consumo de los Trabajadores:
 El Instituto del Fondo Nacional para el Consumo de los Trabajadores, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 a). Una cuota de: ... $1,458,128.00
@@ -93,8 +93,16 @@ a). El resultado de multiplicar 0.589202 al millar, por el valor del total de su
 b). El resultado de multiplicar 0.257000 al millar, por el valor de su cartera vencida.
 c). El resultado de multiplicar 0.014910 al millar, por el valor de su cartera menos las estimaciones preventivas para riesgos crediticios.
 La cuota que resulte de conformidad con lo previsto en esta fracción en ningún caso podrá ser inferior a: ... $500,000.00
-Las entidades a que se refieren las fracciones II, VII y XII de este artículo, que se transformen en sociedades financieras de objeto múltiple reguladas, durante el año, deberán pagar a partir de su transformación la cuota que venían pagando en el ejercicio conforme a las referidas fracciones II, VII y XII, o bien, la cuota establecida en esta fracción, lo que resulte mayor.
+(Se deroga último párrafo).
 XIX. Sociedades Controladoras de Grupos Financieros:
 Cada entidad que pertenezca al sector de sociedades controladoras de grupos financieros, entendiéndose por ello a las sociedades controladoras previstas en la Ley para Regular las Agrupaciones Financieras, pagará la cantidad que resulte de multiplicar 0.008129 al millar por el total del activo del balance general consolidado con subsidiarias.
 La cuota que resulte de conformidad con lo previsto en esta fracción, en ningún caso podrá ser inferior a: ... $700,000.00
-En la elaboración de los cálculos aritméticos a que se refieren las fracciones I a XIX del presente artículo, no se considerarán los resultados negativos que, en su caso, se obtengan durante el proceso de cómputo de la cuota, salvo lo dispuesto en el inciso b) de la fracción VI de este artículo.
+XX. Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado:
+El Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
+a). Una cuota de ... $1'561,947.00
+b). El resultado de multiplicar 0.020883 al millar, por el total de sus activos.
+XXI. Fondo de la Vivienda Militar:
+El Fondo de la Vivienda Militar, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
+a). Una cuota de ... $1'561,947.00
+b). El resultado de multiplicar 0.020883 al millar, por el total de sus activos.
+En la elaboración de los cálculos aritméticos a que se refieren las fracciones I a XXI del presente artículo, no se considerarán los resultados negativos que, en su caso, se obtengan durante el proceso de cómputo de la cuota, salvo lo dispuesto en el inciso b) de la fracción VI de este artículo.

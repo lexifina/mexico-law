@@ -42,7 +42,8 @@ El pago del derecho a que se refiere esta fracción se efectuará mensualmente m
 II. $32.00 por cada metro cuadrado o fracción que se use, goce o aproveche para actividades de promoción, difusión y comercialización cultural y educativa por parte de entidades de la administración pública paraestatal, previa celebración de un convenio.
 El pago del derecho a que se refiere esta fracción se efectuará mensualmente mediante declaración que se presentará en las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
 III. $19.28 por cada metro cuadrado o fracción que se use o aproveche para actividades o eventos de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de instalaciones realizado en espacios exteriores de cualquier tipo.
-IV. $5,356.00 por evento de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de equipos y accesorios, realizado en espacios cerrados, tales como auditorios, vestíbulos, salas y aulas.
+IV. $5,356.00 por evento de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de equipos y accesorios, realizado en espacios cerrados, tales como salas y aulas.
+Tratándose de eventos de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de equipos y accesorios, realizado en auditorios, vestíbulos, teatros experimentales y foros al aire libre, por cada uno ... $15,000.00
 V. $25,000.00 por evento de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de equipos y accesorios, realizado en espacios cerrados en bibliotecas y teatros.
 El pago de los derechos a que se refieren las fracciones III, IV y V de este artículo se efectuará previamente a la realización del evento.
 Las cuotas a que se refieren las fracciones III, IV y V de este artículo se incrementarán proporcionalmente a partir de la terminación de la cuarta hora de acuerdo con la duración total del evento.

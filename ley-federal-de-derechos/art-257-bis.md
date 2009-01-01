@@ -1,0 +1,16 @@
+Artículo 257 Bis. Por la extracción de petróleo crudo y gas natural de los campos en el Paleocanal de Chicontepec y de los campos en aguas profundas, PEMEX Exploración y Producción estará obligado al pago anual del derecho sobre extracción de hidrocarburos.
+Para calcular el pago anual del derecho sobre extracción de hidrocarburos a que se refiere este artículo, se aplicará la tasa que corresponda conforme a la siguiente tabla, según el rango en el que se ubique el precio promedio ponderado anual del barril de petróleo crudo exportado, al valor anual del petróleo crudo y gas natural extraídos en el año de los campos en el Paleocanal de Chicontepec y de los campos en aguas profundas, incluyendo el consumo que de estos productos efectúe PEMEX Exploración y Producción, así como las mermas por derramas o quema de dichos productos.
+TABLA
+Rango de precio promedio ponderado anual del barril de petróleo crudo exportado (Dólares de los Estados Unidos de América) Tasa para el cálculo del derecho sobre extracción de hidrocarburos (porcentaje)
+00.01-40.00 10.00
+40.01-60.00 t
+60.01 en adelante 20.00
+Para los efectos de la tabla anterior t, en porcentaje, se determinará por la fórmula siguiente:
+t= 0.1 + P - 40 x 100
+200
+donde, P es el precio promedio ponderado en el ejercicio de que se trate del barril de petróleo crudo exportado expresado en dólares de los Estados Unidos de América.
+El pago del derecho sobre extracción de hidrocarburos se hará mediante declaración anual que se presentará a más tardar el último día hábil del mes de marzo del año siguiente al ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales mensuales efectivamente pagados de ese derecho correspondientes al ejercicio a que se refiera la declaración anual.
+La recaudación anual del derecho a que se refiere este artículo se destinará al Fondo de Estabilización de los Ingresos Petroleros.
+A cuenta del derecho sobre extracción de hidrocarburos se harán pagos provisionales mensuales que se pagarán a más tardar el último día hábil del mes posterior a aquél al que correspondan dichos pagos provisionales.
+El pago provisional se calculará aplicando al valor del petróleo crudo y gas natural extraídos de los campos en el Paleocanal de Chicontepec y de los campos en aguas profundas, desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, incluyendo el consumo que de estos productos hubiera realizado PEMEX Exploración y Producción, la tasa que corresponda de acuerdo con la tabla prevista en este artículo conforme al precio promedio ponderado del barril de petróleo crudo exportado en el mismo periodo. Al pago provisional así determinado, se le restarán los pagos provisionales efectivamente pagados del derecho sobre extracción de hidrocarburos, realizados en los meses anteriores correspondientes a dicho ejercicio y la diferencia será el pago provisional a enterar.
+Para la determinación del monto a pagar por el derecho sobre hidrocarburos para el fondo de estabilización a que se refiere el artículo 256 de esta Ley, así como de sus pagos provisionales, no se considerará el valor del petróleo crudo y gas natural extraídos de los campos en el Paleocanal de Chicontepec y de los campos en aguas profundas.

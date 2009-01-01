@@ -1,6 +1,7 @@
 Artículo 199-A.- Las personas físicas y morales mexicanas que en su caso y conforme a la Ley de Pesca, practiquen la pesca comercial en aguas de jurisdicción nacional pagarán el derecho de pesca, anualmente, conforme a las siguientes cuotas:
 ESPECIE CUOTA ANUAL POR TONELADA NETA O FRACCIÓN DE REGISTRO DE LA EMBARCACIÓN DE ARTES O EQUIPOS
-I.- ABULÓN $542.43
+I.- ABULÓN
+$542.43
 II.- SARGAZO
 $72.50 $1,963.41 III.- ALGAS MARINAS
 $3,336.73 $1,963.41 IV.- ALMEJAS.
