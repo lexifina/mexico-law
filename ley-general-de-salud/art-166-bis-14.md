@@ -1,0 +1,1 @@
+Artículo 166 Bis 14. Los médicos tratantes y el equipo sanitario que preste los cuidados paliativos, para el mejor desempeño de sus servicios, deberán estar debidamente capacitados humana y técnicamente, por instituciones autorizadas para ello.
