@@ -1,0 +1,1 @@
+Artículo 166 Bis 2. Corresponde al Sistema Nacional de Salud garantizar el pleno, libre e informado ejercicio de los derechos que señalan esta Ley y demás ordenamientos aplicables, a los enfermos en situación terminal.
