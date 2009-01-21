@@ -1,4 +1,4 @@
-Artículo 2º Bis.- También formarán parte del sistema, las monedas metálicas, acuñadas en oro y en plata, cuyo peso, cuño, ley y demás características señalen los decretos relativos.
+Artículo 2º bis.- También formarán parte del sistema las monedas metálicas acuñadas en platino, en oro y en plata, cuyo peso, cuño, ley y demás características señalen los decretos relativos.
 Estas monedas:
 I.- Gozarán de curso legal por el equivalente en pesos de su cotización diaria;
 II.- No tendrán valor nominal;
