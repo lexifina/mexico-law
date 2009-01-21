@@ -1,0 +1,9 @@
+DECRETO que reforma el inciso b) del artículo 2º de la Ley Monetaria de los Estados Unidos Mexicanos y se señalan las características de la moneda de veinte pesos.
+Publicado en el Diario Oficial de la Federación el 8 de diciembre de 1992
+ARTICULO PRIMERO.- Se reforma el primer párrafo del inciso b) del artículo 2º de la Ley Monetaria de los Estados Unidos Mexicanos, para quedar en los términos siguientes:
+...
+TRANSITORIOS
+PRIMERO.- El presente Decreto entrará en vigor el 1° de enero de 1993.
+SEGUNDO.- La moneda de veinte pesos a que se refiere el artículo segundo de este Decreto, deberá contener en el reverso el símbolo "N$", en lugar del símbolo "$", hasta que el Banco de México, en términos de lo dispuesto por el artículo tercero transitorio del Decreto que reforma y adiciona diversas disposiciones de la Ley Monetaria de los Estados Unidos Mexicanos y señala las características de las monedas de cinco, diez, veinte y cincuenta centavos y de uno, dos, cinco y diez pesos, publicado en el Diario Oficial de la Federación el 22 de junio de 1992; retire de la circulación las monedas señaladas en el propio artículo.
+México, D.F., a 1o. de diciembre de 1992.- Sen. Carlos Sales Gutiérrez, Presidente.- Dip. Guillermo Pacheco Pulido, Presidente.- Sen. Ramón Serrano Ahumada, Secretario.- Dip. Layda Elena Sansores San Román, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los siete días del mes de diciembre de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
