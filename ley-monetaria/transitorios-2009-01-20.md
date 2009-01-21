@@ -1,0 +1,11 @@
+DECRETO por el que se reforma el diverso que reforma y adiciona diversas disposiciones de la Ley Monetaria de los Estados Unidos Mexicanos y señala las características de las monedas de cinco, diez, veinte y cincuenta centavos y de uno, dos, cinco y diez pesos, publicado el 22 de junio de 1992.
+Publicado en el Diario Oficial de la Federación el 20 de enero de 2009
+ARTÍCULO ÚNICO. Se REFORMA el ARTÍCULO TERCERO del "Decreto que reforma y adiciona diversas disposiciones de la Ley Monetaria de los Estados Unidos Mexicanos y señala las características de las monedas de cinco, diez, veinte y cincuenta centavos y de uno, dos, cinco y diez pesos", publicado en el Diario Oficial de la Federación el 22 de junio de 1992, para quedar en los términos siguientes:
+...
+TRANSITORIOS
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO. Las monedas a que se refiere el presente Decreto podrán comenzar a acuñarse a los tres meses siguientes de su publicación en el Diario Oficial de la Federación.
+TERCERO. Las monedas de diez, veinte y cincuenta centavos previstas en el Decreto referido en el Artículo Único, cuyas características se modifican, continuarán con el poder liberatorio que les señala el artículo 5o. de la Ley Monetaria de los Estados Unidos Mexicanos, hasta que sean retiradas de la circulación por el Banco de México.
+CUARTO. El Banco de México deberá publicar en el Diario Oficial de la Federación un aviso en el que se indique que las piezas referidas en el artículo anterior ya han sido retiradas de la circulación, fijando el plazo necesario para realizar su canje.
+México, D. F., a 11 de diciembre de 2008.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Renan C. Zoreda Novelo, Secretario.- Dip. Rosa Elia Romero Guzman, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de enero de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
