@@ -1,0 +1,2 @@
+Artículo 37 C.- Las administradoras, con base en los datos de la cuenta individual del trabajador, deberán dar a conocer a éste, expresado en moneda nacional, el cálculo aproximado que le cobrarán por concepto de comisiones durante el año calendario próximo.
+La información a que se refiere el presente artículo deberá ser proporcionada al trabajador junto con el estado de cuenta correspondiente al segundo semestre del año y deberá resaltarse en caracteres distintivos de manera clara, notoria e indubitable.
