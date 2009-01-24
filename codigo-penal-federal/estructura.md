@@ -58,6 +58,7 @@ CAPITULO III
 Libertad preparatoria y retención
 CAPITULO IV
 Condena condicional
+CAPITULO V
 TITULO QUINTO
 Extinción de la Responsabilidad Penal
 CAPITULO I
@@ -268,6 +269,7 @@ Homicidio en razón del parentesco o relación
 CAPITULO V
 Infanticidio
 CAPITULO VI
+Aborto
 CAPITULO VII
 Abandono de personas
 CAPITULO OCTAVO
