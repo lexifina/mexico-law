@@ -10,7 +10,8 @@ VIII. Relación de los derechos y obligaciones, tanto del proveedor como del con
 IX. Las penas convencionales que se apliquen tanto al proveedor como al consumidor por el incumplimiento de las obligaciones contraídas, las cuales deberán ser recíprocas y equivalentes, sin perjuicio de lo dispuesto por los ordenamientos legales aplicables;
 X. En su caso, las garantías para el cumplimiento del contrato, así como los gastos reembolsables y forma para su aplicación;
 XI. El procedimiento para la cancelación del contrato de adhesión y las implicaciones que se deriven para el proveedor y el consumidor;
-XII. Fecha de inicio y término de ejecución de la actividad o servicio contratado, así como la de la entrega del bien objeto del contrato;
+XII. Fecha de inicio y término de ejecución de la actividad o servicio contratado, así como la de entrega del bien objeto del contrato; esto último, de conformidad con lo dispuesto por el artículo 74 de esta Ley.
+El proveedor únicamente quedará exento de la obligación de entregar en la fecha convenida, cuando acredite plenamente, que la entrega no se realizó en la misma por caso fortuito o fuerza mayor que afecte directamente, a él o al bien, pudiéndose pactar sin responsabilidad alguna, una nueva fecha de entrega;
 XIII. En los casos de operaciones de compraventa de inmuebles, el proveedor deberá precisar en el contrato, las características técnicas y de materiales de la estructura, de las instalaciones y acabados.
 De igual manera, deberá señalarse que el inmueble cuenta con la infraestructura para el adecuado funcionamiento de sus servicios básicos;
 XIV. En el caso de operaciones de compraventa, deberán señalarse los términos bajo los cuales habrá de otorgarse su escrituración. El proveedor en su caso, deberá indicar que el bien inmueble deberá estar libre de gravámenes a la firma de la escritura correspondiente, y
