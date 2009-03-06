@@ -32,20 +32,20 @@ Vivienda
 Desarrollo Social y Vivienda Asuntos Hidráulicos
 Bosques y Selvas
 Ecología y Medio Ambiente
-Pesca
-Medio Ambiente, Recursos Naturales y Pesca Energéticos
+Pesca Medio Ambiente, Recursos Naturales y Pesca
+Energéticos
 Energía Artesanías
 Comercio
 Patrimonio y Fomento Industrial
 Comercio y Fomento Industrial Agricultura
 Ganadería
 Agricultura, Ganadería y Desarrollo Rural Comunicaciones y Transportes
-Comunicaciones y Transportes Ciencia y Tecnología Educación Pública, Cultura y Ciencia y
+Comunicaciones y Transportes Ciencia y Tecnología
 Corrección de Estilo
 Cultura
 Deporte
 Educación
-Tecnología Pensionados y Jubilados
+Educación Pública, Cultura y Ciencia y Tecnología Pensionados y Jubilados
 Salud
 Seguridad Social
 Salud y Seguridad Social Trabajo y Previsión Social
@@ -58,15 +58,15 @@ Distrito Federal Asuntos Indígenas
 Asuntos Indígenas Equidad y Género
 Equidad y Género Atención y Apoyo a Discapacitados
 Asuntos de la Juventud
-Participación Ciudadana
-Atención a Grupos Vulnerables Fomento Cooperativo
+Atención a Grupos Vulnerables Participación Ciudadana
+Fomento Cooperativo
 Distribución y Manejo de Bienes de Consumo y Servicios
 Fomento Cooperativo y Economía Social Vigilancia de la Contaduría Mayor de Hacienda
 Vigilancia de la Contaduría Mayor de Hacienda Comisión Información, Gestoría y Quejas
 Comité de Información, Gestoría y Quejas
 COMITES VIGENTES ORGANO O AREA QUE ASUME SUS TAREAS
-Administración Junta de Coordinación Política
-Asuntos Editoriales
+Administración
+Junta de Coordinación Política Asuntos Editoriales
 Coordinación de Comunicación Social Asuntos Internacionales
 Comisión de Relaciones Exteriores Biblioteca e Informática
 Servicios de Bibliotecas Comunicación Social
