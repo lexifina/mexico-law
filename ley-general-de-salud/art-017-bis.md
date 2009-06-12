@@ -7,7 +7,7 @@ IV. Evaluar, expedir o revocar las autorizaciones que en las materias de su comp
 V. Expedir certificados oficiales de condición sanitaria de procesos, productos, métodos, instalaciones, servicios o actividades relacionadas con las materias de su competencia;
 VI. Ejercer el control y vigilancia sanitarios de los productos señalados en la fracción II de este artículo, de las actividades relacionadas con los primeros, de su importación y exportación, así como de los establecimientos destinados al proceso de dichos productos y los establecimientos de salud;
 VII. Ejercer el control y vigilancia sanitarios de la publicidad de las actividades, productos y servicios a los que se refiere esta Ley y sus reglamentos;
-VIII. Ejercer el control y la vigilancia sanitarios de las donaciones y trasplantes de órganos y tejidos y células de seres humanos, salvo a lo dispuesto por los artículos 329, 332, 338 y 339 de esta Ley;
+VIII. Ejercer el control y la vigilancia sanitarios de la disposición y trasplantes de órganos y tejidos y células de seres humanos, salvo lo dispuesto por los artículos 329, 332, 338 y 339 de esta Ley;
 IX. Ejercer las atribuciones que esta Ley y sus reglamentos le confieren a la Secretaría de Salud en materia de sanidad internacional, con excepción de lo relativo a personas;
 X. Imponer sanciones y aplicar medidas de seguridad en el ámbito de su competencia;
 XI. Ejercer las atribuciones que la presente Ley, la Ley Orgánica de la Administración Pública Federal, y los demás ordenamientos aplicables le confieren a la Secretaría de Salud en materia de efectos del ambiente en la salud, salud ocupacional, residuos peligrosos, saneamiento básico y accidentes que involucren sustancias tóxicas, peligrosas o radiaciones;
