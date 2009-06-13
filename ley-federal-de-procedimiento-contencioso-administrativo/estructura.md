@@ -26,6 +26,8 @@ CAPÍTULO VIII
 De la Sentencia
 CAPÍTULO IX
 Del Cumplimiento de la Sentencia y de la Suspensión
+CAPÍTULO X
+Del Juicio en Línea
 TÍTULO III
 De los Recursos
 CAPÍTULO I
