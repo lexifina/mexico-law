@@ -1,16 +1,14 @@
 CAPÍTULO I
 Disposiciones Generales
-CAPITULO II
+CAPÍTULO II
 CAPÍTULO III
-Principios Orientadores del Apoyo a la Actividad Científica y Tecnológica
 CAPÍTULO IV
-Instrumentos de Apoyo a la Investigación Científica y Tecnológica
 SECCIÓN I
 Disposiciones Generales
 SECCIÓN II
 Información
 SECCIÓN III
-Programa de Ciencia y Tecnología
+Programa Especial de Ciencia, Tecnología e Innovación
 SECCIÓN IV
 Fondos
 SECCIÓN V
