@@ -1,0 +1,1 @@
+ARTÍCULO 58-F.- La Firma Electrónica Avanzada producirá los mismos efectos legales que la firma autógrafa y garantizará la integridad del documento, teniendo el mismo valor probatorio.
