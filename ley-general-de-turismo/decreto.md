@@ -1,0 +1,7 @@
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
+Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
+DECRETO
+"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
+SE EXPIDE LA LEY GENERAL DE TURISMO Y SE REFORMA LA FRACCIÓN VI Y SE DEROGA LA FRACCIÓN VII, DEL ARTÍCULO 42 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL.
+ARTÍCULO PRIMERO. Se expide la Ley General de Turismo.
