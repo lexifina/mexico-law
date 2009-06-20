@@ -4,5 +4,6 @@ II. La Ley de Vías Generales de Comunicación;
 III. La Ley General de Bienes Nacionales;
 IV. El Código Civil Federal;
 V. El Código de Comercio;
-VI. La Ley Federal de Procedimiento Administrativo, y
-VII. El Código Federal de Procedimientos Civiles.
+VI. La Ley Federal de Procedimiento Administrativo;
+VII. El Código Federal de Procedimientos Civiles, y
+VIII. El Código Federal de Instituciones y Procedimientos Electorales, exclusivamente en materia electoral.

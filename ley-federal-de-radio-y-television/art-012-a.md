@@ -1,0 +1,6 @@
+Artículo 12-A. El Instituto Federal Electoral tendrá las siguientes facultades:
+I. Ser la autoridad única para la administración del tiempo que corresponda al Estado en radio y televisión destinado a los fines propios del Instituto y a los de otras autoridades electorales, así como al ejercicio de las prerrogativas de los partidos políticos, conforme a lo dispuesto por la Base III del Artículo 41 de la Constitución y el Código Federal de Instituciones y Procedimientos Electorales;
+II. En la esfera de su competencia, requerir a permisionarios y concesionarios de radio y de televisión la difusión de los programas y mensajes que deberán difundir en el tiempo que corresponda al Estado, conforme a las pautas de transmisión aprobadas por los órganos competentes del Instituto;
+III. Hacer entrega a permisionarios y concesionarios de radio y de televisión del material que deberán transmitir, conforme a las pautas a que se refiere la fracción anterior;
+IV. Atender las quejas y denuncias por la violación a las normas aplicables y determinar e imponer, en el ámbito de su competencia, las sanciones que deban aplicarse a los concesionarios o permisionarios;
+V. Las demás que en materia de radio y televisión le otorga el Código Federal de Instituciones y Procedimientos Electorales.
