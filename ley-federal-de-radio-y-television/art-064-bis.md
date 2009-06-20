@@ -1,0 +1,1 @@
+Artículo 64-BIS. Los concesionarios y permisionarios de radio y televisión no podrán transmitir programas, mensajes o cualquier otro material que contravenga lo dispuesto por el Código Federal de Instituciones y Procedimientos Electorales y la infracción a esta norma será sancionada en términos de lo dispuesto en el Libro Séptimo de dicho Código.

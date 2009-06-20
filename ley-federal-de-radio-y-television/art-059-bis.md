@@ -1,8 +1,4 @@
-Artículo 59-Bis.- La Programación General dirigida a la población infantil que transmitan las estaciones de Radio y Televisión deberá:
-I.- Propiciar el desarrollo armónico de la niñez.
-II.- Estimular la creatividad, la integración familiar y la solidaridad humana.
-III.- Procurar la comprensión de los valores nacionales y el conocimiento de la comunidad internacional.
-IV.- Promover el interés científico, artístico y social de los niños.
-V.- Proporcionar diversión y coadyuvar el proceso formativo en la infancia.
-Los programas infantiles que se transmiten en vivo, las series radiofónicas, las telenovelas o teleteatros grabados, las películas o series para niños filmadas, los programas de caricaturas, producidos, grabados o filmados en el país o en el extranjero deberán sujetarse a lo dispuesto en las fracciones anteriores.
-La Programación dirigida a los niños se difundirá en los horarios previstos en el reglamento de esta Ley.
+Artículo 59-BIS. Con motivo de los procesos electorales federales, a partir del inicio de las precampañas y hasta el día de la jornada electoral, del tiempo total que conforme al artículo anterior y a otras leyes corresponde al Estado, el Instituto Federal Electoral tendrá a su disposición cuarenta y ocho minutos diarios en cada estación de radio y canal de televisión.
+Tratándose de los procesos electorales locales que tengan lugar en periodos distintos o cuyas jornadas comiciales no coincidan con la federal, el Instituto Federal Electoral tendrá a su disposición, de igual manera, cuarenta y ocho minutos diarios en todas las estaciones y canales de cobertura local en la entidad de que se trate.
+Con motivo de los procesos electorales las autoridades electorales distintas al Instituto Federal Electoral, tanto federales como locales, deberán solicitar a este último el tiempo de radio y televisión que requieran para el cumplimiento de sus fines. El Instituto Federal Electoral resolverá lo conducente.
+Fuera de los periodos de precampañas y campañas electorales federales, al Instituto Federal Electoral le será asignado hasta el doce por ciento del tiempo total de que el Estado disponga en radio y televisión, conforme a las leyes y bajo cualquier modalidad. Ese tiempo será utilizado conforme a lo establecido por el inciso g) de la Base III del Artículo 41 de la Constitución y lo que determine el Código Federal de Instituciones y Procedimientos Electorales.
