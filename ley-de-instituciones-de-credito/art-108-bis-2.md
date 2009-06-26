@@ -1,0 +1,7 @@
+Artículo 108 Bis 2. Las infracciones a esta ley o a las disposiciones que sean emitidas con base en ésta por la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros serán sancionadas con multa administrativa que impondrá la citada Comisión, a razón de días de salario mínimo general vigente para el Distrito Federal, conforme a lo siguiente:
+I. Multa de 200 a 2,000 días de salario:
+a) A las instituciones de crédito que no cumplan con las disposiciones previstas en el artículo 48 Bis 5 de la presente Ley, así como las disposiciones que de éste emanen, y
+b) A las instituciones de crédito que no cumplan con las obligaciones previstas en el artículo 94 Bis de la presente Ley o en las disposiciones a que dicho artículo se refiere.
+II. Multa de 5,000 a 20,000 días de salario a las instituciones de crédito que no cumplan con lo dispuesto en los párrafos tercero y cuarto del artículo 96 Bis de esta Ley.
+La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros podrá abstenerse de sancionar a las entidades reguladas por esta Ley, siempre y cuando justifique la causa de tal abstención y se refiera a hechos, actos u omisiones que no revistan gravedad ni constituyan delito o pongan en peligro los intereses de terceros.
+Cuando una institución de crédito, por una acción u omisión, incurra en una infracción que se refleje en múltiples operaciones o documentos, se considerará como una sola infracción, para efectos de la sanción.
