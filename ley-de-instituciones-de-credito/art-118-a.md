@@ -1,5 +1,1 @@
-Artículo 118-A.- La Comisión Nacional Bancaria y de Valores podrá revisar los modelos de contrato de adhesión utilizados por las instituciones de crédito.
-Para efectos de este artículo se entenderá por contrato de adhesión aquél elaborado unilateralmente por una institución, que conste en documentos de contenido uniforme en los que se establezcan los términos y condiciones aplicables a las operaciones activas que celebre la institución.
-La revisión tendrá por objeto determinar que los modelos de contrato se ajusten a la presente Ley, a las disposiciones emitidas conforme a ella y a los demás ordenamientos aplicables, así como verificar que dichos instrumentos no contengan estipulaciones confusas o que no permitan a la clientela conocer claramente el alcance de las obligaciones de los contratantes.
-La Comisión podrá ordenar que se modifiquen los modelos de contratos de adhesión y, en su caso, suspender su utilización hasta en tanto sean modificados.
-La Comisión Nacional Bancaria y de Valores podrá ordenar a las instituciones de crédito que publiquen las características de las operaciones que formalicen con contratos de adhesión, en los términos que la propia Comisión indique.
+Artículo 118 A. Se deroga
