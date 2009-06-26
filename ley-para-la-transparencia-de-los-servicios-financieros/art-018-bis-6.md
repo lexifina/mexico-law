@@ -1,0 +1,1 @@
+Artículo 18 Bis 6. En los créditos, préstamos o financiamientos revolventes asociados a una tarjeta que las Entidades otorguen, sólo podrá cobrarse intereses sobre los saldos diarios insolutos comprendidos dentro del período de cálculo de intereses del estado de cuenta de que se trate.

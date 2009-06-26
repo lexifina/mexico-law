@@ -1,0 +1,5 @@
+Artículo 18 Bis 3. La tasa de interés ordinaria que reflejen los estados de cuenta que reciban los Clientes de las Entidades en las operaciones de créditos, préstamos o financiamientos revolventes asociados a una tarjeta podrá variar sin necesidad de notificación o aviso alguno al Cliente, en los siguientes supuestos:
+I. Cuando los Cambios a la tasa de interés ordinaria sean inherentes a las variaciones en el nivel de la tasa de referencia, y
+II. En caso de que por su vigencia o por comportamiento crediticio del cliente conforme a lo pactado en el contrato, expire una tasa de interés promocional.
+En cualquier otro supuesto, el aumento en la tasa de interés ordinaria que se pretenda reflejar en los estados de cuenta, deberá ser notificado a los Clientes en dicho estado de cuenta por lo menos con treinta días naturales de anticipación a la fecha prevista para que surta efectos el aumento.
+Las tasas de interés en este tipo de operaciones se sujetarán a las disposiciones de carácter general que emita el Banco de México conforme al artículo 4 de la presente Ley.
