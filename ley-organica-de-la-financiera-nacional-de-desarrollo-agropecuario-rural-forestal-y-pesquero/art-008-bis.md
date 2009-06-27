@@ -1,0 +1,1 @@
+Artículo 8o. Bis.- El Gobierno Federal responderá en todo tiempo de las operaciones pasivas concertadas por Financiera Rural con la banca de desarrollo, los fideicomisos públicos para el fomento económico y los organismos financieros internacionales.
