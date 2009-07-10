@@ -6,7 +6,7 @@ IV. Patrones o patrón: la persona física o moral que tenga ese carácter en lo
 V. Trabajadores o trabajador: la persona física que la Ley Federal del Trabajo define como tal;
 VI. Trabajador permanente: aquél que tenga una relación de trabajo por tiempo indeterminado;
 VII. Trabajador eventual: aquél que tenga una relación de trabajo para obra determinada o por tiempo determinado en los términos de la Ley Federal del Trabajo;
-VIII. Sujetos o sujeto obligado: los señalados en los artículos 12, 13, 229, 230, 241 y 250 A, de la Ley, cuando tengan la obligación de retener las cuotas obrero patronales del seguro social o de realizar el pago de las mismas;
+VIII. Sujetos o sujeto obligado: los señalados en los artículos 12, 13, 229, 230, 241 y 250-A de la ley, cuando tengan la obligación de retener las cuotas obrero-patronales del Seguro Social o de realizar el pago de las mismas, y los demás que se establezcan en esta ley;
 IX. Sujetos o sujeto de aseguramiento: los señalados en los artículos 12, 13, 241 y 250 A, de la Ley;
 X. Responsables o responsable solidario: para los efectos de las aportaciones de seguridad social son aquellos que define como tales el artículo 26 del Código y los previstos en esta Ley;
 XI. Asegurados o asegurado: el trabajador o sujeto de aseguramiento inscrito ante el Instituto, en los términos de la Ley;
