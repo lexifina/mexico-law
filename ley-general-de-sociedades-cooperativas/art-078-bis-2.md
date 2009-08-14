@@ -1,0 +1,2 @@
+Artículo 78 Bis 2.- La Confederación se constituirá con la agrupación de todas las Federaciones de Sociedades Cooperativas de Ahorro y Préstamo, fungiendo como el organismo cooperativo nacional de integración y representación, de tercer grado, del sector cooperativo financiero.
+La Confederación agrupará a todas las Federaciones y será órgano de consulta y colaboración del Estado para el diseño, difusión y ejecución de las políticas, programas e instrumentos para el fomento y desarrollo de las Sociedades Cooperativas de Ahorro y Préstamo y sus organismos cooperativos.

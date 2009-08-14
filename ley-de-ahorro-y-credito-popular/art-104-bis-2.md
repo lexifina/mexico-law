@@ -1,0 +1,1 @@
+Artículo 104 Bis 2.- El Fondo de Protección y sus respectivos comités, estarán sujetos a la supervisión de la Comisión, la que tendrá todas las facultades que en materia de inspección y vigilancia le confiere este ordenamiento y su propia Ley.
