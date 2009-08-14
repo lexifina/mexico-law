@@ -1,0 +1,1 @@
+Artículo 46 Bis 7.- Ninguna persona física podrá contar con más del uno por ciento del capital social ordinario de una Sociedad Financiera Comunitaria. En caso de personas morales no lucrativas éstas podrán adquirir hasta el cincuenta y uno por ciento del capital social de las referidas sociedades.

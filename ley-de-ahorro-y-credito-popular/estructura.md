@@ -2,45 +2,63 @@ TÍTULO PRIMERO
 DISPOSICIONES GENERALES
 Capítulo Único
 TÍTULO SEGUNDO
-DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS ENTIDADES
 Capítulo I
 Disposiciones Comunes
 Capítulo II
 De las Sociedades Cooperativas de Ahorro y Préstamo
 Capítulo III
 De las Sociedades Financieras Populares
-TÍTULO TERCERO
-DE LOS ORGANISMOS DE INTEGRACIÓN
-Capítulo I
-Disposiciones Generales
-Capítulo II
-De las Federaciones
-Sección Primera
-De su organización y objeto
-Sección Segunda
-De su funcionamiento y de las medidas correctivas
-Sección Tercera
-De la afiliación
-Sección Cuarta
-De las Entidades no afiliadas
-Sección Quinta
-De la Escisión, Fusión, Venta, Disolución y Liquidación
-Capítulo III
-De la Organización y Funcionamiento de las Confederaciones
 Capítulo IV
+Sección Primera
+Disposiciones Generales
+Sección Segunda
+De las Sociedades Financieras Comunitarias
+Apartado A De las disposiciones comunes de las Sociedades Financieras Comunitarias
+Sección Tercera
+De los Organismos de Integración Financiera Rural
+TÍTULO TERCERO
+Capítulo I
+Disposiciones generales de las Federaciones
+Capítulo II
+De la organización y objeto de las Federaciones
+Capítulo III
+De las medidas correctivas
+Capítulo IV
+De los contratos de afiliación y de supervisión auxiliar
+Sección Primera
+De las Sociedades Financieras Populares afiliadas
+Sección Segunda
+De las Sociedades Financieras Populares no afiliadas
+Capítulo V
+De la Escisión, Fusión, Venta, Disolución y Liquidación
+Capítulo VI
 Del Fondo de Protección
+Sección Primera
+De la constitución
+Sección Segunda
+Del Comité Técnico
+Sección Tercera
+Otras disposiciones
+Sección Cuarta
+Del objeto del Fondo de Protección
+Sección Quinta
+Del Comité de Protección al Ahorro
+TÍTULO TERCERO BIS
+DE LOS ORGANISMOS AUTORREGULATORIOS
 TÍTULO CUARTO
 DE LA REGULACIÓN PRUDENCIAL Y DE LA CONTABILIDAD
 Capítulo I
 De la Regulación Prudencial
 Capítulo II
-De la Contabilidad
+De la Contabilidad y auditoría externa
 TÍTULO QUINTO
 DE LAS FACULTADES DE LAS AUTORIDADES
 Capítulo Único
 TÍTULO SEXTO
-DE LAS SANCIONES, PENAS CONVENCIONALES Y DELITOS
+DE LAS SANCIONES, DELITOS Y NOTIFICACIONES
 Capítulo I
-De las Sanciones y Penas Convencionales
+De las Sanciones
 Capítulo II
-De los Delitos
+De los delitos
+Capítulo III
+De las Notificaciones

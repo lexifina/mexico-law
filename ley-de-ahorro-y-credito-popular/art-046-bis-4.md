@@ -1,0 +1,2 @@
+Artículo 46 Bis 4.- Las Sociedades Financieras Comunitarias deberán solicitar su inscripción en el registro a que se refiere el Artículo 46 Bis 3 anterior, dentro de los 30 días naturales siguientes a su inscripción en el Registro Público de Comercio.
+Las Federaciones deberán informar a la Comisión haber efectuado la inscripción en el registro de las Sociedades Financieras Comunitarias, en la forma y términos que al efecto establezca la Comisión mediante disposiciones de carácter general.

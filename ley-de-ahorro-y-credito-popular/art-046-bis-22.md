@@ -1,0 +1,2 @@
+Artículo 46 Bis 22.- En adición a lo dispuesto en el Artículo 18 de la presente Ley, en el Consejo de Administración de los Organismos de Integración Financiera Rural podrá participar, en su caso, la institución fundadora con hasta el quince por ciento del total de los votos.
+36
