@@ -17,6 +17,8 @@ De la disolución y liquidación
 Título III
 Capítulo I
 De los organismos cooperativos
+Sección I
+Sección II
 Capítulo II
 Capítulo III
 De la integración
