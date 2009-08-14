@@ -1,0 +1,2 @@
+Artículo 78 Bis 3.- Las Federaciones y la Confederación, como organismos cooperativos de integración y representación de las Sociedades Cooperativas de Ahorro y Préstamo, serán instituciones de interés público, con personalidad jurídica y patrimonio propios, adoptarán jurídicamente la naturaleza Cooperativa, sin fines lucrativos.
+En cuanto a su constitución, organización y funcionamiento, les aplicará las disposiciones de la presente Ley en lo general, salvo lo dispuesto en el párrafo segundo del Artículo 74 de esta Ley.

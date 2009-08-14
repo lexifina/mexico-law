@@ -1,0 +1,1 @@
+Artículo 46 Bis 13.- Las Sociedades Financieras Comunitarias con nivel de operaciones básico en las que exista coincidencia de 1 o más miembros que integran el Consejo de Administración, así como, con el director o gerente general, serán consideradas como una única Sociedad, para efectos del límite de activos previsto en el Artículo 46 Bis 9 de esta Ley.

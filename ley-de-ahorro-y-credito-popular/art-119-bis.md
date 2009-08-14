@@ -1,0 +1,1 @@
+Artículo 119 Bis.- Las Sociedades Financieras Populares deberán observar lo dispuesto en los Artículos 118 y 119 Bis 1 de esta Ley, respecto de los requisitos que debe cumplir la persona moral que les proporcione los servicios de auditoría externa, así como el auditor externo que suscriba el dictamen y otros informes correspondientes a los estados financieros.
