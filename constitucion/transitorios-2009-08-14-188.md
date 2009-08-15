@@ -1,0 +1,8 @@
+DECRETO por el que se adiciona un segundo párrafo al artículo segundo transitorio y un artículo tercero transitorio al decreto por el que se declaran reformado el párrafo cuarto y adicionados los párrafos quinto y sexto, y se recorre el orden de los últimos dos párrafos del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, publicado el 12 de diciembre de 2005.
+Publicado en el Diario Oficial de la Federación el 14 de agosto de 2009
+Artículo Único. Se adicionan un segundo párrafo al artículo segundo transitorio y un artículo tercero transitorio al Decreto por el que se declara reformado el párrafo cuarto y adicionados los párrafos quinto y sexto, y se recorre en su orden los últimos dos párrafos del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 12 de diciembre de 2005, para quedar como sigue:
+...
+Artículo Transitorio
+Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+México, D.F., a 15 de julio de 2009.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Esmeralda Cárdenas Sánchez, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a doce de agosto de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
