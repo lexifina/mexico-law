@@ -79,6 +79,15 @@ CAPITULO III
 Enfermedades no Transmisibles
 CAPITULO IV
 Accidentes
+TITULO OCTAVO BIS
+De los Cuidados Paliativos a los Enfermos en Situación Terminal
+CAPÍTULO I
+Disposiciones Comunes
+CAPÍTULO II
+De los Derechos de los Enfermos en Situación Terminal
+CAPÍTULO III
+De las Facultades y Obligaciones de las Instituciones de Salud
+CAPÍTULO IV
 TITULO NOVENO
 Asistencia Social, Prevención de Invalidez y Rehabilitación de Inválidos
 CAPITULO UNICO
@@ -172,3 +181,5 @@ CAPITULO V
 Prescripción
 CAPITULO VI
 Delitos
+CAPÍTULO VII
+Delitos Contra la Salud en su modalidad de Narcomenudeo
