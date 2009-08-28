@@ -1,0 +1,1 @@
+Artículo 32 bis 7.- Cualquier interesado estará facultado para solicitar a la Secretaría la expedición de certificaciones respecto de los actos inscritos en el Registro, previa presentación de la solicitud correspondiente y pago de los derechos respectivos.
