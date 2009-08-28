@@ -1,0 +1,1 @@
+Artículo 32 bis 3.- El Registro estará exclusivamente a cargo de la Secretaría; su operación se llevará por medios digitales, mediante el programa informático establecido por la Secretaría y en una base de datos nacional.
