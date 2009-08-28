@@ -8,6 +8,8 @@ CAPITULO I
 Del Anuncio de la Calidad Mercantil
 CAPITULO II
 Del registro de comercio
+SECCIÓN ÚNICA
+Del Registro Único de Garantías Mobiliarias
 CAPITULO III
 De la Contabilidad Mercantil
 CAPITULO IV

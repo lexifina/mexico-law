@@ -1,0 +1,10 @@
+DECRETO por el que se reforman y adicionan diversas disposiciones del Código de Comercio.
+Publicado en el Diario Oficial de la Federación el 27 de agosto de 2009
+Artículo Único. Se reforman los artículos 21, fracción IV y XIX; 21 bis 1; 30 bis, segundo párrafo; 30 bis 1; 31, primer párrafo y se adiciona, una fracción XX al artículo 21, una fracción III al artículo 21 bis, un segundo párrafo al artículo 22, un cuarto párrafo al artículo 30 y una "Sección Única" denominada "Del Registro Único de Garantías Mobiliarias" con los artículos 32 bis 1, 32 bis 2, 32 bis 3, 32 bis 4, 32 bis 5, 32 bis 6, 32 bis 7, 32 bis 8 y 32 bis 9, al Capítulo II del Título Segundo del Libro Primero, todos del Código de Comercio, para quedar como sigue:
+...
+TRANSITORIOS
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Segundo. El Registro Único de Garantías Mobiliarias a que se refiere la Sección Única del Capítulo II del Título Segundo del Libro Primero del Código de Comercio, deberá iniciar operaciones a más tardar dentro del año siguiente a la entrada en vigor del presente Decreto, con apego a las normas reglamentarias que se expidan al efecto.
+Tercero. Hasta en tanto inicie operaciones el Registro Único de Garantías Mobiliarias, no será exigible ninguna inscripción a través del mismo.
+México, D.F., a 15 de abril de 2009.- Sen. Gustavo E. Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Dip. Jacinto Gomez Pasillas, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinte de agosto de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
