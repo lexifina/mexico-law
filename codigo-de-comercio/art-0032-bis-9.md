@@ -1,0 +1,1 @@
+Artículo 32 bis 9.- No será aplicable a esta Sección, lo dispuesto por los artículos 18, segundo párrafo, con excepción de las facultades previstas para la Secretaría; 20; 20 bis; 21, salvo por lo señalado en su fracción XX; 21 bis; 23; 25; 26; 31; 32 y 32 bis.
