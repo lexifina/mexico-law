@@ -3,16 +3,16 @@ Publicado en el Diario Oficial de la Federación el 15 de diciembre de 1995
 Ley del Impuesto al Valor Agregado
 Artículo Octavo. Se realizan las modificaciones siguientes a la Ley del Impuesto al Valor Agregado:
 I. Se reforman los artículos:
-• 2o.-A, fracción I, inciso b); • 4o., penúltimo párrafo; • 15, fracción XII, inciso c); • 17, cuarto párrafo; • 31; • 32, primer párrafo y fracción III, tercer párrafo, y • 41, fracciones I, II, y III.
+ 2o.-A, fracción I, inciso b);  4o., penúltimo párrafo;  15, fracción XII, inciso c);  17, cuarto párrafo;  31;  32, primer párrafo y fracción III, tercer párrafo, y  41, fracciones I, II, y III.
 II. Se adicionan los artículos:
-• 5o., con un tercer párrafo, pasando los actuales tercero, cuarto y quinto párrafos a ser cuarto, quinto y sexto, respectivamente; • 15, con una fracción XV; • 17, con un quinto párrafo; • 18-A; • 19, con un segundo párrafo; • 29, con una fracción VII, y • 41, con un último párrafo.
+ 5o., con un tercer párrafo, pasando los actuales tercero, cuarto y quinto párrafos a ser cuarto, quinto y sexto, respectivamente;  15, con una fracción XV;  17, con un quinto párrafo;  18-A;  19, con un segundo párrafo;  29, con una fracción VII, y  41, con un último párrafo.
 III. Se deroga el artículo:
-• 2o.-B.
+ 2o.-B.
 Disposiciones Transitorias de la Ley del Impuesto al Valor Agregado
 Artículo Noveno. En relación con las modificaciones a que se refiere el Artículo Octavo que antecede, se estará a lo siguiente:
 I. La reforma al artículo 41 entrará en vigor el 1o. de enero de 1997.
 II. Durante el año de 1996, se reforman las fracciones I y II al artículo 41 de la Ley del Impuesto al Valor Agregado, para quedar de la siguiente manera:
-"Artículo 41...
+"Artículo 41. ...
 l. Los actos o actividades por los que deba pagarse el impuesto al valor agregado o sobre las prestaciones o contraprestaciones que deriven de los mismos, ni sobre la producción de bienes cuando por su enajenación deba pagarse dicho impuesto, excepto la prestación de servicios de hospedaje, campamentos, paraderos de casas rodantes y de tiempo compartido.
 Para los efectos de esta fracción, en los servicios de hospedaje, campamentos, paraderos de casas rodantes y de tiempo compartido, sólo se considerará el albergue sin incluir a los alimentos y demás servicios relacionados con los mismos.
 Los impuestos locales o municipales que establezcan las entidades federativas en la prestación de los servicios mencionados en esta fracción, no se considerarán como valor para calcular el impuesto a que se refiere esta Ley.
