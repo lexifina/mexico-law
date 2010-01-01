@@ -1,0 +1,9 @@
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Derechos, relativo al régimen fiscal de Petróleos Mexicanos.
+Publicado en el Diario Oficial de la Federación el 27 de noviembre de 2009
+Artículo Único.- Se REFORMAN los artículos 257 Bis; 257 Ter; 257 Quáter; 257 Quintus, párrafos primero, segundo, cuarto y quinto; 257 Sextus párrafo primero y fracción XVI; 258, párrafo primero, fracción I; 258 Bis, párrafo primero, y 261 párrafos primero y segundo, y se ADICIONAN los artículos 257 Séptimus; 257 Octavus; 258 con un párrafo segundo, recorriéndose en su orden los párrafos subsecuentes, y 258 Ter, de la Ley Federal de Derechos, relativo al régimen fiscal de Petróleos Mexicanos para quedar como sigue:
+...
+TRANSITORIOS
+PRIMERO. El presente Decreto entrará en vigor el 1 de enero de 2010.
+SEGUNDO. Para los efectos de los artículos 257 Ter, 257 Quáter y 257 Quintus de la Ley Federal de Derechos sólo serán deducibles los gastos, costos e inversiones realizadas a partir de la entrada en vigor del presente Decreto, así como el monto original de las inversiones realizadas con anterioridad a dicha fecha que no haya sido deducido de conformidad con el artículo 257 Ter vigente hasta el 31 de diciembre de 2009.
+México, D. F., a 30 de octubre de 2009.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Francisco Javier Ramirez Acuña, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Balfre Vargas Cortez, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticinco de noviembre de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
