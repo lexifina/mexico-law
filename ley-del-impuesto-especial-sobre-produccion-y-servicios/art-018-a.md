@@ -1,0 +1,1 @@
+Artículo 18-A.- Para los efectos de esta ley, se considera que se prestan los servicios en territorio nacional, a través de una o más redes públicas de telecomunicaciones a que se refiere el artículo 2o., fracción II, inciso C), de esta Ley, cuando éstos se lleven a cabo en el mismo, total o parcialmente.
