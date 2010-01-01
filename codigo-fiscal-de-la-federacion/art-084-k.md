@@ -1,0 +1,1 @@
+Artículo 84-K. Se considera infracción en la que pueden incurrir las personas morales a que se refiere el artículo 84-I de este Código, el no proporcionar al Servicio de Administración Tributaria la información contenida en los estados de cuenta, a que se refiere el artículo 32-E de este Código.
