@@ -1,0 +1,1 @@
+Artículo 5o.-C.- Para los efectos de esta Ley, se considera que se cobran efectivamente las contraprestaciones correspondientes a los actos o actividades gravadas, cuando se realicen los supuestos que para tal efecto se establecen en la Ley del Impuesto al Valor Agregado.
