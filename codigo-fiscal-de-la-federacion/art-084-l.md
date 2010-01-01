@@ -1,0 +1,1 @@
+Artículo 84-L. A las personas morales a que se refiere el artículo 84-I de este Código, que cometan la infracción a que se refiere el artículo 84-K de este Código se les impondrá una multa de $50,000.00 a $60,000.00, por no proporcionar la información del estado de cuenta que se haya requerido.
