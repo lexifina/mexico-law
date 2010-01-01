@@ -37,3 +37,10 @@ TRANSITORIO
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 20 de junio de 2008.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Jacinto Gomez Pasillas, Secretario.- Sen. Claudia Sofía Corichi García, Secretaria.- Rúbricas."
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de junio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+ANEXOS 1, 5, 7, 8, 9, 10 y 11 de la Cuarta Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2008, publicada el 30 de enero de 2009.
+Publicados en el Diario Oficial de la Federación el 10 de febrero de 2009
+Anexo 5 de la Resolución Miscelánea Fiscal para 2008
+A. Cantidades actualizadas establecidas en el Código.
+Nota: Se actualizan las cantidades de los artículos 20, párrafo séptimo; 22-B, párrafo segundo; 32-A, primer párrafo de la fracción I; 70, párrafo cuarto; 80, fracciones I a VI; 82, fracciones I a XXXI; 84, fracciones I a XIV; 84-B, fracciones I y III a VII; 84-D; 84-F; 84-H; 86, fracciones I a V; 86-B, fracciones I a IV; 86-F; 88; 91; 102, párrafo tercero; 104, fracciones I y II; 108, fracciones I, II y III del párrafo cuarto; 112, párrafo primero; 115, párrafo primero; y 150, párrafos segundo y tercero.
+Atentamente
+México, D.F., a 23 de enero de 2009.- El Jefe del Servicio de Administración Tributaria, Alfredo Gutiérrez Ortiz Mena.- Rúbrica.
