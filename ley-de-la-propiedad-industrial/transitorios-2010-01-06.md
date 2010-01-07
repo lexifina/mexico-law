@@ -1,0 +1,10 @@
+DECRETO por el que se adicionan los párrafos tercero y cuarto al artículo 181 de la Ley de la Propiedad Industrial.
+Publicado en el Diario Oficial de la Federación el 6 de enero de 2010
+Artículo único.- Se adicionan los párrafos tercero y cuarto al artículo 181 de la Ley de la Propiedad Industrial, para quedar como sigue:
+...
+TRANSITORIOS
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Segundo.- Lo dispuesto en este Decreto se aplicará a las solicitudes de registro de marca, marca colectiva, aviso comercial y publicación de nombre comercial que sean presentadas a partir de su entrada en vigor. Para tal efecto, el Instituto Mexicano de la Propiedad Industrial deberá publicar las modificaciones correspondientes a los formatos oficiales en el Diario Oficial de la Federación.
+Artículo Tercero.- Respecto de las solicitudes de registro de marca, marca colectiva, aviso comercial y publicación de nombre comercial, las renovaciones, así como la inscripción de licencias o transmisiones que se encuentren en trámite, los interesados que opten por la aplicación de las disposiciones contenidas en el presente Decreto, deberán hacerlo saber, por escrito, al Instituto dentro de los treinta días naturales siguientes a su entrada en vigor.
+México, D.F., a 8 de diciembre de 2009.- Dip. Francisco Javier Ramírez Acuña, Presidente.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Georgina Trujillo Zentella, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de diciembre de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
