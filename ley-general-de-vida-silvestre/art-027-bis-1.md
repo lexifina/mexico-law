@@ -1,0 +1,1 @@
+Artículo 27 Bis 1.- No se autorizará la importación de especies exóticas invasoras o especies silvestres que sean portadoras de dichas especies invasoras que representen una amenaza para la biodiversidad, la economía o salud pública.
