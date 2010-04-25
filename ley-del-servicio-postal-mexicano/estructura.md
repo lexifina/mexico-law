@@ -45,3 +45,5 @@ CAPITULO XXII
 Emisión de estampillas y máquinas franqueadoras
 CAPITULO XXIII
 De los Agentes
+CAPITULO XXIV
+De las Franquicias Postales
