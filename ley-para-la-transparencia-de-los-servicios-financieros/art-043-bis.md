@@ -1,0 +1,3 @@
+Artículo 43 Bis. La Comisión Nacional sancionará con multa de cuatro mil a veinte mil días de salario, a las Entidades Financieras que no acaten la orden de suspender la celebración de nuevas operaciones, de acuerdo con el artículo 13 Bis de la presente Ley.
+Los funcionarios, empleados o apoderados de las Entidades Financieras que sean responsables de las infracciones a que se refiere el artículo 43 de esta Ley y el párrafo anterior, podrán ser suspendidos, inhabilitados o removidos de su encargo por la propia Comisión.
+Sanciones que corresponde imponer a la Procuraduría Federal del Consumidor
