@@ -1,0 +1,2 @@
+Artículo 49 Bis. El Banco de México podrá, previo derecho de audiencia, suspender o limitar de manera parcial las operaciones de las Cámaras de Compensación que incumplan de manera reiterada lo previsto en los artículos 19 y 19 Bis, o en las disposiciones que de ellos emanen.
+Asimismo, el Banco de México podrá revocar las autorizaciones mencionadas en el artículo 19 Bis, en caso de que se infrinja de manera reiterada y grave lo previsto en los artículos señalados en el párrafo anterior o en las disposiciones que de éste emanen.
