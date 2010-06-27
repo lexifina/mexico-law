@@ -16,5 +16,9 @@ CAPITULO VIII
 De la Cineteca Nacional
 CAPITULO IX
 De las autoridades competentes
-CAPITULO X
+CAPÍTULO X
+De las visitas de verificación
+CAPÍTULO XI
+De las medidas de aseguramiento
+CAPÍTULO XII
 De las sanciones
