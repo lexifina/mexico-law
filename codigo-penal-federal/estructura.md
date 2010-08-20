@@ -162,6 +162,8 @@ CAPÍTULO V
 CAPITULO VI
 Lenocinio y Trata de Personas.
 CAPÍTULO VII
+CAPÍTULO VIII
+Pederastia
 TITULO NOVENO
 Revelación de secretos y acceso ilícito a sistemas y equipos de informática
 CAPITULO I
