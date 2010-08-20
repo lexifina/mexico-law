@@ -1,0 +1,2 @@
+Artículo 107 Bis.- El término de prescripción de los delitos previstos en el Título Octavo del Libro Segundo de este Código cometidos en contra de una víctima menor de edad, comenzará a correr a partir de que ésta cumpla la mayoría de edad.
+En el caso de aquellas personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, correrá a partir del momento en que exista evidencia de la comisión de esos delitos ante el Ministerio Público.
