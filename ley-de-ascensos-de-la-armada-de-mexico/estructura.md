@@ -15,7 +15,7 @@ De los ascensos de Capitanes
 CAPITULO V
 De los ascensos de Almirantes
 CAPITULO VI
-Del concurso de selección para ascenso de Marinero a Capitán de Corbeta
+Del concurso de selección para ascenso a Cabo hasta Capitán de Fragata
 TITULO TERCERO
 De los ascensos en tiempo de guerra
 CAPITULO UNICO

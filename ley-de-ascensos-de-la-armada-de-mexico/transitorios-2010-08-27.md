@@ -1,0 +1,9 @@
+DECRETO por el que se reforman y derogan diversas disposiciones de la Ley de Ascensos de la Armada de México.
+Publicado en el Diario Oficial de la Federación el 27 de agosto de 2010
+Artículo Único. Se reforman los artículos 2o.; 3o.; 4o., párrafo primero; 5o.; 9o.; 11; 12; 13; 14; 15, párrafo primero; 16; 17, párrafo primero; 18; 19; 20, párrafo primero y fracciones III y IV; 21; 26; 30, fracción III; 32, fracción II y párrafo segundo; 33 fracción II y párrafo segundo; 34, párrafo primero, fracciones I y II; 35, fracciones IV, V y VI; 45; 46, fracción III; 47; 48; 49; 50, fracción III; 51, fracciones III y VIII; y 54, así como la denominación del Capítulo VI del Título Segundo y se derogan las fracciones I y II, del artículo 4o.; artículo 7o.; párrafos segundo y tercero, del artículo 15; Apartados a), b), c), d) y e) de la fracción II del artículo 34, a de la Ley de Ascensos de la Armada de México, para quedar como sigue:
+...
+TRANSITORIOS
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+México, D. F., a 27 de abril de 2010.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Francisco Javier Ramírez Acuña, Presidente.- Sen. Adrian Rivera Perez, Secretario.- Dip. Georgina Trujillo Zentella, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de julio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
