@@ -1,1 +1,2 @@
-ARTÍCULO 7 BIS.- El proveedor está obligado a exhibir de manera visible el monto total a pagar por los bienes, productos o servicios que ofrezca al consumidor.
+ARTÍCULO 7 BIS.- El proveedor está obligado a exhibir de forma notoria y visible el monto total a pagar por los bienes, productos o servicios que ofrezca al consumidor.
+Dicho monto deberá incluir impuestos, comisiones, intereses, seguros y cualquier otro costo, cargo, gasto o erogación adicional que se requiera cubrir con motivo de la adquisición o contratación respectiva, sea ésta al contado o a crédito.
