@@ -1,2 +1,4 @@
-Artículo 55 bis.- Queda prohibida la importación, exportación y reexportación de ejemplares de cualquier especie de mamífero marino y primate, así como de sus partes y derivados, con excepción de aquéllos destinados a la investigación científica, previa autorización de la Secretaría.
+Artículo 55 bis.- Queda prohibida la importación, exportación y reexportación de ejemplares de cualquier especie de mamífero marino y primate, así como de sus partes y derivados, con excepción de
+22
+aquéllos destinados a la investigación científica, y las muestras de líquidos, tejidos o células reproductivas de aquellos ejemplares que se encuentren en cautiverio, previa autorización de la Secretaría.
 ESPECIES Y POBLACIONES EN RIESGO Y PRIORITARIAS PARA LA CONSERVACIÓN
