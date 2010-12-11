@@ -28,6 +28,8 @@ CAPÍTULO IX
 Del Cumplimiento de la Sentencia y de la Suspensión
 CAPÍTULO X
 Del Juicio en Línea
+Capítulo XI
+Del Juicio en la Vía Sumaria
 TÍTULO III
 De los Recursos
 CAPÍTULO I

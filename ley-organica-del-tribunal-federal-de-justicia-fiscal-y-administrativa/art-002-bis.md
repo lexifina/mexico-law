@@ -1,0 +1,2 @@
+ARTÍCULO 2 Bis. Las Salas Especializadas conocerán de materias específicas, con la jurisdicción, competencia y sedes que se determinen en su Reglamento Interior, de acuerdo a los estudios y propuesta de la Junta de Gobierno y Administración, con base en las necesidades del servicio.
+Dichas Salas observarán para su organización, integración y en su caso funcionamiento, las mismas disposiciones aplicables a las Salas Regionales, sin perjuicio de las adecuaciones que se requieran para su buen desempeño.
