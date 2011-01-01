@@ -1,3 +1,4 @@
-Artículo 258 Bis. Para los efectos de los artículos 257 Bis, 257 Ter, 257 Quáter y 257 Quintus de esta Ley se considerarán como:
+Artículo 258 Bis. Para los efectos de los artículos 257 Bis, 257 Ter, 257 Quáter, 257 Quintus, 257 Séptimus y 257 Octavus de esta Ley se considerará:
 I. Campos en aguas profundas, aquellos campos de extracción de petróleo crudo y/o gas natural que, en promedio, sus pozos se encuentren ubicados en zonas con un tirante de agua superior a 500 metros, y
 II. Campos en el Paleocanal de Chicontepec, aquellos campos de extracción de petróleo crudo y/o gas natural ubicados en los municipios de Castillo de Teayo, Coatzintla, Coyutla, Chicontepec, Espinal, Ixhuatlán de Madero, Temapache, Papantla, Poza Rica de Hidalgo, Tepetzintla o Tihuatlán, en el Estado de Veracruz de Ignacio de la Llave, o en los municipios de Francisco Z. Mena, Pantepec o Venustiano Carranza, en el Estado de Puebla.
+III. Campos marginales, aquellos campos de extracción de petróleo crudo o gas natural que formen parte del inventario autorizado por la Secretaría de Hacienda y Crédito Público, acorde con lo establecido en el artículo 258 Quáter de esta Ley.

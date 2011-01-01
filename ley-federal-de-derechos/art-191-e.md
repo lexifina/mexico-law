@@ -1,1 +1,1 @@
-Artículo 191-E.- Por la expedición de permisos individuales para efectuar la pesca deportivo - recreativa en embarcaciones y de manera subacuática, se pagará por cada permiso, el derecho de pesca, conforme a la cuota de ... $35.00
+Artículo 191-E. (Se deroga).

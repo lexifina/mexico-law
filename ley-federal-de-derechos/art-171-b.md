@@ -1,1 +1,1 @@
-Artículo 171-B.- Por la actualización técnica y nombramiento para ejercer como Delegado Honorario de la Capitanía de Puerto en la marina turística, se pagará el derecho conforme a la cuota de ... $12,876.00
+Artículo 171-B. (Se deroga).

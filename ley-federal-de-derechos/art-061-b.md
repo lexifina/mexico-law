@@ -1,1 +1,1 @@
-Artículo 61-B. Por el análisis de la solicitud y, en su caso, por el otorgamiento de los permisos de desmantelamiento de las instalaciones a que se refiere el artículo 1 del Reglamento de Trabajos Petroleros, en materia de refinación del petróleo, elaboración y procesamiento del gas y de petroquímicos básicos, y demás actividades relacionadas, se pagará el derecho conforme a la cuota de: ... $2,405.00
+Artículo 61-B. (Se deroga).

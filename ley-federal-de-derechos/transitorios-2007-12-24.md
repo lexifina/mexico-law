@@ -55,10 +55,10 @@ Sexto. A las cuotas de los derechos por servicios prestados por oficinas autoriz
 Las cuotas de los derechos por servicios prestados por oficinas autorizadas en el extranjero a que se refiere el párrafo anterior, deberán ajustarse a partir del 1 de enero de 2008, en la misma proporción en que fluctúe el valor de la moneda extranjera en relación con la nacional, tomando como referencia inicial el tipo de cambio publicado por el Banco de México el día 26 de diciembre de 2007. Para los ajustes subsecuentes, se tomará como referencia el tipo de cambio con el que se calculó la fluctuación del último ajuste que se haya efectuado.
 Las cuotas de los derechos por servicios prestados por oficinas autorizadas en el extranjero a que se refiere este artículo, no se actualizarán de conformidad con el artículo 1o. de la Ley Federal de Derechos.
 Séptimo. A partir del 1 de enero de 2008, para los efectos del artículo 288 de la Ley, las cuotas de los derechos aplicables, serán las siguientes:
-Áreas tipo AAA... $48.00 y después del horario normal de operación $160.00
+Áreas tipo AAA ... $48.00 y después del horario normal de operación $160.00
 Áreas tipo AA ... $46.00
-Áreas tipo A... $39.00
-Áreas tipo B... $35.00
-Áreas tipo C... $29.00
+Áreas tipo A ... $39.00
+Áreas tipo B ... $35.00
+Áreas tipo C ... $29.00
 México, D.F., a 30 de octubre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Esmeralda Cardenas Sanchez, Secretaria.- Sen. Gabino Cué Monteagudo, Secretario.- Rúbricas."
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecinueve de diciembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.

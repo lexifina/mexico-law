@@ -1,1 +1,1 @@
-Artículo 61-C. Por la revisión y verificación en la realización de pruebas hidrostáticas derivadas de la construcción o mantenimiento de ductos, y pruebas hidrostáticas o de hermeticidad para circuitos en instalaciones de transformación industrial en materia de refinación del petróleo, elaboración y procesamiento del gas y de petroquímicos básicos, y demás actividades relacionadas, se pagará el derecho conforme a la cuota de: ... $1,435.00
+Artículo 61-C. (Se deroga).

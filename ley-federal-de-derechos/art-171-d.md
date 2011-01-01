@@ -1,1 +1,1 @@
-Artículo 171-D.- Por la autorización de planes y programas de estudio de formación de licenciaturas de piloto y maquinista navales; y cursos de capacitación para personal oficial y subalterno, por cada uno ... $6,485.00
+Artículo 171-D. (Se deroga).

@@ -49,7 +49,7 @@ El informe referido en el párrafo anterior podrá ser presentado dentro del pri
 La Comisión Nacional del Agua estará facultada para revisar la veracidad de los datos del informe presentado.
 VII. Una vez determinadas las concentraciones de los contaminantes expresados en miligramos por litro se compararán con los valores correspondientes a los límites máximos permisibles por cada contaminante, previstos en la siguiente tabla:
 Tabla D
-LÍMITES MÁXIMOS PERMISIBLES CUERPOS RECEPTORES TIPO A TIPO B TIPO C PARÁMETROS (miligramos por litro) Ríos Aguas Costeras Suelo Ríos Embalses Aguas Costeras Estuarios Humedales Naturales Ríos y Embalses
+LÍMITES MÁXIMOS PERMISIBLES PARÁMETROS (miligramos por litro) CUERPOS RECEPTORES TIPO A TIPO B TIPO C Ríos Aguas Costeras Suelo Ríos Embalses Aguas Costeras Estuarios Humedales Naturales Ríos y Embalses
 P.M. P.M. P.M. Sólidos Suspendidos Totales 150.0 75.0 40.0 Demanda Química de Oxígeno 320 200 100
 P.M.: Promedio Mensual
 En caso de que las concentraciones de contaminantes sean superiores a dichos límites se pagará el derecho conforme a lo dispuesto en el artículo 278-C de esta Ley.

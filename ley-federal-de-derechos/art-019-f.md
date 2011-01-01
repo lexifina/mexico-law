@@ -1,10 +1,10 @@
 Artículo 19-F.- Por los servicios en materia de radio, cada concesionario o permisionario pagará el derecho de radio, conforme a las siguientes cuotas:
-I. Por el trámite y estudio y, en su caso, la autorización anual para transmisión o distribución en México, de programación originada, desarrollada o proveniente del extranjero $372.00
+I. Por el trámite y estudio y, en su caso, la autorización anual para transmisión o distribución en México, de programación originada, desarrollada o proveniente del extranjero ... $410.51
 II. Tratándose de programas de concurso:
-a). Por el trámite y estudio y, en su caso, la autorización anual o modificación de las condiciones de programa de concurso ... $845.82
+a). Por el trámite y estudio y, en su caso, la autorización anual o modificación de las condiciones de programa de concurso ... $933.79
 b). Por la supervisión de programa de concurso por cada hora o fracción, se pagarán las siguientes cuotas:
 1. Horario ordinario de servicio ... $750.00
 2. Fuera de horario ordinario de servicio ... $1,050.00
 Para los efectos de este inciso, se entiende como horario ordinario de servicio el comprendido de las 9:00 a las 18:00 horas, de lunes a viernes.
-III. Por el trámite y estudio y, en su caso, la autorización anual por transmisiones en idioma extranjero ... $846.00
+III. Por el trámite y estudio y, en su caso, la autorización anual por transmisiones en idioma extranjero ... $933.79
 IV. (Se deroga).

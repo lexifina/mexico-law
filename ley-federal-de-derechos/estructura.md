@@ -48,8 +48,8 @@ Sección Unica
 Padrón de Contratistas y de Proveedores del Gobierno Federal
 CAPITULO V
 Secretaría de Energía
-Sección Unica
-Permisos en Materia de Energía Eléctrica y Gas Natural
+SECCIÓN ÚNICA
+Actividades Reguladas en Materia Energética
 CAPITULO VI
 De la Secretaría de Comercio y Fomento Industrial
 Sección Primera
@@ -72,13 +72,14 @@ CAPITULO VII
 Secretaría de Agricultura, Ganadería y Desarrollo Rural
 Sección Primera
 Servicios de Agua
-Sección Segunda
-Sanidad Fitopecuaria
+SECCIÓN SEGUNDA
+Sanidad Fitozoosanitaria
 Sección Tercera
 Certificación y Protección del Obtentor de Variedades Vegetales
-Sección Cuarta
-Sección Quinta
-De los Parques Nacionales
+SECCIÓN CUARTA
+Sanidad Acuícola
+SECCIÓN QUINTA
+De los Organismos Genéticamente Modificados
 Sección Sexta
 Otros Servicios
 CAPITULO VIII
