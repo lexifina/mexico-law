@@ -279,6 +279,34 @@ CAPITULO XXX
 De las Tercerías
 TITULO SEGUNDO
 De los Juicios Ordinarios
+TÍTULO ESPECIAL
+Del Juicio Oral Mercantil
+CAPÍTULO I
+Disposiciones Generales
+CAPÍTULO II
+Del Procedimiento Oral
+SECCIÓN PRIMERA
+Fijación de la Litis
+SECCIÓN SEGUNDA
+De las Audiencias
+SECCIÓN TERCERA
+De la Audiencia Preliminar
+SECCIÓN CUARTA
+De la Audiencia del Juicio
+CAPÍTULO III
+De los Incidentes
+CAPÍTULO IV
+De las Pruebas
+SECCIÓN PRIMERA
+Confesional
+SECCIÓN SEGUNDA
+Testimonial
+SECCIÓN TERCERA
+Instrumental
+SECCIÓN CUARTA
+Pericial
+SECCIÓN QUINTA
+Prueba Superveniente
 TITULO TERCERO
 De los Juicios Ejecutivos
 TITULO TERCERO BIS
@@ -304,3 +332,5 @@ CAPITULO VIII
 De la Nulidad del Laudo
 CAPITULO IX
 Reconocimiento y Ejecución de Laudos
+CAPÍTULO X
+De la Intervención Judicial en la Transacción Comercial y el Arbitraje
