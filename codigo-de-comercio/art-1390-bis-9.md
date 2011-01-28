@@ -1,0 +1,1 @@
+Artículo 1390 Bis 9.- Salvo lo dispuesto en este título, las promociones de las partes deberán formularse oralmente durante las audiencias. Los tribunales no admitirán promociones frívolas o improcedentes, y deberán desecharlas de plano, debiendo fundamentar y motivar su decisión.
