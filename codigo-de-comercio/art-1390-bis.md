@@ -1,0 +1,3 @@
+Artículo 1390 Bis.- Se tramitarán en este juicio todas las contiendas cuya suerte principal sea inferior a 220 mil 533 pesos 48 centavos, moneda nacional, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de interposición de la demanda.
+La cantidad referida en el párrafo anterior deberá actualizarse en forma anual, de acuerdo a lo dispuesto en el último párrafo del artículo 1253 fracción VI de este Código.
+El Consejo de la Judicatura Federal, los presidentes de los Tribunales Superiores de Justicia del Distrito Federal y de los estados, tendrán la obligación de hacer saber a los juzgados y tribunales de su jurisdicción el factor de actualización a que se refiere el párrafo anterior.
