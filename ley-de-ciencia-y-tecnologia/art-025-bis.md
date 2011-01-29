@@ -1,5 +1,4 @@
-Artículo 25 Bis.
-Las Secretarías de Estado y las entidades de la Administración Pública Federal podrán celebrar convenios con el CONACyT, conforme a lo dispuesto en los artículos 25 y 26 de la presente Ley, para establecer fondos sectoriales de innovación, que tendrán por objeto otorgar apoyos para:
+Artículo 25 Bis. Las Secretarías de Estado y las entidades de la Administración Pública Federal podrán celebrar convenios con el CONACyT, conforme a lo dispuesto en los artículos 25 y 26 de la presente Ley, para establecer fondos sectoriales de innovación, que tendrán por objeto otorgar apoyos para:
 I. La conformación y desarrollo de redes y/o alianzas regionales tecnológicas y/o de innovación, empresas y actividades de base tecnológica, unidades de vinculación y transferencia de conocimiento, redes y/o alianzas tecnológicas, asociaciones estratégicas, consorcios, agrupaciones de empresas o nuevas empresas generadoras de innovación;
 II. Las actividades de vinculación entre generadores de ciencia, tecnología e innovación y los sectores productivos y de servicios;
 III. La conformación de empresas o asociaciones cuyo propósito sea la creación de redes científicas y tecnológicas y de vinculación entre los generadores de ciencia, tecnología e innovación y los sectores productivos y de servicios;
