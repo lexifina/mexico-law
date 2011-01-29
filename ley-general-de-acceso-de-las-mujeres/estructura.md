@@ -22,3 +22,7 @@ CAPÍTULO IV
 DE LA ATENCIÓN A LAS VÍCTIMAS
 CAPÍTULO V
 DE LOS REFUGIOS PARA LAS VICTIMAS DE VIOLENCIA
+Título IV
+De las Responsabilidades y Sanciones
+Capítulo Único
+De las Responsabilidades y Sanciones
