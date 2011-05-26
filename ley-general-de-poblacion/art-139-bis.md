@@ -1,1 +1,1 @@
-Artículo 139 Bis.- Al que reciba en custodia a un extranjero, en los términos del artículo 153, y permita que se sustraiga del control de la autoridad migratoria se le sancionará con multa hasta de un mil días de salario mínimo general vigente en el Distrito Federal en el momento de consumar la conducta, sin perjuicio de las penas en que incurra cuando ello constituya un delito.
+Artículo 139 Bis.- (Se deroga).
