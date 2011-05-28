@@ -7,8 +7,8 @@ Dado en el Palacio del Poder Ejecutivo Federal, en México, a los trece días de
 Lo que comunico a usted para su publicación y demás fines.
 Sufragio Efectivo. No Reelección.
 México, D.F., a 14 de agosto de 1931.- El Subsecretario de Gobernación. Encargado del Despacho, Octavio Mendoza González.- Rúbrica.
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios Centro de Documentación, Información y Análisis
-114 de 159 la Federación el 20 de agosto de 2009.
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios Dirección General de Servicios de Documentación, Información y Análisis
+114 de 163 la Federación el 20 de agosto de 2009.
 APENDICE 1
 TABLA 1 MARIHUANA RESINA DE CANNABIS (HASCHICH) MORFINA BUPRENORFINA A (NUVAINE) CLORHIDRATO DE COCAINA SULFATO DE COCAINA HEROINA (DIACETIL - MORFINA) FENTANIL (ALFA - METIL) (CHINA - WHITE) MEPERIDINA (DEMEROL) PRIMODELINCUENCIA 1ª REINCIDENCIA 2ª REINCIDENCIA PENA DE PRISION máx 250 grs máx 5 grs máx 150 mgs máx 200 mgs máx 25 grs máx 250 mgs máx 1 gr máx 2 grs máx 2 grs 10 meses a 1 año 4 meses 1 año a 1 año 6 meses 1 año 3 meses a 1 año 9 meses 250 grs a 1 kg 5-20 grs 150-300 mgs 200-400 mgs 25-50 grs 250-500 mgs 1-2 grs 2-4-grs 2-4 grs 1 año 4 meses a 1 año 9 meses 1 año 6 meses a 2 años 1 año 9 meses a 2 años 3 meses 1 a 2.5 kg 20-50 grs 300-500 mgs 400-800 mgs 50-100 grs 500 mgs-1gr 2-4 grs 4-8 grs 4-8 grs 1 año 9 meses a 2 años 9 meses 2 años a 3 años 1 mes 2 años 3 meses a 3 años 5 meses
 2.5 a 5 kg 50-100 grs 500-1 gr 800-1 gr 100-200 grs 1-2 grs 4-6 grs 8-16 grs 8-16 grs 2 años 9 meses a 4 años 3 meses 3 años 1 mes a 4 años 9 meses 3 años 5 meses a 5 años 3 meses
@@ -18,7 +18,7 @@ TABLA 2 FENCICLIDINA (PCP) MEZCALINA ACIDO LISERGICO (LSD) PSILOCIBINA CLORHIDRA
 2.5-5 grs
 1.5-3 grs
 1.5-3 grs 1 año 4 meses a 1 año 9 meses 1 año 6 meses a 2 años 1 año 9 meses a 2 años 3 meses 4-8 grs 5-10 grs 100-200 mgs 5-10 grs 3-5 grs 3-5 grs 1 año 9 meses a 2 años 9 meses 2 años a 3 años 1 mes 2 años 3 meses a 3 años 5 meses 8-16 grs 10-20 grs 200-400 mgs 10-20 grs 5-10 grs 5-10 grs 2 años 9 meses a 4 años 3 meses 3 años 1 mes a 4 años 9 meses 3 años 5 meses a 5 años 3 meses
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios Centro de Documentación, Información y Análisis
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios Dirección General de Servicios de Documentación, Información y Análisis
 TABLA 3 DIAZEPAM FLUNITRAZEPAM FENPROPOREX TRIHEXIFENIDILO CLORODIAZEPOXIDO PRIMODELINCUENCIA 1ª REINCIDENCIA 2ª REINCIDENCIA PENA DE PRISION máx 150 mgs máx 100mgs máx 200 mgs máx 100 mgs máx 240 mgs 10 meses a 1 año 4 meses 1 año a 1 año 6 meses 1 año 3 meses a 1 año 9 meses 150-300 mgs 100-200 mgs 200-300 mgs 100-200 mgs 240-600 mgs 1 año 4 meses a 1 año 9 meses 1 año 6 meses a 2 años 1 año 9 meses a 2 años 3 meses 300-600 mgs 200-300 mgs 300-400 mgs 200-300 mgs 600 mgs-1 gr 1 año 9 meses a 2 años 9 meses 2 años a 3 años 1 mes 2 años 3 meses a 3 años 5 meses 600 mgs-1 gr 300-400 mgs 400-600 mgs 300-400 mgs 1-2 grs 2 años 9 meses a 4 años 3 meses 3 años 1 mes a 4 años 9 meses 3 años 5 meses a 5 años 3 meses
 TABLA 4
 SECOBARBITAL MECUALONA PENTOBARBITAL RAFETAMINA DEXTROANFETAMINA
