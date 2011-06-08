@@ -121,8 +121,8 @@ Substancias Psicotrópicas
 CAPITULO VII
 Establecimientos Destinados al Proceso de Medicamentos
 CAPITULO VIII
-CAPITULO IX
-Productos de Perfumería y Belleza
+CAPÍTULO IX
+PRODUCTOS COSMÉTICOS
 CAPITULO X
 Productos de Aseo
 CAPITULO XI
