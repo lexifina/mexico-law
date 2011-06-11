@@ -1,6 +1,6 @@
 Título Primero
 Capítulo I
-De las Garantías Individuales
+De los Derechos Humanos y sus Garantías
 Capítulo II
 De los Mexicanos
 Capítulo III
