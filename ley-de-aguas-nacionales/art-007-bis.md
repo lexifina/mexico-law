@@ -7,5 +7,6 @@ V. La atención prioritaria de la problemática hídrica en las localidades, acu
 VI. La prevención, conciliación, arbitraje, mitigación y solución de conflictos en materia del agua y su gestión;
 VII. El control de la extracción y de la explotación, uso o aprovechamiento de las aguas superficiales y del subsuelo;
 VIII. La incorporación plena de la variable ambiental y la valoración económica y social de las aguas nacionales en las políticas, programas y acciones en materia de gestión de los recursos hídricos, en el ámbito de las instituciones y de la sociedad;
-IX. El mejoramiento de las eficiencias y modernización de las áreas bajo riego, particularmente en distritos y unidades de riego, para contribuir a la gestión integrada de los recursos hídricos, y
-X. La organización de los usuarios, asociaciones civiles y otros sistemas y organismos públicos y privados prestadores de servicios de agua rurales y urbanos, así como su vinculación con los tres órdenes de gobierno, para consolidar su participación en los Consejos de Cuenca.
+IX. El mejoramiento de las eficiencias y modernización de las áreas bajo riego, particularmente en distritos y unidades de riego, para contribuir a la gestión integrada de los recursos hídricos;
+X. La organización de los usuarios, asociaciones civiles y otros sistemas y organismos públicos y privados prestadores de servicios de agua rurales y urbanos, así como su vinculación con los tres órdenes de gobierno, para consolidar su participación en los Consejos de Cuenca, y
+XI. La sustentabilidad ambiental y la prevención de la sobreexplotación de los acuíferos.
