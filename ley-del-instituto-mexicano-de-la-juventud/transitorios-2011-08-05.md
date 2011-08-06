@@ -1,0 +1,11 @@
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley del Instituto Mexicano de la Juventud.
+Publicado en el Diario Oficial de la Federación el 5 de agosto de 2011
+Artículo Único.- Se reforman los artículos 2; 3, actual fracción V; y 4, actuales fracciones I, II, y X; 5, fracción III; 8, párrafo segundo; 9, fracción II; 13; 14; 15; y se modifica la denominación del Capítulo IV, para quedar como "Del Régimen Laboral y Seguridad Social" y se adicionan los artículos 3, con una fracción I recorriéndose en su orden las demás fracciones; 3 Bis; 4, con las fracciones I, VI, XII y XV, recorriéndose en su orden las demás fracciones; 4 Bis; 9, con una fracción II, recorriéndose en su orden las demás fracciones y 15 Bis a la Ley del Instituto Mexicano de la Juventud, para quedar como sigue:
+...
+TRANSITORIOS
+Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+Segundo. Las nuevas atribuciones que en virtud de este Decreto se otorgan al Instituto Mexicano de la Juventud serán atendidas con los recursos humanos, financieros y materiales con los que hasta la entrada en vigor del presente Decreto cuenta dicho Instituto.
+Tercero. El Consejo ciudadano de seguimiento de políticas públicas en materia de juventud deberá quedar constituido en un plazo no mayor a noventa días a partir de la entrada en vigor del presente Decreto.
+Cuarto. Las modificaciones necesarias al Estatuto Orgánico del Instituto Mexicano de la Juventud se harán dentro de los 90 días siguientes a la entrada en vigor del presente Decreto y deberá inscribirse en el Registro Público de organismos descentralizados.
+México, D.F., a 29 de abril de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Maria de Jesus Aguirre Maldonado, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de julio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
