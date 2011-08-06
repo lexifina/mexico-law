@@ -5,4 +5,4 @@ Administración, Control y Vigilancia
 Capítulo III
 Del Consejo de Seguimiento de Proyectos y Programas
 Capítulo IV
-Régimen de Trabajo
+Del Régimen Laboral y Seguridad Social
