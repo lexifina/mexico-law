@@ -38,3 +38,6 @@ Capítulo II
 De las Sanciones
 Capítulo III
 Del Recurso
+TÍTULO SÉPTIMO
+Capitulo Único
+De los prestadores de servicio de alarma y monitoreo
