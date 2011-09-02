@@ -123,6 +123,8 @@ Establecimientos Destinados al Proceso de Medicamentos
 CAPITULO VIII
 CAPÍTULO IX
 PRODUCTOS COSMÉTICOS
+CAPÍTULO IX BIS
+Ejercicio especializado de la Cirugía
 CAPITULO X
 Productos de Aseo
 CAPITULO XI
