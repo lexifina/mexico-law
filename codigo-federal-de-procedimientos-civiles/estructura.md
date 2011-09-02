@@ -159,3 +159,28 @@ CAPITULO V
 Competencia en Materia de Ejecución de Sentencias
 CAPITULO VI
 Ejecución de Sentencias
+Libro Quinto
+De las Acciones Colectivas
+Título Único
+Capítulo I
+Previsiones Generales
+Capítulo II
+De la Legitimación Activa
+Capítulo III
+Procedimiento
+Capítulo IV
+Sentencias
+Capítulo V
+Medidas Precautorias
+Capítulo VI
+Medios de Apremio
+Capítulo VII
+Relación entre Acciones Colectivas y Acciones Individuales
+Capítulo VIII
+Cosa Juzgada
+Capítulo IX
+Gastos y Costas
+Capítulo X
+De las Asociaciones
+Capítulo XI
+Del Fondo
