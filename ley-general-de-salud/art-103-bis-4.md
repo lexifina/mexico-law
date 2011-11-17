@@ -1,0 +1,1 @@
+Artículo 103 Bis 4. Se debe respetar el derecho de toda persona a decidir, incluso por tercera persona legalmente autorizada, que se le informe o no de los resultados de su examen genético y sus consecuencias.
