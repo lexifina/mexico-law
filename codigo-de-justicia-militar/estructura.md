@@ -147,6 +147,8 @@ CAPITULO III
 Extravío, enajenación, robo y destrucción de lo perteneciente al ejército
 CAPITULO IV
 Deserción e insumisión
+CAPITULO IV BIS
+Traición a las Fuerzas Armadas Mexicanas
 CAPITULO V
 Inutilización voluntaria para el servicio
 CAPITULO VI
