@@ -1,0 +1,1 @@
+Artículo 103 Bis. El genoma humano es el material genético que caracteriza a la especie humana y que contiene toda la información genética del individuo, considerándosele como la base de la unidad biológica fundamental del ser humano y su diversidad.

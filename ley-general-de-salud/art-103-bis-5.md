@@ -1,0 +1,1 @@
+Artículo 103 Bis 5. La investigación científica, innovación, desarrollo tecnológico y aplicaciones del genoma humano, estarán orientadas a la protección de la salud, prevaleciendo el respeto a los derechos humanos, la libertad y la dignidad del individuo; quedando sujetos al marco normativo respectivo.
