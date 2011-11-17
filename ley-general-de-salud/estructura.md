@@ -54,6 +54,9 @@ Formación, Capacitación y Actualización del Personal
 TITULO QUINTO
 Investigación para la Salud
 CAPITULO UNICO
+TÍTULO QUINTO BIS
+El Genoma Humano
+CAPÍTULO ÚNICO
 TITULO SEXTO
 Información para la Salud
 CAPITULO UNICO
