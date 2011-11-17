@@ -2,3 +2,4 @@ Artículo 60 Bis 2.- Ningún ejemplar de ave correspondiente a la familia Psitta
 La Secretaría sólo podrá otorgar autorizaciones de aprovechamiento extractivo con fines de conservación o investigación científica. Únicamente se otorgarán autorizaciones para investigación científica a instituciones académicas acreditadas.
 Queda prohibida la importación, exportación y reexportación de cualquier ejemplar de ave correspondiente a la familia Psittacidae o psitácido, cuya distribución natural sea dentro del territorio nacional.
 Las especies de psitácidos no comprendidas en el presente artículo quedan sujetas a las disposiciones previstas en las demás leyes y Tratados Internacionales de los cuales México sea parte.
+24
