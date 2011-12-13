@@ -5,6 +5,7 @@ es el coeficiente relativo a la extracción de petróleo y gas.
 es el coeficiente relativo a la producción de gas asociado y no asociado.
 EXPi,t-1 es el valor de extracción bruta de los hidrocarburos de la entidad federativa i conforme a la clasificación de extracción de petróleo y gas definida en el último censo económico realizado por el Instituto Nacional de Estadística y Geografía.
 EXGi,t-1 es el volumen de producción de gas natural asociado y no asociado de la entidad federativa i, en el año anterior para el cual se realiza el cálculo, según el Sistema de Información Energética.
-∑ i es la sumatoria de la variable que le sigue, sobre las entidades que formen parte de la clasificación de extracción de petróleo y gas definida en el último censo económico realizado por el Instituto Nacional de Estadística y Geografía.
+
+clasificación de extracción de petróleo y gas definida en el último censo económico realizado por el Instituto Nacional de Estadística y Geografía.
 La Secretaría de Hacienda y Crédito Público enterará a las entidades federativas las cantidades correspondientes, a más tardar el día 25 del mes posterior a la presentación de los pagos provisionales a que se refiere el artículo 255 de la Ley Federal de Derechos. Asimismo, dicha dependencia efectuará el ajuste que corresponda a los enteros mensuales provisionales, de acuerdo con la declaración definitiva a que se refiere el artículo 254 de dicha Ley.
 Los municipios recibirán cuando menos el 20% de los recursos percibidos por las entidades federativas.
