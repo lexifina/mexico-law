@@ -3,9 +3,9 @@ Publicado en el Diario Oficial de la Federación el 15 de diciembre de 1995
 Ley de Coordinación Fiscal
 Artículo Décimo Segundo. Se realizan las modificaciones siguientes a la Ley de Coordinación FiscaI:
 I. Se reforman los artículos:
-• 2o., primer, cuarto y último párrafos, • 2o.-A, fracción I, segundo párrafo; y la fracción III; • 3o., último párrafo; • 4o., primero y quinto párrafos; • 7o., primero y quinto párrafos; • 8o., primer párrafo; • 9o., tercero y cuarto párrafos; • 9o.-A; • 10-A, fracción III y segundo párrafo del propio artículo; • 12, último párrafo, y • 13, segundo párrafo.
+ 2o., primer, cuarto y último párrafos,  2o.-A, fracción I, segundo párrafo; y la fracción III;  3o., último párrafo;  4o., primero y quinto párrafos;  7o., primero y quinto párrafos;  8o., primer párrafo;  9o., tercero y cuarto párrafos;  9o.-A;  10-A, fracción III y segundo párrafo del propio artículo;  12, último párrafo, y  13, segundo párrafo.
 II. Se adicionan los artículos:
-• 3o.-A; • 9o., quinto párrafo, pasando el actual quinto a ser sexto párrafo; • 10-A, fracción I, incisos f) y g).
+ 3o.-A;  9o., quinto párrafo, pasando el actual quinto a ser sexto párrafo;  10-A, fracción I, incisos f) y g).
 Disposiciones Transitorias de la Ley de Coordinación Fiscal
 Artículo Décimo Tercero. En relación con las modificaciones a que se refiere el Artículo Décimo Segundo que antecede, se estará a lo siguiente:
 I. Las reformas y adiciones a la Ley de Coordinación Fiscal entrarán en vigor a partir del 1o. de enero de 1996, con excepción de la reforma al último párrafo del artículo 3o., la cual entrará en vigor a partir del 1o. de enero de 1997.
