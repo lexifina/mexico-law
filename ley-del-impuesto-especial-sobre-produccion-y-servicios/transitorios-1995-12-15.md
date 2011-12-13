@@ -3,9 +3,9 @@ Publicado en el Diario Oficial de la Federación el 15 de diciembre de 1995
 Ley del Impuesto Especial sobre Producción y Servicios
 Artículo Décimo. Se reforman se realizan las siguientes modificaciones a la Ley del Impuesto Especial sobre Producción y Servicios:
 I. Se reforman los artículos:
-• 2o., fracción I, inciso I; • 2o.-A, primer párrafo y fracciones II y III; • 4o., último párrafo; • 4o.-C, segundo y tercer párrafos, y • 11, tercer párrafo.
+ 2o., fracción I, inciso I;  2o.-A, primer párrafo y fracciones II y III;  4o., último párrafo;  4o.-C, segundo y tercer párrafos, y  11, tercer párrafo.
 II. Se adiciona el artículo:
-• 4 A.- con una fracción IV.
+ 4 A.- con una fracción IV.
 Las modificaciones anteriores quedan de la siguiente manera:
 ...
 Disposición Transitoria de la Ley del Impuesto Especial Sobre Producción y Servicios
