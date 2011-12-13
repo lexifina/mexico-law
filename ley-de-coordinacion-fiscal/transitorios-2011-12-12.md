@@ -1,0 +1,8 @@
+DECRETO por el que se reforman diversos artículos del Decreto por el que se reforman, adicionan, derogan y abrogan diversas disposiciones de la Ley de Coordinación Fiscal, de la Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial sobre Producción y Servicios, publicado el 21 de diciembre de 2007.
+Publicado en el Diario Oficial de la Federación el 12 de diciembre de 2011
+Artículo Único. Se reforman los artículos Segundo, fracción III, tercer párrafo y Sexto, fracción III, del "Decreto por el que se reforman, adicionan, derogan y abrogan diversas disposiciones de la Ley de Coordinación Fiscal, de la Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial sobre Producción y Servicios.", publicado en el Diario Oficial de la Federación el 21 de diciembre de 2007, para quedar como sigue:
+...
+TRANSITORIO
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación
+México, D.F., a 27 de octubre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de diciembre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
