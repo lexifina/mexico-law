@@ -8,12 +8,12 @@ Los recursos que obtengan las entidades federativas, municipios y demarcaciones 
 Tratándose de obligaciones pagaderas en dos o más ejercicios fiscales, para cada año podrá destinarse al servicio de las mismas lo que resulte mayor entre aplicar el porcentaje a que se refiere el párrafo anterior a los recursos correspondientes al año de que se trate o a los recursos correspondientes al año en que las obligaciones hayan sido contratadas.
 II. Del total recaudado con motivo de la aplicación de las cuotas, 2/11 se destinarán a un Fondo de Compensación, el cual se distribuirá entre las 10 entidades federativas que, de acuerdo con la última información oficial del Instituto Nacional de Estadística, Geografía e Informática, tengan los menores niveles de Producto Interno Bruto per cápita no minero y no petrolero. Éste se obtendrá de la diferencia entre el Producto Interno Bruto Estatal total y el Producto Interno Bruto Estatal Minero, incluyendo todos los rubros contenidos en el mismo.
 El Fondo de Compensación se distribuirá conforme a la fórmula siguiente:
-FC PIBpc PIBpc T ∑ - - = 1, 1,, 1 1
+FC PIBpc PIBpc T     1, 1,, 1 1
 Donde:
 Ti,t es la transferencia de la entidad i en el año t.
 PIBpci,t-1 es el último Producto Interno Bruto per cápita no minero y no petrolero de la entidad i construido con los últimos datos oficiales del Instituto Nacional de Estadística, Geografía e Informática.
 FCt es el Fondo de Compensación en el año t.
-∑
+
 es la sumatoria de la variable que le sigue.
 La Secretaría de Hacienda y Crédito Público enterará a las entidades federativas las cantidades a que se refiere esta fracción, dentro del mes siguiente al entero o compensación de dichas cantidades por parte de las entidades federativas que administren el impuesto.
 La Comisión Permanente de Funcionarios Fiscales conjuntamente con la Secretaría de Hacienda y Crédito Público deberán presentar al Congreso de la Unión una evaluación sobre los resultados y desempeño del Fondo a que se refiere esta fracción, así como sobre la conveniencia de conservar o modificar las reglas de su distribución. Dicha evaluación deberá presentarse en el mes de enero del año 2018 y posteriormente cada 5 años en caso de no modificarse las reglas de distribución.
