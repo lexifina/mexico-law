@@ -1,4 +1,4 @@
-CODIGO DE COMERCIO
+CÓDIGO DE COMERCIO
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 El Presidente de la República se ha servido dirigirme el decreto que sigue:
 'PORFIRIO DIAZ, Presidente Constitucional de los Estados Unidos Mexicanos, á sus habitantes, sabed:
