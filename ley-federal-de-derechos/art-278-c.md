@@ -3,5 +3,5 @@ I. La concentración de contaminantes que rebasen los límites máximos permisib
 II. El resultado obtenido se multiplicará por el volumen trimestral de aguas residuales descargadas en metros cúbicos, obteniéndose así la carga de contaminantes, expresada en kilogramos por trimestre, descargada al cuerpo receptor.
 III. Para obtener el monto correspondiente por cada contaminante que rebase los límites máximos permisibles, conforme al tipo de cuerpo receptor de que se trate, se multiplicarán los kilogramos de contaminante por trimestre, por la cuota en pesos por kilogramo que corresponda, de acuerdo con la siguiente Tabla:
 TABLA II
-Cuota en pesos por kilogramo de contaminante al trimestre Tipo de contaminante Cuerpo Receptor Tipo "A" Tipo "B" Tipo "C" Demanda Química de Oxígeno $0.3137 $0.3508 $0.3691 Sólidos Suspendidos Totales $0.5388 $0.6022 $0.6340
+Cuota en pesos por kilogramo de contaminante al trimestre Tipo de contaminante Cuerpo Receptor Tipo "A" Tipo "B" Tipo "C" Demanda Química de Oxígeno $0.3517 $0.3933 $0.4138 Sólidos Suspendidos Totales $0.6040 $0.6751 $0.7108
 El monto del derecho a pagar será enterado por el contribuyente en los términos del artículo 283 de esta Ley.

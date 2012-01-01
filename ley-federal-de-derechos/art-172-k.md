@@ -1,1 +1,1 @@
-Artículo 172-K.- Por el otorgamiento del permiso para construir, instalar y operar terminales interiores de carga, se pagará la cuota de ... $11,775.45
+Artículo 172-K.- Por el otorgamiento del permiso para construir, instalar y operar terminales interiores de carga, se pagará la cuota de ... $13,201.46

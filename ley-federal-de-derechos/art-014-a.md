@@ -1,13 +1,13 @@
 Artículo 14-A.- Por los servicios migratorios que se presten en días inhábiles o fuera del horario de trámite ordinario señalado por la Secretaría de Gobernación, o en lugares distintos a las oficinas migratorias, las empresas de transporte pagarán el derecho por servicios migratorios extraordinarios, conforme a las siguientes cuotas:
 I.- En puertos marítimos:
-a).- Por cada revisión de la documentación de la tripulación en embarcaciones cargueras, al desembarque y despacho, respectivamente ... $4,464.95
+a).- Por cada revisión de la documentación de la tripulación en embarcaciones cargueras, al desembarque y despacho, respectivamente ... $5,005.66
 b). Por cada revisión de la documentación de la tripulación de las embarcaciones turísticas comerciales, al desembarque y despacho, respectivamente, de acuerdo al número de personas a bordo:
-1. De 1 a 500 personas ... $2,899.06
-2. De 501 a 1000 personas ... $3,764.32
-3. De 1001 a 1500 personas ... $4,482.43
-4. De 1501 personas, en adelante ... $5,097.91
+1. De 1 a 500 personas ... $3,129.25
+2. De 501 a 1000 personas ... $4,063.21
+3. De 1001 a 1500 personas ... $4,838.33
+4. De 1501 personas, en adelante ... $5,502.68
 Cuando el servicio migratorio extraordinario en puertos marítimos se preste a embarcaciones fondeadas, se incrementará el derecho correspondiente con un 25% adicional.
 No se cobrará el derecho por servicios migratorios extraordinarios, cuando se trate de embarcaciones con fines de investigación científica o educativa.
-II.- En aeropuertos internacionales, por cada revisión de la documentación de pasajeros en vuelos de fletamento, al ingreso y a la salida del país. ... $1,409.21
+II.- En aeropuertos internacionales, por cada revisión de la documentación de pasajeros en vuelos de fletamento, al ingreso y a la salida del país. ... $1,521.10
 Tratándose de las aeronaves particulares que sin fines de lucro se utilicen para la transportación privada de pasajeros no se pagará el derecho de servicios migratorios extraordinarios a que se refiere esta fracción.
 (Se deroga último párrafo).
