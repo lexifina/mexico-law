@@ -1,1 +1,1 @@
-Artículo 194-R.- Por el servicio de evaluación y verificación de la aplicación de métodos, procedimientos, partes, componentes y equipos que reduzcan las emisiones de contaminantes a la atmósfera generados por vehículos automotores, a través de la prueba estática de emisiones vehiculares, se pagará por cada prueba que se realice el derecho de prevención y control de la contaminación, conforme a la cuota ... $150.33
+Artículo 194-R. (Se deroga).

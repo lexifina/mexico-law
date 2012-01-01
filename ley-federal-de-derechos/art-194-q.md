@@ -1,1 +1,1 @@
-Artículo 194-Q.- Por el servicio de certificación y verificación de emisiones contaminantes de vehículos automotores nuevos, a través de la prueba de laboratorio de emisiones vehiculares, por el método "CVS 75", se pagará por cada prueba que se realice el derecho de prevención y control de la contaminación, conforme a la cuota de ... $14,654.86
+Artículo 194-Q. (Se deroga).

@@ -1,1 +1,1 @@
-Artículo 236-B.- Tratándose del derecho a que se refieren las fracciones IV y V del artículo 232 de esta Ley, la Comisión Nacional del Agua está facultada para ejercer las atribuciones establecidas en el artículo 192-E de esta Ley.
+Artículo 236-B. Tratándose del derecho a que se refieren los artículos 232, fracciones I, segundo párrafo, IV y V y 236 de esta Ley, la Comisión Nacional del Agua está facultada para ejercer las atribuciones establecidas en el artículo 192-E de esta Ley.

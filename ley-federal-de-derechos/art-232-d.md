@@ -12,18 +12,16 @@ ZONA X. Estado de Baja California Sur: Los Cabos; Estado de Guerrero: Acapulco d
 ZONA XI. Subzona A. Estado de Quintana Roo: Cozumel. Subzona B. Estado de Quintana Roo: Benito Juárez, Solidaridad y Tulum.
 Artículo 232-D-1.- Están obligadas a pagar el derecho por extracción de materiales pétreos, las personas físicas y morales que los extraigan de las playas, la zona federal marítimo terrestre y los terrenos ganados al mar o de cualquier otro depósito de aguas marítimas, así como del lecho marino, conforme a la cuota que resulte por metro cúbico:
 Material $/M3
-Grava ... $11.26
-Arena ... $11.26
-Arcillas y limos ... $8.16
-Materiales en greña ... $8.80
-Piedra bola ... $9.72
-Otros ... $3.37
+Grava ... $12.62
+Arena ... $12.62
+Arcillas y limos ... $9.15
+Materiales en greña ... $9.87
+Piedra bola ... $10.90
+Otros ... $3.78
 El derecho se pagará por ejercicios fiscales mediante declaración que se presentará en las oficinas autorizadas por el Servicio de Administración Tributaria, dentro de los tres meses siguientes a la fecha en que termine el ejercicio fiscal.
 A cuenta del derecho, se realizarán pagos provisionales mensuales, mediante declaración que se presentará en las oficinas autorizadas por el Servicio de Administración Tributaria, dentro de los diez días previos al mes en el que se efectúe la extracción, considerando el volumen de material que se tenga programado extraer durante ese periodo.
 Al monto total del derecho que resulte por el ejercicio de que se trate en los términos de este artículo, se le restará el monto total de los pagos provisionales enterados durante el ejercicio. La diferencia que resulte a su cargo se enterará conjuntamente con la declaración anual del derecho del mismo ejercicio. Cuando resulte saldo a favor, dicho saldo podrá compensarse contra los pagos provisionales del derecho que resulte a su cargo en el ejercicio siguiente, posteriores a la presentación de la declaración anual del ejercicio inmediato anterior.
 Las personas físicas y morales que extraigan materiales pétreos, estarán obligados a llevar un registro diario de los volúmenes extraídos en el formato que para tal efecto autorice el Servicio de Administración Tributaria. Dicho registro deberá conservarse en términos de lo establecido en el artículo 30 del Código Fiscal de la Federación.
 Los ingresos recaudados por este derecho se destinarán a la Secretaría de Medio Ambiente y Recursos Naturales, para los programas de censo, delimitación, mesas de regularización y rezago histórico en el otorgamiento de concesiones de la zona federal marítimo terrestre.
 No se pagará el derecho a que se refiere este artículo por obras de dragado y mantenimiento de puertos.
-Artículo 232-D-2. Las personas físicas o morales que usen, gocen o aprovechen las playas, la zona federal marítimo terrestre, los terrenos ganados al mar o cualquier otro depósito de aguas marítimas, para pernoctar dentro de los mismos en vehículos automotores, remolques o semirremolques tipo vivienda, pagarán por día, por cada vehículo, remolque o semirremolque, una cuota de: ... $194.45
-No se pagará el derecho a que se refiere esta fracción, por aquellos remolques y semirremolques tipo vivienda que hagan uso de sitios concesionados para tal fin.
-Los ingresos recaudados por este derecho se destinarán a la Secretaría de Medio Ambiente y Recursos Naturales, para los programas de censo, delimitación, mesas de regularización y rezago histórico en el otorgamiento de concesiones de la zona federal marítimo terrestre.
+Artículo 232-D-2. (Se deroga).

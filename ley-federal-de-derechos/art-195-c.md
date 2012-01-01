@@ -1,7 +1,8 @@
 Artículo 195-C.- Por los servicios de verificación o fomento sanitario, para evaluar o supervisar sobre las condiciones sanitarias de las actividades, productos y servicios, la aplicación de los métodos de prueba de laboratorios analíticos, procedimientos de verificación o ambos, cuando se realice a solicitud de los particulares, se pagará el derecho de verificación o fomento sanitario, conforme a las siguientes cuotas:
-I. Por cada solicitud de visita de verificación sanitaria para la certificación de buenas prácticas sanitarias con fines de exportación en establecimientos donde se procesen alimentos, bebidas no alcohólicas y alcohólicas, tabaco, productos de aseo, limpieza, perfumería y belleza, y de las materias primas y aditivos que intervengan en su elaboración, por tipo de producto, se pagará la cuota de ... $1,745.45
-II. Por el análisis de la solicitud y, en su caso, por la autorización a personas físicas y morales como Unidades de Verificación, Laboratorios de Pruebas, Organismos de Certificación o terceros autorizados, se pagarán derechos por cada solicitud, independientemente del número de autorizaciones emitidas, conforme a la cuota de ... $5,978.00
+I. Por cada solicitud de visita de verificación sanitaria para la certificación de buenas prácticas sanitarias con fines de exportación en establecimientos donde se procesen alimentos, bebidas no alcohólicas y alcohólicas, tabaco, productos de aseo, limpieza, perfumería y belleza, y de las materias primas y aditivos que intervengan en su elaboración, por tipo de producto, se pagará la cuota de ... $1,956.82
+II. Por el análisis de la solicitud y, en su caso, por la autorización a personas físicas y morales como Unidades de Verificación, Laboratorios de Pruebas, Organismos de Certificación o terceros autorizados, se pagarán derechos por cada solicitud, independientemente del número de autorizaciones emitidas, conforme a la cuota de ... $6,701.94
+Por las modificaciones solicitadas a las autorizaciones señaladas en esta fracción se pagará el 75% de la cuota prevista en el párrafo que antecede.
 Quedan exceptuados del pago del derecho establecido en esta fracción, las instituciones de educación superior públicas.
 III. Por cada solicitud de visita de verificación para estupefacientes o psicotrópicos por:
-a). Constatación de destrucción ... $1,765.61
-b). Enfajillamiento, sello y lacre con fines de exportación ... $1,765.61
+a). Constatación de destrucción ... $1,979.43
+b). Enfajillamiento, sello y lacre con fines de exportación ... $1,979.43

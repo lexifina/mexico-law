@@ -1,11 +1,11 @@
 Artículo 86-A.- Por la expedición de certificados zoosanitarios y fitosanitarios, se pagará el derecho de certificación en materia de sanidad agropecuaria, conforme a las siguientes cuotas:
-I.- Por cada certificado fitosanitario para la movilización nacional de productos y subproductos vegetales sujetos a regulación fitosanitaria ... $75.01
-II.- Por cada certificado zoosanitario para la movilización nacional de animales vivos, productos y subproductos animales, sujetos a regulación zoosanitaria ... $75.01
-III.- Por cada certificado fitosanitario internacional para la exportación de vegetales, sus productos y subproductos ... $375.78
-IV.- Por cada certificado zoosanitario para la exportación de animales vivos, sus productos y subproductos, así como productos químicos, farmacéuticos, biológicos y alimenticios para uso en animales y consumo por éstos ... $375.78
-V. Por cada certificado fitosanitario internacional para la importación de vegetales, sus productos y subproductos ... $1,620.41
-VI. Por cada certificado zoosanitario internacional para la importación de animales vivos, sus productos y subproductos, así como productos químicos, farmacéuticos, biológicos y alimenticios para uso en animales y consumo por éstos ... $1,620.41
-VII. Por cada certificación de la calidad zoosanitaria de un establecimiento Tipo Inspección Federal, cuando sea realizada por la Comisión Nacional de Sanidad Agropecuaria ... $14,789.93
-VIII.- Por la certificación fitosanitaria de viveros, invernaderos, industrializadoras y empacadoras de productos regulados, despepitadoras de algodón, beneficiadoras de café, unidades de tratamiento hidrotérmico, empresas de tratamiento cuarentenario, centros de acopio de granos y semillas regulados ... $726.66
-Por duplicado o renovación de los certificados a que se refiere este artículo, así como por la renovación de la certificación a que se refieren las fracciones VII y VIII, se pagará el 50% de la cuota correspondiente.
-No se pagará el derecho a que se refiere este artículo por los animales y vegetales, así como sus productos y subproductos que se importen o exporten en forma temporal, así como mascotas, animales de compañía, perros guías para invidentes, muestras médicas y comerciales.
+I.- Por cada certificado fitosanitario para la movilización nacional de productos y subproductos vegetales sujetos a regulación fitosanitaria ... $84.09
+II.- Por cada certificado zoosanitario para la movilización nacional de animales vivos, productos y subproductos animales, sujetos a regulación zoosanitaria ... $84.09
+III.- Por cada certificado fitosanitario internacional para la exportación de vegetales, sus productos y subproductos ... $421.29
+IV.- Por cada certificado zoosanitario para la exportación de animales vivos, sus productos y subproductos, así como productos químicos, farmacéuticos, biológicos y alimenticios para uso en animales y consumo por éstos ... $421.29
+V. Por cada certificado fitosanitario internacional para la importación de vegetales, sus productos y subproductos ... $1,816.64
+VI. Por cada certificado zoosanitario internacional para la importación de animales vivos, sus productos y subproductos, así como productos químicos, farmacéuticos, biológicos y alimenticios para uso en animales y consumo por éstos ... $1,816.64
+VII. Por cada certificación de la calidad zoosanitaria de un establecimiento Tipo Inspección Federal, cuando sea realizada por la Comisión Nacional de Sanidad Agropecuaria ... $16,580.99
+VIII.- Por la certificación fitosanitaria de viveros, invernaderos, industrializadoras y empacadoras de productos regulados, despepitadoras de algodón, beneficiadoras de café, unidades de tratamiento hidrotérmico, empresas de tratamiento cuarentenario, centros de acopio de granos y semillas regulados ... $814.66
+Por duplicado, renovación o modificación de cada certificado a que se refiere este artículo se pagará el 50% de la cuota correspondiente.
+No se pagará el derecho a que se refiere este artículo por los animales y vegetales, sus productos y subproductos que se importen o exporten en forma temporal; mascotas y perros guías para invidentes; muestras médicas y comerciales; así como por las mercancías originarias de México que hubieren sido retornadas por causas no imputables al exportador.

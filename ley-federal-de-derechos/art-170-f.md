@@ -1,1 +1,1 @@
-Artículo 170-F. Por la revisión, verificación y, en su caso, autorización a las personas físicas o morales para realizar a nombre del Gobierno Mexicano el servicio de recepción de desechos, de las embarcaciones o artefactos navales, se pagará anualmente el derecho de recepción de desechos conforme a la cuota de: ... $32,190.75
+Artículo 170-F. (Se deroga).

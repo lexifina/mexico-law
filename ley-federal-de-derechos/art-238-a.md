@@ -1,7 +1,1 @@
-Artículo 238-A.- Cuando el aprovechamiento de una especie esté vedada por las disposiciones en vigor, se pagará el derecho de aprovechamiento conforme a las cuotas que a continuación se señalan según el riesgo de extinción de la especie, independientemente de las sanciones que procedan.
-I. Águila arpía, real o dorada; mamíferos marinos; berrendo; cochito; cóndor de california; halcón pradera y peregrino; guacamaya roja o verde; lobo mexicano; manatí; oso gris; oso negro; pavón o gran cornudo, tapir y jaguar, por cada uno ... $146,536.22
-II.- Aguila solitaria; caimán; carpintero real o imperial; cocodrilo de río y de pantano; loro cabeza amarilla, cabeza azul o tehuano; mono aullador o zarahuato y araña; nutria marina y de río; ocelote; perro de las praderas; quetzal; teporingo o zacatuche; tortuga lora, verde o golfina; tucán pico de canoa y de collar y zopilote rey, por cada uno ... $97,690.70
-III.- Aguila calva o cabeza blanca; halcón aplomado; flamenco; guacamaya enana; monstruo de gila o escorpión; tigrillo; tortuga de mapimí o del desierto y tucán verde, por cada uno ... $48,845.17
-IV.- Oso hormiguero, pelícano café y oca salvaje por cada uno ... $24,422.45
-No se estará obligado al pago del derecho a que se refiere este artículo, cuando el aprovechamiento de dichas especies se haga con la autorización de la autoridad competente para programas de recuperación, repoblamiento, reintroducción y protección.
-Los ingresos recaudados por el derecho a que se refiere este artículo, se destinarán a la Secretaría de Medio Ambiente y Recursos Naturales, para la inspección y vigilancia de las actividades que amenazan a dichas especies.
+Artículo 238-A. (Se deroga).
