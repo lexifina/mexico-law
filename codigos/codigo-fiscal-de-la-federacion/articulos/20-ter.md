@@ -1,8 +1,8 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.
 (ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)
 Artículo 20-Ter.- El Banco de México publicará en el Diario Oficial de la Federación el valor, en moneda nacional, de la unidad de inversión, para cada día del mes. A más tardar el día 10 de cada mes el Banco de México deberá publicar el valor de la unidad de inversión correspondiente a los días 11 a 25 de dicho mes y a más tardar el día 25 de cada mes publicará el valor correspondiente a los días 26 de ese mes al 10 del mes inmediato siguiente.
 El valor de la unidad de inversión se calculará conforme a la siguiente fórmula:
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 1. Para determinar el valor de la UDI para los días del 11 al 25 del mes m se utiliza:
 n = 15
 INPCq = Índice Nacional de Precios al Consumidor de la segunda quincena del mes inmediato anterior al mes m.
