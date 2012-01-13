@@ -6,12 +6,13 @@ CUARTO. Se abroga la Ley de Fomento Agropecuario publicada en el Diario Oficial 
 QUINTO. Se deja sin efecto la Ley de Desarrollo Rural, aprobada por el Honorable Congreso de la Unión el 27 de diciembre de 2000, enviada al Ejecutivo Federal para su promulgación y publicación.
 SEXTO. El Ejecutivo Federal expedirá dentro de los seis meses siguientes a la entrada en vigor de esta Ley, los reglamentos que previene este cuerpo normativo y las demás disposiciones administrativas necesarias. Asimismo, establecerá las adecuaciones de carácter orgánico, estructural y funcional para su debido cumplimiento.
 SÉPTIMO. La constitución del Consejo Mexicano para el Desarrollo Rural Sustentable y la integración de la Comisión Intersecretarial para el Desarrollo Rural Sustentable, tendrán un plazo de seis meses a partir de la publicación de esta Ley en el Diario Oficial de la Federación.
-58
 OCTAVO. La constitución de los comités Sistema-Producto, tendrá un plazo de seis meses a partir de la publicación de esta Ley, en el Diario Oficial de la Federación.
 NOVENO. La constitución de los sistemas y servicios previstos en esta Ley, tendrá un plazo de seis meses a partir de la publicación de esta Ley, en el Diario Oficial de la Federación.
 DÉCIMO. El Presidente de la República dispone de seis meses a partir de la entrada en vigor de esta Ley, para formular y publicar el Programa Especial Concurrente para el Desarrollo Rural Sustentable correspondiente al período que concluye con el mandato constitucional de la actual administración federal.
 México, D.F., a 13 de noviembre de 2001.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Martha Silvia Sánchez González, Secretario.- Sen. María Lucero Saldaña Pérez, Secretaria.- Rúbricas".
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de diciembre de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+58
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de diciembre de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 59 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 DECRETO por el que se reforma la Ley de Desarrollo Rural Sustentable.
 Publicado en el Diario Oficial de la Federación el 2 de febrero de 2007
@@ -96,3 +97,12 @@ Transitorio
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 15 de febrero de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbricas."
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 23 de mayo de 2011.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+68
+DECRETO por el que se adiciona el párrafo cuarto al artículo 25 de la Ley de Desarrollo Rural Sustentable.
+Publicado en el Diario Oficial de la Federación el 12 de enero de 2012
+ARTÍCULO ÚNICO.- Se adiciona el párrafo cuarto al artículo 25 de la Ley de Desarrollo Rural Sustentable y se recorren los subsecuentes, para quedar como sigue:
+...
+TRANSITORIO
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+México, D.F., a 6 de diciembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Dip. Laura Arizmendi Campos, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de enero de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
