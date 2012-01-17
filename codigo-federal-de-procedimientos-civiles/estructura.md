@@ -137,7 +137,7 @@ Del juicio de sucesión
 CAPITULO III
 Apeo o deslinde
 CAPITULO IV
-Procedimiento de avalúo en los casos de expropiación
+Procedimiento de avalúo en los casos de expropiación (Se deroga)
 TITULO SEGUNDO
 Jurisdicción voluntaria
 CAPITULO I
