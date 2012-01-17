@@ -1,0 +1,1 @@
+Artículo 8 Bis. Las medidas a que se refiere esta Ley no requerirán formalizarse en escritura pública. Los decretos respectivos se inscribirán en el Registro Público de la Propiedad Federal y en el registro público de la propiedad que corresponda.
