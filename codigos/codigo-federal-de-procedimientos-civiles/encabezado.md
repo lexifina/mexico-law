@@ -1,4 +1,4 @@
-CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES
+CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el miércoles 24 de febrero de 1943.
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 MANUEL AVILA CAMACHO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
