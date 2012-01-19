@@ -1,0 +1,1 @@
+Artículo 109 Bis.- Corresponde a la Secretaría de Salud emitir la normatividad a que deberán sujetarse los sistemas de información de registro electrónico que utilicen las instituciones del Sistema Nacional de Salud, a fin de garantizar la interoperabilidad, procesamiento, interpretación y seguridad de la información contenida en los expedientes clínicos electrónicos.
