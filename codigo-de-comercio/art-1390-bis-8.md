@@ -1,1 +1,1 @@
-Artículo 1390 Bis 8.- En todo lo no previsto regirán las reglas generales de este Código, en cuanto no se opongan a las disposiciones del presente título. De igual manera serán admisibles todos los medios probatorios que puedan generar certeza en el juzgador en los términos del artículo 1205, sin perjuicio de las reglas especiales que se establecen en este título especial.
+Artículo 1390 Bis 8.- En todo lo no previsto regirán las reglas generales de este Código, en cuanto no se opongan a las disposiciones del presente Título.
