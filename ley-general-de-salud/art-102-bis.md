@@ -1,0 +1,1 @@
+Artículo 102 Bis. La Secretaría de Salud podrá habilitar como terceros autorizados para lo dispuesto en este Capítulo, a instituciones destinadas a la investigación para la salud, que cumplan con los requisitos establecidos en el artículo 391 Bis de esta Ley y las demás disposiciones que establezcan las disposiciones reglamentarias.
