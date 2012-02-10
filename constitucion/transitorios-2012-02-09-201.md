@@ -1,0 +1,13 @@
+DECRETO por el que se declara reformado el párrafo primero; el inciso c) de la fracción II y la fracción V del artículo 3o., y la fracción I del artículo 31 de la Constitución Política de los Estados Unidos Mexicanos.
+Publicado en el Diario Oficial de la Federación el 9 de febrero de 2012
+Artículo Primero. Se reforman el párrafo primero; el inciso c) de la fracción II y la fracción V del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+...
+Artículo Segundo. Se reforma la fracción I del artículo 31 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+...
+ARTÍCULOS TRANSITORIOS
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo. La obligatoriedad del Estado de garantizar la educación media superior, como deber del mismo de ofrecer un lugar para cursarla a quien teniendo la edad típica hubiera concluido la educación básica, se realizará de manera gradual y creciente a partir del ciclo escolar 2012-2013 y hasta lograr la cobertura total en sus diversas modalidades en el país a más tardar en el ciclo escolar 2021-2022, con la concurrencia presupuestal de la Federación y de las entidades federativas, y en los términos establecidos en los instrumentos del Sistema Nacional y los Sistemas Estatales de Planeación Democrática del Desarrollo.
+Tercero. Para dar cumplimiento al principio de obligatoriedad, en los presupuestos federal, de las entidades federativas y de los municipios, se incluirán los recursos necesarios; asimismo, se establecerán los mecanismos para impulsar la implementación de presupuestos plurianuales que aseguren a largo plazo los recursos económicos crecientes para infraestructura de la educación media superior.
+Cuarto. Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión y las legislaturas de los estados, deberán adecuar en el ámbito de sus respectivas competencias, la Ley General de Educación y demás disposiciones legales aplicables en la materia.
+México, D.F., a 11 de enero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Dip. Francisco Alejandro Moreno Merino, Secretario.- Sen. Luis Alberto Villarreal García, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a ocho de febrero de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
