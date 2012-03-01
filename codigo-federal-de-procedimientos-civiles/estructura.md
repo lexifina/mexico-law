@@ -137,7 +137,7 @@ Del juicio de sucesión
 CAPITULO III
 Apeo o deslinde
 CAPITULO IV
-Procedimiento de avalúo en los casos de expropiación
+Procedimiento de avalúo en los casos de expropiación (Se deroga)
 TITULO SEGUNDO
 Jurisdicción voluntaria
 CAPITULO I
@@ -159,3 +159,28 @@ CAPITULO V
 Competencia en Materia de Ejecución de Sentencias
 CAPITULO VI
 Ejecución de Sentencias
+Libro Quinto
+De las Acciones Colectivas
+Título Único
+Capítulo I
+Previsiones Generales
+Capítulo II
+De la Legitimación Activa
+Capítulo III
+Procedimiento
+Capítulo IV
+Sentencias
+Capítulo V
+Medidas Precautorias
+Capítulo VI
+Medios de Apremio
+Capítulo VII
+Relación entre Acciones Colectivas y Acciones Individuales
+Capítulo VIII
+Cosa Juzgada
+Capítulo IX
+Gastos y Costas
+Capítulo X
+De las Asociaciones
+Capítulo XI
+Del Fondo
