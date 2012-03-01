@@ -1,0 +1,1 @@
+Artículo 1934 Bis.- El que cause un daño de los previstos en este Capítulo a una colectividad o grupo de personas, estará obligado a indemnizar en términos de lo dispuesto en el Libro Quinto del Código Federal de Procedimientos Civiles.
