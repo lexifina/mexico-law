@@ -1,0 +1,1 @@
+Artículo 314 Bis.- Los gobiernos de las entidades federativas deberán establecer centros de trasplantes, los cuales coadyuvarán con el Centro Nacional de Trasplantes presentando sus programas de trasplantes e integrando y actualizando la información del Registro Nacional de Trasplantes, de conformidad con lo que señalen esta Ley y las demás disposiciones aplicables.

@@ -1,0 +1,1 @@
+Artículo 316 Bis 1.- Los establecimientos a los que se refieren las fracciones I y II del artículo 315 de esta Ley deberán contar con el apoyo, a través de un convenio, de bancos de sangre externos, cuando el establecimiento no tuviere uno propio, para garantizar la disponibilidad oportuna de dicho tejido en aquellos casos en que éste se llegara a requerir.
