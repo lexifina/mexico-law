@@ -1,0 +1,1 @@
+Artículo 314 Bis 2.- El Centro Nacional de Trasplantes tendrá a su cargo la coordinación del Subsistema Nacional de Donación y Trasplantes cuyas funciones se establecerán en la reglamentación respectiva.
