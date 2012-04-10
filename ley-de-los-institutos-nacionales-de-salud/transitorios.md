@@ -11,7 +11,7 @@ México, D.F., a 29 de abril de 2000.- Dip. Francisco José Paoli Bolio, Preside
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 18 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 DECRETO por el que se adiciona una fracción V bis al artículo 5, y un artículo 7 bis al Capítulo I del Título Segundo, de la Ley de los Institutos Nacionales de Salud.
-Publicado en el Diario Oficial de la federación el 20 de julio de 2004
+Publicado en el Diario Oficial de la Federación el 20 de julio de 2004
 ARTÍCULO ÚNICO.- Se adiciona una fracción V bis al artículo 5, y un artículo 7 bis al Capítulo I del Título Segundo, de la Ley de los Institutos Nacionales de Salud, para quedar como sigue:
 ...
 TRANSITORIOS
@@ -22,7 +22,7 @@ México, D.F., a 29 de abril de 2004.- Sen. Enrique Jackson Ramírez, Presidente
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de julio de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 19
 DECRETO por el que se reforma la Ley de los Institutos Nacionales de Salud.
-Publicado en el Diario Oficial de la federación el 5 de noviembre de 2004
+Publicado en el Diario Oficial de la Federación el 5 de noviembre de 2004
 ARTÍCULO ÚNICO. Se reforma la Fracción VII del Artículo 5 de la Ley de los Institutos Nacionales de Salud, para quedar como sigue:
 ...
 TRANSITORIO
@@ -31,7 +31,7 @@ México, D.F., a 23 de septiembre de 2004.- Sen. Diego Fernández de Cevallos Ra
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de octubre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 20
 DECRETO por el que se adiciona una fracción VIII Bis al artículo 5 de la Ley de los Institutos Nacionales de Salud.
-Publicado en el Diario Oficial de la federación el 22 de junio de 2005
+Publicado en el Diario Oficial de la Federación el 22 de junio de 2005
 ARTÍCULO ÚNICO. Se adiciona una fracción VIII Bis al artículo 5 de la Ley de los Institutos Nacionales de Salud para quedar como sigue:
 ...
 TRANSITORIOS
@@ -43,7 +43,7 @@ México, D.F., a 28 de abril de 2005.- Dip. Manlio Fabio Beltrones Rivera, Presi
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de mayo de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 21
 DECRETO por el que se reforma la fracción IV del Artículo 5 de la Ley de los Institutos Nacionales de Salud.
-Publicado en el Diario Oficial de la federación el 22 de junio de 2006
+Publicado en el Diario Oficial de la Federación el 22 de junio de 2006
 ÚNICO. Se reforma la fracción IV del Artículo 5 de la Ley de los Institutos Nacionales de Salud, para quedar como sigue:
 ...
 TRANSITORIO
@@ -52,10 +52,20 @@ México, D.F., a 26 de abril de 2006.- Dip. Marcela González Salas P., Presiden
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de junio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 22
 DECRETO por el que se reforman las fracciones II y III y se adiciona una fracción V al artículo 18 de la Ley de los Institutos Nacionales de Salud.
-Publicado en el Diario Oficial de la federación el 14 de julio de 2008
+Publicado en el Diario Oficial de la Federación el 14 de julio de 2008
 Artículo Único.- Se reforman las fracciones II y III y se adiciona una fracción V al artículo 18 de la Ley de los Institutos Nacionales de Salud, para quedar como sigue:
 ...
 TRANSITORIO
 ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 29 de abril de 2008.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Santiago Gustavo Pedro Cortes, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de julio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+23
+DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
+Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
+ARTÍCULO DÉCIMO QUINTO. Se reforman los artículos 13, 32 y 33 de la Ley de los Institutos Nacionales de Salud, para quedar como sigue:
+...
+TRANSITORIOS
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
