@@ -37,8 +37,7 @@ Descargas cuya concentración de contaminantes básicos, rebasen en más de 5 ve
 1o. de enero del 2000
 Descargas cuya concentración de contaminantes de metales pesados o cianuros rebasen los límites máximos permisibles señalados en la tabla I del Capítulo XIV del Título II, de la Ley Federal de Derechos
 30 de junio de 1997
-1o. de enero del 2000
-Descargas municipales (excepto las previstas en los dos supuestos anteriores):
+1o. de enero del 2000 Descargas municipales (excepto las previstas en los dos supuestos anteriores):
 Poblaciones de más de 50,000 habitantes
 30 de junio de 1997
 1o. de enero del 2000
@@ -47,8 +46,7 @@ Poblaciones de entre 20,001 y 50,000
 1o. de enero del 2005
 Poblaciones de entre 2,501 y 20,000
 31 de diciembre de 1999
-1o. de enero del 2010
-Descargas no incluidas en las dos categorías anteriores:
+1o. de enero del 2010 Descargas no incluidas en las dos categorías anteriores:
 Con Demanda Bioquímica de Oxígeno Total y/o Sólidos Suspendidos Totales mayor o igual a 3 toneladas sobre día
 30 de junio de 1997
 1o. de enero del 2000

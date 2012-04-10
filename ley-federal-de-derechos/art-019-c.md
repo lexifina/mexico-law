@@ -3,7 +3,7 @@ I. Por la supervisión, clasificación y autorización de cada material cinemato
 a). Avance publicitario ... $595.00
 b). Película destinada a exhibición pública ... $4,765.00
 Los contribuyentes podrán optar por pagar el derecho a que se refiere este inciso por cada minuto de duración de la película conforme a la cuota de ... $53.00
-c).- Videograma o material grabado, en cualquier formato o modalidad, por cada media hora o fracción ... $784.23
+c).- Videograma o material grabado, en cualquier formato o modalidad, por cada media hora o fracción ... $879.20
 No pagarán los derechos a que se refiere esta fracción, las instituciones públicas que exhiban películas con fines culturales.
 El pago de los derechos previstos en esta fracción, incisos a), b) y c) se destinará en su totalidad al Fondo de Inversión y Estímulos al Cine, para el fomento y promoción de la industria cinematográfica nacional.
 II. (Se deroga).
