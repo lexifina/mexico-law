@@ -5,4 +5,4 @@ III.- Las condiciones que deberán cumplir los interesados, particularmente en c
 IV.- El plazo para la inscripción de interesados, que no podrá ser menor de treinta días hábiles contados a partir de la fecha de la publicación de la convocatoria;
 V.- El plazo en que el Instituto autorizará a las personas inscritas a participar en la subasta, y
 VI.- El lugar, fecha y hora en que se celebrará el acto de la apertura de los sobres que contengan las posturas.
-En el ejercicio de sus respectivas atribuciones, las Secretarías de la Contraloría General de la Federación y de Hacienda y Crédito Público, podrán intervenir en todo el proceso de adjudicación del financiamiento.
+En el ejercicio de sus respectivas atribuciones, las Secretarías de la Función Pública y de Hacienda y Crédito Público, podrán intervenir en todo el proceso de adjudicación del financiamiento.

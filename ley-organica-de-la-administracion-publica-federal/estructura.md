@@ -5,7 +5,7 @@ De la Administración Pública Federal
 TITULO SEGUNDO
 De la Administración Pública Centralizada
 CAPITULO I
-De las Secretarías de Estado y los Departamentos Administrativos
+De las Secretarías de Estado
 CAPITULO II
 TITULO TERCERO
 De la Administración Pública Paraestatal
