@@ -1,2 +1,1 @@
 Artículo 45 Ter. Tratándose de trabajos de mantenimiento, se podrán celebrar contratos sobre la base de precios unitarios, para que los mismos se ejecuten de acuerdo a las necesidades de la dependencia o entidad, en base a órdenes de trabajo o servicio que se emitan, a efecto de que sean atendidas en los términos y condiciones establecidas en los propios contratos.
-30
