@@ -53,7 +53,7 @@ de 2010
 Nota: Se actualizan las multas y cantidades que establecen los artículos 16, fracción II; 160, fracción IX cuarto párrafo; 164, fracción VII; 165, fracciones II inciso a) y VII inciso a); 173, fracciones I inciso a), V inciso a) y VI segundo párrafo; 178, fracción II; 183, fracciones II primer párrafo y V; 185, fracciones I, II primer párrafo, III, IV, V, VI, VIII, IX, X, XI, XII y XIV; 185-B; 187, fracciones I, II, IV, V, VI, VIII, X, XI, XII, XIV y XV; 189, fracciones I y II; 191, fracciones I, II, III y IV; 193, fracciones I, II y III; y 200 de la Ley Aduanera, vigentes a partir del 1 de enero de 2009.
 Atentamente,
 México, D.F., a 24 de junio de 2010.- El Jefe del Servicio de Administración Tributaria, Alfredo Gutiérrez Ortiz Mena.- Rúbrica.
-ANEXOS Glosario, 2, 4, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 19, 21, 23, 24, 25, 26, 28 y 29 de las Reglas de Carácter General en Materia de Comercio Exterior para 2011, publicadas el 29 de julio de 2011..
+ANEXOS Glosario, 2, 4, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 19, 21, 23, 24, 25, 26, 28 y 29 de las Reglas de Carácter General en Materia de Comercio Exterior para 2011, publicadas el 29 de julio de 2011.
 Publicados en el Diario Oficial de la Federación el 3 de agosto de 2011
 ANEXO 2 DE LAS REGLAS DE CARACTER GENERAL EN MATERIA DE COMERCIO EXTERIOR
 PARA 2011
