@@ -31,4 +31,3 @@ billetes de Lotería para su venta, continuarán
 En la página 52, segunda columna, Artículo TERCERO TRANSITORIO, octavo renglón, dice:
 Asistencia Pública, de 10 de diciembre de 1974
 Debe decir:
-Asistencia Pública, de 10 de diciembre de 1974,
