@@ -11,4 +11,3 @@ V.- Pago de cuotas para la constitución y fo
 Página 29, segunda columna, artículo 13 fracción VI, primer renglón, dice:
 VI.- Pago de cuotas sindicales previstas en
 Debe decir:
-VI.- Pago de las cuotas sindicales previstas en
