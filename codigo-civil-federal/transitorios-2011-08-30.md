@@ -1,7 +1,7 @@
 DECRETO por el que se reforman y adicionan el Código Federal de Procedimientos Civiles, el Código Civil Federal, la Ley Federal de Competencia Económica, la Ley Federal de Protección al Consumidor, la Ley Orgánica del Poder Judicial de la Federación, la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley de Protección y Defensa al Usuario de Servicios Financieros.
 Publicado en el Diario Oficial de la Federación el 30 de agosto de 2011
 ARTÍCULO SEGUNDO.- Se adiciona un nuevo artículo 1934 Bis al Código Civil Federal, para quedar como sigue:
-...
+NNN.
 TRANSITORIOS
 PRIMERO.- El presente Decreto entrará en vigor a los seis meses siguientes al día de su publicación en el Diario Oficial de la Federación.
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
