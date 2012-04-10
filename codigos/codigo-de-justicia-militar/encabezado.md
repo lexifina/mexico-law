@@ -1,4 +1,4 @@
-CODIGO DE JUSTICIA MILITAR
+CÓDIGO DE JUSTICIA MILITAR
 Código publicado en la Sección Segunda del Diario Oficial de la Federación el jueves 31 de agosto de 1933.
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 El C. Presidente Substituto Constitucional de los Estados Unidos Mexicanos, se ha servido dirigirme el siguiente Código:
