@@ -1,0 +1,9 @@
+DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
+Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
+ARTÍCULO CUADRÁGESIMO OCTAVO. Se reforman los artículos 126, fracción VI; 407; 409; 411, primer párrafo; 415, fracción I; 419, fracciones II y IV; 512-E; 531; 539-A, segundo párrafo; 549, fracción III; 622; 623; 625, segundo párrafo; 633; 637, fracción II; 650; 656; 660, fracciones V y IX; 661; 663; 668; 669, fracción II; 670; 674, fracción I; 709, fracción I, inciso b); 845, fracción II, inciso b), y 1008; de la Ley Federal del Trabajo, para quedar como sigue:
+...
+TRANSITORIOS
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.

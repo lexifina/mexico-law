@@ -8,4 +8,4 @@ VI. Al servidor público que, en un mismo empleo, cargo o comisión, exija cinco
 VII. Al titular de la unidad administrativa que, en un mismo empleo, cargo o comisión, no cumpla con lo dispuesto en el último párrafo del artículo 69-Q;
 VIII. Al servidor público competente de la Comisión Federal de Mejora Regulatoria que, a solicitud escrita de un interesado, no ponga a su disposición la información prevista en el artículo 69-K dentro de los cinco días hábiles siguientes a que se reciba la solicitud correspondiente, y
 IX. Al servidor público competente de la Comisión Federal de Mejora Regulatoria que incumpla lo dispuesto en el artículo 69-N, primer párrafo.
-La Comisión Federal de Mejora Regulatoria informará a la Secretaría de Contraloría y Desarrollo Administrativo de los casos que tenga conocimiento sobre algún incumplimiento a lo previsto en esta Ley y su reglamento.
+La Comisión Federal de Mejora Regulatoria informará a la Secretaría de la Función Pública de los casos que tenga conocimiento sobre algún incumplimiento a lo previsto en esta Ley y su reglamento.
