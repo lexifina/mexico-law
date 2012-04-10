@@ -15,4 +15,4 @@ Dado en el Palacio del Poder Ejecutivo Federal, en México, a los treinta días 
 Lo comunico a usted para su publicación y demás fines.
 Sufragio Efectivo. No Reelección.
 México, a 30 de agosto de 1928.- El Secretario de Estado y del Despacho de Gobernación, Emilio Portes Gil.- Rúbrica.
-N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.
