@@ -8,6 +8,6 @@ VI. El aislamiento temporal;
 VII. El traslado a otro centro de reclusión;
 VIII. Aplicación de los tratamientos especiales que determine la autoridad penitenciaria con estricto apego a las disposiciones legales aplicables;
 IX. Suspensión de estímulos;
-X. La prohibición de comunicación de telefonía móvil, Internet y radiocomunicación, y
+X. La prohibición de comunicación vía Internet, y
 XI. Las demás que establezcan las disposiciones legales aplicables.
 Sin menoscabo de lo anterior, la autoridad penitenciaria que determine el Reglamento podrá decretar en cualquier momento estado de alerta o, en su caso, alerta máxima cuando exista riesgo o amenaza inminente que ponga en peligro la seguridad del Centro Federal, de la población penitenciaria, de su personal o de las visitas.
