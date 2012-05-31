@@ -1,0 +1,1 @@
+ARTÍCULO 119 Bis 11.- Los sistemas de trazabilidad de recursos, partes y derivados de origen pesquero o acuícola para consumo humano, sean nacionales o importados, garantizarán el rastreo en toda la cadena de su procesamiento primario y se deberá contar con la relación de proveedores y distribuidores o clientes.
