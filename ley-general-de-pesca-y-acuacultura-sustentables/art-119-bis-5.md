@@ -1,0 +1,1 @@
+ARTÍCULO 119 Bis 5.- La certificación TIF tendrá validez y surtirá sus efectos en toda la República. Los establecimientos que cuenten con dicha certificación y denominación no serán objeto de inspección y resello por autoridad diversa, en la materia que regula el presente capítulo.
