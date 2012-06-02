@@ -10,6 +10,7 @@ Autonomía
 Capítulo III
 Órganos de administración
 Capítulo IV
+Órganos de apoyo
 Capítulo V
 Órgano de vigilancia
 Capítulo VI
@@ -17,7 +18,7 @@ Régimen laboral
 TÍTULO TERCERO
 Ámbito de los Institutos
 Capítulo I
-Investigación
+Investigación 12
 Capítulo II
 Enseñanza
 Capítulo III
