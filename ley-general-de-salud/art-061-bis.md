@@ -1,0 +1,1 @@
+Artículo 61 Bis.- Toda mujer embarazada, tiene derecho a obtener servicios de salud en los términos a que se refiere el Capítulo IV del Título Tercero de esta Ley y con estricto respeto de sus derechos humanos.
