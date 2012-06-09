@@ -1,4 +1,4 @@
-ARTÍCULO 29 BIS 4. La concesión, asignación o permiso de descarga, así como el permiso provisional aplicable, podrá revocarse en los siguientes casos:
+ARTÍCULO 29 BIS 4. La concesión, asignación o permiso de descarga podrán revocarse en los siguientes casos:
 I. Disponer del agua en volúmenes mayores a una quinta parte que los autorizados, cuando por la misma causa el beneficiario haya sido suspendido en su derecho con anterioridad;
 II. Explotar, usar o aprovechar aguas nacionales sin cumplir con las Normas Oficiales Mexicanas en materia de calidad;
 III. Descargar en forma permanente o intermitente aguas residuales en contravención a lo dispuesto en la presente Ley en cuerpos receptores que sean bienes nacionales, incluyendo aguas marinas, así como cuando se infiltren en terrenos que sean bienes nacionales o en otros terrenos cuando puedan contaminar el subsuelo o el acuífero, sin perjuicio de las sanciones que fijen las disposiciones sanitarias y de equilibrio ecológico y protección al ambiente;
