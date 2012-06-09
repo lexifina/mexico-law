@@ -99,8 +99,10 @@ TÍTULO NOVENO
 Bienes Nacionales a Cargo de "la Comisión"
 Capítulo Único
 TÍTULO DÉCIMO
-Infracciones, Sanciones y Recursos
+Medidas de Apremio, Seguridad, Infracciones, Sanciones y Recursos
 Capítulo I
-Infracciones y Sanciones Administrativas
+Medidas de Apremio y Seguridad
 Capítulo II
+Infracciones y Sanciones Administrativas
+Capítulo III
 Recurso de Revisión y Denuncia Popular

@@ -1,7 +1,7 @@
 ARTÍCULO 113 BIS. Quedarán al cargo de "la Autoridad del Agua" los materiales pétreos localizados dentro de los cauces de las aguas nacionales y en sus bienes públicos inherentes.
-Será obligatorio contar con concesión para el aprovechamiento de los materiales referidos; los permisos que se expidan tendrán carácter provisional previo a la expedición del título, y deberán ser canjeados por los títulos de concesión respectivos. Estos últimos serán expedidos por "la Autoridad del Agua" en un plazo que no excederá de sesenta días a partir de la solicitud, conforme a las disposiciones de esta Ley y sus reglamentos.
-"La Autoridad del Agua" vigilará la explotación de dichos materiales y revisará periódicamente la vigencia y cumplimiento de las concesiones y de los permisos con carácter provisional otorgados a personas físicas y morales, con carácter público o privado.
-Son causas de revocación ya sea del permiso con carácter provisional o de la concesión, lo siguiente:
+Será obligatorio contar con concesión para el aprovechamiento de los materiales referidos.
+"La Autoridad del Agua" vigilará la explotación de dichos materiales y revisará periódicamente la vigencia y cumplimiento de las concesiones otorgadas a personas físicas y morales, con carácter público o privado.
+Son causas de revocación de la concesión, las siguientes:
 I. Disponer de materiales pétreos en volúmenes mayores que los autorizados;
 II. Disponer de materiales pétreos sin cumplir con las Normas Oficiales Mexicanas respectivas;
 III. Depositar en cauces y otros cuerpos de agua de propiedad nacional, materiales pétreos y desperdicios de éstos, incluyendo escombro y cascajo, u otros desechos en forma permanente, intermitente o fortuita;
