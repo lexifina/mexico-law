@@ -4,4 +4,5 @@ II. Obtener la constitución de las servidumbres legales en los terrenos indispe
 III. Solicitar correcciones administrativas o duplicados de sus títulos;
 IV. Obtener prórroga de los títulos por igual término y condiciones, acorde con lo previsto en el Artículo 24 de esta Ley, y
 V. Las demás que le otorguen esta Ley y disposiciones reglamentarias aplicables.
-Suspensión, Extinción, Revocación, Restricciones y Servidumbres de la Concesión, Asignación o Permiso Provisional para el Uso del Agua y de Permiso de Descarga
+Suspensión, Extinción, Revocación, Restricciones y Servidumbres de la Concesión,
+Asignación y de Permiso de Descarga
