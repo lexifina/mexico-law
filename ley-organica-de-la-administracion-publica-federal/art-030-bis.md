@@ -1,4 +1,4 @@
-Artículo 30 bis.- A la Secretaría de Seguridad Pública corresponde el despacho de los siguientes asuntos:
+Artículo 30 Bis. A la Secretaría de Seguridad Pública corresponde el despacho de los siguientes asuntos:
 I. Desarrollar las políticas de seguridad pública y proponer la política criminal en el ámbito federal, que comprenda las normas, instrumentos y acciones para prevenir de manera eficaz la comisión de delitos;
 II. Proponer al Ejecutivo Federal las medidas que garanticen la congruencia de la política criminal entre las dependencias de la administración pública federal;
 III. Presidir el Consejo Nacional de Seguridad Pública;
@@ -23,6 +23,7 @@ XXI. Colaborar, en el marco del Sistema Nacional de Seguridad Pública, cuando a
 XXII. Auxiliar al Poder Judicial de la Federación y a la Procuraduría General de la República, cuando así lo requieran, para el debido ejercicio de sus funciones;
 XXIII. Ejecutar las penas por delitos del orden federal y administrar el sistema federal penitenciario; así como organizar y dirigir las actividades de apoyo a liberados;
 XXIV. Participar, conforme a los tratados respectivos, en el traslado de los reos a que se refiere el quinto párrafo del artículo 18 constitucional;
-XXV. Administrar el sistema federal para el tratamiento de menores infractores, en términos de la política especial correspondiente y con estricto apego a los derechos humanos; y
-XXVI. Promover la celebración de convenios entre las autoridades federales, y de éstas, con aquéllas estatales, municipales y del Distrito Federal competentes, en aras de lograr la efectiva coordinación y funcionamiento del Sistema Nacional de Seguridad Pública y el combate a la delincuencia, y
-XXVII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+XXV. Administrar el sistema federal para el tratamiento de menores infractores, en términos de la política especial correspondiente y con estricto apego a los derechos humanos;
+XXVI. Promover la celebración de convenios entre las autoridades federales, y de éstas, con las estatales, municipales y del Distrito Federal competentes, en aras de lograr la efectiva coordinación y funcionamiento del Sistema Nacional de Seguridad Pública y el combate a la delincuencia;
+XXVII. Diseñar, actualizar y publicar una página electrónica específica en la cual se registren los datos generales de las mujeres y niñas que sean reportadas como desaparecidas en todo el país. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres y niñas desaparecidas. Esta página deberá actualizarse de forma permanente; y
+XXVIII. Las demás que le atribuyan expresamente las leyes y reglamentos.
