@@ -1,7 +1,7 @@
 DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes; de la Ley General de Educación; de la Ley de Asociaciones Religiosas y Culto Público; de la Ley Federal de Protección al Consumidor y de la Ley Reglamentaria del Artículo 5 Constitucional relativo al ejercicio de las profesiones en el Distrito Federal.
 Publicado en el Diario Oficial de la Federación el 19 de agosto de 2010
 ARTÍCULO PRIMERO.- Se reforma la fracción II del artículo 30; el primer párrafo y fracción IV del artículo 52; el inciso c) de la fracción I del artículo 85 y el primer párrafo del artículo 209. Y se adiciona un tercer párrafo al artículo 6; la fracción VI al artículo 32, recorriéndose la fracción VI vigente para constituirse en fracción VII; el artículo 107 Bis; un tercer párrafo al artículo 209 y un Capítulo VIII, denominado "Pederastia", al Título Octavo, cuyo capítulo comprende los artículos 209 Bis y 209 Ter, todos del Código Penal Federal, para quedar como sigue:
-...
+MMM.
 TRANSITORIO
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 29 de abril de 2010.- Dip. Francisco Javier Ramírez Acuña, Presidente.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Jaime Arturo Vázquez Aguilar, Secretario.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
