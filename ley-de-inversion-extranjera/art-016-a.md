@@ -1,1 +1,1 @@
-ARTÍCULO 16 A.- Toda solicitud de permiso a que se refieren los artículos 15 y 16 de esta Ley deberá ser resuelta por la Secretaría de Relaciones Exteriores dentro de los cinco días hábiles siguientes a la fecha de su presentación. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
+ARTÍCULO 16 A.- Las solicitudes a que se refieren los artículos 15 y 16 de esta ley deberán ser resueltas por la Secretaría de Economía, dentro de los dos días hábiles inmediatos siguientes al de su presentación.
