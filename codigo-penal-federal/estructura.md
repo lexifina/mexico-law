@@ -117,6 +117,10 @@ CAPITULO I
 Violación de los deberes de humanidad
 CAPITULO II
 Genocidio
+Título Tercero Bis
+Delitos contra la Dignidad de las Personas
+Capítulo Único
+Discriminación
 TITULO CUARTO
 Delitos Contra la Seguridad Pública
 CAPITULO I
@@ -152,6 +156,8 @@ Delitos Contra la Salud
 CAPITULO I
 CAPITULO II
 Del peligro de contagio
+Capítulo III
+Delitos contra los Derechos Reproductivos
 TITULO OCTAVO
 DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD.
 CAPÍTULO I
@@ -237,8 +243,8 @@ CAPITULO III
 Juegos prohibidos
 TITULO DECIMOQUINTO
 Delitos contra la Libertad y el Normal Desarrollo Psicosexual
-CAPITULO I
-Hostigamiento sexual, abuso sexual, estupro y violación
+Capítulo I
+Hostigamiento Sexual, Abuso Sexual, Estupro y Violación
 CAPITULO II
 CAPITULO III
 Incesto
@@ -268,8 +274,8 @@ CAPITULO III
 Reglas comunes para lesiones y homicidio
 CAPITULO IV
 Homicidio en razón del parentesco o relación
-CAPITULO V
-Infanticidio
+Capítulo V
+Feminicidio
 CAPITULO VI
 Aborto
 CAPITULO VII
@@ -299,6 +305,8 @@ CAPITULO III
 Fraude
 CAPITULO III BIS
 Extorsión
+Capítulo III Ter
+Fraude Familiar
 CAPITULO IV
 De los delitos cometidos por los comerciantes sujetos a concurso
 CAPITULO V

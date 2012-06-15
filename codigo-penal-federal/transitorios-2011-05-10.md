@@ -1,7 +1,7 @@
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica, del Código Penal Federal y del Código Fiscal de la Federación.
 Publicado en el Diario Oficial de la Federación el 10 de mayo de 2011
 ARTÍCULO SEGUNDO. Se ADICIONA un artículo 254 bis y se DEROGA el artículo 253 fracción I, inciso d), todos del Código Penal Federal, para quedar como sigue:
-...
+MMM.
 ARTÍCULOS TRANSITORIOS
 ARTÍCULO PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los artículos tercero, cuarto y sexto transitorios siguientes.
 ARTÍCULO SEGUNDO. En un plazo no mayor a seis meses a partir de la entrada en vigor del presente decreto, el Pleno publicará los criterios técnicos a que hace referencia el artículo 24, fracción XVIII bis, incisos a) a j) de la Ley Federal de Competencia Económica.
