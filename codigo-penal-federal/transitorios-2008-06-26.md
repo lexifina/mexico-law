@@ -1,7 +1,7 @@
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito, de la Ley General de Títulos y Operaciones de Crédito, del Código Federal de Procedimientos Penales y del Código Penal Federal.
 Publicado en el Diario Oficial de la Federación el 26 de junio de 2008
 Artículo Cuarto.- Se reforman los incisos i) y j) de la fracción I, del artículo 85; se adicionan los incisos k) y l) a la fracción I del artículo 85, y se deroga el artículo 240 Bis, del Código Penal Federal, para quedar como sigue:
-...
+MMM.
 Transitorios
 Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 Segundo. Los delitos previstos en los artículos 112 Bis de la Ley de Instituciones de Crédito y 240 Bis del Código Penal Federal vigentes hasta la entrada en vigor del presente decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal Federal.
