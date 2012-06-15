@@ -1,7 +1,7 @@
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales.
 Publicado en el Diario Oficial de la Federación el 20 de agosto de 2009
 Artículo Segundo. Se REFORMA el artículo 195, 195 bis y 199; y se ADICIONAN los párrafos tercero y cuarto a la fracción I del artículo 194, todos del Código Penal Federal, para quedar como sigue:
-...
+MMM.
 TRANSITORIOS
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Para efecto de lo dispuesto en el artículo 474 de la Ley General de Salud, las legislaturas locales y la Asamblea Legislativa del Distrito Federal contarán con el plazo de un año a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a la legislación que corresponda.
