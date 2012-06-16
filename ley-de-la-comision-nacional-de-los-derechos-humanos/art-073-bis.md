@@ -1,0 +1,1 @@
+Artículo 73 bis.- La Comisión Nacional podrá denunciar ante el Ministerio Público o la autoridad administrativa que corresponda la reiteración de las conductas cometidas por una misma autoridad o servidor público, que hayan sido materia de una recomendación previa que no hubiese sido aceptada o cumplida.
