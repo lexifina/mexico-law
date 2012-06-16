@@ -1,7 +1,7 @@
 DECRETO por el que se reforma el artículo 48 de la Ley de la Comisión Nacional de los Derechos Humanos.
 Publicado en el Diario Oficial de la Federación el 14 de diciembre de 2011
 Artículo Único.- Se reforma el artículo 48 de la Ley de la Comisión Nacional de los Derechos Humanos, para quedar como sigue:
-...
+HHH
 Transitorio
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 8 de noviembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbricas."
