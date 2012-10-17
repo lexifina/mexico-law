@@ -32,9 +32,9 @@ Vivienda
 Desarrollo Social y Vivienda Asuntos Hidráulicos
 Bosques y Selvas
 Ecología y Medio Ambiente
-Pesca Medio Ambiente, Recursos Naturales y Pesca
-Energéticos
-Energía Artesanías
+Pesca
+Medio Ambiente, Recursos Naturales y Pesca Energéticos Energía
+Artesanías
 Comercio
 Patrimonio y Fomento Industrial
 Comercio y Fomento Industrial Agricultura
@@ -58,8 +58,8 @@ Distrito Federal Asuntos Indígenas
 Asuntos Indígenas Equidad y Género
 Equidad y Género Atención y Apoyo a Discapacitados
 Asuntos de la Juventud
-Atención a Grupos Vulnerables Participación Ciudadana
-Fomento Cooperativo
+Participación Ciudadana
+Atención a Grupos Vulnerables Fomento Cooperativo
 Distribución y Manejo de Bienes de Consumo y Servicios
 Fomento Cooperativo y Economía Social Vigilancia de la Contaduría Mayor de Hacienda
 Vigilancia de la Contaduría Mayor de Hacienda Comisión Información, Gestoría y Quejas
