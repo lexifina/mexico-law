@@ -1,7 +1,7 @@
 DECRETO por el que se reforma el tercer párrafo del artículo 6o. de la Ley de Caminos, Puentes y Autotransporte Federal.
 Publicado en el Diario Oficial de la Federación el 4 de noviembre de 2010
 Único.- Se reforma el tercer párrafo del artículo 6o. de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue:
-...
+JJJ.
 Transitorios
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Segundo.- Se derogan todas aquellas disposiciones legales y administrativas que se opongan al presente Decreto.
