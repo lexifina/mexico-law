@@ -1,0 +1,1 @@
+Artículo 525 Bis. Las Juntas Federal y Locales de Conciliación y Arbitraje establecerán, con sujeción a las disposiciones presupuestales aplicables, un Servicio Profesional de Carrera para el ingreso, promoción, permanencia, evaluación de desempeño, separación y retiro de sus servidores públicos.

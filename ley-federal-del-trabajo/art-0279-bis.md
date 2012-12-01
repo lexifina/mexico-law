@@ -1,0 +1,1 @@
+Artículo 279 Bis.- Trabajador eventual del campo es aquél que, sin ser permanente ni estacional, desempeña actividades ocasionales en el medio rural, que pueden ser por obra y tiempo determinado, de acuerdo a lo establecido en la presente Ley.
