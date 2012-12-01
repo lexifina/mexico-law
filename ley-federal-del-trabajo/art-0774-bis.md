@@ -1,0 +1,1 @@
+Artículo 774 Bis. En cualquier estado del procedimiento, las partes podrán, mediante la conciliación, celebrar un convenio que ponga fin al juicio; asimismo, el demandado podrá allanarse en todo o en parte a lo reclamado. En el primer supuesto, se dará por terminado el juicio; en el segundo, se continuará el procedimiento por lo pendiente.

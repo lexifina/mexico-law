@@ -1,0 +1,2 @@
+Artículo 56 Bis.- Los trabajadores podrán desempeñar labores o tareas conexas o complementarias a su labor principal, por lo cual podrán recibir la compensación salarial correspondiente.
+Para los efectos del párrafo anterior, se entenderán como labores o tareas conexas o complementarias, aquellas relacionadas permanente y directamente con las que estén pactadas en los contratos individuales y colectivos de trabajo o, en su caso, las que habitualmente realice el trabajador.

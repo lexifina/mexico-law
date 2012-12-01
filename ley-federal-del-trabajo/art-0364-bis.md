@@ -1,0 +1,1 @@
+Artículo 364 Bis. En el registro de los sindicatos se deberán observar los principios de legalidad, transparencia, certeza, gratuidad, inmediatez, imparcialidad y respeto a la libertad, autonomía, equidad y democracia sindical.
