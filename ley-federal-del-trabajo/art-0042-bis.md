@@ -1,0 +1,1 @@
+Artículo 42 Bis. En los casos en que las autoridades competentes emitan una declaratoria de contingencia sanitaria, conforme a las disposiciones aplicables, que implique la suspensión de las labores, se estará a lo dispuesto por el artículo 429, fracción IV de esta Ley.
