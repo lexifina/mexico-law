@@ -1,0 +1,2 @@
+Artículo 530 Bis. Para el desarrollo de sus funciones, la Procuraduría de la Defensa del Trabajo podrá citar a los patrones o sindicatos a juntas de avenimiento o conciliatorias, apercibiéndolos que de no comparecer a dichas diligencias, se les impondrá la medida de apremio a que se refiere la fracción I del artículo 731 de esta Ley.
+Si el solicitante del servicio es quien no asiste a la junta de avenimiento o conciliatoria, se le tendrá por desistido de su petición sin responsabilidad para la Procuraduría, salvo que acredite que existió causa justificada para no comparecer.

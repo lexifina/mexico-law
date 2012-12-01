@@ -1,0 +1,1 @@
+Artículo 533 Bis. El personal jurídico de la Procuraduría está impedido para actuar como apoderado, asesor o abogado patrono en asuntos particulares en materia de trabajo, en tanto sean servidores públicos al servicio de ésta.

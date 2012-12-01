@@ -38,8 +38,8 @@ CAPITULO II
 Obligaciones de los trabajadores
 CAPITULO III
 Habitaciones para los trabajadores
-CAPITULO III BIS
-De la capacitación y adiestramiento de los trabajadores
+Capítulo III BIS
+De la Productividad, Formación y Capacitación de los Trabajadores
 CAPITULO IV
 Derechos de preferencia, antigüedad y ascenso
 CAPITULO V
@@ -76,6 +76,8 @@ CAPITULO XII
 Trabajo a domicilio
 CAPITULO XIII
 Trabajadores domésticos
+Capitulo XIII Bis
+De Los Trabajadores en Minas
 CAPITULO XIV
 Trabajo en hoteles, restaurantes, bares y otros establecimientos análogos
 CAPITULO XV
@@ -118,8 +120,8 @@ CAPITULO II
 Competencia constitucional de las autoridades del trabajo
 CAPITULO III
 Procuraduría de la defensa del trabajo
-CAPITULO IV
-Del servicio nacional del empleo, capacitación y adiestramiento
+Capítulo IV
+Del Servicio Nacional de Empleo
 CAPITULO V
 Inspección del trabajo
 CAPITULO VI
@@ -148,8 +150,8 @@ TITULO CATORCE
 Derecho Procesal del Trabajo
 CAPITULO I
 Principios procesales
-CAPITULO II
-De la capacidad y personalidad
+Capítulo II
+De la Capacidad, Personalidad y Legitimación
 CAPITULO III
 De las competencias
 CAPITULO IV
@@ -186,6 +188,8 @@ Sección Séptima
 De la Presuncional
 Sección Octava
 De la Instrumental
+Sección Novena
+De los Elementos Aportados por los Avances de la Ciencia.
 CAPITULO XIII
 De las resoluciones laborales
 CAPITULO XIV
@@ -198,6 +202,8 @@ CAPITULO XVII
 Procedimiento ordinario ante las juntas de conciliación y arbitraje
 CAPITULO XVIII
 De los procedimientos especiales
+Sección Primera
+Conflictos Individuales de Seguridad Social
 CAPITULO XIX
 Procedimientos de los conflictos colectivos de naturaleza económica
 CAPITULO XX
