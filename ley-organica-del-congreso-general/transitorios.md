@@ -14,8 +14,8 @@ Gobernación y Puntos Constitucionales
 Población y Desarrollo
 Protección Civil
 Radio, Televisión y Cinematografía
-Seguridad Pública
-Gobernación, Población y Seguridad Pública Gobernación y Puntos Constitucionales (iniciativas de reforma constitucional)
+Gobernación, Población y Seguridad Pública Seguridad Pública
+Gobernación y Puntos Constitucionales (iniciativas de reforma constitucional)
 Fortalecimiento del Federalismo
 Fortalecimiento Municipal
 Puntos Constitucionales y Sistema Federal Derechos Humanos
@@ -33,13 +33,13 @@ Desarrollo Social y Vivienda Asuntos Hidráulicos
 Bosques y Selvas
 Ecología y Medio Ambiente
 Pesca
-Medio Ambiente, Recursos Naturales y Pesca Energéticos Energía
-Artesanías
+Medio Ambiente, Recursos Naturales y Pesca Energéticos
+Energía Artesanías
 Comercio
 Patrimonio y Fomento Industrial
-Comercio y Fomento Industrial Agricultura
+Comercio y Fomento Industrial Agricultura Agricultura, Ganadería y Desarrollo Rural
 Ganadería
-Agricultura, Ganadería y Desarrollo Rural Comunicaciones y Transportes
+Comunicaciones y Transportes
 Comunicaciones y Transportes Ciencia y Tecnología
 Corrección de Estilo
 Cultura
