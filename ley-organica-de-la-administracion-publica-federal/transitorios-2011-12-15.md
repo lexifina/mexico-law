@@ -1,7 +1,7 @@
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Inversión Extranjera, de la Ley General de Sociedades Mercantiles, de la Ley Orgánica de la Administración Pública Federal, de la Ley Federal de Derechos, de la Ley Federal de Procedimiento Administrativo y de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
 Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2011
 ARTÍCULO TERCERO.- Se reforma la fracción V del artículo 28 y se adicionan las fracciones XII bis y XXIV bis al artículo 34 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-...
+UUU.
 TRANSITORIOS
 PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
 SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación.
