@@ -1,7 +1,7 @@
 DECRETO por el que se reforma y adiciona el artículo 33 de la Ley Orgánica de la Administración Pública Federal.
 Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2008
 ARTÍCULO ÚNICO.- Se reforma y adiciona el artículo 33 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-...
+UUU.
 ARTÍCULOS TRANSITORIOS
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 SEGUNDO. La Secretaría de Energía integrará el Consejo Nacional de Energía y expedirá sus reglas de funcionamiento a más tardar 180 días a partir de la entrada en vigor del presente Decreto.
