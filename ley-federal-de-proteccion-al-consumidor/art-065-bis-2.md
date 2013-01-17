@@ -1,0 +1,3 @@
+ARTÍCULO 65 Bis 2. Una vez cumplidos los requisitos establecidos en el artículo anterior, la Procuraduría inscribirá al solicitante en el registro público y emitirá la constancia que ampare dicho registro indicando un número único de identificación.
+La Procuraduría, dentro del plazo de noventa días naturales contados a partir de la recepción de la solicitud, deberá resolver sobre la inscripción en el registro y emitir la constancia correspondiente. Transcurrido dicho plazo, se entenderá que la resolución es en sentido negativo al solicitante.
+La Procuraduría deberá publicar cada año en el Diario Oficial de la Federación y de forma permanente en su sitio de Internet la lista de los proveedores inscritos en el registro.

@@ -1,0 +1,3 @@
+ARTÍCULO 65 Bis 6. Las casas de empeño deberán establecer procedimientos que le garanticen al pignorante la restitución de la prenda. En caso de que el bien sobre el que se constituyó la prenda haya sido robado, extraviado o sufra algún daño o deterioro, el pignorante podrá optar por la entrega del valor del bien conforme al avalúo o la entrega de un bien del mismo tipo, valor y calidad.
+Tratándose de metales preciosos, el valor de reposición del bien no podrá ser inferior al valor real que tenga el metal en el mercado al momento de la reposición.
+La infracción a este artículo se considerará particularmente grave y se sancionará conforme a lo dispuesto en el artículo 128 Bis de esta ley.
