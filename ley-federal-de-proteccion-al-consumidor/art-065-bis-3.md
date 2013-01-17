@@ -1,0 +1,1 @@
+ARTÍCULO 65 Bis 3. Las casas de empeño deberán informar a la Procuraduría de cualquier cambio o modificación en la información solicitada en el artículo 65 Bis 1 de la presente ley mediante la presentación de un aviso dentro de los treinta días naturales siguientes a la fecha en que se realizó el cambio.
