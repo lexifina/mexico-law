@@ -1,7 +1,7 @@
 DECRETO por el que se reforma el artículo 222 de la Ley General de Salud.
 Publicado en el Diario Oficial de la Federación el 27 de abril de 2010
 Artículo Único.- Se reforma el artículo 222 de la Ley General de Salud, para quedar como sigue:
-...
+]]]..
 TRANSITORIOS
 PRIMERO. El presente Decreto entrará en vigor a los ciento ochenta días de su publicación en el Diario Oficial de la Federación.
 SEGUNDO. Se otorgan noventa días a la Secretaría de Salud, para que ajuste el Reglamento de Insumos para la Salud.

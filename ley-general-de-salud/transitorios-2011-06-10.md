@@ -1,9 +1,9 @@
 DECRETO por el que se reforman los artículos 3 y 13, fracciones II del Apartado A y I del Apartado B, de la Ley General de Salud.
 Publicado en el Diario Oficial de la Federación el 10 de junio de 2011
 Artículo Primero.- Se reforma el artículo 3o. de la Ley General de Salud, pasando las actuales fracciones V y VI a ser IV Bis 1 y IV Bis 2, recorriéndose las subsecuentes, para quedar como sigue:
-...
+]]].
 Artículo Segundo.- Se reforma la fracción II del apartado A y la fracción I del apartado B del artículo 13 de la Ley General de Salud, para quedar como sigue:
-...
+]]].
 TRANSITORIO
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 28 de abril de 2011.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. María de Jesús Aguirre Maldonado, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."

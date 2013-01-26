@@ -1,7 +1,7 @@
 DECRETO por el que se reforma el artículo 32 de la Ley General de Salud.
 Publicado en el Diario Oficial de la Federación el 28 de mayo de 2012
 Artículo Único. Se reforma el artículo 32 de la Ley General de Salud, para quedar como sigue:
-...
+]]].
 Transitorios
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Segundo.- La Secretaría de Salud contará con un año, a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, para emitir la normatividad secundaria correspondiente.
