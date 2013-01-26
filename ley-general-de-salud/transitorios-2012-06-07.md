@@ -1,7 +1,7 @@
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Sanidad Animal y de la Ley General de Salud.
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2012
 Artículo Segundo. Se reforma la fracción VI del artículo 17 Bis y se adiciona un párrafo segundo al artículo 197 de la Ley General de Salud, para quedar como sigue:
-...
+]]].
 Transitorios
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de la publicación en el Diario Oficial de la Federación.
 SEGUNDO.- La Secretaría expedirá las disposiciones que deberán contener los lineamientos y requisitos para la certificación de los establecimientos donde se sacrifican animales, o procesan, envasan, empacan, refrigeran o industrializan bienes de origen animal, en seis meses a partir de la entrada en vigor del presente decreto.

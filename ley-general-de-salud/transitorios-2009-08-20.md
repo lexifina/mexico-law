@@ -1,7 +1,7 @@
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales.
 Publicado en el Diario Oficial de la Federación el 20 de agosto de 2009
 Artículo Primero. Se REFORMA la fracción XXIII del artículo 3; el párrafo primero del artículo 192; y se ADICIONA un apartado C al artículo 13, un párrafo segundo al artículo 191, los párrafos segundo, tercero y cuarto con dos fracciones al artículo 192; el artículo 192 Bis; el artículo 192 Ter; el artículo 192 Quáter; el artículo 192 Quintus; el artículo 192 Sextus; el artículo 193 Bis; un párrafo segundo al artículo 204; un Capítulo VII denominado "Delitos Contra la Salud en su modalidad de Narcomenudeo" al Título Décimo Octavo; los artículos 473 a 482, todos de la Ley General de Salud, para quedar como sigue:
-...
+]]].
 TRANSITORIOS
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Para efecto de lo dispuesto en el artículo 474 de la Ley General de Salud, las legislaturas locales y la Asamblea Legislativa del Distrito Federal contarán con el plazo de un año a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a la legislación que corresponda.
