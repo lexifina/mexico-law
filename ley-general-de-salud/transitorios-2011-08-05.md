@@ -1,7 +1,7 @@
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Salud.
 Publicado en el Diario Oficial de la Federación el 5 de agosto de 2011
 Artículo Único.- Se reforman los artículos 72, 73, 74, 75, 76 y 77; y se adiciona un artículo 74 Bis a la Ley General de Salud, para quedar como sigue:
-...
+]]].
 Transitorios
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Segundo.- La Secretaría contará con un plazo de 180 días naturales para emitir las disposiciones administrativas necesarias para la aplicación de este Decreto.

@@ -1,7 +1,7 @@
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Salud.
 Publicado en el Diario Oficial de la Federación el 12 de diciembre de 2011
 ARTÍCULO ÚNICO.- Se reforman las fracciones I, II y III del artículo 313; las fracciones X, XVI y XVII del artículo 314; el segundo párrafo del artículo 316; el primer párrafo del artículo 322; el primer párrafo y la fracción II del artículo 323; el primer párrafo del artículo 324; el artículo 328; el artículo 329; el artículo 331; la fracción V del artículo 333; la fracción I y II del artículo 334; los artículos 338 y 339; el artículo 350 Bis 7; el artículo 462, y el primer párrafo del artículo 462 Bis; y se adicionan las fracciones IV y V del artículo 313; las fracciones XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII del artículo 314; los artículos 314 Bis, 314 Bis 1, 314 Bis 2, 316 Bis, 316 Bis 1, 329 Bis; los párrafos segundo, tercero y cuarto del artículo 333; la fracción II Bis del artículo 334; los artículos 335 Bis y 335 Bis 1; los artículos 342 Bis, 342 Bis 1 y 342 Bis 2, y un tercer párrafo al artículo 462 Bis, todos de la Ley General de Salud, para quedar como sigue:
-...
+]]]..
 TRANSITORIOS
 PRIMERO. El presente Decreto entrará en vigor a los noventa días contados a partir de su publicación en el Diario Oficial de la Federación.
 SEGUNDO. El Ejecutivo Federal expedirá el Reglamento de la Ley General de Salud en Materia de Trasplantes en un plazo que no excederá los ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto.
