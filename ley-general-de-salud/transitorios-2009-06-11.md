@@ -1,7 +1,7 @@
 DECRETO por el que se adiciona un artículo 222 Bis a la Ley General de Salud.
 Publicado en el Diario Oficial de la Federación el 11 de junio de 2009
 Artículo Único.- Se adiciona un artículo 222 Bis a la Ley General de Salud, para quedar como sigue:
-...
+]]].
 TRANSITORIOS
 Primero. El presente Decreto entrará en vigor a los 90 días posteriores a su publicación en el Diario Oficial de la Federación.
 Segundo. La Secretaría de Salud contará con 180 días posteriores a su publicación en el Diario Oficial de la Federación para emitir las disposiciones jurídicas necesarias para la aplicación del presente Decreto.

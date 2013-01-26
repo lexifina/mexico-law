@@ -1,7 +1,7 @@
 DECRETO por el que se reforma, adiciona y deroga diversas disposiciones de la Ley General de Salud en materia de trasplantes y donación de órganos.
 Publicado en el Diario Oficial de la Federación el 11 de junio de 2009
 Artículo Único. Se reforman los artículos 17 bis, fracción VIII; 313; 314, fracciones VI, XIII y XIV; 316; 329, primer párrafo; 336; 338, fracciones IV y V; 339; 343; 344; 345; se adicionan las fracciones XV, XVI y XVII al artículo 314; un tercero y quinto párrafos, recorriéndose el actual tercero para pasar a ser cuarto al artículo 322; un tercer párrafo al artículo 337; un artículo 341 Bis, y se deroga la fracción VII del artículo 314 de la Ley de General de Salud, para quedar como sigue:
-...
+]]].
 Transitorios
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Segundo. Por lo que se refiere a los establecimientos del sector público, la creación y funcionamiento de los Comités a que se refiere el presente Decreto se sujetarán a los recursos humanos (incluyendo el personal médico y administrativo), materiales y financieros con que cuentan actualmente.
