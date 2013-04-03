@@ -1,7 +1,7 @@
 DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, de la Ley Orgánica de la Administración Pública Federal y de la Ley Orgánica de la Procuraduría General de la República.
 Publicado en el Diario Oficial de la Federación el 14 de junio de 2012
 Artículo Tercero. Se reforma la fracción XXV y se adiciona una fracción XXVII, pasando la actual a ser fracción XXVIII, al artículo 30 Bis de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-UUU.
+...
 Transitorios
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Segundo. Las acciones que en su caso deba efectuar la Procuraduría General de la República se realizarán de conformidad a lo establecido por el artículo sexto transitorio de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y por el artículo 14 de la Ley Orgánica de la Procuraduría General de la República.
@@ -10,7 +10,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 DECRETO por el que se expide la Ley Federal de Justicia para Adolescentes; y se adiciona la Ley Orgánica del Poder Judicial de la Federación, se reforma la Ley Orgánica de la Administración Pública Federal, se adiciona la Ley Orgánica de la Procuraduría General de la República y se reforma la Ley Federal de Defensoría Pública.
 Publicado en el Diario Oficial de la Federación el 27 de diciembre 2012
 ARTÍCULO TERCERO. Se reforma la fracción XXV del artículo 30 Bis de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-UUU.
+...
 TRANSITORIOS
 PRIMERO. El presente Decreto entrará en vigor a los dos años siguientes al día de su publicación en el Diario Oficial de la Federación.
 SEGUNDO. Se abroga, en su aplicación de ámbito federal, la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.
