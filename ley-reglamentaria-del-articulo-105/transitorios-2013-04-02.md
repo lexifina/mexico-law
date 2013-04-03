@@ -1,0 +1,8 @@
+DECRETO por el que se expide la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; se reforman y adicionan diversas disposiciones de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley Orgánica de la Administración Pública Federal, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y de la Ley Orgánica de la Procuraduría General de la República.
+Publicado en el Diario Oficial de la Federación el 2 de abril de 2013
+ARTÍCULO TERCERO. Se reforma el artículo 43 y se adicionan los artículos 9o Bis; 47, con un tercer párrafo; y 72, con un segundo párrafo a la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+...
+TRANSITORIO
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+México, D.F., a 20 de marzo de 2013.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de abril de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
