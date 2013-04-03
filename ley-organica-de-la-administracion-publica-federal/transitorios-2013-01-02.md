@@ -1,7 +1,7 @@
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal.
 Publicado en el Diario Oficial de la Federación el 2 de enero de 2013
 Artículo Único.- Se reforman los artículos 1o., segundo párrafo; 7o.; 8o.; 10; 13, primer párrafo; 16, primer párrafo; 25; 26; 27; 31, fracciones XII, XIX, XXI, XXIV y XXV; 32, fracciones I, II, IV, V, IX, X, XI, XII, XIII, XIV y XV; 41 y 50; Se adicionan los artículos 31, con las fracciones XXII, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII y XXXIV; 32, con las fracciones VII y VIII y el 44 y Se derogan los artículos 30 Bis; 32, fracciones XIV, XV y XVII; y 37 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
-UUU.
+...
 TRANSITORIOS
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Segundo.- Las modificaciones previstas en el presente Decreto para los artículos 26, 31, 37, 44, y 50 de esta Ley exclusivamente por lo que se refiere a la desaparición y transferencia de las atribuciones de la Secretaría de la Función Pública, entrarán en vigor en la fecha en que el órgano constitucional autónomo que se propone crear en materia anticorrupción entre en funciones, conforme a las disposiciones constitucionales y legales que le den existencia jurídica.
