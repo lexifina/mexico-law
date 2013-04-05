@@ -22,7 +22,7 @@ CAPITULO IV
 Seguro de transporte terrestre.
 CAPITULO V
 Seguro contra la responsabilidad
+CAPITULO VI
+SEGURO DE CAUCION
 TITULO III
 Disposiciones especiales del contrato de seguro sobre las personas
-TITULO V
-Disposiciones finales
