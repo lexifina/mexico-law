@@ -1,6 +1,9 @@
 FE DE ERRATAS DE LA LEY SOBRE EL CONTRATO DE SEGURO PUBLICADA EN EL NUMERO CORRESPONDIENTE AL DIA 31 DE AGOSTO RETROPROXIMO.
 Publicada en el Diario Oficial de la Federación el 13 de septiembre de 1935
-DICE: DEBE DECIR: ___ ___ Encabezado de la Ley: facultades concedidas al Ejecutivo de la Unión por Decreto
+DICE:
+DEBE DECIR: ___
+___
+Encabezado de la Ley: facultades concedidas al Ejecutivo de la Unión por Decreto
 facultades concedidas al Ejecutivo de la Unión por Decretos
 Art. 2º.- de conforimdad
 de conformidad
@@ -31,7 +34,10 @@ otra persona que, con el consentimiento del asegurado, habite el edificio o teng
 Art. 57.- el seguro quedará en vigor para los demás
 el seguro quedará en vigor para las demás
 Art. 62.- las primas mayores que eventualmente le deban las primas mayores que eventualmente le deba
-DICE: DEBE DECIR: ___ ___ Art. 63.- cuando por hechos del asegurado se agraven circunstancias
+DICE:
+DEBE DECIR: ___
+___
+Art. 63.- cuando por hechos del asegurado se agraven circunstancias
 cuando por hechos del asegurado, se agraven circunstancias
 Art. 76.- el asegurado o sus causahabientes que incurrieron
 el asegurado a sus causahabientes que incurrieren
