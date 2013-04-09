@@ -1,7 +1,7 @@
 DECRETO por el que se adiciona una fracción X al artículo 3 de la Ley General de Desarrollo Social.
 Publicado en el Diario Oficial de la Federación el 1 de junio de 2012
 ARTÍCULO ÚNICO. Se adiciona una fracción X al artículo 3 de la Ley General de Desarrollo Social, para quedar como sigue:
-CCC.
+...
 TRANSITORIO
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 19 de abril de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Rúbricas."
