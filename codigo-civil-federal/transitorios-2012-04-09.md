@@ -1,7 +1,7 @@
 DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 ARTÍCULO PRIMERO. Se reforman los artículos 41; 148; 151; 631, primer párrafo; 834; 2317, segundo, tercero y cuarto párrafos; 2448-G, primer y tercer párrafos; 2917, segundo párrafo; 2999 y 3052, fracción III, segundo párrafo del Código Civil Federal, para quedar como sigue:
-NNN.
+...
 TRANSITORIOS
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
