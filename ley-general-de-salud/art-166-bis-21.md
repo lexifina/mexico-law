@@ -1,1 +1,3 @@
 Artículo 166 Bis 21. Queda prohibida, la práctica de la eutanasia, entendida como homicidio por piedad así como el suicidio asistido conforme lo señala el Código Penal Federal, bajo el amparo de esta ley. En tal caso se estará a lo que señalan las disposiciones penales aplicables.
+Asistencia Social, Prevención de la Discapacidad y Rehabilitación de las Personas con
+Discapacidad
