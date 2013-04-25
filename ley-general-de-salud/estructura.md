@@ -92,7 +92,6 @@ CAPÍTULO III
 De las Facultades y Obligaciones de las Instituciones de Salud
 CAPÍTULO IV
 TITULO NOVENO
-Asistencia Social, Prevención de Invalidez y Rehabilitación de Inválidos
 CAPITULO UNICO
 TITULO DECIMO
 Acción Extraordinaria en Materia de Salubridad General

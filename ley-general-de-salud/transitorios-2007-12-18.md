@@ -1,7 +1,7 @@
 DECRETO por el que se adiciona una fracción VI al artículo 198 de la Ley General de Salud.
 Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2007
 ARTÍCULO ÚNICO: Se adiciona una fracción VI al artículo 198 de la Ley General de Salud, para quedar como sigue:
-]]].
+...
 Transitorios
 Primero: El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Segundo: La Secretaría de Salud contará con un plazo máximo de 90 días hábiles a partir de la publicación del presente Decreto para emitir las disposiciones reglamentarias respectivas y publicar en el Diario Oficial de la Federación el proyecto de Norma Oficial Mexicana que contenga los lineamientos generales para las instalaciones, operación y buenas prácticas de fabricación.
