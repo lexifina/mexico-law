@@ -1,0 +1,1 @@
+Artículo 389 Bis 1.- El certificado de nacimiento será requerido por las autoridades del Registro Civil a quienes pretendan declarar el nacimiento de una persona, con las excepciones que establezcan las disposiciones generales aplicables.
