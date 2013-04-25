@@ -1,7 +1,7 @@
 DECRETO por el que se adiciona una fracción VII, recorriéndose la actual para ser VIII, al artículo 100 de la Ley General de Salud.
 Publicado en el Diario Oficial de la Federación el 14 de diciembre de 2011
 Artículo Único.- Se adiciona una fracción VII, recorriéndose la actual para ser VIII, al artículo 100 de la Ley General de Salud, para quedar como sigue:
-]]].
+...
 Transitorio
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D. F., a 10 de noviembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Dip. Laura Arizmendi Campos, Secretaria.- Rúbricas."

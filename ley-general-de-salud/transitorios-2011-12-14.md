@@ -1,7 +1,7 @@
 DECRETO por el que se adiciona el artículo 41 Bis y se reforma el artículo 98 de la Ley General de Salud.
 Publicado en el Diario Oficial de la Federación el 14 de diciembre de 2011
 ARTÍCULO ÚNICO.- Se adiciona el Artículo 41 Bis; y se reforma el Artículo 98 de la Ley General de Salud, para quedar como sigue:
-]]]..
+...
 TRANSITORIOS
 ARTÍCULO PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 ARTÍCULO SEGUNDO. En un lapso que no excederá de noventa días naturales, la Secretaría de Salud, a través de la Comisión Nacional de Bioética, expedirá las disposiciones necesarias para la integración y funcionamiento de los Comités Hospitalarios de Bioética y las características de los centros hospitalarios que deben tenerlos.
