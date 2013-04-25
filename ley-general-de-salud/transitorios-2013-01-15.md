@@ -1,7 +1,7 @@
 DECRETO por el que se adicionan una fracción IX al artículo 6o., y una fracción VIII bis al artículo 7o., de la Ley General de Salud.
 Publicado en el Diario Oficial de la Federación el 15 de enero de 2013
 ARTÍCULO ÚNICO. Se adicionan una fracción IX al artículo 6o, y una fracción VIII bis al artículo 7o, de la Ley General de Salud, para quedar como sigue:
-]]]
+...
 TRANSITORIO
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 19 de diciembre de 2012.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto Javier Cordero Arroyo, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas."

@@ -1,9 +1,9 @@
 DECRETO por el que se expide la Ley General para el Control del Tabaco; y deroga y reforma diversas disposiciones de la Ley General de Salud.
 Publicado en el Diario Oficial de la Federación el 30 de mayo de 2008
 ARTÍCULO SEGUNDO. Se derogan los artículos 188, 189, 190, 275, 276, 277, 277 bis, 308 bis y 309 bis de la Ley General de Salud, así como todas aquellas disposiciones que se opongan al presente Decreto, para quedar como sigue:
-]]].
+...
 ARTÍCULO TERCERO. Se reforman los artículos 3o., fracción XIV; 286, 301, 308, penúltimo párrafo, 309 y 421 de la Ley General de Salud, para quedar como sigue:
-]]].
+...
 ARTÍCULOS TRANSITORIOS
 PRIMERO. El presente Decreto entrará en vigor a los 90 días después de su publicación el Diario Oficial de la Federación.
 SEGUNDO. Se emitirán los reglamentos a los que se refiere esta Ley, a más tardar 180 días después de su publicación en el Diario Oficial de la Federación.

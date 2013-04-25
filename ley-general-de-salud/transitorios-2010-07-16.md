@@ -7,9 +7,9 @@ PONENTE: MINISTRA MARGARITA BEATRIZ LUNA RAMOS SECRETARIOS: FERNANDO SILVA GARCI
 ALFREDO VILLEDA AYALA.
 México, Distrito Federal. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, correspondiente al día diecinueve de febrero de dos mil ocho.
 VISTOS; y RESULTANDO:
-PRIMERO A QUINTO. ]]].
+PRIMERO A QUINTO...
 CONSIDERANDO:
-PRIMERO A SEXTO. ]]].
+PRIMERO A SEXTO...
 Por lo expuesto y fundado, se resuelve:
 PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad.
 SEGUNDO. Se declara la invalidez del artículo 464 Ter, fracciones I, II y III, de la Ley General de Salud, adicionado mediante decreto publicado en el Diario Oficial de la Federación el veinticinco de mayo de dos mil seis, en la parte que establece en cada una de esas tres fracciones multas penales, en los términos y para los efectos precisados en la parte final del último considerando.
