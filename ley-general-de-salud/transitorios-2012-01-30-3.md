@@ -1,7 +1,7 @@
 DECRETO por el que se reforman los artículos 100, fracción IV y 103; y se adicionan un segundo y tercer párrafos al artículo 102 y un artículo 102 Bis a la Ley General de Salud.
 Publicado en el Diario Oficial de la Federación el 30 de enero de 2012
 Artículo Único. Se reforman los artículos 100, fracción IV y 103; y se adicionan un segundo y tercer párrafos al artículo 102, y un artículo 102 Bis a la Ley General de Salud, para quedar como sigue:
-]]].
+...
 TRANSITORIOS
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 SEGUNDO.- La Secretaría de Salud contará con 180 días naturales, posteriores a la publicación del Decreto, para emitir las disposiciones reglamentarias necesarias para su aplicación.

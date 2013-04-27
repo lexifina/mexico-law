@@ -1,7 +1,7 @@
 DECRETO por el que se reforman y adicionan diversos artículos de la Ley General de Salud, en materia de cosméticos.
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2011
 Artículo Único. Se reforman los artículos 17 Bis, fracción II; 194, fracción I; 257, fracción X; 269; 270; 286; 414 Bis primer párrafo y la denominación del Capítulo IX, para quedar como "Productos cosméticos", del Título Décimo Segundo y se adiciona un segundo párrafo al artículo 272 de la Ley General de Salud, para quedar como sigue:
-]]]
+...
 Transitorios
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 SEGUNDO.- Las referencias que las disposiciones jurídicas o administrativas hagan a los productos de perfumería y belleza, se entenderán realizadas a los productos cosméticos. Asimismo, las disposiciones emitidas con anterioridad para los productos de perfumería y belleza mantendrán su vigencia.

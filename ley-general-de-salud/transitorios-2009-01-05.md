@@ -1,7 +1,7 @@
 DECRETO por el que se reforma el artículo 184 de la Ley General de Salud.
 Publicado en el Diario Oficial de la Federación el 5 de enero de 2009
 Artículo Único.- Se reforma el artículo 184 de la Ley General de Salud, para quedar como sigue:
-]]].
+...
 TRANSITORIO
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 27 de noviembre de 2008.- Sen. Gustavo E. Madero Muñoz, Presidente.- Dip. César Horacio Duarte Jáquez, Presidente.- Sen. Claudia S. Corichi Garcia, Secretaria.- Dip. Jacinto Gómez Pasillas, Secretario.- Rúbricas."
