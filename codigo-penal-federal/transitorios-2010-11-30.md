@@ -1,7 +1,7 @@
 DECRETO por el que se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales, del Código Penal Federal, de la Ley Federal contra la Delincuencia Organizada, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley de la Policía Federal, de la Ley Federal de Telecomunicaciones y de la Ley General del Sistema Nacional de Seguridad Pública
 Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2010
 ARTÍCULO TERCERO. Se reforman los artículos 55, párrafos segundo y cuarto; 64, párrafo primero; 85, inciso f), de la fracción I; el artículo 215, en su fracción XIII y último párrafo y la fracción XIV; se adicionan el numeral 19 al artículo 24, la fracción IV al artículo 85, el artículo 180 Bis y la fracción XVI al artículo 215; y se derogan los artículos 366 y 366 Bis, todos del Código Penal Federal, para quedar como sigue:
-MMM.
+...
 ARTÍCULOS TRANSITORIOS
 Primero. El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
 Segundo. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
