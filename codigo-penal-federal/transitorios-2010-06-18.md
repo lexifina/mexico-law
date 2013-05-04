@@ -1,7 +1,7 @@
 DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal y del Código Federal de Procedimientos Penales, en Materia de Delitos contra el Transporte Ferroviario.
 Publicado en el Diario Oficial de la Federación el 18 de junio de 2010
 Artículo Primero. Se reforman el segundo párrafo del artículo 286 y el último párrafo del artículo 381; se adiciona una fracción XVII al artículo 381 del Código Penal Federal, para quedar como sigue:
-MMM.
+...
 TRANSITORIOS
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Artículo Segundo.- Los procesos que se encuentren en conocimiento de los Jueces del Fuero Común de los Estados y del Distrito Federal, continuarán de la misma forma hasta su conclusión.
