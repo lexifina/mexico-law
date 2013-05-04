@@ -1,7 +1,7 @@
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y del Código Penal Federal.
 Publicado en el Diario Oficial de la Federación el 28 de mayo de 2009
 Artículo Cuarto.- Se reforma el Artículo 217 párrafo segundo y se derogan sus párrafos tercero y cuarto, del Código Penal Federal, para quedar como sigue:
-MMM.
+...
 ARTÍCULOS TRANSITORIOS
 PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Diario Oficial de la Federación, salvo las disposiciones que para su aplicación requieran de las modificaciones al sistema electrónico CompraNet a que se refiere el artículo Décimo transitorio del presente Decreto.
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
