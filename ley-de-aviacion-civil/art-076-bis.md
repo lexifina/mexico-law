@@ -1,0 +1,1 @@
+Artículo 76 Bis. La Secretaría establecerá convenios o acuerdos de coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, para promover la eficiencia en las operaciones e infraestructura aeroportuaria, con el fin de reducir el ruido y las emisiones contaminantes en los servicios de transporte aéreo.
