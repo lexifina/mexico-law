@@ -1,0 +1,1 @@
+Artículo 63 Ter. Los propietarios de vehículos que cuenten con un seguro del ramo de automóviles con mayores coberturas al seguro a que se refiere el artículo anterior no podrá impedirse su circulación ni se impondrá la multa a que se refiere la fracción II del artículo 74 Bis de esta Ley.
