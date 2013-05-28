@@ -1,4 +1,4 @@
-ARTÍCULO SEGUNDO.- III.
+ARTÍCULO SEGUNDO.- ...
 TRANSITORIO
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial de la Federación.
 México, D.F., a 23 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Margarita Arenas Guzmán, Secretaria.- Sen. Gabino Cué Monteagudo, Secretario.- Rúbricas."
