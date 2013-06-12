@@ -1,9 +1,10 @@
 DECRETO por el que se reforma los artículos Segundo, Tercero y Cuarto Transitorios de la Ley de la Economía Social y Solidaria, Reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía.
 Publicado en el Diario Oficial de la Federación el 24 de enero de 2013
 ARTÍCULO PRIMERO.- Se reforma el primer párrafo del Segundo Transitorio, así como el cuarto párrafo del Tercero Transitorio, de la Ley de la Economía Social y Solidaria, Reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, para quedar como sigue:
-LLL
+...
 ARTÍCULO SEGUNDO.- Se reforma el primer párrafo del Cuarto Transitorio para precisar la aplicación de las normas que regulan al Registro y al Programa, y se adiciona un segundo párrafo al mismo, de la Ley de la Economía Social y Solidaria, Reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, para quedar como sigue:
-LLL. Transitorio
+...
+Transitorio
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 21 de diciembre de 2012.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Xavier Azuara Zúñiga, Secretario.- Rúbricas."
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de enero de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
