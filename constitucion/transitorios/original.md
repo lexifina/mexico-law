@@ -30,4 +30,4 @@ Al C. Lic. Manuel Aguirre Berlanga, Subsecretario Encargado del Despacho de Gobe
 Lo que hónrome en comunicar a usted para su publicación y demás efectos.
 Constitución y Reformas.- México, cinco de febrero de mil novecientos diez y siete.- AGUIRRE BERLANGA.
 Al Ciudadano ..
-N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.
