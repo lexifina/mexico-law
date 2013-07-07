@@ -1,7 +1,7 @@
 DECRETO por el que se reforman y adicionan los artículos 7 Bis y 18 de la Ley de Aguas Nacionales.
 Publicado en el Diario Oficial de la Federación el 20 de junio de 2011
 ÚNICO.- Se reforman los párrafos primero y segundo del artículo 18 y se adiciona una fracción XI al artículo 7 BIS y un cuarto párrafo al artículo 18 de la Ley de Aguas Nacionales, para quedar como sigue:
-SSS.
+...
 TRANSITORIO
 Único. El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 28 de abril de 2011.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. María de Jesús Aguirre Maldonado, Secretaria.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
