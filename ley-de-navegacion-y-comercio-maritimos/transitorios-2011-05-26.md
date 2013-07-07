@@ -1,7 +1,7 @@
 DECRETO por el que se reforman los incisos a. y c. de la fracción IV del artículo 328 de la Ley de Navegación y Comercio Marítimos.
 Publicado en el Diario Oficial de la Federación el 26 de mayo de 2011
 Artículo Único.- Se reforman los incisos a. y c. de la fracción IV del artículo 328 de la Ley de Navegación y Comercio Marítimos, para quedar como sigue:
-MMM.
+...
 TRANSITORIOS
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Artículo Segundo.- Dentro de un plazo de sesenta días contados a partir de la vigencia del presente Decreto, el Ejecutivo Federal publicará las modificaciones reglamentarias que correspondan.
