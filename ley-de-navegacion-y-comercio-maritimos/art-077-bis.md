@@ -1,0 +1,1 @@
+Artículo 77 BIS. Toda persona física o moral que ocasione directa o indirectamente un daño a los ecosistemas marinos o sus componentes estará obligada a la reparación de los daños, o bien, a la compensación ambiental que proceda de conformidad con lo dispuesto en la Ley Federal de Responsabilidad Ambiental.
