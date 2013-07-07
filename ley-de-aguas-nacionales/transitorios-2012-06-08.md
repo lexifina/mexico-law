@@ -1,7 +1,7 @@
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Aguas Nacionales.
 Publicado en el Diario Oficial de la Federación el 8 de junio de 2012
 Artículo Único.- Se reforman el inciso a) de la fracción XL del artículo 3; la fracción XLVIII del artículo 9; la fracción IX del artículo 12; la fracción V del artículo 12 Bis 2; la fracción XIII del artículo 12 Bis 6; la fracción II el artículo 14 Bis 6; el primer párrafo del artículo 29 Bis 2; el primer párrafo del artículo 29 Bis 4; el segundo párrafo del artículo 33; el segundo, tercer y cuarto párrafos del artículo 113 Bis; las fracciones VIII, XIX, XXIII y XXIV del artículo 119; las fracciones I, II y III del artículo 120, primer y cuarto párrafo de la fracción II del artículo 122; se modifican las denominaciones al Título Décimo "Medidas de Apremio, Seguridad, Infracciones, Sanciones y Recursos"; el Capítulo I, "Medidas de Apremio y Seguridad", y consecuentemente, se recorren los demás Capítulos; se adicionan los artículos 118 Bis 1, 118 Bis 2, 118 Bis 3 y, se deroga la fracción III del artículo 121 de la Ley de Aguas Nacionales, para quedar como sigue:
-SSS.
+...
 TRANSITORIO
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 26 de abril de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Mariano Quihuis Fragoso, Secretario.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
