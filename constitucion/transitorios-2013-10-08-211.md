@@ -1,0 +1,11 @@
+DECRETO por el que se reforma la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+Publicado en el Diario Oficial de la Federación el 8 de octubre de 2013
+ARTÍCULO ÚNICO. Se reforma la fracción XXI del artículo 73, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+...
+TRANSITORIOS
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación de conformidad con las disposiciones previstas en los artículos siguientes.
+SEGUNDO. La legislación única en las materias procedimental penal, de mecanismos alternativos de solución de controversias y de ejecución de penas que expida el Congreso de la Unión conforme al presente Decreto, entrará en vigor en toda la República a más tardar el día dieciocho de junio de dos mil dieciséis.
+La legislación vigente en las materias procedimental penal, de mecanismos alternativos de solución de controversias y de ejecución de penas expedida por el Congreso de la Unión, las legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal continuará en vigor hasta que inicie la vigencia de la legislación que respecto de cada una de dichas materias expida el Congreso de la Unión conforme al presente Decreto.
+TERCERO. Los procedimientos penales iniciados con anterioridad a la entrada en vigor de la legislación procedimental penal que establece el presente Decreto, serán concluidos conforme a las disposiciones vigentes al momento de iniciarse dichos procedimientos.
+México, D.F., a 5 de septiembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gomez, Secretario.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a tres de octubre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
