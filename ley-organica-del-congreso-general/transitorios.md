@@ -12,10 +12,10 @@ NUEVAS COMISIONES O COMITES Asuntos de la Frontera Sur
 Asuntos Fronterizos
 Gobernación y Puntos Constitucionales
 Población y Desarrollo
-Protección Civil
+Protección Civil Gobernación, Población y Seguridad Pública
 Radio, Televisión y Cinematografía
 Seguridad Pública
-Gobernación, Población y Seguridad Pública Gobernación y Puntos Constitucionales (iniciativas de reforma constitucional)
+Gobernación y Puntos Constitucionales (iniciativas de reforma constitucional)
 Fortalecimiento del Federalismo
 Fortalecimiento Municipal
 Puntos Constitucionales y Sistema Federal Derechos Humanos
@@ -88,8 +88,7 @@ II). La Junta de Coordinación Política de la Cámara de Senadores, deberá que
 III). La Mesa Directiva de la Cámara de Senadores electa para el mes de septiembre del primer periodo ordinario de sesiones del tercer año de ejercicio de la LVII Legislatura, cumplirá el periodo de un mes para el que fue electa y actuará conforme a las disposiciones aplicables de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos vigente hasta antes de la entrada en vigor del presente Decreto.
 IV). En la última sesión del mes de septiembre de 1999 se elegirá una Mesa Directiva en los términos de la Ley que se abroga para fungir durante el mes de octubre.
 V). En la última sesión del mes de octubre de 1999, la Cámara de Senadores procederá a elegir la Mesa Directiva a que se refiere el Título Tercero de la Ley materia del presente Decreto.
-VI). Los artículos 112 y 113 de la Ley materia del presente Decreto, entrarán en vigor el 1 de enero del año
-2000. El artículo 114 de esta Ley Orgánica, lo hará a partir del 1 de septiembre del mismo año.
+VI). Los artículos 112 y 113 de la Ley materia del presente Decreto, entrarán en vigor el 1 de enero del año 2000. El artículo 114 de esta Ley Orgánica, lo hará a partir del 1 de septiembre del mismo año.
 VII). El Senado podrá designar de entre los funcionarios que ya presten sus servicios, a los que deban ocupar los puestos de nueva creación, hasta el final de la LVII Legislatura. Las designaciones definitivas de funcionarios se harán a partir del inicio de las tareas de la LVIII Legislatura.
 VIII). Los requisitos que deberán cumplir los titulares de las secretarías generales y la Tesorería serán establecidos por la Mesa Directiva.
 ARTICULO QUINTO.- En tanto el Congreso expide las disposiciones correspondientes, seguirán siendo aplicables, en lo que no se opongan a la Ley materia del presente Decreto, las disposiciones del Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos, en vigor.
