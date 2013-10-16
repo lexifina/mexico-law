@@ -1,0 +1,4 @@
+ARTICULO 100 Bis.
+1.- De acuerdo con el Decreto por el que se crea el reconocimiento "Elvia Carrillo Puerto", en conmemoración al Día Internacional de la Mujer, que otorga el Senado, se deberá cumplir lo siguiente:
+a) El Senado de la República celebrará sesión solemne en el mes de marzo de cada año, para hacer entrega del Reconocimiento "Elvia Carrillo Puerto" a la mujer que haya sido acreedora al mismo por su destacada labor en el reconocimiento, defensa, protección, ejercicio e investigación de los Derechos Humanos de las Mujeres y de la Igualdad de Género en nuestro país.
+b) A la sesión solemne se invitará a las y los titulares del Poder Ejecutivo Federal, la Suprema Corte de Justicia de la Nación, la Cámara de Diputados, titulares de los Organismos Públicos y Organizaciones de la Sociedad Civil dedicadas a la promoción, defensa e investigación de los derechos humanos de las mujeres, así como de las universidades e instituciones educativas del país.
