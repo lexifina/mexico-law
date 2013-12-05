@@ -1,2 +1,2 @@
-Artículo 103 Bis 3. Todo estudio en este campo deberá contar con la aceptación expresa de la persona sujeta al mismo o de su representante legal en términos de la legislación aplicable.
+Artículo 103 Bis 3. Todo estudio sobre el genoma humano deberá contar con la aceptación expresa de la persona sujeta al mismo o de su representante legal en términos de la legislación aplicable.
 En el manejo de la información deberá salvaguardarse la confidencialidad de los datos genéticos de todo grupo o individuo, obtenidos o conservados con fines de diagnóstico y prevención, investigación, terapéuticos o cualquier otro propósito, salvo en los casos que exista orden judicial.
