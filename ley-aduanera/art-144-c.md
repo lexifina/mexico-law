@@ -1,0 +1,1 @@
+ARTICULO 144-C. Cuando las autoridades practiquen auditorías en materia de comercio exterior, deberán efectuarlas con los archivos electrónicos de los sujetos obligados, salvo en aquellos casos en que estimen pertinente practicarlas con la documentación que para tal efecto estén obligados a conservar en términos de lo establecido en esta Ley y el Código Fiscal de la Federación.
