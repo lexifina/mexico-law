@@ -1,6 +1,9 @@
 Título Primero
 Disposiciones Generales
-Capítulo Unico
+Capítulo I
+Del ámbito de aplicación y principios generales
+Capítulo II
+Notificaciones Electrónicas
 Título Segundo
 Control de aduana en el despacho
 Capítulo I
