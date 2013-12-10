@@ -1,1 +1,1 @@
-ARTICULO 185-B. Se aplicará una multa de $14,650.00 a $29,310.00 a quienes cometan la infracción relacionada con la obligación de llevar los sistemas de control de inventarios prevista en el artículo 185-A de esta Ley.
+ARTICULO 185-B. Se aplicará una multa de $16,470.00 a $32,960.00 a quienes cometan la infracción relacionada con la obligación de llevar los sistemas de control de inventarios prevista en el artículo 185-A de esta Ley.
