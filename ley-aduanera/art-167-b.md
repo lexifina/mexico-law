@@ -1,0 +1,2 @@
+ARTICULO 167-B. El desahogo de las pruebas ofrecidas y admitidas se realizará dentro de un plazo no menor a cinco días ni mayor de quince días, contado a partir de su admisión. Si se ofreciesen pruebas que ameriten ulterior desahogo, se concederá al interesado un plazo no menor de ocho días ni mayor de quince días para tal efecto.
+Las pruebas supervenientes podrán presentarse siempre que no se haya emitido la resolución definitiva.
