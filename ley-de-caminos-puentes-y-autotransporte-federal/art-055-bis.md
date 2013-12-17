@@ -1,0 +1,1 @@
+Artículo 55 Bis.- Los vehículos respecto de los cuales el interesado o su representante legal no manifiesten lo que a su derecho convenga, causarán abandono a favor del Gobierno Federal transcurridos 90 días naturales, contados a partir de la notificación, que en su caso haya llevado a cabo la Autoridad Federal, al momento de retirarlos de la circulación.
