@@ -1,8 +1,1 @@
-Artículo 244-A.- El derecho por el uso del espectro radioeléctrico, por los sistemas y redes públicas de comunicación, multicanales o monocanales entre estaciones móviles, portátiles o fijas, a través de una o más estaciones base, con o sin repetidor, se pagará anualmente conforme a las siguientes cuotas:
-I. Para el servicio de radiotelefonía celular, por cada frecuencia asignada, concesionada o permisionada y por cada región ... $5,187.89
-II. Para el servicio de radiotelefonía móvil convencional, por cada frecuencia asignada, concesionada o permisionada y por sistema ... $5,187.89
-III. Por los servicios de radiolocalización móvil de personas, radiolocalización de vehículos, radiolocalización móvil marítima y radiodeterminación, se pagarán derechos por frecuencia asignada, concesionada o permisionada, y por sistema ... $5,187.89
-Para los casos considerados en esta fracción se entenderá por sistema al área de cobertura del servicio concesionado, salvo para los casos de concesiones con cobertura nacional o regional en donde el sistema corresponde a cada entidad federativa involucrada dentro del área de concesión del servicio.
-IV. En servicio móvil especializado de flotillas y de portadora común, se pagará el derecho por frecuencia asignada, concesionada o permisionada, y por sistema ... $561.72
-Para fines de aplicación del derecho establecido en esta fracción se entenderá por sistema al área de cobertura servida por cada repetidor, sitio o base. Asimismo, en los sistemas en los que se reutilicen las frecuencias asignadas se aplicará en forma adicional, el derecho por cada frecuencia reutilizada y por sistema.
-V. Por el servicio de radiocomunicación móvil aeronáutica, por cada frecuencia asignada, concesionada o permisionada, y por estación base ... $635.39
+Artículo 244-A. (Se deroga).

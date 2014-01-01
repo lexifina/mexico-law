@@ -1,7 +1,1 @@
-Artículo 278-C. Para calcular el monto del derecho a pagar por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales se considerará, trimestralmente, el volumen de las aguas residuales descargadas, las concentraciones de contaminantes que rebasen los límites máximos permisibles establecidos, así como el tipo de cuerpo receptor donde se efectúen, de la siguiente forma:
-I. La concentración de contaminantes que rebasen los límites máximos permisibles expresados en miligramos por litro se multiplicará por el factor de 0.001, para convertirla a kilogramos por metro cúbico.
-II. El resultado obtenido se multiplicará por el volumen trimestral de aguas residuales descargadas en metros cúbicos, obteniéndose así la carga de contaminantes, expresada en kilogramos por trimestre, descargada al cuerpo receptor.
-III. Para obtener el monto correspondiente por cada contaminante que rebase los límites máximos permisibles, conforme al tipo de cuerpo receptor de que se trate, se multiplicarán los kilogramos de contaminante por trimestre, por la cuota en pesos por kilogramo que corresponda, de acuerdo con la siguiente Tabla:
-TABLA II
-Cuota en pesos por kilogramo de contaminante al trimestre Tipo de contaminante Cuerpo Receptor Tipo "A" Tipo "B" Tipo "C" Demanda Química de Oxígeno $0.3517 $0.3933 $0.4138 Sólidos Suspendidos Totales $0.6040 $0.6751 $0.7108
-El monto del derecho a pagar será enterado por el contribuyente en los términos del artículo 283 de esta Ley.
+Artículo 278-C. (Se deroga).
