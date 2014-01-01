@@ -1,1 +1,1 @@
-Artículo 91-B.- Al contador público que cometa las infracciones a que se refiere el artículo 91-A de este Código, se le aplicará una multa del 10% al 20% de las contribuciones omitidas a que se refiere el citado precepto, sin que dicha multa exceda del doble de los honorarios cobrados por la elaboración del dictamen.
+Artículo 91-B. Al contador público que cometa las infracciones a que se refiere el artículo 91-A de este Código, se le aplicará la suspensión del registro a que se refiere el artículo 52, fracción I de este Código por un periodo de tres años.
