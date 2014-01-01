@@ -1,7 +1,7 @@
 Artículo 172-E.- Por el otorgamiento de los permisos señalados en la Ley Reglamentaria del Servicio Ferroviario, se pagarán derechos conforme a las siguientes cuotas:
-I.- Para la prestación de servicios auxiliares, por cada uno ... $8,428.44
-II.- Para construir accesos, cruzamientos e instalaciones marginales en el derecho de vía de las vías férreas ... $8,428.44
-III.- Para instalar anuncios y señales publicitarias en el derecho de vía, por anuncio o señal publicitaria ... $7,149.48
-IV.- Para construir y operar puentes sobre vías férreas ... $16,857.05
-V.- Por el otorgamiento de permisos de maniobras de carga, descarga, estiba, desestiba, alijo, acarreo, almacenaje y transbordo que se ejecuten en el derecho de vía de las vías férreas ... $10,371.92
-VI.- Por asignación de inicial y número, o matrícula al equipo ferroviario ... $527.88
+I.- Para la prestación de servicios auxiliares, por cada uno ... $8,732.71
+II.- Para construir accesos, cruzamientos e instalaciones marginales en el derecho de vía de las vías férreas ... $8,732.71
+III.- Para instalar anuncios y señales publicitarias en el derecho de vía, por anuncio o señal publicitaria ... $7,407.58
+IV.- Para construir y operar puentes sobre vías férreas ... $17,465.59
+V.- Por el otorgamiento de permisos de maniobras de carga, descarga, estiba, desestiba, alijo, acarreo, almacenaje y transbordo que se ejecuten en el derecho de vía de las vías férreas ... $10,746.35
+VI.- Por asignación de inicial y número, o matrícula al equipo ferroviario ... $546.94

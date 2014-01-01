@@ -1,6 +1,6 @@
 Artículo 172-C.- Por las autorizaciones de derecho de vías ferroviarias, se pagará el derecho respectivo, conforme a las siguientes cuotas:
-I.- Arrendamientos ... $1,467.49
-II.- Enajenaciones ... $1,467.49
-III.- Donaciones ... $2,011.30
-IV.- Permutas ... $2,007.77
-V.- Construcciones de edificios ... $4,892.69
+I.- Arrendamientos ... $1,520.47
+II.- Enajenaciones ... $1,520.47
+III.- Donaciones ... $2,083.91
+IV.- Permutas ... $2,080.25
+V.- Construcciones de edificios ... $5,069.32
