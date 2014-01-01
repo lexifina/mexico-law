@@ -1,0 +1,1 @@
+ARTÍCULO 37 TER.- Las normas oficiales mexicanas en materia ambiental son de cumplimiento obligatorio en el territorio nacional y señalarán su ámbito de validez, vigencia y gradualidad en su aplicación.
