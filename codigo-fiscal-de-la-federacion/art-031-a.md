@@ -1,0 +1,3 @@
+Artículo 31-A. Los contribuyentes deberán presentar la información de las operaciones que se señalen en la forma oficial que al efecto aprueben las autoridades fiscales, dentro de los treinta días siguientes a aquél en el que se celebraron.
+Cuando los contribuyentes presenten la información de forma incompleta o con errores, tendrán un plazo de treinta días contado a partir de la notificación de la autoridad, para complementar o corregir la información presentada.
+Se considerará incumplida la obligación fiscal señalada en el presente artículo, cuando los contribuyentes, una vez transcurrido el plazo señalado en el párrafo que antecede, no hayan presentado la información conducente o ésta se presente con errores.
