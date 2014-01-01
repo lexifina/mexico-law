@@ -1,7 +1,7 @@
 Artículo 70-A.- Cuando con motivo del ejercicio de facultades de comprobación, las autoridades fiscales hubieren determinado la omisión total o parcial del pago de contribuciones, sin que éstas incluyan las retenidas, recaudadas o trasladadas, el infractor podrá solicitar los beneficios que este artículo otorga, siempre que declare bajo protesta de decir verdad que cumple todos los siguientes requisitos:
 I. Haber presentado los avisos, declaraciones y demás información que establecen las disposiciones fiscales, correspondientes a sus tres últimos ejercicios fiscales.
 II. Que no se determinaron diferencias a su cargo en el pago de impuestos y accesorios superiores al 10%, respecto de las que hubiera declarado o que se hubieran declarado pérdidas fiscales mayores en un 10% a las realmente sufridas, en caso de que las autoridades hubieran ejercido facultades de comprobación respecto de cualquiera de los tres últimos ejercicios fiscales.
-III. En el caso de que esté obligado a dictaminar sus estados financieros por contador público autorizado u opte por hacerlo, en los términos de los artículos 32-A y 52 de este Código, no se hubieran observado omisiones respecto al cumplimiento de sus obligaciones, o habiéndose hecho éstas, las mismas hubieran sido corregidas por el contribuyente.
+III. (Se deroga).
 IV. Haber cumplido los requerimientos que, en su caso, le hubieren hecho las autoridades fiscales en los tres últimos ejercicios fiscales.
 V. No haber incurrido en alguna de las agravantes a que se refiere el artículo 75 de este Código al momento en que las autoridades fiscales impongan la multa.
 VI. No estar sujeto al ejercicio de una o varias acciones penales, por delitos previstos en la legislación fiscal o no haber sido condenado por delitos fiscales.
