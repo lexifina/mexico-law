@@ -9,7 +9,7 @@ ARTÍCULO SEXTO.- Las reformas y adiciones a los artículos 2o.-A, 2o.-B, 7o. y 
 Las cuotas previstas en el artículo 2o.-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios para la venta al público de gasolinas y diesel, se aplicarán de manera gradual, de conformidad con lo siguiente:
 I. En el mes calendario en que entre en vigor el artículo 2o.-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, se aplicará una cuota de 2 centavos a cada litro de Gasolina Magna, 2.44 centavos a cada litro de Gasolina Premium UBA y 1.66 centavos a cada litro de Diesel.
 II. Las cuotas mencionadas en la fracción anterior, se incrementarán mensualmente en 2 centavos, 2.44 centavos y 1.66 centavos, por cada litro de Gasolina Magna, Gasolina Premium UBA y Diesel, respectivamente, hasta llegar a las cuotas previstas en el artículo 2o.-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios.
-III. A partir del 1 de enero de 2015, las cuotas previstas en el artículo 2o.-A, fracción II, de la Ley del Impuesto Especial sobre Producción y Servicios, se disminuirán en una proporción de 9/11 para quedar en 2/11 de las cuotas contenidas en dicho artículo.
+III. (Se deroga).
 TRANSITORIO
 ÚNICO.- El presente Decreto entrará en vigor el 1 de enero de 2008, salvo por lo que respecta a los artículos Segundo, fracción III y Sexto del mismo, los cuales iniciarán su vigencia a los quince días siguientes a la fecha de publicación de este Decreto en el Diario Oficial de la Federación.
 México, D.F., a 14 de septiembre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Santiago Gustavo Pedro Cortes, Secretario.- Sen. Claudia Sofía Corichi García, Secretaria.- Rúbricas."
