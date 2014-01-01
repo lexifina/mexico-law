@@ -8,7 +8,13 @@ VI. Transcurra el plazo de vigencia del certificado.
 VII. Se pierda o inutilice por daños, el medio electrónico en el que se contengan los certificados.
 VIII. Se compruebe que al momento de su expedición, el certificado no cumplió los requisitos legales, situación que no afectará los derechos de terceros de buena fe.
 IX. Cuando se ponga en riesgo la confidencialidad de los datos de creación de firma electrónica avanzada del Servicio de Administración Tributaria.
+X. Las autoridades fiscales:
+a) Detecten que los contribuyentes, en un mismo ejercicio fiscal y estando obligados a ello, omitan la presentación de tres o más declaraciones periódicas consecutivas o seis no consecutivas, previo requerimiento de la autoridad para su cumplimiento.
+b) Durante el procedimiento administrativo de ejecución no localicen al contribuyente o éste desaparezca.
+c) En el ejercicio de sus facultades de comprobación, detecten que el contribuyente no puede ser localizado; éste desaparezca durante el procedimiento, o bien se tenga conocimiento de que los comprobantes fiscales emitidos se utilizaron para amparar operaciones inexistentes, simuladas o ilícitas.
+d) Aun sin ejercer sus facultades de comprobación, detecten la existencia de una o más infracciones previstas en los artículos 79, 81 y 83 de este ordenamiento, y la conducta sea realizada por el contribuyente titular del certificado.
 El Servicio de Administración Tributaria podrá cancelar sus propios certificados de sellos o firmas digitales, cuando se den hipótesis análogas a las previstas en las fracciones VII y IX de este artículo.
 Cuando el Servicio de Administración Tributaria revoque un certificado expedido por él, se anotará en el mismo la fecha y hora de su revocación.
 Para los terceros de buena fe, la revocación de un certificado que emita el Servicio de Administración Tributaria, surtirá efectos a partir de la fecha y hora que se dé a conocer la revocación en la página electrónica respectiva del citado órgano.
 Las solicitudes de revocación a que se refiere este artículo deberán presentarse de conformidad con las reglas de carácter general que al efecto establezca el Servicio de Administración Tributaria.
+Los contribuyentes a quienes se les haya dejado sin efectos el certificado de sello digital podrán llevar a cabo el procedimiento que, mediante reglas de carácter general, determine el Servicio de Administración Tributaria para subsanar las irregularidades detectadas, en el cual podrán aportar las pruebas que a su derecho convenga, a fin de obtener un nuevo certificado. La autoridad fiscal deberá emitir la resolución sobre dicho procedimiento en un plazo máximo de tres días, contado a partir del día siguiente a aquel en que se reciba la solicitud correspondiente.

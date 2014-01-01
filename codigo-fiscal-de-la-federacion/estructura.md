@@ -8,7 +8,9 @@ De los Derechos y Obligaciones de los Contribuyentes
 CAPITULO UNICO
 TITULO TERCERO
 De las Facultades de las Autoridades Fiscales
-CAPITULO UNICO
+CAPITULO I
+CAPÍTULO II
+De los Acuerdos Conclusivos
 TITULO CUARTO
 De las Infracciones y Delitos Fiscales
 CAPITULO I
