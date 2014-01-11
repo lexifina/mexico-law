@@ -1,3 +1,1 @@
-Artículo 122 Bis 15.- En protección de los intereses del público ahorrador, del sistema de pagos y del interés público en general, en los estatutos y en los títulos representativos del capital social de las instituciones de banca múltiple deberá preverse expresamente lo dispuesto por los artículos 122 Bis 7 a 122 Bis 14 de esta Ley, así como el consentimiento irrevocable de los accionistas a la aplicación de tales artículos en el evento de que se actualicen los supuestos en ellos previstos.
-De la Liquidación y Concurso Mercantil de las Instituciones de Banca Múltiple
-Apartado A Disposiciones Generales
+Artículo 122 Bis 15.- Se deroga

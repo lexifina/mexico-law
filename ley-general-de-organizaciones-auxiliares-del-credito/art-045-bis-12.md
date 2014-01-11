@@ -1,1 +1,1 @@
-Artículo 45 Bis-12.- Los directores generales de las Filiales deberán residir en territorio nacional.
+Artículo 45 Bis 12.- Los directores generales y funcionarios que ocupen cargos con las dos jerarquías inmediatas inferiores a la de aquél, deberán satisfacer los requisitos previstos por el artículo 8o. Bis 3 de esta Ley.

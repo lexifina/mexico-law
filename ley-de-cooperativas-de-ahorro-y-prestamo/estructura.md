@@ -55,6 +55,8 @@ TÍTULO SÉPTIMO
 DE LAS SANCIONES, DELITOS Y NOTIFICACIONES
 Capítulo I
 De las infracciones administrativas
+Capítulo I BIS
+De los Programas de Autocorrección
 Capítulo II
 De los delitos
 Capítulo III

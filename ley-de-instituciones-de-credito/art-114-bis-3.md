@@ -1,0 +1,3 @@
+Artículo 114 Bis 3.- Serán sancionados con prisión de cuatro a ocho años los funcionarios o empleados de las instituciones de banca múltiple cuya autorización para organizarse y operar como tal haya sido revocada y se encuentre en proceso de liquidación o liquidación judicial de conformidad con la Sección Segunda del Capítulo II del Título Séptimo de esta Ley, que con el objeto de ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas contingentes o resultados:
+I. Omitan registrar en los términos a que se refiere el artículo 99 de esta Ley, las operaciones efectuadas por la institución de que se trate, o
+II. Alteren, oculten, falsifiquen o destruyan registros o documentos.

@@ -1,0 +1,13 @@
+Artículo 59 Bis.- Se sancionará con prisión de tres meses a dos años y multa de treinta a dos mil días de salario cuando el monto de la operación, quebranto o perjuicio patrimonial, según corresponda, no exceda del equivalente a dos mil días de salario.
+Cuando el monto de la operación, quebranto o perjuicio patrimonial, según corresponda, exceda de dos mil y no de cincuenta mil días de salario; se sancionará con prisión de dos a cinco años y multa de dos mil a cincuenta mil días de salario.
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de cincuenta mil, pero no de trescientos cincuenta mil días de salario, se sancionará con prisión de cinco a ocho años y multa de cincuenta mil a doscientos cincuenta mil días de salario.
+Cuando el monto de la operación, quebranto o perjuicio patrimonial según corresponda, exceda de trescientos cincuenta mil días de salario, se sancionará con prisión de ocho a quince años y multa de doscientos cincuenta mil a trescientos cincuenta mil días de salario.
+Considerando el monto de la operación, quebranto o perjuicio patrimonial, las sanciones previstas en este artículo se impondrán a:
+I. Las personas que con el propósito de obtener un crédito, proporcionen a la Financiera, datos falsos sobre el monto de activos o pasivos de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto o perjuicio patrimonial para la institución;
+II. Las personas que para obtener créditos de Financiera, presenten avalúos que no correspondan a la realidad, resultando como consecuencia de ello quebranto o perjuicio patrimonial para la institución;
+III. Los deudores que no destinen el importe del crédito a los fines pactados, y como consecuencia de ello resulte quebranto o perjuicio patrimonial a la institución, y
+IV. Los acreditados que desvíen un crédito a fines distintos para los que se otorgó, si dicha finalidad fue determinante para el otorgamiento del crédito en condiciones preferenciales.
+Las penas previstas en este Artículo se reducirán a un tercio cuando se acredite haber reparado el daño o haber resarcido el perjuicio ocasionado.
+En los casos previstos en este Artículo, se procederá a petición de parte de la Financiera.
+Para determinar el monto de la operación, quebranto o perjuicio patrimonial, previstos en este artículo, se considerarán como días de salario, el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse el delito de que se trate.
+Lo dispuesto en este artículo, no excluye la imposición de las sanciones que conforme a otras leyes fueren aplicables, por la comisión de otro u otros delitos.

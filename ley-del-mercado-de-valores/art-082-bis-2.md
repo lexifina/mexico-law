@@ -1,0 +1,1 @@
+Artículo 82 Bis 2.- Las inscripciones relativas a los fondos de inversión en el Registro tendrán efectos declarativos y no convalidan los actos jurídicos que sean nulos de conformidad con las leyes aplicables. Asimismo, tendrán efectos en el mismo acto de su inscripción.

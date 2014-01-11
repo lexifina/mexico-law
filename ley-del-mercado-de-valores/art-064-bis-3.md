@@ -1,0 +1,1 @@
+Artículo 64 Bis 3.- El proveedor del índice, activo financiero o parámetro de referencia no podrá tener ninguno de los vínculos a que se refiere el artículo 2 fracción XIX de esta Ley, en relación con el administrador del patrimonio del fideicomiso.

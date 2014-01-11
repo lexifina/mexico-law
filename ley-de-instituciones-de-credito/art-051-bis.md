@@ -1,0 +1,1 @@
+Artículo 51 Bis.- La Comisión Nacional Bancaria y de Valores mediante disposiciones de carácter general que al efecto emita con acuerdo de su Junta de Gobierno establecerá el monto máximo de las operaciones activas de las instituciones de crédito, el cual se determinará en relación con la parte básica de su capital neto.

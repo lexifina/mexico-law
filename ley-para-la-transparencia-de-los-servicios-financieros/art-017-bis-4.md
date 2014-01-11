@@ -1,0 +1,1 @@
+Artículo 17 Bis 4.- En el ámbito de sus competencias, tanto la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros como la Procuraduría Federal del Consumidor, podrán emitir disposiciones de carácter general en materia de despachos de cobranza.

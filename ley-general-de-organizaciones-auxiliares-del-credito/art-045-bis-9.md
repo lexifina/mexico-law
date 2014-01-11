@@ -1,6 +1,5 @@
 Artículo 45 Bis-9.- La Secretaría de Hacienda y Crédito Público podrá autorizar a las Instituciones Financieras del Exterior, a las Sociedades Controladoras Filiales o a las Filiales, la adquisición de acciones representativas del capital social de una organización auxiliar del crédito o casa de cambio, siempre y cuando se cumplan los siguientes requisitos:
 I. La Institución Financiera del Exterior, la Sociedad Controladora Filial o la Filial, según sea el caso, deberá adquirir acciones que representen cuando menos el cincuenta y uno por ciento del capital social;
 II. Deberán modificarse los estatutos sociales de la organización auxiliar del crédito o casa de cambio, cuyas acciones sean objeto de enajenación, a efecto de cumplir con lo dispuesto en el presente capítulo;
-III. Cuando el adquirente sea una Institución Financiera del Exterior o una Sociedad Controladora Filial que ya sea propietaria de acciones representativas del capital social de una Filial del mismo tipo, deberá fusionar ambas organizaciones auxiliares del crédito o casas de cambio, según corresponda, a efecto de controlar solamente una Filial del mismo tipo; y
-IV. Cuando el adquirente sea una Filial deberá fusionarse con la organización auxiliar del crédito del mismo tipo o casa de cambio, según corresponda, que haya sido adquirida.
-En el otorgamiento de las autorizaciones a que se refiere este artículo, la Secretaría de Hacienda y Crédito Público deberá preservar la preponderancia de la inversión nacional sobre la inversión extranjera.
+III. Se deroga
+IV. Se deroga

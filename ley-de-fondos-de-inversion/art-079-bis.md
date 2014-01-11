@@ -1,0 +1,1 @@
+Artículo 79 Bis.- Los fondos de inversión estarán obligados a proporcionar a la Comisión, a sus accionistas y al público en general, la información continua, periódica y la relativa a Eventos Relevantes, a través de los medios de comunicación y en los términos que la citada Comisión determine mediante disposiciones de carácter general.

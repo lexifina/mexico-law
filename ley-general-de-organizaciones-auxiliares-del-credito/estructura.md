@@ -8,9 +8,9 @@ De los almacenes generales de depósito
 CAPITULO II
 De las Arrendadoras Financieras
 CAPITULO II BIS
-De las sociedades de ahorro y préstamo
+De las Sociedades de Ahorro y Préstamo
 CAPITULO III
-De las uniones de crédito
+De las uniones de crédito (Se deroga)
 CAPITULO III-BIS
 De las Empresas de Factoraje Financiero
 CAPITULO III BIS-I
@@ -38,7 +38,11 @@ TITULO SEXTO
 De las Infracciones y Delitos
 CAPITULO I
 De las infracciones administrativas
+Capítulo I Bis
+De los programas de autocorrección
 CAPITULO II
 De los delitos
+Capítulo III
+De las Notificaciones
 TITULO SEPTIMO
 De la Protección de los Intereses del Público
