@@ -156,6 +156,8 @@ Capítulo I
 Disposiciones preliminares
 Capítulo II
 De la imposición de sanciones administrativas
+Capítulo II Bis
+De los programas de autocorrección
 Capítulo III
 Del recurso de revisión
 Capítulo IV

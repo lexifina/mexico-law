@@ -1,0 +1,1 @@
+Artículo 14 Bis 13.- La Comisión no ejercerá funciones de supervisión respecto de las funciones del liquidador de los fondos de inversión. Lo anterior, sin perjuicio de las facultades conferidas en el presente ordenamiento respecto de los delitos señalados en el Apartado F de la Sección Segunda, del Capítulo Quinto del Título IV de esta Ley.

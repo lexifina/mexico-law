@@ -1,0 +1,1 @@
+Artículo 87 Bis 5.- Las notificaciones personales podrán efectuarse en las oficinas de la Comisión solamente cuando el interesado o su representante acuda a las mismas y manifieste su conformidad en recibir las notificaciones; para lo cual quien realice la notificación levantará por duplicado un acta que cumpla con la regulación aplicable a este tipo de actos.
