@@ -1,0 +1,8 @@
+Artículo 87-P.- Las sociedades financieras de objeto múltiple no reguladas deberán tramitar ante la Comisión Nacional Bancaria y de Valores, previo a su registro, la emisión de un dictamen técnico en materia de prevención, detección y reporte de actos, omisiones u operaciones que pudiesen ubicarse en los supuestos de los artículos 139, 148 Bis o 400 Bis del Código Penal Federal. Para tales efectos, la Comisión emitirá disposiciones de carácter general en las que se incluyan, entre otros, el procedimiento y plazos para la solicitud, realización de observaciones y resolución otorgando o negando el dictamen o, en su caso, su renovación.
+A la solicitud respectiva se deberá acompañar lo siguiente:
+a) Documento de políticas, criterios, medidas y procedimientos internos que pretendan utilizar;
+b) La designación de aquellas estructuras internas que funcionarán como áreas de cumplimiento en la materia;
+c) Manifestación bajo protesta de decir verdad respecto de que cuentan con un sistema automatizado que coadyuve al cumplimiento de las medidas y procedimientos que se establezcan en las disposiciones de carácter general a que se refiere el artículo 95 Bis de la presente Ley, y
+d) Lo demás previsto en las citadas disposiciones de carácter general.
+Para la renovación de dicho dictamen la Comisión Nacional Bancaria y de Valores considerará el cumplimiento que dichas sociedades den a lo dispuesto por el artículo 95 Bis de la presente Ley, así como a las disposiciones de carácter general que de éste deriven.
+En caso de que la solicitud de la sociedad de que se trate no sea resuelta en los plazos establecidos en las citadas disposiciones, se entenderá que fue resuelta en sentido positivo.

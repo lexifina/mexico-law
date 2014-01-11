@@ -1,1 +1,1 @@
-Artículo 122 Bis 32.- La Comisión Nacional Bancaria y de Valores ejercerá la función de supervisión de los liquidadores únicamente respecto del cumplimiento de los procedimientos a los que se refiere el inciso c) de la fracción III del artículo 122 Bis 31 de esta Ley.
+Artículo 122 Bis 32.- Se deroga

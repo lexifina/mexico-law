@@ -1,0 +1,3 @@
+Artículo 14 Bis 4.- La fusión o escisión de los fondos de inversión requerirá de la previa autorización de la Comisión.
+Los fondos de inversión solo podrán fusionarse con otros fondos de inversión del mismo tipo.
+La fusión de los fondos de inversión no requerirá de la autorización que en términos de la Ley Federal de Competencia Económica deba obtenerse, siempre y cuando la misma sociedad operadora de fondos de inversión les proporcione los servicios de administración de activos o bien, cuando dichos servicios sean proporcionados por distintas sociedades operadoras de fondos de inversión que pertenezcan a un mismo grupo financiero.

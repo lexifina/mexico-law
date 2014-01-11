@@ -3,5 +3,6 @@ Lo establecido en el presente artículo, no eximirá a los participantes en los 
 Los participantes que corrijan alguna de las omisiones o contravenciones a que se refiere el artículo 100 de esta Ley, deberán comunicar dicha situación a la Comisión dentro de los tres días hábiles siguientes a la fecha en que se realice dicha corrección, con la finalidad de que la Comisión tome conocimiento de la misma.
 El programa de corrección previsto en el presente artículo, no procederá en los siguientes casos:
 a) Incumplimiento al régimen de inversión de las sociedades de inversión;
-b) Cobro de comisiones que excedan el monto autorizado por la Comisión, y
-c) Cuando las administradoras no proporcionen la información a que estén obligadas o no atiendan los trámites solicitados directamente por los trabajadores respecto de las cuentas individuales, conforme a lo previsto en esta Ley y demás disposiciones aplicables.
+b) Cobro de comisiones que excedan el monto autorizado por la Comisión;
+c) Cuando las administradoras no proporcionen la información a que estén obligadas o no atiendan los trámites solicitados directamente por los trabajadores respecto de las cuentas individuales, conforme a lo previsto en esta ley y demás disposiciones aplicables, y
+d) Cuando se trate de omisiones o contravenciones a la normatividad que se identifiquen en un mismo proceso en forma reiterada.

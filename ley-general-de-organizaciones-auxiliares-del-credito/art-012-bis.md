@@ -1,0 +1,8 @@
+Artículo 12 Bis.- El capital mínimo suscrito y pagado sin derecho a retiro con que deberán contar los almacenes generales de depósito, de acuerdo a la clasificación a que se refiere el artículo 12 de esta Ley, será:
+I. Para almacenes de Nivel I, el equivalente en moneda nacional de 2,588,000 unidades de inversión;
+II. Para almacenes de Nivel II, el equivalente en moneda nacional de 3,406,000 unidades de inversión;
+III. Para almacenes de Nivel III, el equivalente en moneda nacional de 4,483,000 unidades de inversión, y
+IV. Para almacenes de Nivel IV, el equivalente en moneda nacional de 8,075,000 unidades de inversión.
+Los capitales mínimos a que se refiere este artículo deberán estar totalmente suscritos y pagados a más tardar el último día hábil del año de que se trate. Para estos efectos, se considerará el valor de las unidades de inversión correspondiente al 31 de diciembre del año inmediato anterior.
+Cuando el capital social exceda del mínimo a que se refiere el presente artículo, aquél deberá estar pagado cuando menos en un cincuenta por ciento, siempre que este porcentaje no sea inferior al mínimo establecido conforme al nivel que le corresponda al almacén de que se trate.
+Tratándose de sociedades de capital variable, el capital mínimo requerido conforme a este artículo estará integrado por acciones sin derecho a retiro, representativas de la porción fija del capital social. El monto del capital con derecho a retiro, en ningún caso podrá ser superior al capital pagado sin derecho a retiro. Asimismo, el capital contable en ningún momento deberá ser inferior al capital mínimo a que se refiere el presente artículo, según corresponda.

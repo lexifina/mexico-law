@@ -1,0 +1,1 @@
+Artículo 5 Bis 1.- Cuando alguna de las autoridades financieras señaladas en el artículo 5 Bis anterior, en ejercicio de sus facultades de supervisión, detecte algún posible incumplimiento a las disposiciones emitidas por otra autoridad financiera, lo hará del conocimiento de ésta.

@@ -58,7 +58,9 @@ TÍTULO SEXTO
 DE LAS SANCIONES, DELITOS Y NOTIFICACIONES
 Capítulo I
 De las Sanciones
+Capítulo I BIS
+De los Programas de Autocorrección
 Capítulo II
-De los delitos
+De los Delitos
 Capítulo III
 De las Notificaciones

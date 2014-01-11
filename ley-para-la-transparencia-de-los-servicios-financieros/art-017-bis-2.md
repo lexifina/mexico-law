@@ -1,0 +1,1 @@
+Artículo 17 Bis 2.- Las Entidades deberán tener la información citada en el artículo anterior debidamente actualizada y contener al menos los siguientes datos: nombre del despacho, dirección, teléfonos, y nombre de los socios.

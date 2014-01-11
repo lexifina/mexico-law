@@ -1,0 +1,2 @@
+Artículo 114 Bis 6.- Los delitos a que hacen referencia los artículos 114 Bis 1, 114 Bis 2, 114 Bis 3 y 114 Bis 4 de esta Ley, podrán perseguirse sin esperar a la conclusión de la liquidación o liquidación judicial, según corresponda, y sin perjuicio de su continuación.
+Las decisiones del juez que conoce de la liquidación judicial no vinculan a la jurisdicción penal. No será necesaria calificación para perseguir los delitos previstos en el párrafo anterior.

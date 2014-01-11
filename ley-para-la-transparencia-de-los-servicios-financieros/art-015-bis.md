@@ -1,1 +1,2 @@
 Artículo 15 Bis. Tratándose de operaciones pasivas que realicen las instituciones de crédito y las entidades de ahorro y crédito popular a las que les sea aplicable la GAT de acuerdo con las disposiciones a las que se refiere el artículo 8 de esta Ley, la publicidad y los Contratos de Adhesión deberán contener dicha GAT, cuando así lo establezcan las disposiciones de carácter general a que se refieren los artículos 11 y 12 de esta Ley.
+La información a que se refiere este artículo deberá resaltarse en caracteres distintivos de manera clara, notoria e indubitable.

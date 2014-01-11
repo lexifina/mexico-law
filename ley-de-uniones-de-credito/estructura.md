@@ -37,6 +37,8 @@ CAPITULO I
 De las prohibiciones
 CAPITULO II
 De las infracciones administrativas
+CAPITULO II Bis
+De los programas de autocorrección
 CAPITULO III
 De los delitos
 Capítulo IV

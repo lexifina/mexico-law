@@ -1,0 +1,1 @@
+Artículo 97 Bis.- Para tutelar el ejercicio del derecho de acceso a la información pública gubernamental, la Comisión Nacional deberá hacer del conocimiento del público en general, a través del Buró de Entidades Financieras, las sanciones que al efecto imponga, por infracciones a las leyes que regulan a las Instituciones Financieras o a las disposiciones que emanen de ellas.

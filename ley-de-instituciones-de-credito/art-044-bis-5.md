@@ -1,0 +1,1 @@
+Artículo 44 Bis 5.- Las instituciones de la banca de desarrollo deberán promover la sustentabilidad ambiental en sus programas operativos y financieros, así como incentivar la responsabilidad ambiental corporativa en ellas mismas, en los términos que establezca su Consejo Directivo conforme a las disposiciones jurídicas aplicables.
