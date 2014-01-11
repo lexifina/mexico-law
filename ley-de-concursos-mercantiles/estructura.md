@@ -62,7 +62,7 @@ TÍTULO OCTAVO
 De los concursos especiales
 Capítulo I
 Capítulo II
-Del concurso mercantil de las instituciones de crédito
+Del concurso mercantil de las Instituciones Financieras
 Capítulo III
 Del concurso mercantil de las instituciones auxiliares del crédito
 TÍTULO NOVENO
@@ -75,6 +75,8 @@ Capítulo I
 Incidentes y recursos
 Capítulo II
 De las medidas de apremio
+TÍTULO DÉCIMO BIS
+Responsabilidad de los administradores
 TÍTULO DÉCIMO PRIMERO
 Aspectos penales del concurso mercantil
 Capítulo Único

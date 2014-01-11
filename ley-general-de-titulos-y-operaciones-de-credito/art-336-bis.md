@@ -1,0 +1,3 @@
+Artículo 336 Bis.- En los casos en los que las partes hubieren pactado la transferencia de propiedad del efectivo cuando exista un incumplimiento de las obligaciones garantizadas, de presentarse éste el acreedor prendario conservará el efectivo, hasta por la cantidad que importen las obligaciones garantizadas, sin necesidad de que exista un procedimiento de ejecución o resolución judicial, extinguiéndose éstas por dicho monto.
+Si el monto de la prenda y la obligación garantizada no fueren de igual cantidad, queda expedita la acción por el resto de la deuda.
+En estos casos, se entenderá que la transferencia de propiedad del efectivo se llevó a cabo por el consentimiento de las partes como una forma de pago de las obligaciones del deudor y no en ejecución de la prenda.

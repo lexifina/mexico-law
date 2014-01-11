@@ -1,0 +1,1 @@
+Artículo 44 Bis 4.- Las instituciones de banca de desarrollo deberán promover la igualdad entre hombres y mujeres y fomentar la inclusión financiera de niños y jóvenes, adoptando una perspectiva de género en sus productos y servicios.
