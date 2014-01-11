@@ -4,4 +4,3 @@ Cuando el escrito inicial no contenga los datos o no cumpla con los requisitos p
 Notificada la prevención, se suspenderá el plazo para que las autoridades administrativas resuelvan y se reanudará a partir del día hábil inmediato siguiente a aquel en que el interesado conteste. En el supuesto de que no se desahogue la prevención en el término señalado las autoridades desecharán el escrito inicial.
 Si las autoridades no hacen el requerimiento de información dentro del plazo correspondiente, no podrán rechazar el escrito inicial por incompleto.
 Salvo disposición expresa en contrario, los plazos para que las autoridades contesten empezarán a correr el día hábil inmediato siguiente a la presentación del escrito correspondiente.
-76

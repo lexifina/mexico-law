@@ -1,6 +1,5 @@
 Artículo 136 Bis 2.- El órgano encargado de resolver el recurso de revisión podrá:
 I. Desecharlo por improcedente;
-83
 II. Sobreseerlo en los casos siguientes.
 a) Por desistimiento expreso del recurrente.
 b) Por sobrevenir una causal de improcedencia.

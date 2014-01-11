@@ -3,7 +3,6 @@ Estos títulos podrán emitirse en moneda nacional, mediante declaración unilat
 I. La mención de ser obligaciones subordinadas y títulos al portador;
 II. La expresión de lugar y fecha en que se suscriban;
 III. El nombre y la firma de la emisora;
-21
 IV. El importe de la emisión, con especificación del número y el valor nominal de cada obligación;
 V. El tipo de interés que en su caso devengarán;
 VI. Los plazos para el pago de intereses y de capital;
@@ -16,6 +15,5 @@ Las Sociedades Financieras Populares, además de los requisitos a que se refiere
 En caso de liquidación o concurso mercantil de la emisora, el pago de las obligaciones subordinadas preferentes se hará a prorrata, sin distinción de fechas de emisión, después de cubrir todas las demás deudas de la Sociedad Financiera Popular, pero antes de repartir a los titulares de las acciones, en su caso, el haber social. Las obligaciones subordinadas no preferentes se pagarán en los mismos términos señalados en este párrafo, pero después de haber pagado las obligaciones subordinadas preferentes.
 En el acta de emisión relativa, en el prospecto informativo, en cualquier otra clase de publicidad y en los títulos que se expidan deberá constar en forma notoria, lo dispuesto en los párrafos anteriores.
 En el acta de emisión podrá designarse un representante común de los tenedores de las obligaciones, en cuyo caso, se deberán indicar sus derechos y obligaciones, así como los términos y condiciones en que podrá procederse a su remoción y a la designación de nuevo representante. No será aplicable a estos representantes, lo previsto en la Ley General de Títulos y Operaciones de Crédito, para los representantes comunes de obligacionistas.
-22
 La emisora mantendrá las obligaciones subordinadas en custodia en alguna de las instituciones para el depósito de valores reguladas en la Ley del Mercado de Valores, entregando a los titulares de las mismas, constancia de sus tenencias.
 La inversión de los pasivos captados a través de la colocación de obligaciones subordinadas, se hará de conformidad con las disposiciones que la Comisión, en su caso, dicte al efecto.

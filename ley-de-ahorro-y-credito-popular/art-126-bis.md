@@ -1,5 +1,4 @@
 Artículo 126 Bis.- A las Federaciones que no cumplan con lo señalado en la presente Ley, se les impondrán las sanciones siguientes:
-79
 I. De 500 a 3,000 días de salario a las Federaciones que no cumplan con los servicios pactados con las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural, así como a otras personas morales con actividades financieras, en los términos de la fracción III del Artículo 52 de la presente Ley;
 II. De 1,000 a 5,000 días de salario a las Federaciones que no cumplan con lo dispuesto en el Artículo 43 Bis;
 III. De 3,000 a 6,000 días de salario a las Federaciones que oculten u omitan informar a la autoridad de problemas de insolvencia o liquidez por parte de las Sociedades Financieras Populares, Sociedades Financieras Comunitarias con Niveles de Operación I a IV y Organismos de Integración Financiera Rural;
