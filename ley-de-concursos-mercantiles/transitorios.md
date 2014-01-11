@@ -12,7 +12,5 @@ El periodo del primer Director General del Instituto concluirá el 31 de diciemb
 OCTAVO.- Lo dispuesto en el artículo 87 sólo se aplicará a las estipulaciones que se incluyan en contratos celebrados a partir de la entrada en vigor de la presente Ley.
 NOVENO.- Dentro de los 5 años siguientes a su entrada en vigor, la presente Ley no se aplicará a los Comerciantes que, a la fecha de entrada en vigor de esta Ley, tengan un pasivo que, computado como la suma del valor nominal de cada crédito a la fecha de su contratación, no exceda de su equivalente a quinientas mil UDIs, salvo que voluntariamente y por escrito acepten someterse a esta Ley.
 ARTÍCULO SEGUNDO.- ...
-TRANSITORIO
-ARTÍCULO ÚNICO.- ...
 México, D.F., a 27 de abril de 2000.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Enrique González Pedrero, Vicepresidente en funciones.- Dip. Marta Laura Carranza Aguayo, Secretario.- Sen. Raúl Juárez Valencia, Secretario.- Rúbricas".
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
