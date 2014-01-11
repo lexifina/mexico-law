@@ -1,2 +1,1 @@
 Artículo 87-L.- Sin perjuicio de lo dispuesto por este Capítulo, las facultades que la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado otorga a la Comisión Nacional Bancaria y de Valores, respecto de entidades financieras que otorguen crédito garantizado en los términos de dicho ordenamiento, se entenderán conferidas a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, respecto de las sociedades financieras de objeto múltiple no reguladas.
-(Se deroga el segundo párrafo).

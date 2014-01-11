@@ -1,5 +1,1 @@
 Artículo 37-B.- Se deroga.
-Artículo 37-B, derogado por DOF 18-07-2006, que seguirá vigente hasta el 18 de julio de 2013:
-Artículo 37-B.- Las arrendadoras financieras, sin perjuicio de mantener el capital mínimo previsto por esta Ley, deberán tener un capital contable por un monto no menor de la cantidad que resulte de aplicar un porcentaje que no será inferior al seis por ciento, a la suma de sus activos y en su caso de sus operaciones causantes de pasivo contingente, expuestos a riesgo significativo. La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional Bancaria y del Banco de México, y tomando en cuenta los usos internacionales en la materia determinará cuáles activos y pasivos contingentes deberán considerarse dentro de la mencionada suma así como el porcentaje aplicable en los términos del presente artículo.
-Segundo párrafo. (Se deroga).
-Para efectos de este artículo, la Secretaría de Hacienda y Crédito Público, oyendo previamente a la Comisión Nacional Bancaria y al Banco de México, señalará los conceptos que se considerarán integrantes del capital contable de las arrendadoras financieras.
