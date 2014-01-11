@@ -1,6 +1,1 @@
 Artículo 45-P.- Se deroga.
-Artículo 45-P, derogado por DOF 18-07-2006, que seguirá vigente hasta el 18 de julio de 2013:
-Artículo 45-P.- El importe del capital pagado y reservas de capital de las empresas de factoraje financiero, deberá estar invertido en operaciones propias del objeto de estas sociedades.
-No excederá del sesenta por ciento del capital pagado y reservas de capital, el importe de las inversiones en mobiliario, equipo e inmuebles destinados a sus oficinas, más el importe de la inversión en acciones de sociedades a que se refieren los Artículos 68 y 69 de esta Ley y de aquéllas que se organicen exclusivamente para adquirir el dominio y administrar inmuebles, siempre que en alguno de éstos, propiedad de la sociedad, la empresa de factoraje financiero tenga establecida o establezca su oficina principal o alguna sucursal u oficina de representación. La inversión en dichas acciones y los requisitos que deban satisfacer las sociedades a que se hace referencia, se sujetarán a las reglas generales que dicte la Secretaría de Hacienda y Crédito Público.
-El importe de los gastos de instalación no podrá exceder del diez por ciento del capital pagado y reservas de capital.
-La Secretaría de Hacienda y Crédito Público determinará mediante disposiciones de carácter general, las reservas de capital computables para efectos de este Artículo.

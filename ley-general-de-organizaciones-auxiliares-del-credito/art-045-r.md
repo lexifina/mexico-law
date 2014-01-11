@@ -1,3 +1,1 @@
 Artículo 45-R.- Se deroga.
-Artículo 45-R, derogado por DOF 18-07-2006, que seguirá vigente hasta el 18 de julio de 2013:
-Artículo 45-R.- Las empresas de factoraje financiero deberán obtener información sobre la solvencia moral y económica de los deudores en los contratos de factoraje. En sus decisiones, deberán tener en cuenta preferentemente la seguridad, liquidez y rentabilidad de las operaciones que realicen y deberán hacer el análisis de los derechos de crédito que vayan a adquirir. Las operaciones a que se refiere la fracción II del Artículo 45-B, deberán ser congruentes con la capacidad económica real de los clientes y con la naturaleza y clase de los derechos de crédito que se hayan transmitido.
