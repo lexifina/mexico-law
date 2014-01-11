@@ -1,3 +1,2 @@
 Artículo 104 Bis 1.- El Comité de Protección al Ahorro proporcionará a las Sociedades Financieras Populares, la información sobre los servicios que ofrece y las características del Fondo de Protección.
 El Comité de Protección al Ahorro deberá poner a disposición del público en general, de manera permanente y a través de medios electrónicos, los ingresos correspondientes a las cuotas de seguro de depósitos, así como los principales egresos, detallando los conceptos con cifras al cierre de cada ejercicio anual. La Comisión podrá solicitar al Comité de Protección al Ahorro, de considerarlo necesario, que efectúe las aclaraciones a la información que ponga a disposición del público.
-60

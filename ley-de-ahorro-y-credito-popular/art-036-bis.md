@@ -1,6 +1,5 @@
 Artículo 36 Bis.- Los Clientes de las Sociedades Financieras Populares que mantengan cuentas de depósito o de inversión a las que se refiere el inciso a) de la fracción I del Artículo 36 de esta Ley, podrán autorizar a terceros para que hagan disposiciones de efectivo con cargo a dichas cuentas. Para ello, las Sociedades Financieras Populares deberán contar con la autorización del titular o titulares de la cuenta.
 Asimismo, los Clientes de las Sociedades Financieras Populares podrán domiciliar el pago de bienes y servicios en las cuentas de depósito referidas en la fracción I del Artículo 36 de esta Ley. Los Clientes podrán autorizar los cargos directamente a la Sociedad Financiera Popular de que se trate o a los proveedores de los bienes o servicios.
-20
 Las Sociedades Financieras Populares podrán cargar a las mencionadas cuentas los importes correspondientes, siempre y cuando:
 I. Cuenten con la autorización del Cliente de que se trate, o
 II. El Cliente autorice directamente al proveedor de bienes o servicios y éste a su vez instruya a la Sociedad Financiera Popular para realizar el cargo respectivo. En este caso, la autorización podrá quedar en poder del proveedor de los bienes o servicios.

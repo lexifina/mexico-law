@@ -1,2 +1,1 @@
 Artículo 46 Bis 19.- Los Organismos de Integración Financiera Rural tendrán por objeto la integración financiera rural mediante la participación de las sociedades financieras comunitarias de conformidad con la composición de las zonas rurales en las que operen.
-35

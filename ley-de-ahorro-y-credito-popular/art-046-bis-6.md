@@ -5,4 +5,3 @@ El capital comunal se conformará con las aportaciones que efectúen sus Socios 
 El capital comunal podrá ser fortalecido mediante fondos públicos o privados que tengan por objeto el fomento de la sustentabilidad financiera de las Sociedades Financieras Comunitarias.
 La distribución de las utilidades de la sociedad se efectuará a prorrata respecto de la serie "O" y de la serie "C". Al respecto, el pago de dividendos a los tenedores de acciones de la serie "O" se efectuará en términos de lo establecido por el artículo 113 de la Ley General de Sociedades Mercantiles. No podrán asignarse dividendos a los tenedores de las acciones de la serie "C", los cuales únicamente se podrán destinar al aumento del propio capital comunal.
 En ningún caso podrá participar en el patrimonio de las Sociedades Financieras Comunitarias, agrupaciones de carácter político partidista.
-31
