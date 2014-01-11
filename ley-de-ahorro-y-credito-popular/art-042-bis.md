@@ -1,0 +1,1 @@
+Artículo 42 Bis.- En ningún caso el capital neto de una Sociedad Financiera Popular podrá ser inferior al capital mínimo previsto para esas sociedades de acuerdo a su Nivel de Operaciones de conformidad con el artículo 36 de esta Ley.

@@ -1,0 +1,1 @@
+Artículo 114 Bis 4.- Será sancionada con prisión de tres a doce años la persona que a sabiendas de que una institución de banca múltiple caerá en el supuesto de extinción de capital a que se refiere el artículo 226 de esta Ley, realice actos que sean declarados nulos de conformidad con el artículo 261 de la presente Ley.

@@ -1,0 +1,2 @@
+Artículo 14 Bis 3.- Los fondos de inversión no podrán emitir acciones de goce ni pactar lo previsto en el artículo 123 de la Ley General de Sociedades Mercantiles.
+Los fondos de inversión podrán mantener acciones en tesorería que serán puestas en circulación en la forma y términos que señale el consejo de administración de la sociedad operadora de fondos de inversión que proporcione sus servicios.

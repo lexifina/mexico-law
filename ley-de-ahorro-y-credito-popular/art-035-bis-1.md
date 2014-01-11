@@ -1,0 +1,10 @@
+Artículo 35 Bis 1.- Para los efectos señalados en los artículos 35 y 35 Bis, se entenderá por:
+I. Parentesco.- al que existe por consanguinidad y afinidad en línea recta en primer grado, y por consanguinidad y afinidad en línea colateral en segundo grado o civil.
+II. Funcionarios.- al director general o el cargo equivalente y a los funcionarios que ocupen cargos con la jerarquía inmediata inferior a la de aquél.
+III. Interés Directo.- cuando el carácter de deudor en la operación con personas relacionadas, lo tenga el cónyuge del consejero o funcionario, o las personas con las que tenga parentesco, o bien, una persona moral respecto de la cual alguna de las personas antes mencionadas, detente directa o indirectamente el control del diez por ciento o más de los títulos representativos de su capital.
+IV. Poder de mando.- La capacidad de hecho de influir de manera decisiva en los acuerdos adoptados en las asambleas de accionistas o sesiones del consejo de administración o en la gestión, conducción y ejecución de los negocios de la Sociedad Financiera Popular de que se trate.
+Se presume que tienen poder de mando en una Sociedad Financiera Popular, salvo prueba en contrario, las personas que se ubiquen en cualquiera de los supuestos siguientes:
+a) Los accionistas que tengan el control de la administración.
+b) Los individuos que tengan vínculos con la Sociedad Financiera Popular o las personas morales que integran el grupo empresarial o consorcio al que aquella pertenezca, a través de cargos vitalicios, honoríficos o con cualquier otro título análogo o semejante a los anteriores.
+c) Las personas que hayan transmitido el control de la Sociedad Financiera Popular bajo cualquier título y de manera gratuita o a un valor inferior al de mercado o contable, en favor de individuos con los que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, el cónyuge, la concubina o el concubinario.
+d) Quienes instruyan a consejeros o directivos relevantes de la Sociedad Financiera Popular, la toma de decisiones o la ejecución de operaciones en la propia Sociedad.

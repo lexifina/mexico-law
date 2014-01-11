@@ -12,9 +12,14 @@ De la Revocación
 SECCIÓN CUARTA
 Del Régimen de Operación Condicionada
 SECCIÓN QUINTA
-Del Comité de Estabilidad Financiera
+Del Comité de Estabilidad Bancaria
+SECCIÓN SEXTA
 CAPITULO II
 De las Instituciones de Banca de Desarrollo
+SECCIÓN PRIMERA
+Disposiciones Generales
+SECCIÓN SEGUNDA
+De la Inclusión, Fomento de la Innovación y Perspectiva de Género
 CAPITULO III
 De las Filiales de Instituciones Financieras del Exterior.
 Capítulo IV
@@ -40,23 +45,25 @@ CAPITULO I
 De las Prohibiciones
 CAPITULO II
 De las Sanciones Administrativas
+Capítulo II Bis
+De los programas de autocorrección
 Capítulo III
 De las Notificaciones
 Capítulo IV
 De los Delitos
 TÍTULO SEXTO
+De la Comisión Nacional Bancaria y de Valores
+Capítulo Único
+De la Inspección y Vigilancia
+TÍTULO SÉPTIMO
 De la Protección de los Intereses del Público
 CAPÍTULO I
 Disposiciones Generales
-Capítulo II
+CAPÍTULO II
 Del Sistema de Protección al Ahorro Bancario
 SECCIÓN PRIMERA
 De la Resolución de las Instituciones de Banca Múltiple
-APARTADO A Disposiciones Comunes
-SECCION SEGUNDA
-TÍTULO SÉPTIMO
-De la Comisión Nacional Bancaria y de Valores
-CAPITULO I
-De su Organización y Funcionamiento
-CAPÍTULO II
-De la Inspección y Vigilancia
+Apartado A Disposiciones Comunes
+SECCIÓN SEGUNDA
+TÍTULO OCTAVO
+De la Evaluación de Desempeño de las Instituciones de Banca Múltiple

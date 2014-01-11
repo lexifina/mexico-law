@@ -1,0 +1,2 @@
+Artículo 86 Bis 6.- Las personas físicas y demás personas morales sujetas a la supervisión de la Comisión podrán someter a la autorización de la propia Comisión un programa de autocorrección cuando en la realización de sus actividades detecten irregularidades o incumplimientos a lo previsto en esta Ley y demás disposiciones aplicables, sujetándose a lo previsto por los artículos 86 Bis 3 a 86 Bis 5 de esta Ley, según resulte aplicable.
+Apartado D Del recurso de revisión

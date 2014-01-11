@@ -1,0 +1,4 @@
+Artículo 14 Bis 9.- El acuerdo por el cual el consejo de administración de la sociedad operadora de fondos de inversión que administre al fondo de inversión, decida el cambio de nacionalidad, colocará al fondo de inversión en estado de disolución y liquidación, en adición a los supuestos previstos en el artículo 229 de la Ley General de Sociedades Mercantiles.
+El fondo de inversión que resuelva cambiar su nacionalidad, deberá solicitar a la Comisión la revocación de su autorización, de acuerdo con lo previsto en el artículo 81 Bis 4 de esta Ley.
+En ningún caso los fondos de inversión podrán acordar su transformación en una sociedad distinta de un fondo de inversión. El acuerdo que, en su caso, contravenga esta previsión será nulo.
+18

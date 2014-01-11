@@ -1,0 +1,1 @@
+Artículo 87 Bis 8.- Las notificaciones que se efectúen mediante oficio entregado por mensajería o por correo certificado, con acuse de recibo, surtirán sus efectos al día hábil siguiente a aquel que como fecha recepción conste en dicho acuse.

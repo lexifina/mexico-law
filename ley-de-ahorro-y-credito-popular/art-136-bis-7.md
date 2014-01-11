@@ -1,0 +1,3 @@
+Artículo 136 Bis 7.- En los casos previstos en los artículos 136 Bis 8 a 143 de esta Ley, se procederá indistintamente a petición de la Secretaría, previa opinión de la Comisión, o bien a petición de la Sociedad de que se trate, o de quien tenga interés jurídico.
+Para determinar el monto de la operación, quebranto o perjuicio patrimonial previstos en este Capítulo, se considerarán como días de salario, el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse el delito de que se trate.
+Lo dispuesto en los artículos citados, no excluye la imposición de las sanciones que conforme a otras leyes fueren aplicables, por la comisión de otro u otros delitos.

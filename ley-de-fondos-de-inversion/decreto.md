@@ -3,4 +3,4 @@ VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitante
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
 DECRETO
 "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
-SE EXPIDE LA LEY DE SOCIEDADES DE INVERSION
+SE EXPIDE LA LEY DE FONDOS DE INVERSIÓN

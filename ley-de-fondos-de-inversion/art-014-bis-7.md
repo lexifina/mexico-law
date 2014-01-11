@@ -1,0 +1,7 @@
+Artículo 14 Bis 7.- Como excepción a lo señalado en el artículo 14 Bis 6 de esta Ley, y en el evento de que se presenten condiciones desordenadas o de alta volatilidad en los mercados financieros, o bien, cuando por las características de los Activos Objeto de Inversión de los fondos de inversión, estos presenten problemas de liquidez o valuación, los propios fondos de inversión podrán escindirse con sujeción a las reglas previstas en este artículo y en el artículo 14 Bis 8 siguiente.
+Los fondos de inversión que se ajusten a lo previsto en este artículo no requerirán de la autorización de la Comisión, y deberán cumplir con las condiciones siguientes:
+I. Acreditar ante la Comisión al momento de informar sobre la escisión que no fue posible obtener el precio actualizado de valuación de los Activos Objeto de Inversión de que se trate;
+II. Los Activos Objeto de Inversión que vayan a destinarse al fondo de inversión escindido, deberán representar como máximo el porcentaje de los activos netos del fondo de inversión escindente que la Comisión determine mediante disposiciones de carácter general;
+III. El responsable de la administración integral de riesgos del fondo de inversión escindente, determine que de no escindir al fondo de inversión, este incurriría en un riesgo de liquidez que impactaría negativamente la valuación o liquidez de otros Activos Objeto de Inversión o a al propio fondo de inversión en su operación general, y
+IV. La escisión del fondo de inversión se realice en protección de los inversionistas del fondo de inversión.
+17

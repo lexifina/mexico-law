@@ -1,0 +1,1 @@
+Artículo 23 Bis 2.- La provisión de servicios adicionales por parte de las Entidades Financieras deberá ser clara, sin provocar de manera engañosa o sorpresiva el consentimiento del Cliente para la aceptación de los servicios y productos.
