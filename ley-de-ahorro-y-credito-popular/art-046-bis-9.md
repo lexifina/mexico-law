@@ -5,7 +5,6 @@ Las anteriores operaciones se podrán realizar con menores de edad, en términos
 II. Otorgar préstamos o créditos a sus Socios;
 III. Transmisión de dinero con sus Socios, siempre que en la realización de tales operaciones se sujeten a las disposiciones aplicables en dicha materia, así como que una de las partes, ya sea el ordenante o el beneficiario, sea Socio de la respectiva Sociedad Financiera Comunitaria;
 IV. Recibir créditos de entidades financieras nacionales o extranjeras, organismos internacionales, Organismos de Integración Financiera Rural, así como instituciones integrantes de la Administración Pública y Federal o Estatal y fideicomisos públicos;
-32
 V. Efectuar la distribución y pago de productos, servicios y programas gubernamentales;
 VI. Constituir depósitos a la vista o a plazo en instituciones de crédito, así como en, Organismos de Integración Financiera Rural, y
 VII. Las demás operaciones necesarias para la realización de las operaciones señaladas en las fracciones I a VI, anteriores.

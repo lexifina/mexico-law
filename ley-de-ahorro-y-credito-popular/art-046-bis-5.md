@@ -6,7 +6,6 @@ IV. El número de socios y número de clientes;
 V. El monto de activos;
 VI. El lugar o lugares donde se llevan a cabo sus operaciones;
 VII. El nombre de sus administradores, así como principales directivos y funcionarios;
-30
 VIII. El nivel de operaciones que corresponda. Tratándose de Sociedades Financieras Comunitarias con Niveles de Operación de I a IV, dicha información deberá proporcionarse una vez que aquéllos sean asignados por la Comisión conforme a esta Ley, y
 IX. Otras anotaciones registrales.
 Las Federaciones deberán actualizar la información del citado registro de manera trimestral, con base en la información que les proporcionen las Sociedades Financieras Comunitarias en términos de lo dispuesto por los Artículos 46 Bis 10 y 118 de la presente Ley.

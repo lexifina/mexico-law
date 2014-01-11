@@ -1,3 +1,2 @@
 Artículo 46 Bis 2.- La Secretaría podrá elaborar los programas sectoriales para el desarrollo de las Sociedades Financieras Comunitarias, de las Federaciones y de los Organismos de Integración Financiera Rural, en el marco de la regulación aplicable, tomando en cuenta los objetivos y criterios establecidos en la presente Ley.
 Al efecto, la Secretaría en el ámbito de su competencia, promoverá la participación del sector de las Sociedades Financieras Comunitarias y de los Organismos de Integración Financiera Rural para facilitar a éstas el acceso a los referidos programas.
-29
