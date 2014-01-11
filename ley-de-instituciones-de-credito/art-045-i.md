@@ -4,4 +4,3 @@ II. En caso que se pretenda convertir la institución en Filial, deberán modifi
 III. (Se deroga)
 IV. Se deroga.
 V. (Se deroga)
-(Se deroga el último párrafo)
