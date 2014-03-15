@@ -1,0 +1,9 @@
+Transitorios
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Segundo. El periodo de recepción de la consulta popular a que se refiere la Ley, en el artículo 13, por única ocasión iniciará a partir del día siguiente a la entrada en vigor del presente Decreto.
+Tercero. Cada una de las Cámaras realizará las adecuaciones necesarias a sus respectivos reglamentos, derivadas del presente Decreto en un plazo no mayor a 180 días, contados a partir de su entrada en vigor.
+Cuarto. El Congreso de la Unión deberá realizar las adecuaciones a la legislación secundaria, derivadas del presente Decreto en un plazo no mayor a 180 días, contados a partir de su entrada en vigor.
+Quinto. Por única ocasión los requisitos relativos al aviso de intención y al formato para la obtención de firmas a los que se refiere esta Ley, no serán aplicables a las peticiones de consultas ciudadanas que hayan sido presentadas al Congreso de la Unión con anterioridad a la entrada en vigor de la presente Ley.
+Sexto. Las referencias que esta Ley hace al Instituto Federal Electoral, se entenderán realizadas al Instituto Nacional Electoral, una vez que éste último quede integrado.
+México, D.F., a 6 de marzo de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Iris Vianey Mendoza Mendoza, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de marzo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
