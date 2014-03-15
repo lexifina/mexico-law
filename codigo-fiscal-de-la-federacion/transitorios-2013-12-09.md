@@ -29,3 +29,11 @@ Tratándose de los créditos fiscales exigibles con anterioridad al 1 de enero d
 La aplicación de la presente fracción no configurará responsabilidad administrativa para servidores públicos encargados de la ejecución y cobro de créditos fiscales, siempre y cuando realicen las gestiones de cobro correspondientes.
 México, D.F., a 29 de octubre de 2013.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas."
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a seis de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+ANEXOS 4, 5, 8, 11, 13, 17 y 18 de la Resolución Miscelánea Fiscal para 2014, publicada el 30 de diciembre de 2013.
+Publicados en el Diario Oficial de la Federación el 3 de enero de 2014
+Anexo 5 de la Resolución Miscelánea Fiscal para 2014
+A. Cantidades actualizadas establecidas en el Código.
+Nota: Se actualizan las cantidades establecidas en los artículos 20, séptimo párrafo; 22-C; 32-A, primer párrafo; 32-H, fracción I, primer párrafo; 59, fracción III, párrafo tercero; 80, fracción II; 82, fracciones X, XI, XVI, XXVI y XXXVI; 84, fracciones IV, incisos b) y c), VI, IX, XV y XVI; 84-B, fracciones VIII, IX, X, XI y XII; 86-B, fracciones I, III y V; 86-H, párrafos primero, segundo y tercero; y 86-J, primer párrafo.
+...
+Atentamente.
+México, D. F., a 18 de diciembre de 2013.- El Jefe del Servicio de Administración Tributaria, Aristóteles Núñez Sánchez.- Rúbrica.
