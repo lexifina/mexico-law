@@ -1,1 +1,1 @@
-Artículo 84-D. A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de $340.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de $1,010.00 por cada una de las mismas.
+Artículo 84-D. A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de $380.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de $1,140.00 por cada una de las mismas.
