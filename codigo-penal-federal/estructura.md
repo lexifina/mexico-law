@@ -97,6 +97,8 @@ CAPITULO V
 Rebelión
 CAPITULO VI
 Terrorismo
+CAPÍTULO VI BIS
+Del Financiamiento al Terrorismo
 CAPITULO VII
 Sabotaje
 CAPITULO VIII
