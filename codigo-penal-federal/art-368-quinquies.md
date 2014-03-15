@@ -1,0 +1,1 @@
+Artículo 368 Quinquies.- Al que cometa el delito de robo de material radiactivo, material nuclear, combustible nuclear, mineral radiactivo o fuente de radiación, se le impondrán de doce a veinte años de prisión y de doce mil a veinte mil días multa.
