@@ -1,6 +1,5 @@
 Artículo 47 Bis. Las Unidades de Manejo para la Conservación de Vida Silvestre de fauna silvestre se sujetarán a las previsiones establecidas en la presente Ley.
 Sin perjuicio de lo anterior, la Secretaría elaborará los términos de referencia y criterios que sirvan de base para la realización de los estudios de población. Dichos estudios serán un requisito para el registro de predios o instalaciones.
 Tratándose de especies en peligro de extinción y amenazadas, el plan de manejo y los estudios de población se realizarán de conformidad a lo dispuesto en el último párrafo del artículo 87 de la presente Ley.
-20
 La Secretaría estará facultada para corroborar la información técnica contenida en el plan de manejo y el estudio de poblaciones de la Unidad de Manejo para la Conservación de Vida Silvestre de fauna silvestre, mediante visitas técnicas que al efecto realice, previa notificación al titular de la unidad registrada.
 Las técnicas y métodos que se empleen para la elaboración de los estudios de población, deberán atender al tipo de ecosistema y a las características biológicas de la especie de interés. En caso de utilizar un método de transectos para la cuantificación de ejemplares, se deberá presentar un método adicional que confirme el resultado.
