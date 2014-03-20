@@ -1,0 +1,1 @@
+Artículo 467 Bis. Al que venda o suministre a menores de edad o incapaces, mediante cualquier forma, substancias que se encuentren comprendidas dentro de los supuestos a que se refieren las fracciones IV y V del artículo 245 de esta Ley, se aplicará de 7 a 15 años de prisión.
