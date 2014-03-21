@@ -1,0 +1,1 @@
+Artículo 63 Ter.- En los casos de los que tenga conocimiento el Consejo y se consideren graves, podrá solicitar a cualquier particular o autoridad la adopción de las medidas precautorias o cautelares necesarias para evitar consecuencias de difícil o imposible reparación; lo anterior, a través del área que proporcione orientación o en la tramitación de los expedientes de queja.

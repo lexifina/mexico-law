@@ -1,0 +1,1 @@
+Artículo 15 Quintus.- Las medidas de inclusión son aquellas disposiciones, de carácter preventivo o correctivo, cuyo objeto es eliminar mecanismos de exclusión o diferenciaciones desventajosas para que todas las personas gocen y ejerzan sus derechos en igualdad de trato.

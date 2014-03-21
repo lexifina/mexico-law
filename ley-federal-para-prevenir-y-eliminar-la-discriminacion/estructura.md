@@ -5,6 +5,8 @@ MEDIDAS PARA PREVENIR LA DISCRIMINACIÓN
 CAPÍTULO III
 MEDIDAS POSITIVAS Y COMPENSATORIAS A FAVOR DE LA IGUALDAD DE OPORTUNIDADES
 CAPÍTULO IV
+DE LAS MEDIDAS DE NIVELACIÓN, MEDIDAS DE INCLUSIÓN Y ACCIONES AFIRMATIVAS
+CAPÍTULO V
 DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
 Sección Primera
 Denominación, Objeto, Domicilio y Patrimonio.
@@ -13,26 +15,35 @@ De las Atribuciones.
 Sección Tercera
 De los Órganos de Administración.
 Sección Cuarta
-De la Asamblea Consultiva.
+De la Junta de Gobierno
 Sección Quinta
-De los Órganos de Vigilancia.
+De la Presidencia
 Sección Sexta
-Prevenciones Generales.
+De la Asamblea Consultiva
 Sección Séptima
-Régimen de Trabajo.
-CAPÍTULO V
-DE LOS PROCEDIMIENTOS
+De los Órganos de Vigilancia
+Sección Octava
+Prevenciones Generales
+Sección Novena
+Régimen de Trabajo
 Sección Primera
 Disposiciones Generales.
 Sección Segunda
 De la Reclamación.
 Sección Tercera
-De la Conciliación.
+De la Sustanciación
 Sección Cuarta
-De la Investigación.
+De la Conciliación
 Sección Quinta
-De la Resolución.
+De la Investigación
+Sección Sexta
+De la Resolución
 Sección Sexta
 Del Procedimiento Conciliatorio entre Particulares.
-CAPÍTULO VI
-DE LAS MEDIDAS ADMINISTRATIVAS PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
+Sección Primera
+De las Medidas Administrativas y de Reparación
+Sección Segunda
+Sección Tercera
+De la Ejecución de las Medidas Administrativas y de Reparación
+Sección Cuarta
+Del Recurso de Revisión
