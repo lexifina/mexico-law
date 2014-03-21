@@ -1,0 +1,1 @@
+Artículo 48 Bis.- Las quejas se tramitarán conforme a lo dispuesto en esta Ley. El procedimiento será breve y sencillo, y se regirá por los principios pro persona, de inmediatez, concentración, eficacia, profesionalismo, buena fe, gratuidad y suplencia de la deficiencia de la queja.
