@@ -1,0 +1,3 @@
+Artículo 65 Bis.- En el caso de que las partes residan fuera del domicilio del Consejo, la conciliación podrá efectuarse por escrito, medios electrónicos u otros, con la intermediación del Consejo.
+En caso de que las partes acepten la conciliación, ya sea en sus comparecencias iniciales, o en cualquier otro momento, dentro de los quince días hábiles siguientes se efectuará la audiencia respectiva, para cuya celebración el Consejo fijará día y hora.
+El Consejo podrá realizar esa conciliación aun sin la presencia de la parte peticionaria o agraviada, siempre y cuando se cuente con la anuencia de cualquiera de éstas.
