@@ -1,0 +1,9 @@
+DECRETO por el que se adicionan y reforman diversas disposiciones de la Ley General de Salud; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley del Seguro Social; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes, y de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+Publicado en el Diario Oficial de la Federación el 2 de abril de 2014
+Artículo Tercero.- Se reforma la fracción II y se adiciona una fracción III, recorriéndose la actual en su orden, al artículo 94 de la Ley del Seguro Social, para quedar como sigue.
+...
+TRANSITORIOS
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+SEGUNDO. Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que las empresas, instituciones, dependencias y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
+México, D.F., a 20 de febrero de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de marzo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
