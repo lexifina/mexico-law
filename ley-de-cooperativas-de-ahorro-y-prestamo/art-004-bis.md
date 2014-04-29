@@ -1,0 +1,1 @@
+Artículo 4 Bis. Los socios deberán acreditar su identidad y ratificar su voluntad de constituir la sociedad cooperativa en términos de lo que al efecto dispone la Ley General de Sociedades Cooperativas, y de ser suyas las firmas o las huellas digitales que obran en el acta constitutiva, exclusivamente ante fedatario público.
