@@ -1,0 +1,13 @@
+DECRETO por el que se reforman los artículos 7, 11 y 19 de la Ley General de la Infraestructura Física Educativa, en Materia de Bebederos Escolares.
+Publicado en el Diario Oficial de la Federación el 7 de mayo de 2014
+Artículo Único. Se reforman los artículos 7, párrafo primero; 11 y 19, fracción XII de la Ley General de la Infraestructura Física Educativa, para quedar como sigue:
+...
+Transitorios
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Segundo. Con fundamento en el artículo 19, fracción I, de la Ley General de la Infraestructura Física Educativa, el Instituto Nacional de la Infraestructura Física Educativa en un plazo no mayor a 180 días, contados a partir del día siguiente a la publicación del presente Decreto, emitirá lineamientos generales en materia de bebederos escolares y calidad de agua para consumo humano en las instalaciones del Sistema Educativo Nacional.
+Tercero. Los planteles educativos particulares instalarán bebederos en cantidad suficiente a su matrícula inscrita en un plazo máximo de 18 meses a partir del día siguiente a la publicación del presente Decreto. El cumplimiento de lo anterior estará supervisado por la autoridad competente.
+Cuarto. El Presupuesto de Egresos de la Federación contemplará, con sujeción a la disponibilidad presupuestaria, una asignación para proveer bebederos con suministro de agua potable en los inmuebles escolares, en términos de los artículos 7 y 11 de la Ley General de la Infraestructura Física Educativa.
+Quinto. La Secretaría de Salud en coordinación con la Secretaría de Educación Pública, emitirán en un plazo de 90 días, los lineamientos previstos en el artículo 11.
+Sexto. El Instituto Nacional de la Infraestructura Física Educativa procurará que las instalaciones del Sistema Educativo Nacional cuenten con la infraestructura de bebederos de agua potable prevista en los artículos 7 y 11 de la Ley General de la Infraestructura Física Educativa, en un plazo máximo de 3 años a partir de la publicación del presente Decreto
+México, D. F., a 20 de marzo de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de mayo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
