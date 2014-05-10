@@ -1,0 +1,11 @@
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Cultura Física y Deporte.
+Publicado en el Diario Oficial de la Federación el 9 de mayo de 2014
+ARTÍCULO ÚNICO.- Se REFORMAN los artículos 2, fracción VII; 142, fracción I; 152, fracción I; se modifica la denominación del Capítulo VII "De las Infracciones, Sanciones y Delitos"; y se ADICIONAN los artículos 5, con las fracciones XI, XII y XIII; 41, con una fracción VIII; 41 Bis; 98 Bis; 139 con los párrafos sexto y séptimo; 140, con las fracciones IX, X y XI, recorriéndose la actual IX para quedar como XII; 151, con una fracción V; 152, con una fracción V; 154 y 155 a la Ley General de Cultura Física y Deporte, para quedar como sigue:
+...
+TRANSITORIOS
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- Las Legislaturas de los Estados y del Distrito Federal, las autoridades municipales y los órganos políticos administrativos en las demarcaciones territoriales del Distrito Federal, deberán adecuar sus disposiciones legales a lo previsto en esta reforma, en un plazo no mayor a 6 meses a partir de la entrada en vigor del presente Decreto.
+TERCERO.- El Ejecutivo Federal deberá expedir las reformas necesarias al Reglamento de esta Ley, en un plazo no mayor a 6 meses a partir de la entrada en vigor del presente Decreto.
+CUARTO.- Las comisiones locales a que alude el último párrafo del artículo 139 de esta Ley deberán quedar instaladas dentro de los 90 días posteriores a la publicación de las reformas al Reglamento.
+México, D.F., a 1 de abril de 2014.- Dip. José González Morfín, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Angelina Carreño Mijares, Secretaria.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a seis de mayo de dos mil catorce.-Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.

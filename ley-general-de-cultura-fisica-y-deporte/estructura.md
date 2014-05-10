@@ -39,4 +39,4 @@ Capítulo V
 Capítulo VI
 De la Prevención de la Violencia en el Deporte
 Capítulo VII
-De las Infracciones y Sanciones
+De las Infracciones, Sanciones y Delitos
