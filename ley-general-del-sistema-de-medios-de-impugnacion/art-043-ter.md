@@ -1,0 +1,3 @@
+Artículo 43 Ter
+1. El recurso de apelación será procedente para impugnar el informe que rinda el Secretario Ejecutivo del Instituto Nacional Electoral a la Cámara solicitante del Congreso de la Unión, relativo al resultado de la revisión del porcentaje de ciudadanos que hayan suscrito la iniciativa ciudadana, atendiendo lo señalado en el artículo 71, fracción IV de la Constitución Política de los Estados Unidos Mexicanos.
+2. El recurso se interpondrá ante el Instituto Nacional Electoral dentro de los tres días siguientes a aquél en que el Presidente de la Cámara notifique el informe al representante de los promoventes de la iniciativa ciudadana.
