@@ -105,6 +105,8 @@ CAPITULO II
 De la nulidad de la votación recibida en casilla
 CAPÍTULO III
 De la nulidad de las elecciones federales
+CAPÍTULO IV
+De la nulidad de las elecciones federales y locales
 LIBRO TERCERO
 TITULO UNICO
 De las reglas particulares
@@ -133,3 +135,9 @@ TITULO UNICO
 De las reglas especiales
 CAPITULO UNICO
 Del trámite, de la sustanciación y de la resolución
+LIBRO SEXTO
+Del Recurso de Revisión del Procedimiento Especial Sancionador
+TÍTULO ÚNICO
+De las Reglas Particulares
+CAPÍTULO ÚNICO
+De la Procedencia y Competencia
