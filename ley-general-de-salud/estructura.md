@@ -39,7 +39,7 @@ Capítulo VI
 Del Fondo de Protección contra Gastos Catastróficos
 Capítulo VII
 Capítulo VIII
-Del Consejo Nacional de Protección Social en Salud
+De la Comisión Nacional de Protección Social en Salud
 Capítulo IX
 Derechos y Obligaciones de los Beneficiarios
 Capítulo X
