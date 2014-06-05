@@ -1,0 +1,14 @@
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General para la Prevención y Gestión Integral de los Residuos, y de la Ley de Caminos, Puentes y Autotransporte Federal.
+Publicado en el Diario Oficial de la Federación el 4 de junio de 2014
+ARTÍCULO SEGUNDO.- Se adicionan un párrafo quinto al artículo 6°. y una fracción II al artículo 17 recorriéndose las subsecuentes en su orden, de la Ley de Caminos, Puentes y Autotransporte Federal, para quedar como sigue:
+...
+TRANSITORIOS
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- En términos de lo establecido por la fracción XXVIII del artículo 7 de la Ley General para la Prevención y Gestión Integral de los Residuos, el Ejecutivo Federal deberá desarrollar una "Estrategia Nacional para la Gestión Integral de Neumáticos Usados".
+TERCERO.- Los responsables de formular los planes de manejo para los residuos que se incluyan en los listados a los que hace referencia el artículo 28, fracción III de la Ley General para la Prevención y Gestión Integral de los Residuos, así como los productores, fabricantes, importadores y distribuidores de neumáticos usados contarán con un plazo no mayor a dos años para formular y someter a consideración de la autoridad correspondiente dichos planes a partir de que sean publicadas las listas.
+CUARTO.- El Ejecutivo Federal deberá publicar la norma oficial mexicana que establezca los criterios de gestión, responsabilidad compartida y valorización para el manejo integral de los neumáticos usados.
+QUINTO.- Las concesiones y permisos otorgados para construir, operar, explotar, conservar y mantener los caminos y puentes federales con anterioridad a la entrada en vigor del presente Decreto continuarán en vigor en los términos y condiciones consignados en los mismos, hasta el término de su vigencia.
+Por lo que se refiere a las concesiones y permisos en trámite se estará a lo dispuesto en la presente Ley de conformidad con las disposiciones aplicables al momento de iniciar dicho trámite.
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+México, D.F., a 29 de abril de 2014.- Dip. Jose Gonzalez Morfin, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Xavier Azuara Zuñiga, Secretario.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de junio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
