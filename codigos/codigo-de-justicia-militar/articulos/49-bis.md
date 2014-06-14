@@ -1,0 +1,19 @@
+(ADICIONADO, D.O.F. 13 DE JUNIO DE 2014)
+ARTICULO 49 BIS.- La Policía Ministerial Militar permanente, actuará bajo la conducción y el mando del Ministerio Público en la investigación de los delitos, tendrá las facultades y obligaciones siguientes:
+I.- Informar inmediatamente al Ministerio Público Militar competente cuando reciba la noticia de un hecho que pueda constituir una conducta delictiva;
+II.- Recopilar y confirmar la información que reciba sobre los hechos denunciados y hacerla constar en un registro destinado a tales fines, en el que se asentarán el día, la hora, el medio por el cual se obtuvo y los datos de los policías que intervinieron;
+III.- Prestar el auxilio que requieran las víctimas u ofendidos y proteger a los testigos;
+IV.- Realizar detenciones en los supuestos que autoriza la Constitución Federal poniendo de inmediato a las personas detenidas a disposición del Agente del Ministerio Público competente. Cuando se trate de delitos contra la disciplina militar los Agentes de la Policía Ministerial Militar estarán facultados para realizar inspecciones personales sobre el detenido y recoger los objetos que tenga en su poder, sujetándose para ello a las reglas que previene el presente Código;
+V.- Levantará un inventario de los objetos señalados en el párrafo anterior en presencia de la persona inspeccionada, que será firmado por ambos y las pondrá a disposición del Agente del Ministerio Público;
+VI.- Reunir toda la información urgente, que pueda ser útil al Agente del Ministerio Público;
+VII.- Cuidar que los rastros e instrumentos del delito sean conservados, preservando el lugar de los hechos. Para este efecto, impedirá el acceso a toda persona ajena a las diligencias de recopilación de información y procederá a su clausura, si se trata de local cerrado, o a su aislamiento, si se trata de lugar abierto. Evitará bajo su estricta responsabilidad que se alteren o borren de cualquier forma los vestigios del hecho o se remuevan los instrumentos usados para llevarlo a cabo, hasta que intervengan el Ministerio Público y peritos. Quedará constancia por escrito en la cadena de custodia de los datos de identificación de los elementos que intervinieron en la protección del mismo;
+VIII.- Entrevistar a los testigos presumiblemente útiles para descubrir la verdad. Las entrevistas se harán constar en un registro de las diligencias policiales efectuadas;
+IX.- Practicar las diligencias orientadas a conocer los hechos y en su caso la individualización física de los autores y partícipes del hecho;
+X.- Recabar los datos personales que sirvan para la identificación del imputado, y
+XI.- Proporcionar seguridad a víctimas, ofendidos o testigos del delito, cuando lo considere necesario el Juez o el Ministerio Público.
+La Policía Ministerial Militar, por ningún motivo podrá realizar de propia autoridad, investigación sobre personas, manipulación y práctica de peritajes sobre los objetos asegurados.
+Cuando para el cumplimiento de estas facultades se requiera una orden judicial, la policía informará al Ministerio Público para que éste la solicite.
+TITULO CUARTO
+De la organización del cuerpo de defensores de oficio
+CAPITULO I
+Disposiciones preliminares

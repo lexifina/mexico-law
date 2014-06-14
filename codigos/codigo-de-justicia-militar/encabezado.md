@@ -1,5 +1,6 @@
 CÓDIGO DE JUSTICIA MILITAR
-Código publicado en la Sección Segunda del Diario Oficial de la Federación el jueves 31 de agosto de 1933.
+N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE JUSTICIA MILITAR, PUBLICADO EN EL D.O.F. DE 13 DE JUNIO DE 2014, LAS DISPOSICIONES RELATIVAS A LOS JUECES DE EJECUCIÓN DE SENTENCIAS ENTRAN EN VIGOR SEIS MESES DESPUÉS DE SU PUBLICACIÓN.
+Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 31 de agosto de 1933.
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 El C. Presidente Substituto Constitucional de los Estados Unidos Mexicanos, se ha servido dirigirme el siguiente Código:
 "ABELARDO L. RODRIGUEZ, Presidente Substituto Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
