@@ -3,6 +3,5 @@ Cuando el nombramiento del liquidador recaiga en personas físicas, deberá obse
 I. No tener litigio pendiente en contra de la sociedad de que se trate, y
 II. No haber desempeñado el cargo de auditor externo de la sociedad de que se trate o de alguna de las empresas que integran el Grupo Empresarial o Consorcio al que esta última pertenezca, durante los doce meses inmediatos anteriores a la fecha del nombramiento.
 Tratándose de personas morales en general, las personas físicas designadas para desempeñar las actividades vinculadas a esta función, deberán cumplir con los requisitos a que se hace referencia en los dos párrafos anteriores.
-75
 El Servicio de Administración y Enajenación de Bienes podrá ejercer el encargo de liquidador con su personal o a través de apoderados que para tal efecto designe. El apoderamiento podrá ser hecho a favor de instituciones de crédito, de casas de bolsa o de personas físicas que cumplan con los requisitos señalados en esta fracción.
 Las instituciones o personas que tengan un interés opuesto al de la sociedad, deberán abstenerse de aceptar el cargo de liquidador manifestando tal circunstancia.
