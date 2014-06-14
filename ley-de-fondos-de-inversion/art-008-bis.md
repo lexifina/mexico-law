@@ -8,7 +8,6 @@ La denominación social se formará libremente, pero será distinta de la de cua
 IV. Su duración, la cual podrá ser indefinida;
 V. El domicilio del fondo el cual deberá ubicarse en territorio nacional;
 VI. El capital mínimo totalmente pagado que deberá mantener, en términos de las disposiciones de carácter general que expida la Comisión, de conformidad con el artículo 14 Bis de esta Ley, y
-7
 VII. Las indicaciones relativas a sus acciones y accionistas contenidas en los artículos 14 Bis a 14 Bis 3 de la presente Ley.
 Los requisitos a que se refieren las fracciones anteriores y las demás reglas que se establezcan en el acta constitutiva sobre la organización y funcionamiento del fondo de inversión constituirán los estatutos del mismo.
 Las modificaciones a los estatutos sociales de los fondos de inversión deberán ser aprobadas por la Comisión.

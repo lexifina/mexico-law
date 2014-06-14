@@ -3,4 +3,3 @@ I. Presentar al consejo de administración, a los accionistas del fondo de inver
 II. Poner a disposición del público en general la información relativa al ejercicio de sus funciones que determine la Comisión, mediante reglas de carácter general. La Comisión deberá tomar en consideración la relevancia de esa información para transparentar al público la solvencia, liquidez y seguridad operativa de los fondos de inversión de que se trate;
 III. Conservar la documentación, información y demás elementos utilizados para desempeñar sus funciones, por un plazo de al menos cinco años. Asimismo, deberán suministrar a la Comisión los informes y demás elementos de juicio en los que se sustente el desempeño de sus funciones de vigilancia, y
 IV. En su caso, convocar a las sesiones del consejo de administración de la operadora que proporcione servicios al fondo de inversión de que se trate.
-34

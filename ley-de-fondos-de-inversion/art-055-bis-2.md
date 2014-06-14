@@ -3,4 +3,3 @@ La solicitud a que hace mención el párrafo anterior deberá hacerse por escrit
 I. Descripción del objeto de la visita, y
 II. Disposiciones legales aplicables al objeto de la solicitud.
 La Comisión podrá solicitar a las autoridades financieras del exterior que realicen visitas en términos de este artículo un informe de los resultados obtenidos.
-55
