@@ -1,5 +1,4 @@
 Artículo 81 Bis 3.- Las sociedades mencionadas en el artículo 81 Bis 1 de esta Ley podrán escindirse ya sea extinguiéndose, en cuyo caso la sociedad escindente dividirá la totalidad o parte de su activo, pasivo y capital social en dos o más partes, que serán aportadas en bloque a otras sociedades de nueva creación; o cuando la sociedad escindente, sin extinguirse, aporte en bloque parte de su activo, pasivo y capital social a otra u otras sociedades de nueva creación.
-70
 La escisión a que se refiere el presente artículo, se efectuará con sujeción a las bases siguientes:
 I. La sociedad escindente presentará a la Comisión el proyecto de acta de asamblea general extraordinaria de accionistas que contengan los acuerdos relativos a su escisión y estados financieros proyectados de las sociedades que resulten de la escisión;
 II. Las acciones de la sociedad que se escinda deberán estar totalmente pagadas;
@@ -13,9 +12,7 @@ d) La determinación de las obligaciones que por virtud de la escisión asuma ca
 e) El proyecto de reformas estatutarias de la sociedad escindente y los proyectos de estatutos de las sociedades escindidas, y
 f) Las bases, procedimientos y mecanismos de protección que serán adoptadas a favor de su clientela o accionistas.
 V. Los acuerdos de la asamblea general de accionistas relativos a la escisión, las actas de asamblea, así como la escritura constitutiva de la escindida, se inscribirán en el Registro Público de Comercio una vez obtenida la autorización a que se refiere el artículo 81 Bis 1. A partir de la fecha en que se inscriban surtirá efectos la escisión. Asimismo, en caso de extinción de la sociedad escindida, deberá solicitarse al Registro Público de comercio la cancelación de la inscripción de los estatutos sociales de dicha sociedad;
-VI. Los acuerdos de escisión adoptados por la asamblea general extraordinaria de accionistas de la sociedad escindente se publicarán en el Diario Oficial de la Federación y en dos periódicos
-71
-de amplia circulación en la plaza en que tenga su domicilio social la escindente, una vez hecha la inscripción en el Registro Público de Comercio;
+VI. Los acuerdos de escisión adoptados por la asamblea general extraordinaria de accionistas de la sociedad escindente se publicarán en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en la plaza en que tenga su domicilio social la escindente, una vez hecha la inscripción en el Registro Público de Comercio;
 VII. Los acreedores de la sociedad escindente podrán oponerse judicialmente a la escisión, dentro de los noventa días naturales siguientes a la fecha de publicación a que se refiere la fracción anterior, con el único objeto de obtener el pago de sus créditos, sin que la oposición suspenda los efectos de esta, y
 VIII. La Comisión podrá requerir la demás documentación e información adicional relacionada para tales efectos.
 La sociedad escindida no se entenderá autorizada para organizarse y operar como sociedad operadora de fondos de inversión, sociedad distribuidora de acciones de fondos de inversión o sociedad valuadora de acciones de fondos de inversión.
