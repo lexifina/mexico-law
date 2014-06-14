@@ -1,2 +1,1 @@
 Artículo 87 Bis 4.- Las notificaciones de visitas de investigación y de la declaración de intervención a que se refiere esta ley se realizarán en un solo acto y conforme a lo previsto en el reglamento a que hace referencia el último párrafo del artículo 87 Bis 2 de esta Ley.
-88

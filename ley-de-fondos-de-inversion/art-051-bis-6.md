@@ -11,7 +11,5 @@ En los contratos de fideicomiso se insertará en forma notoria lo previsto en es
 IV. Actuar como fiduciarias en fideicomisos a través de los cuales se capten, directa o indirectamente, recursos del público mediante cualquier acto causante de pasivo directo o contingente;
 V. Actuar en fideicomisos a través de los cuales se evadan limitaciones o prohibiciones contenidas en las leyes financieras;
 VI. Actuar como fiduciarias en los fideicomisos a que se refiere el segundo párrafo del artículo 88 de esta Ley, y
-VII. Celebrar fideicomisos en los que se administren sumas de dinero que aporten periódicamente grupos de consumidores integrados mediante sistemas de comercialización, destinados a la
-50
-adquisición de determinados bienes o servicios, incluyendo los previstos en la Ley Federal de Protección al Consumidor.
+VII. Celebrar fideicomisos en los que se administren sumas de dinero que aporten periódicamente grupos de consumidores integrados mediante sistemas de comercialización, destinados a la adquisición de determinados bienes o servicios, incluyendo los previstos en la Ley Federal de Protección al Consumidor.
 Cualquier pacto que contravenga lo dispuesto en este artículo será nulo de pleno derecho.

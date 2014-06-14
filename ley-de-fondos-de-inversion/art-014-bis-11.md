@@ -3,9 +3,7 @@ Cuando el nombramiento de liquidador recaiga en personas físicas, deberá obser
 I. No tener litigio pendiente en contra del fondo de inversión o de la sociedad operadora que le preste los servicios de administración de activos;
 II. No haber sido sentenciada por delitos patrimoniales, o inhabilitada para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, o en el sistema financiero mexicano;
 III. No haber sido declarada concursada;
-IV. No haber desempeñado el cargo de auditor externo de la sociedad operadora que le preste los servicios de administración de activos o de alguna de las empresas que integran el Grupo
-19
-Empresarial o Consorcio al que esta última pertenezca, durante los doce meses inmediatos anteriores a la fecha del nombramiento;
+IV. No haber desempeñado el cargo de auditor externo de la sociedad operadora que le preste los servicios de administración de activos o de alguna de las empresas que integran el Grupo Empresarial o Consorcio al que esta última pertenezca, durante los doce meses inmediatos anteriores a la fecha del nombramiento;
 V. Presentar un reporte de crédito especial, conforme a la Ley para Regular las Sociedades de Información Crediticia, proporcionado por sociedades de información crediticia que contenga sus antecedentes de por lo menos cinco años anteriores a la fecha en que se pretende iniciar el cargo, y
 VI. Estar inscritas en el registro que lleva el Instituto Federal de Especialistas de Concursos Mercantiles, o bien contar con la certificación de alguna asociación gremial reconocida como organismo autorregulatorio por la Comisión.
 Tratándose de personas morales en general, las personas físicas designadas para desempeñar las actividades vinculadas a esta función, deberán cumplir con los requisitos a que se hace referencia en este artículo.

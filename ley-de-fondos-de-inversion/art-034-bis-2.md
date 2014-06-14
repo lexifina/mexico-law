@@ -1,6 +1,5 @@
 Artículo 34 Bis 2.- En adición a lo señalado en el artículo 34 Bis 1 de esta Ley, el contralor normativo de las sociedades operadoras de fondos de inversión, estará a cargo respecto de los fondos de inversión que administre la sociedad operadora respectiva, de vigilar lo siguiente:
 I. El debido cumplimiento de lo establecido por los fondos de inversión en sus prospectos de información al público inversionista;
-33
 II. La existencia de los Activos Objeto de Inversión en los que invierta el fondo de inversión, así como verificar la debida aplicación de los recursos de los accionistas a los Activos Objeto de Inversión;
 III. Que la valuación de las acciones representativas del capital social del fondo de inversión al que preste sus servicios, se realice de conformidad con las disposiciones de carácter general que emita la Comisión;
 IV. Que en las operaciones relativas a los Activos Objeto de Inversión de los fondos de inversión a los que preste sus servicios, cualquier ingreso o rendimiento sea reconocido en la contabilidad de dicho fondo, de conformidad con las disposiciones de carácter general que emita la Comisión;

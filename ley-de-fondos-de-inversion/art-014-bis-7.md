@@ -4,4 +4,3 @@ I. Acreditar ante la Comisión al momento de informar sobre la escisión que no 
 II. Los Activos Objeto de Inversión que vayan a destinarse al fondo de inversión escindido, deberán representar como máximo el porcentaje de los activos netos del fondo de inversión escindente que la Comisión determine mediante disposiciones de carácter general;
 III. El responsable de la administración integral de riesgos del fondo de inversión escindente, determine que de no escindir al fondo de inversión, este incurriría en un riesgo de liquidez que impactaría negativamente la valuación o liquidez de otros Activos Objeto de Inversión o a al propio fondo de inversión en su operación general, y
 IV. La escisión del fondo de inversión se realice en protección de los inversionistas del fondo de inversión.
-17
