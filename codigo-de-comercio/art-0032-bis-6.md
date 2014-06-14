@@ -1,1 +1,1 @@
-Artículo 32 bis 6.- Las garantías mobiliarias inscritas de conformidad con la presente Sección, surtirán efectos frente a terceros de conformidad con las leyes respectivas.
+Artículo 32 Bis 6. Las garantías mobiliarias inscritas de conformidad con la presente Sección, surtirán efectos contra terceros y tendrán prelación sobre cualesquiera otras posteriores o anteriores no inscritas.

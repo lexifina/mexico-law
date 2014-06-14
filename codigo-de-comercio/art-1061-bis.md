@@ -1,0 +1,1 @@
+Artículo 1061 Bis. En todos los juicios mercantiles se reconoce como prueba la información generada o comunicada que conste en medios digitales, ópticos o en cualquier otra tecnología. Su valor probatorio se regirá conforme a lo previsto por el artículo 210-A del Código Federal de Procedimientos Civiles.
