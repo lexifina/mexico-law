@@ -1,1 +1,1 @@
-Artículo 228 i.- Los certificados podrán ser amortizados o no serlo.
+Artículo 228 i.- Los certificados podrán ser amortizables o no serlo.

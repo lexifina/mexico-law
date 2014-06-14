@@ -1,5 +1,5 @@
 Artículo 228 n.- El certificado de participación deberá contener:
-I.- Nombre, nacionalidad y domicilio del titular del certificado;
+I.- Nombre, nacionalidad y domicilio del titular del certificado.
 II.- La mención de ser "certificados de participación" y la expresión de si es ordinario o inmobiliario;
 III.- La designación de la sociedad emisora y la firma autógrafa del funcionario de la misma, autorizado para suscribir la emisión correspondiente;
 IV.- La fecha de expedición del título;
