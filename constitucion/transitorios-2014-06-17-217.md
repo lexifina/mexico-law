@@ -1,0 +1,11 @@
+DECRETO por el que se adiciona el artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos.
+Publicado en el Diario Oficial de la Federación el 17 de junio de 2014
+ARTÍCULO ÚNICO.- Se adiciona un octavo (sic DOF 17-06-2014) párrafo, recorriéndose en su orden los subsecuentes, al artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+...
+TRANSITORIOS
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, dispondrán de seis meses para establecer en sus haciendas o códigos financieros la exención de cobro del derecho por el registro de nacimiento y la expedición de la primera copia certificada del acta de nacimiento.
+TERCERO. El Congreso de la Unión en un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto, y previa opinión de las entidades federativas y la autoridad competente en materia de registro nacional de población, deberá realizar las adecuaciones a la ley que determinen las características, diseño y contenido del formato único en materia de registro de población, así como para la expedición de toda acta del registro civil que deberá implementarse a través de mecanismos electrónicos y adoptarse por las propias entidades federativas del país y por las representaciones de México en el exterior.
+CUARTO. La Secretaría de Gobernación a través del Registro Nacional de Población, remitirá al Instituto Nacional Electoral la información recabada por las autoridades locales registrales relativas a los certificados de defunción.
+México, D.F., a 4 de junio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de junio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
