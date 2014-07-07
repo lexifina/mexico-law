@@ -1,6 +1,6 @@
 DECRETO por el que se adiciona el artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 17 de junio de 2014
-ARTÍCULO ÚNICO.- Se adiciona un octavo (sic DOF 17-06-2014) párrafo, recorriéndose en su orden los subsecuentes, al artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+ARTÍCULO ÚNICO.- Se adiciona un octavo párrafo, recorriéndose en su orden los subsecuentes, al artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ...
 TRANSITORIOS
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
