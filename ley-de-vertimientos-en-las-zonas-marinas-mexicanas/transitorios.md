@@ -1,0 +1,7 @@
+ARTÍCULOS TRANSITORIOS
+PRIMERO.- La presente Ley entrará en vigor ciento ochenta días, a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- Los permisos otorgados con anterioridad a la fecha de publicación de la presente Ley, continuarán en vigor hasta el término de su vigencia.
+TERCERO.- Las solicitudes de permisos de vertimientos, que se encuentren en trámite al entrar en vigor la presente Ley, podrán ser reguladas por ésta solo en aquellas fases del trámite que no hayan sido desahogadas.
+CUARTO.- El impacto presupuestal que implique la puesta en operación de la presente Ley, será con cargo al presupuesto autorizado a la Secretaría de Marina, por lo que no requerirá ampliaciones a su presupuesto para el presente ejercicio fiscal y los subsecuentes, hasta cubrir los requerimientos de personal, de gasto de operación, infraestructura, mobiliario y equipo.
+México, D.F., a 13 de diciembre de 2013.- Dip. Ricardo Anaya Cortes, Presidente.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de enero de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
