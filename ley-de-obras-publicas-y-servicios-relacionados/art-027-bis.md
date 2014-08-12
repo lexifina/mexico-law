@@ -1,7 +1,5 @@
 Artículo 27 Bis. En las licitaciones públicas, cuyo monto rebase el equivalente a diez millones de días de salario mínimo general vigente en el Distrito Federal y en aquellos casos que determine la Secretaría de la Función Pública atendiendo al impacto que la contratación tenga en los programas sustantivos de la dependencia o entidad, participarán testigos sociales conforme a lo siguiente:
-I. La Secretaría de la Función Pública tendrá a su cargo el padrón público de testigos sociales, quienes participarán en todas las etapas de los procedimientos de licitación pública, a los que se
-14
-refiere esta Ley, con voz y emitirán un testimonio final que incluirá sus observaciones y en su caso recomendaciones, mismo que tendrá difusión en la página electrónica de cada dependencia o entidad, en CompraNet y se integrará al expediente respectivo.
+I. La Secretaría de la Función Pública tendrá a su cargo el padrón público de testigos sociales, quienes participarán en todas las etapas de los procedimientos de licitación pública, a los que se refiere esta Ley, con voz y emitirán un testimonio final que incluirá sus observaciones y en su caso recomendaciones, mismo que tendrá difusión en la página electrónica de cada dependencia o entidad, en CompraNet y se integrará al expediente respectivo.
 II. Los testigos sociales serán seleccionados mediante convocatoria pública, emitida por la Secretaría de la Función Pública.
 III. La Secretaría de la Función Pública, acreditará como testigos sociales a aquéllas personas que cumplan con los siguientes requisitos:
 a) Ser ciudadano mexicano en ejercicio de sus derechos o extranjero cuya condición migratoria permita la función a desarrollar;
@@ -14,9 +12,9 @@ g) Asistir a los cursos de capacitación que imparte la Secretaría de la Funci�
 h) Presentar manifestación escrita bajo protesta de decir verdad que se abstendrá de participar en contrataciones en las que pudiese existir conflicto de intereses, ya sea porque los licitantes o los servidores públicos que intervienen en las mismas tienen vinculación académica, de negocios o familiar.
 IV. Los testigos sociales tendrán las funciones siguientes:
 a) Proponer a las dependencias, entidades y a la Secretaría de la Función Pública mejoras para fortalecer la transparencia, imparcialidad y las disposiciones legales en materia de obras públicas y servicios relacionados con las mismas;
+15
 b) Dar seguimiento al establecimiento de las acciones que se recomendaron derivadas de su participación en las contrataciones, y
 c) Emitir al final de su participación el testimonio correspondiente del cual entregarán un ejemplar a la Secretaría de la Función Pública. Dicho testimonio deberá ser publicado dentro de los diez días naturales siguientes a su participación en la página de Internet de la dependencia o entidad que corresponda.
-15
 En caso de que el testigo social detecte irregularidades en los procedimientos de contratación, deberá remitir su testimonio al área de quejas del órgano interno de control de la dependencia o entidad convocante y/o a la Comisión de Vigilancia de la Cámara de Diputados del Congreso de la Unión.
 Se podrá exceptuar la participación de los testigos sociales en aquéllos casos en que los procedimientos de contrataciones contengan información clasificada como reservada que pongan en riesgo la seguridad nacional, pública o la defensa nacional en los términos de las disposiciones legales aplicables.
 El Reglamento de esta Ley especificará los montos de la contraprestación al testigo social en función de la importancia y del presupuesto asignado a la contratación.
