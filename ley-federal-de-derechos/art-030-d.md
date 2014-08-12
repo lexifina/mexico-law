@@ -1,1 +1,1 @@
-Artículo 30-D. Por la presentación del examen de evaluación y certificación de la capacidad de los empleados o apoderados de la persona moral que celebren con el público operaciones de promoción o venta de productos de seguros, se pagarán derechos conforme a la cuota de: ... $551.42
+Artículo 30-D. Por la presentación del examen de evaluación y certificación de la capacidad de los empleados o apoderados de la persona moral que celebren con el público operaciones de promoción o venta de productos de seguros, se pagarán derechos conforme a la cuota de: ... $598.29

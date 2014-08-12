@@ -1,7 +1,7 @@
 Artículo 195-W.- Por los servicios relacionados con el servicio militar nacional, se pagarán los siguientes derechos:
-I.- Por el permiso para salir del país ... $168.70
+I.- Por el permiso para salir del país ... $183.04
 II.- (Se deroga).
-III.- Por corrección de los datos base de la cartilla ... $168.70
+III.- Por corrección de los datos base de la cartilla ... $183.04
 IV.- (Se deroga).
-V.- Por expedición de duplicado de cartilla. ... $168.70
-VI.- Por la elaboración de oficios, cuando siendo mayor de 40 años no obtuvo la cartilla del Servicio Militar Nacional ... $331.71
+V.- Por expedición de duplicado de cartilla. ... $183.04
+VI.- Por la elaboración de oficios, cuando siendo mayor de 40 años no obtuvo la cartilla del Servicio Militar Nacional ... $359.91

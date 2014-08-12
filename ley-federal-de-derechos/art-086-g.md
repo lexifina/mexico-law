@@ -1,1 +1,1 @@
-Artículo 86-G. Por cada visita de inspección veterinaria oficial realizada a establecimientos Tipo Inspección Federal para obtener la autorización de exportación de carne y productos cárnicos, se pagará el derecho por inspección veterinaria oficial, conforme a la cuota de ... $1,142.45
+Artículo 86-G. Por cada visita de inspección veterinaria oficial realizada a establecimientos Tipo Inspección Federal para obtener la autorización de exportación de carne y productos cárnicos, se pagará el derecho por inspección veterinaria oficial, conforme a la cuota de ... $1,239.56

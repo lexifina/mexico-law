@@ -1,3 +1,3 @@
-Artículo 197-A.- Por la explotación de la vegetación arbórea en los cauces y zona federal de los ríos, se pagará el derecho de aprovechamiento forestal conforme a la cuota de $127.38 por metro cúbico de rollo de árbol autorizado.
+Artículo 197-A.- Por la explotación de la vegetación arbórea en los cauces y zona federal de los ríos, se pagará el derecho de aprovechamiento forestal conforme a la cuota de $138.21 por metro cúbico de rollo de árbol autorizado.
 El pago del derecho a que este artículo se refiere, se haré previamente al aprovechamiento forestal ante las oficinas que al efecto autorice la Secretaría de Hacienda y Crédito Público.
 Los ingresos que se obtengan por la recaudación de los derechos a que se refiere este artículo, se destinarán a la Comisión Nacional Forestal para los programas de restauración forestal con especies nativas.

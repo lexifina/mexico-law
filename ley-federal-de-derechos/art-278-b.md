@@ -1,7 +1,6 @@
 Artículo 278-B. Para efectos del acreditamiento a que se refiere el artículo 278 de esta Ley, las concentraciones de contaminantes descargados al cuerpo receptor se determinarán trimestralmente, conforme a lo siguiente:
 I. (Se deroga).
-II. (Se deroga primer párrafo).
-El responsable de la descarga realizará el muestreo y análisis de la calidad del agua descargada, en muestras de cada una de sus descargas para verificar las concentraciones de los contaminantes a que se refiere esta Ley.
+II. El responsable de la descarga realizará el muestreo y análisis de la calidad del agua descargada, en muestras de cada una de sus descargas para verificar las concentraciones de los contaminantes a que se refiere esta Ley.
 Los reportes que presente el responsable de la descarga estarán basados en determinaciones analíticas realizadas por un laboratorio acreditado ante la entidad autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua.
 III. En el Procedimiento del Muestreo de las Descargas, se entenderá por:
 a) Muestra Compuesta: La que resulta de mezclar el número de muestras simples, según lo indicado en la tabla de frecuencia de muestreo. Para conformar la muestra compuesta, el volumen de cada una de las muestras simples deberá ser proporcional al caudal de la descarga en el momento de su toma.
@@ -22,7 +21,6 @@ d). Promedio Diario: El valor que resulta del análisis de una muestra compuesta
 e). Promedio Mensual: El valor que resulta de calcular el promedio ponderado en función del caudal, de los valores que resulten del análisis de al menos dos muestras compuestas promedio diario.
 IV.- El muestreo, análisis y reporte de la calidad de las descargas, se efectuará como a continuación se indica:
 a). Método de Muestreo: El método que se deberá llevar a cabo al efectuar la toma de muestras, así como los términos y forma de hacerlas, son los indicados en la Norma Mexicana NMX-AA-003-1980 Aguas Residuales-Muestreo, publicada en el Diario Oficial de la Federación el 25 de Marzo de 1980.
-(Se deroga segundo párrafo).
 b) Frecuencias del Muestreo y Análisis, y del Reporte de Datos: La frecuencia de muestreo y análisis y de reporte será de acuerdo al tamaño de población en el caso de efluentes municipales, y en el caso de descargas no municipales, de acuerdo a la carga de contaminantes, según se indica en las tablas de efluentes municipales y de efluentes no municipales, respectivamente.
 Tabla B. Efluentes Municipales
 Intervalo de población Frecuencia de muestreo y análisis Frecuencia de reporte de datos Mayor que 50,000 habitantes Mensual Trimestral Igual o menor a 50,000 habitantes Trimestral Trimestral
@@ -30,7 +28,6 @@ Tabla C. Efluentes no Municipales
 Demanda Química de Oxígeno Toneladas/día Sólidos Suspendidos Totales Toneladas/día Frecuencia de Muestreo y Análisis Frecuencia de Reporte de Datos Mayor de 3.0 Mayor de 3.0 Mensual Trimestral Igual o menor de 3.0 Igual o menor de
 3.0 Trimestral Trimestral
 Los parámetros a ser considerados en el muestreo y análisis, así como en el reporte de datos son los que se indican en el presente Capítulo.
-(Se deroga último párrafo).
 c) Cálculo de los Valores: En el muestreo y análisis y reporte de datos del parámetro o parámetros requeridos, se debe considerar el valor del promedio mensual de acuerdo a la definición dada en este procedimiento, y debe considerar días hábiles de actividad o producción normal.
 El muestreo y análisis del parámetro o parámetros requeridos en la frecuencia indicada en las tablas de efluentes municipales y de efluentes no municipales, debe considerar:
 1.- Para la frecuencia mensual, el promedio mensual del parámetro o parámetros en el mes.
@@ -38,7 +35,6 @@ El muestreo y análisis del parámetro o parámetros requeridos en la frecuencia
 3. (Se deroga).
 El reporte de los resultados del muestreo y análisis del parámetro o parámetros requeridos, deberá ser hecho en una frecuencia trimestral, conforme a lo señalado en el artículo 283 de esta Ley.
 El reporte del trimestre, para la frecuencia mensual de muestreo y análisis, será el promedio aritmético de los valores que resulten del análisis de cada mes.
-(Se deroga quinto párrafo).
 El cumplimiento de lo anterior, es sin menoscabo de la observancia a las disposiciones legales y normativas aplicables en materia de descargas de aguas residuales a cuerpos de aguas nacionales y bienes públicos inherentes.
 d). Método de Prueba: Para la toma de muestras y la determinación de los valores y concentraciones de los parámetros establecidos en este procedimiento, se deberá aplicar el método de prueba indicado en esta fracción y en las normas oficiales mexicanas y normas mexicanas, correspondientes.
 V. Para cada descarga el contribuyente determinará, conforme al promedio de las muestras tomadas, la concentración promedio de contaminantes en miligramos por litro, conforme al procedimiento de muestreo de descargas establecido en este artículo.

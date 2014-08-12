@@ -1,6 +1,6 @@
 Artículo 195-V.- Por los servicios relacionados con explosivos, sustancias químicas, armas o municiones, se pagarán derechos conforme a las siguientes cuotas:
-I.- Por la expedición de cada permiso general para el transporte especializado de explosivos, sustancias químicas relacionadas con éstos, artificios, armamento o municiones ... $11,896.97
+I.- Por la expedición de cada permiso general para el transporte especializado de explosivos, sustancias químicas relacionadas con éstos, artificios, armamento o municiones ... $12,908.21
 II.- Por el trámite de autorización:
-a).- De libros de compras y ventas a personas físicas o morales con permiso general ... $154.13
-b).- Para cambio de razón social a un permiso general ... $1,775.47
-III.- Por la autorización para modificar un permiso general en cualquiera de sus condiciones, por ubicación, técnica de trabajo u otro motivo que no afecte la clase de producción permitida. ... $11,795.05
+a).- De libros de compras y ventas a personas físicas o morales con permiso general ... $167.23
+b).- Para cambio de razón social a un permiso general ... $1,926.38
+III.- Por la autorización para modificar un permiso general en cualquiera de sus condiciones, por ubicación, técnica de trabajo u otro motivo que no afecte la clase de producción permitida. ... $12,797.63

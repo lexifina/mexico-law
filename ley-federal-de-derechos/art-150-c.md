@@ -1,4 +1,4 @@
 Artículo 150-C. Por los servicios que presta el órgano desconcentrado denominado Servicios a la Navegación en el Espacio Aéreo Mexicano (SENEAM) fuera del horario oficial de operaciones de los aeropuertos, se pagarán derechos conforme a las siguientes cuotas:
-I. Por extensión de horario de los servicios de control de tránsito aéreo, por cada minuto o fracción, conforme a la cuota de ... $11.58
+I. Por extensión de horario de los servicios de control de tránsito aéreo, por cada minuto o fracción, conforme a la cuota de ... $12.56
 II. (Se deroga).
 El derecho a que se refiere este artículo, se deberá calcular y enterar por cada aeronave, inmediatamente posterior a su arribo o de manera previa al despegue de la misma, según corresponda. Asimismo, los contribuyentes con operaciones regulares podrán pagar el derecho mensualmente por cada aeronave dentro de los diez días del mes siguiente a aquél en que se reciban los servicios. Dentro de ese mismo plazo, los contribuyentes deberán presentar ante el SENEAM el documento que contenga el desglose de las operaciones efectuadas en el mes anterior por cada aeronave respecto de la cual se realiza el pago.
