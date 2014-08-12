@@ -33,13 +33,11 @@ De la regionalización del gasto
 CAPÍTULO III
 De la Transparencia e Información sobre el ejercicio del gasto federalizado
 TÍTULO QUINTO
-De la Contabilidad Gubernamental
+De las Transferencias del Fondo Mexicano del Petróleo
 CAPÍTULO I
-De la Valuación del Patrimonio del Estado
+De las Transferencias Ordinarias del Fondo Mexicano del Petróleo
 CAPÍTULO II
-De los Catálogos de Cuentas y del Registro Contable de las Operaciones
-CAPÍTULO III
-De la Formulación de Estados Financieros
+De las Transferencias Extraordinarias del Fondo Mexicano del Petróleo
 TÍTULO SEXTO
 De la Información, Transparencia y Evaluación
 CAPÍTULO I
