@@ -6,4 +6,3 @@ II.- La Secretaría de Hacienda y Crédito Público solicitará un dictamen téc
 III.- El plazo para resolver el recurso será de un mes a partir de la fecha en que la Secretaría de Hacienda y Crédito Público reciba el dictamen a que se refiere la fracción anterior.
 IV.- La resolución podrá ordenar a la Tesorería de la Federación la devolución de las cantidades indebidamente cobradas, con cargo a las participaciones de la entidad. A estas devoluciones les será aplicable lo que al respecto establece el Código Fiscal de la Federación.
 La resolución podrá ser impugnada por los promoventes del recurso ante el Tribunal Federal de Justicia Fiscal y Administrativa y por la entidad afectada ante la Suprema Corte de Justicia de la Nación, en los términos establecidos en el artículo 12 de la presente Ley.
-Quinto párrafo (Se deroga).
