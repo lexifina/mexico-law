@@ -12,8 +12,8 @@ Donde:
 CCiT-1 = Coeficiente de participaciones del municipio i en el año inmediato anterior a aquel para el cual se efectúa el cálculo.
 IPDAiT-1 = Recaudación local de predial y de los derechos de agua en el municipio i en el año inmediato anterior para el cual se efectúa el cálculo.
 IPDAiT-2 = Recaudación local del predial y de los derechos de agua en el municipio i en el segundo año inmediato anterior para el cual se efectúa el cálculo.
-II.- 3.17% del derecho adicional sobre la extracción de petróleo, excluyendo el derecho extraordinario sobre el mismo, a los municipios colindantes con la frontera o litorales por los que se realice materialmente la salida del país de dichos productos.
-Petróleos Mexicanos y sus organismos subsidiarios, por conducto de Petróleos Mexicanos, informará mensualmente a la Secretaría de Hacienda y Crédito Público los montos y municipios a que se refiere el párrafo anterior.
+II.- La transferencia del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo que, en términos del artículo 92 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se realice a los municipios colindantes con la frontera o litorales por los que se realice materialmente la salida del país de los hidrocarburos.
+La Comisión Nacional de Hidrocarburos informará mensualmente a la Secretaría de Hacienda y Crédito Público los montos y municipios a que se refiere el párrafo anterior.
 III.- 1% de la recaudación federal participable, en la siguiente forma:
 a) El 16.8% se destinará a formar un Fondo de Fomento Municipal.
 b) El 83.2% incrementará dicho Fondo de Fomento Municipal y sólo corresponderá a las entidades que se coordinen en materia de derechos, siempre que se ajusten estrictamente a los lineamientos establecidos en el artículo 10-A de esta Ley.
