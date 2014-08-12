@@ -1,1 +1,1 @@
-Artículo 259 Ter. Los registros a que se refieren los artículos 254 último párrafo, 257 Ter último párrafo y 257 Quáter último párrafo, de esta Ley se realizarán conforme a las disposiciones de carácter general que al efecto emita el Servicio de Administración Tributaria.
+Artículo 259 Ter. (Se deroga)

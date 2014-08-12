@@ -1,1 +1,1 @@
-Artículo 61-D. Por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso o autorización, de recuperación y aprovechamiento de gas asociado a los yacimientos de carbón mineral, se pagarán derechos conforme a la cuota de: ... $57,058.03
+Artículo 61-D. (Se deroga)

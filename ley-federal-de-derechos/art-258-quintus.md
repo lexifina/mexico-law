@@ -1,1 +1,1 @@
-Artículo 258 Quintus. Para los efectos de este Capítulo, PEMEX Exploración y Producción deberá contar con sistemas de medición de volúmenes extraídos de petróleo crudo y gas natural, instalados en cada pozo, campo y punto de transferencia de custodia. La Secretaría de Energía a través de la Comisión Nacional de Hidrocarburos emitirá los lineamientos para la medición de los citados volúmenes.
+Artículo 258 Quintus. (Se deroga)
