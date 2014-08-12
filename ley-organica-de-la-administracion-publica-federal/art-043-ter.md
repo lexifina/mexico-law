@@ -1,0 +1,2 @@
+Artículo 43 Ter.- La Administración Pública Centralizada contará con Órganos Reguladores Coordinados en Materia Energética, con personalidad jurídica propia y autonomía técnica y de gestión. Serán creados por ley, misma que establecerá su competencia así como los mecanismos de coordinación con la Secretaría de Energía.
+Los Órganos Reguladores Coordinados en Materia Energética se regirán por las disposiciones aplicables a la Administración Pública Centralizada y el régimen especial que, en su caso, prevea la ley que los regula.
