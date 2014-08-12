@@ -1,0 +1,9 @@
+DECRETO por el que se expide la Ley de los Órganos Reguladores Coordinados en Materia Energética; se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal y, se expide la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos.
+Publicado en el Diario Oficial de la Federación el 11 de agosto de 2014
+ARTÍCULO SEGUNDO. Se reforman los artículos 1o., párrafo segundo; 2o., fracciones I a III; 32 Bis, fracciones III, y XXXII a XXXIV, y 33, fracciones I a III, V a IX, XI, XIII a XIX, XXI, XXII, XXIV y XXV; se adicionan las fracciones XXVI a XXXI del artículo 33, una fracción XXXII al artículo 34 y la actual fracción XXXII pasa a ser la fracción XXXIII, y un artículo 43 Ter, y se deroga la fracción XLI del artículo 32 Bis de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+...
+TRANSITORIOS
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+SEGUNDO. La Cámara de Diputados realizará las previsiones presupuestales necesarias para que las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
+México, D.F., a 31 de julio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Xavier Azuara Zúñiga, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de agosto de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
