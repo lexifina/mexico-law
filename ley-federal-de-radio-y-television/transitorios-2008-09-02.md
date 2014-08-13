@@ -1,4 +1,0 @@
-VOTO concurrente formulado por el señor ministro José Fernando Franco González Salas en la Acción de Inconstitucionalidad 26/2006, promovida por Senadores integrantes de la Quincuagésima Novena Legislatura del Congreso de la Unión, en contra del propio Congreso y del Presidente Constitucional de los Estados Unidos Mexicanos.
-Publicado en el Diario Oficial de la Federación el 2 de septiembre de 2008
-VOTOS particulares que formula la señora Ministra Olga Sánchez Cordero de García Villegas en la Acción de Inconstitucionalidad 26/2006, promovida por Senadores integrantes de la Quincuagésima Novena Legislatura del Congreso de la Unión, en contra del propio Congreso y del Presidente Constitucional de los Estados Unidos Mexicanos.
-Publicados en el Diario Oficial de la Federación el 4 de septiembre de 2008
