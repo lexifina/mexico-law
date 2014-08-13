@@ -1,1 +1,0 @@
-Artículo 17-G. La Comisión valorará, para definir el otorgamiento de la concesión, la congruencia entre el Programa a que se refiere el artículo 17-A de esta ley y los fines expresados por el interesado para utilizar la frecuencia para prestar el servicio de radiodifusión, así como el resultado de la licitación a través de subasta pública.

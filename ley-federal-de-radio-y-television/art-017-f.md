@@ -1,2 +1,0 @@
-Artículo 17-F. Dentro de los 15 días hábiles siguientes a la fecha de recepción, se prevendrá al solicitante de la información faltante o de aquella que no cumpla con los requisitos exigibles, quien tendrá un plazo de hasta 15 días hábiles, a partir de la prevención de la Comisión, para la entrega de la información requerida.
-Si no se hace requerimiento alguno de información dentro del plazo señalado, no se podrá descalificar al solicitante argumentándose falta de información.
