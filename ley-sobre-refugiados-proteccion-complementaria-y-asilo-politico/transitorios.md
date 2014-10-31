@@ -1,7 +1,7 @@
 TRANSITORIOS
 PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 SEGUNDO. Los procedimientos de solicitantes y refugiados que hayan sido iniciados conforme a lo previsto en la Ley General de Población y su reglamento, y que se encuentren pendientes de resolución podrán substanciarse conforme a lo dispuesto por la presente Ley y su reglamento.
-TERCERO. Los refugiados reconocidos anteriormente a la entrada en vigor de la presente Ley podrán solicitar que se les expida el documento migratorio que acredite su legal estancia en el país como refugiado en los términos de la presente Ley y su reglamento.
+TERCERO. Los refugiados reconocidos anteriormente a la entrada en vigor de la presente Ley podrán solicitar que se les expida el documento migratorio que acredite su condición de legal estancia en el país como residente permanente.
 CUARTO. Las secretarías de Gobernación, Educación Pública, Trabajo y Previsión Social, Salud, Relaciones Exteriores y la Procuraduría General de la República realizarán las acciones necesarias para que la implementación del presente Decreto se realice, en su caso, con los recursos aprobados a las mismas, para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán sus presupuestos regularizables.
 QUINTO. El Ejecutivo a través de la Secretaría de Gobernación, contará con un plazo de 180 días naturales para la publicación del reglamento de la presente Ley, en el Diario Oficial de la Federación.
 Artículo Segundo.- ...
