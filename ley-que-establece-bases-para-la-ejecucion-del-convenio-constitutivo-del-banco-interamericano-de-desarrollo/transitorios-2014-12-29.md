@@ -1,0 +1,10 @@
+DECRETO por el que se reforma la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo.
+Publicado en el Diario Oficial de la Federación el 29 de diciembre de 2014
+Artículo Primero.- Se reforma el artículo 12 y se deroga el artículo 2o. de la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo, para quedar como sigue:
+...
+Artículo Segundo.- Se autoriza al Gobierno Federal, para que, por conducto del Banco de México, efectúe la suscripción adicional de 54,925 acciones del Banco Interamericano de Desarrollo, hasta por el equivalente a 662,584,023.46 (seiscientos sesenta y dos millones quinientos ochenta y cuatro mil veintitrés punto cuarenta y seis) dólares de los Estados Unidos de América.
+Artículo Tercero.- Se autoriza al Ejecutivo Federal para actualizar la suscripción adicional de acciones del Banco Interamericano de Desarrollo que a México corresponde hasta por los montos máximos autorizados, de conformidad con lo dispuesto en el Artículo Segundo anterior y para aceptar las enmiendas correspondientes a fin de cumplimentar la citada autorización.
+Transitorio
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+México, D.F., a 4 de diciembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Lucero Saldaña Pérez, Secretaria.- Dip. Fernando Bribiesca Sahagún, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de diciembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
