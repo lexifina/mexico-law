@@ -18,9 +18,9 @@ La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter gen
 La Secretaría de Hacienda y Crédito Público, requerirá a Petróleos Mexicanos la información necesaria para realizar mensualmente las operaciones aritméticas para calcular las tasas aplicables en el mes de que se trate para cada combustible y en cada agencia de ventas, Terminal de Almacenamiento y Reparto de Petróleos Mexicanos y las publicará en el Diario Oficial de la Federación, a más tardar el último día del mes anterior, al mes en que aplicarán las tasas.
 Se continuarán aplicando las tasas publicadas en el mes inmediato anterior hasta en tanto se haga la publicación a que se refiere el párrafo anterior.
 II. Sin perjuicio de lo previsto en la fracción anterior, y en lo dispuesto en el artículo 2o., fracción I, inciso H), se aplicarán las cuotas siguientes:
-a) Gasolina Magna 36 centavos por litro.
-b) Gasolina Premium UBA 43.92 centavos por litro.
-c) Diesel 29.88 centavos por litro.
+a) Gasolina Magna 36.68 centavos por litro.
+b) Gasolina Premium UBA 44.75 centavos por litro.
+c) Diesel 30.44 centavos por litro.
 Los contribuyentes trasladarán en el precio, a quien adquiera gasolinas o diesel, un monto equivalente al impuesto establecido en esta fracción, pero en ningún caso lo harán en forma expresa y por separado.
 Las cuotas a que se refiere este artículo no computarán para el cálculo del impuesto al valor agregado.
 Los recursos que se recauden en términos de esta fracción, se destinarán a las entidades federativas, municipios y demarcaciones territoriales, conforme a lo establecido en la Ley de Coordinación Fiscal.
