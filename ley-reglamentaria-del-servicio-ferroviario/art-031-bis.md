@@ -1,0 +1,2 @@
+Artículo 31 Bis. El Gobierno Federal constituirá el Fondo, que tendrá como objetivo, apoyar el financiamiento de la construcción, mantenimiento y operación de la señalización, los sistemas de alerta y de obstrucción de tráfico automotor y peatonal, cuando el tránsito se realice al interior de zonas urbanas o centros de población, de tal manera que se garantice la seguridad conforme a la normatividad aplicable.
+La Secretaría priorizará y determinará los cruceros que requieran dicha señalización.
