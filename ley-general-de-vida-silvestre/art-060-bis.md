@@ -1,4 +1,5 @@
 Artículo 60 Bis. Ningún ejemplar de mamífero marino, cualquiera que sea la especie podrá ser sujeto de aprovechamiento extractivo, ya sea de subsistencia o comercial, con excepción de la captura que tenga por objeto la investigación científica y la educación superior de instituciones acreditadas.
 El promovente de una autorización para la captura de mamíferos marinos a los que se refiere este artículo, deberá entregar a la autoridad correspondiente un protocolo completo que sustente su solicitud. El resto del trámite quedará sujeto a las disposiciones de la presente Ley y demás ordenamientos aplicables.
 Para el caso de varamientos de mamíferos marinos se procederá siempre a lo determinado en el "Protocolo de atención para varamiento de mamíferos marinos".
+Queda prohibida la utilización de ejemplares de mamíferos marinos en espectáculos itinerantes.
 Ningún ejemplar de primate, cualquiera que sea la especie, podrá ser sujeto de aprovechamiento extractivo, ya sea de subsistencia o comercial. Sólo se podrá autorizar la captura para actividades de restauración, repoblamiento y de reintroducción de dichas especies en su hábitat natural.
