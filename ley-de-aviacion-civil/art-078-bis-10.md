@@ -1,0 +1,1 @@
+Artículo 78 Bis 10. Con el fin de promover la Seguridad operacional, la Secretaría tiene la facultad de concertar acuerdos con los proveedores de servicio respecto a la recopilación, análisis, uso y difusión de información de Seguridad operacional.
