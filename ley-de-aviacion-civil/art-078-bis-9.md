@@ -1,0 +1,1 @@
+Artículo 78 Bis 9. Con el fin de promover la Seguridad operacional, la Secretaría tiene la facultad de concertar acuerdos con el explotador aéreo, el proveedor de servicios aeronáuticos, o el fabricante de equipo aeronáutico, respecto de los sistemas que se implementarán para llevar a cabo la recopilación, análisis, uso y difusión de información de seguridad operacional.

@@ -1,0 +1,1 @@
+Artículo 88 Bis. Por el incumplimiento con lo establecido en esta Ley, su reglamento y demás disposiciones aplicables en relación con la implementación del Sistema de gestión de la seguridad operacional por parte de los proveedores de servicios, les será suspendido o revocado el certificado correspondiente, atendiendo a la gravedad de la infracción.
