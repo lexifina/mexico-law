@@ -1,0 +1,2 @@
+ARTICULO 53 Bis.- Al que introduzca al territorio nacional, saque del país o transfiera la propiedad de bienes culturales, infringiendo las disposiciones legales adoptadas en el país de origen de los mismos, se le impondrá prisión de tres a doce años y multa de dos mil a cuatro mil días de salario mínimo general vigente en el Distrito Federal.
+Los bienes de que se trate serán incautados y quedarán a disposición de las autoridades del país de origen.
