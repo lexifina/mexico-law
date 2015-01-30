@@ -18,7 +18,7 @@ Régimen laboral
 TÍTULO TERCERO
 Ámbito de los Institutos
 Capítulo I
-Investigación 12
+Investigación
 Capítulo II
 Enseñanza
 Capítulo III
