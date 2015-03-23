@@ -1,0 +1,30 @@
+SENTENCIA dictada por el Tribunal Pleno en la Acción de Inconstitucionalidad 2/2014 y Votos Concurrente y Particular formulados por los Ministros José Ramón Cossío Díaz y José Fernando Franco González Salas.
+Publicada en el Diario Oficial de la Federación el 23 de marzo de 2015
+ACCIÓN DE INCONSTITUCIONALIDAD 2/2014.
+PROMOVENTE: PROCURADOR GENERAL DE LA REPÚBLICA.
+PONENTE: MINISTRO JORGE MARIO PARDO REBOLLEDO. SECRETARIA: NÍNIVE ILEANA PENAGOS ROBLES.
+México, Distrito Federal. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, correspondiente al uno de diciembre de dos mil catorce.
+VISTOS para resolver la acción de inconstitucionalidad 2/2014, promovida por el Procurador General de la República, y
+RESULTANDO:
+PRIMERO A QUINTO...
+SEXTO. Efectos de la sentencia. De conformidad con los artículos 41, fracción IV, y 73 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 Constitucional, las sentencias dictadas en acciones de inconstitucionalidad deberán establecer sus alcances y efectos, fijando con precisión, en su caso, los órganos obligados a cumplirla, las normas o actos respecto de los cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda.
+Asimismo, conforme al artículo 45 de la Ley Reglamentaria de la materia, esta sentencia tendrá efectos retroactivos en beneficio de las personas a las que se les haya aplicado el precepto impugnado a partir del cinco de diciembre de dos mil trece, fecha en la que entró en vigor el artículo 467 Bis de la Ley General de Salud; esto al tratarse de una norma en materia penal, en la que regirán los principios generales y disposiciones legales aplicables de esta materia.
+Así, de acuerdo con la parte considerativa de este fallo, se debe declarar la invalidez del artículo 467 Bis, de la Ley General de Salud, publicado en el Periódico Oficial de la Federación el cuatro de diciembre de dos mil trece; en la porción normativa que remite a la fracción IV del artículo 245 de la propia Ley. En la inteligencia de que dichos efectos se surtirán con motivo de la notificación de los puntos resolutivos de este fallo al Congreso de la Unión.
+Por lo expuesto y fundado, se resuelve:
+PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad.
+SEGUNDO. Se declara la invalidez del artículo 467 Bis, de la Ley General de Salud, publicado en el Periódico Oficial de la Federación el cuatro de diciembre de dos mil trece; en la porción normativa que remite a la fracción IV del artículo 245 de la propia Ley, la cual será retroactiva al cinco del citado mes y año, en términos del último considerando de esta sentencia. En la inteligencia de que dichos efectos se surtirán con motivo de la notificación de los puntos resolutivos de este fallo al Congreso de la Unión.
+TERCERO. Publíquese esta sentencia en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+Notifíquese por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido.
+Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
+En relación con el punto resolutivo primero:
+Se aprobó por unanimidad de nueve votos de los señores Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Pérez Dayán y Presidenta en funciones Sánchez Cordero de García Villegas, respecto de los considerandos primero, segundo, tercero y cuarto relativos, respectivamente, a la competencia, a la oportunidad, a la legitimación y a las causas de improcedencia.
+Los señores Ministros Sergio A. Valls Hernández y Presidente Juan N. Silva Meza no asistieron a la sesión de veintisiete de noviembre de dos mil catorce, el primero previo aviso a la Presidencia y el segundo por encontrarse desempeñando una comisión de carácter oficial.
+En relación con el punto resolutivo segundo:
+Se aprobó por mayoría de ocho votos de los señores Ministros Gutiérrez Ortiz Mena, Cossío Díaz en contra de algunas consideraciones, Zaldívar Lelo de Larrea apartándose de las consideraciones alusivas al derecho a la salud, Pardo Rebolledo, Aguilar Morales, Sánchez Cordero de García Villegas, Pérez Dayán y Presidente Silva Meza, respecto del considerando quinto, relativo al estudio de fondo. Los señores Ministros Luna Ramos, por la invalidez exclusiva de la porción normativa que indica "mediante cualquier forma", y Franco González Salas votaron en contra. Los señores Ministros Gutiérrez Ortiz Mena, Cossío Díaz y Aguilar Morales reservaron su derecho de formular sendos votos concurrentes. El señor Ministro Zaldívar Lelo de Larrea anunció voto concurrente. El señor Ministro Franco González Salas anunció voto particular.
+En relación con el punto resolutivo tercero:
+Se aprobó por unanimidad de diez votos de los señores Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Luna Ramos, Franco González Salas, Zaldívar Lelo de Larrea, Pardo Rebolledo, Aguilar Morales, Sánchez Cordero de García Villegas, Pérez Dayán y Presidente Silva Meza.
+El señor Ministro Sergio A. Valls Hernández no asistió a la sesión de primero de diciembre de dos mil catorce previo aviso a la Presidencia.
+El señor Ministro Presidente Silva Meza declaró que el asunto se resolvió en los términos precisados. Doy fe.
+Firman los señores Ministro Presidente y Ministro Ponente, con el Secretario General de Acuerdos que autoriza y da fe.
+El Ministro Presidente, Juan N. Silva Meza.- Rúbrica.- El Ministro Ponente, Jorge Mario Pardo Rebolledo.- Rúbrica.- El Secretario General de Acuerdos, Rafael Coello Cetina.- Rúbrica.
+EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta fotocopia constante de treinta y cinco fojas útiles, concuerda fiel y exactamente con la sentencia de uno de diciembre de dos mil catorce, dictada por el Tribunal Pleno en la acción de inconstitucionalidad 2/2014. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- México, Distrito Federal, a cuatro de marzo de dos mil quince.- Rúbrica.
