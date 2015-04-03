@@ -1,4 +1,4 @@
-Artículo 3 Bis. El Instituto en la definición e instrumentación de la política nacional de juventud a la que hace referencia la fracción II del artículo 3, deberá considerar los siguientes lineamientos:
+Artículo 3 Bis. El Instituto en la definición e instrumentación de la política nacional de juventud a la que hace referencia la fracción II del artículo 3, deberá trabajar en colaboración con la Secretaría de Desarrollo Social, conforme los siguientes lineamientos:
 I. Impulsar el mejoramiento de la calidad de vida de los jóvenes;
 II. Promover una cultura de conocimiento, ejercicio y respeto de los derechos de los jóvenes, en los distintos ámbitos;
 III. Garantizar a los jóvenes el acceso y disfrute de oportunidades en condiciones de equidad.
