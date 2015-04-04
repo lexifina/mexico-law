@@ -1,5 +1,0 @@
-Artículo 109 Bis.- Las instituciones de fianzas podrán ser declaradas en concurso mercantil en los términos de las disposiciones establecidas en el Capítulo III del Título Octavo de la Ley de Concursos Mercantiles, con las modalidades establecidas en el presente Capítulo.
-Sólo podrá demandar la declaración de concurso mercantil de una institución de fianzas la Secretaría de Hacienda y Crédito Público, en términos de las disposiciones aplicables.
-En el concurso mercantil de una institución de fianzas, la Secretaría de Hacienda y Crédito Público tendrá las mismas atribuciones que el referido Capítulo III del Título Octavo de la Ley de Concursos Mercantiles asigna a la Comisión Nacional Bancaria y de Valores.
-El síndico al formular el proyecto de graduación, tendrá en cuenta lo dispuesto al respecto por esta Ley.
-La revocación de la autorización en los términos del artículo 105 de esta Ley, impedirá la declaración de concurso mercantil de la institución de fianzas de que se trate, debiendo procederse a su liquidación administrativa.

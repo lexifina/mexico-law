@@ -1,1 +1,0 @@
-Artículo 114 Bis.- Por reaseguro financiero se entiende el contrato en virtud del cual una empresa de fianzas, en los términos del artículo anterior, realiza una transferencia significativa de responsabilidades asumidas por fianzas en vigor, pactando como parte de la operación la posibilidad de recibir financiamiento del reasegurador o reafianzador.

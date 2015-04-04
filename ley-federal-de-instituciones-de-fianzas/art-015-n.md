@@ -1,5 +1,0 @@
-Artículo 15-N.- Respecto de las Filiales, la Comisión Nacional de Seguros y Fianzas tendrá todas las facultades que le atribuye la presente Ley en relación con las instituciones de fianzas. Cuando las autoridades supervisoras del país de origen de la Institución Financiera del Exterior propietaria de acciones representativas del capital social de una Filial o de una Sociedad Controladora Filial, según sea el caso, deseen realizar visitas de inspección, deberán solicitarlo a la Comisión Nacional de Seguros y Fianzas. A discreción de la misma, las visitas podrán hacerse por su conducto o sin que medie su participación.
-La solicitud a que hace mención el párrafo anterior deberá hacerse por escrito, cuando menos con treinta días naturales de anticipación y deberá acompañarse de lo siguiente:
-I.- Descripción del acto de inspección a ser realizado; y
-II.- Las disposiciones legales pertinentes al acto de inspección objeto de la solicitud.
-A solicitud de la Comisión Nacional de Seguros y Fianzas, las autoridades que realicen la inspección deberán presentarle un informe de los resultados obtenidos.

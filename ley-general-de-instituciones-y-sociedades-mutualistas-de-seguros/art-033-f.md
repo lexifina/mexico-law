@@ -1,1 +1,0 @@
-Artículo 33-F.- Las solicitudes para organizarse y funcionar como Filiales deberán cumplir, además de lo establecido en el artículo 16 y en la fracción I del artículo 29 de esta Ley, lo que establezcan las reglas a las que se refiere el primer párrafo del artículo 33-B.

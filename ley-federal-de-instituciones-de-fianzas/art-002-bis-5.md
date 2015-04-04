@@ -1,1 +1,0 @@
-Artículo 2 Bis-5.- Las disposiciones a que se refieren los Capítulos IV, V y VI del Título III de esta Ley, así como sus artículos 72, 73, 74, 75, 76 y 77, no se les aplicará lo establecido en los artículos 2o. Bis, 2o. Bis-3 y 2o. Bis-4.
