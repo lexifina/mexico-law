@@ -1,1 +1,0 @@
-Artículo 111 Bis.- (Se deroga).

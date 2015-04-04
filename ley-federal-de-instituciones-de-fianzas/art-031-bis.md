@@ -1,1 +1,0 @@
-Artículo 31 Bis.- Las instituciones de fianzas deberán establecer procedimientos para dar seguimiento al cumplimiento que den sus fiados a las obligaciones garantizadas, con el propósito de mantener un adecuado control de los riesgos asumidos y, en su caso, adoptar las medidas preventivas necesarias para salvaguardar su estabilidad y solvencia.

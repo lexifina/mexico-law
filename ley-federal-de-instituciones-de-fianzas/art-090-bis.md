@@ -1,2 +1,0 @@
-Artículo 90 Bis.- Los agentes de fianzas sólo podrán cobrar primas contra recibos oficiales expedidos por las instituciones de fianzas, por lo que les está expresamente prohibido recibir anticipos o pagos de primas con recibos distintos.
-Para todos los efectos legales, los recibos expedidos en papelería oficial de las instituciones de fianzas y que sean firmados por los agentes, hacen prueba plena en contra de las instituciones de fianzas.

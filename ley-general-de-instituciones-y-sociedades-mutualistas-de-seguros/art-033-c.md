@@ -1,2 +1,0 @@
-Artículo 33-C.- Para organizarse y funcionar como Filial se requiere autorización del Gobierno Federal, que compete otorgar discrecionalmente a la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas. Por su naturaleza estas autorizaciones serán intransmisibles.
-Las autorizaciones que al efecto se otorguen, así como sus modificaciones, se publicarán en el Diario Oficial de la Federación.

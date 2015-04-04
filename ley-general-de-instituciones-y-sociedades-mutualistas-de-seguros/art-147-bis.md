@@ -1,1 +1,0 @@
-Artículo 147 BIS.- Los consejeros, funcionarios o comisarios que insten u ordenen a empleados o funcionarios de la institución o sociedad mutualista de seguros a la comisión de los delitos a que se refieren los artículos 143, 145, fracciones II, y V y 146 de esta ley, serán sancionados hasta con una mitad más de las penas previstas en los artículos respectivos.

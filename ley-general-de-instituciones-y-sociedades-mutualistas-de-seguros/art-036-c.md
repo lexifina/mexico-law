@@ -1,1 +1,0 @@
-Artículo 36-C.- Los contratos de seguro en general deberán contener las indicaciones que administrativamente fije la Comisión Nacional de Seguros y Fianzas en protección de los intereses de los contratantes, asegurados o beneficiarios. Con el mismo fin, la citada Comisión podrá establecer cláusulas tipo de uso obligatorio para las diversas especies de contratos de seguro.

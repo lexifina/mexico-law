@@ -1,1 +1,0 @@
-Artículo 64 Bis.- La Secretaría de Hacienda y Crédito Público podrá determinar, mediante disposiciones de carácter general, reglas para la organización y el régimen de inversión de los sistemas de pensiones o jubilaciones que, para el personal de las instituciones de seguros, se establezcan en forma complementaria a los contemplados en las leyes de seguridad social.

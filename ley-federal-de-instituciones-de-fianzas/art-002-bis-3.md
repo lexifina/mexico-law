@@ -1,1 +1,0 @@
-Artículo 2 Bis-3.- Las autoridades administrativas competentes para atender los trámites establecidos en esta Ley, o en las disposiciones que se deriven de la misma, podrán, mediante acuerdos de carácter general publicados en el Diario Oficial de la Federación, disminuir los plazos establecidos en las mismas.
