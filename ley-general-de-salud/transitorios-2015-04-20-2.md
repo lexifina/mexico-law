@@ -1,0 +1,10 @@
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Salud, en materia de Bebidas Alcohólicas.
+Publicado en el Diario Oficial de la Federación el 20 de abril de 2015
+Artículo Único.- Se reforman los artículos 3o., fracción XIX; 184 Bis, primer párrafo; 185, primer párrafo y fracción II; 186, primer párrafo y la denominación del Capítulo II del Título Décimo Primero; se adicionan las fracciones IV y V al artículo 185; los artículos 185 Bis, 185 Bis 1, 185 Bis 2 y 186 Bis; un Capítulo II Bis al Título Décimo Primero, que se denominará "Protección de la Salud de Terceros y de la Sociedad frente al uso nocivo del Alcohol", con los artículos 187 Bis y 187 Bis 1 a la Ley General de Salud, para quedar como sigue:
+...
+Transitorios
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo. Para efectos de lo dispuesto en la fracción II del artículo 187 Bis, la Secretaría de Salud contará con un plazo de 180 días naturales a partir de la entrada en vigor del presente Decreto para emitir las disposiciones que resulten aplicables.
+Tercero. Los gobiernos Federal, de las entidades federativas y de los municipios, desarrollarán de manera coordinada, las políticas públicas previstas en el presente Decreto a partir de los recursos presupuestarios disponibles, para lograr de manera progresiva, el cumplimiento del mismo.
+México, D.F., a 12 de marzo de 2015.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Tomás Torres Mercado, Vicepresidente en funciones de Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Graciela Saldaña Fraire, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a quince de abril de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
