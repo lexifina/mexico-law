@@ -26,6 +26,7 @@ Sección Tercera
 Del Presidente de la Junta de Coordinación Política
 CAPITULO QUINTO
 CAPITULO SEXTO
+De las Comisiones y los Comités
 Sección Primera
 De las Comisiones
 Sección Segunda
@@ -45,6 +46,7 @@ De la Secretaría de Servicios Administrativos y Financieros
 Sección Cuarta
 De otros Organos Técnicos de la Cámara
 Sección Quinta
+Disposiciones Generales
 TITULO TERCERO
 De la Organización y Funcionamiento de la Cámara de Senadores
 CAPITULO PRIMERO
@@ -54,6 +56,7 @@ De la Mesa Directiva
 Sección Primera
 De su integración, duración y elección
 Sección Segunda
+De sus Facultades
 Sección Tercera
 De su Presidente
 Sección Cuarta

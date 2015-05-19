@@ -2,7 +2,6 @@ ARTICULO 34 Bis.
 1. La convocatoria para la designación del Consejero Presidente, de los consejeros electorales y del Contralor General del Instituto Federal Electoral, por lo menos, deberá contener:
 a) El proceso de designación para el que se convoca, los requisitos legales que deben satisfacer los aspirantes y los documentos que deben presentar para acreditarlos;
 b) Las reglas y los plazos para consultar, según el caso, a la ciudadanía o a las instituciones públicas de educación superior;
-16
 c) Las fechas y los plazos de cada una de las etapas del procedimiento de designación, en los términos del artículo 41 Constitucional;
 d) Tratándose de la designación del Contralor General, el órgano o la comisión que se encargará de la integración de los expedientes, revisión de documentos, entrevistas, procesos de evaluación y formulación del dictamen que contenga los candidatos aptos para ser votados por la Cámara. En todo caso deberá convocarse a las instituciones públicas de educación superior, para que realicen sus propuestas;
 e) Tratándose de la designación de los consejeros Presidente y electorales:
