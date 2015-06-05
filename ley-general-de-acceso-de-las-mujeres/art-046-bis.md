@@ -1,4 +1,4 @@
-Artículo 46 Bis. Corresponde a la Secretaría del Trabajo y Previsión Social:
+ARTÍCULO 46 Bis. Corresponde a la Secretaría del Trabajo y Previsión Social:
 I. Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
 II. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
 III. Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
@@ -8,4 +8,4 @@ VI. Tomar medidas y realizar las acciones necesarias, en coordinación con las d
 VII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 VIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa, y
 IX. Las demás previstas para el cumplimiento de la presente ley.
-Sección Séptima. De la Procuraduría General de la República
+Sección Octava. De la Secretaría de Desarrollo Agrario, Territorial y Urbano
