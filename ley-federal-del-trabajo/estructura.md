@@ -125,11 +125,11 @@ Del Servicio Nacional de Empleo
 CAPITULO V
 Inspección del trabajo
 CAPITULO VI
-Comisión nacional de los salarios mínimos
+Comisión Nacional de los Salarios Mínimos
 CAPITULO VII
-Comisiones consultivas de la comisión nacional de los salarios mínimos
+Comisiones Consultivas de la Comisión Nacional de los Salarios Mínimos
 CAPITULO VIII
-Procedimiento ante la comisión nacional de los salarios mínimos
+Procedimiento ante la Comisión Nacional de los Salarios Mínimos
 CAPITULO IX
 CAPITULO X
 Juntas federales de conciliación
@@ -149,35 +149,35 @@ CAPITULO III
 TITULO CATORCE
 Derecho Procesal del Trabajo
 CAPITULO I
-Principios procesales
+Principios Procesales
 Capítulo II
 De la Capacidad, Personalidad y Legitimación
 CAPITULO III
-De las competencias
+De las Competencias
 CAPITULO IV
-De los impedimentos y excusas
+De los Impedimentos y Excusas
 CAPITULO V
-De la actuación de las juntas
+De la Actuación de las Juntas
 CAPITULO VI
-De los términos procesales
+De los Términos Procesales
 CAPITULO VII
-De las notificaciones
+De las Notificaciones
 CAPITULO VIII
-De los exhortos y despachos
+De los Exhortos y Despachos
 CAPITULO IX
-De los incidentes
+De los Incidentes
 CAPITULO X
-De la acumulación
+De la Acumulación
 CAPITULO XI
-De la continuación del proceso y de la caducidad
+De la Continuación del Proceso y de la Caducidad
 CAPITULO XII
-De las pruebas
+De las Pruebas
 Sección Primera
 Reglas Generales
 Sección Segunda
 De la Confesional
 Sección Tercera
-De las Documentales
+De las documentales
 Sección Cuarta
 De la Testimonial
 Sección Quinta
@@ -191,38 +191,38 @@ De la Instrumental
 Sección Novena
 De los Elementos Aportados por los Avances de la Ciencia.
 CAPITULO XIII
-De las resoluciones laborales
+De las Resoluciones Laborales
 CAPITULO XIV
-De la revisión de los actos de ejecución
+De la Revisión de los Actos de Ejecución
 CAPITULO XV
-De las providencias cautelares
+De las Providencias Cautelares
 CAPITULO XVI
-Procedimientos ante las juntas de conciliación
+Procedimientos Ante las Juntas de Conciliación
 CAPITULO XVII
-Procedimiento ordinario ante las juntas de conciliación y arbitraje
+Procedimiento Ordinario Ante las Juntas de Conciliación y Arbitraje
 CAPITULO XVIII
-De los procedimientos especiales
+De los Procedimientos Especiales
 Sección Primera
 Conflictos Individuales de Seguridad Social
 CAPITULO XIX
-Procedimientos de los conflictos colectivos de naturaleza económica
+Procedimientos de los Conflictos Colectivos de Naturaleza Económica
 CAPITULO XX
-Procedimiento de huelga
+Procedimiento de Huelga
 TITULO QUINCE
 Procedimientos de Ejecución
 CAPITULO I
 Sección Primera
 Disposiciones Generales
 Sección Segunda
-Del Procedimiento del Embargo
+Del procedimiento del embargo
 Sección Tercera
 Remates
 CAPITULO II
 Procedimiento de las tercerías y preferencias de crédito
 Sección Primera
-De las Tercerías
+De las tercerías
 Sección Segunda
-De la Preferencia de Créditos
+De la preferencia de créditos
 CAPITULO III
 Procedimientos paraprocesales o voluntarios
 TITULO DIECISEIS
