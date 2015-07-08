@@ -13,7 +13,6 @@ k) Las medidas de seguridad civil y contingencia;
 l) Los mecanismos de vigilancia;
 m) Los métodos de contención a utilizar en caso de alguna emergencia o contingencia;
 n) El tipo de marcaje de los ejemplares por especie, y
-32
 o) Aquellas establecidas en el Reglamento y demás disposiciones que resulten aplicables.
 Previo a la autorización del plan de manejo, la Secretaría, considerando las dimensiones, características, número de especies o ejemplares, estará facultada para constatar físicamente que los predios o instalaciones que manejan vida silvestre en forma confinada, cuenten con el área e infraestructura necesarias para su manejo, así como la capacidad técnica y operativa suficiente para ejecutar los planes de manejo.
 La Secretaría emitirá los requerimientos mínimos necesarios para el manejo de cada especie para su vida en confinamiento.
