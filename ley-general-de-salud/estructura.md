@@ -101,7 +101,7 @@ Programas Contra las Adicciones
 CAPITULO I
 Consejo Nacional Contra las Adicciones
 CAPITULO II
-Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+CAPITULO II BIS
 CAPITULO III
 Programa Contra el Tabaquismo
 CAPITULO IV
@@ -148,6 +148,7 @@ CAPITULO II
 Donación
 CAPITULO III
 Trasplante
+CAPÍTULO III BIS
 CAPITULO IV
 Pérdida de la Vida
 CAPITULO V
