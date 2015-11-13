@@ -1,2 +1,2 @@
-Artículo 329 Bis.- El Centro Nacional de Trasplantes fomentará la cultura de la donación, en coordinación con el Consejo Nacional de Trasplantes y los centros estatales de trasplantes.
+Artículo 329 Bis. El Centro Nacional de Trasplantes fomentará la cultura de la donación para fines de trasplantes, en coordinación con los centros estatales de trasplantes.
 Corresponde a la Secretaría de Salud y a los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias determinar los mecanismos para impulsar el fomento a la cultura de la donación al momento de la realización de trámites públicos o la obtención de documentos oficiales.
