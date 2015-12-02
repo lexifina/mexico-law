@@ -9,12 +9,12 @@ Emigración
 CAPITULO V
 Repatriación
 CAPITULO VI
-Registro nacional de población
+Registro Nacional de Población
 CAPITULO VII
-Registro nacional de ciudadanos y cédula de identidad ciudadana
+Registro Nacional de Ciudadanos y Cédula de Identidad Ciudadana
 CAPITULO VIII
 Sanciones
-CAPITULO IX
+CAPÍTULO IX
 DEL PROCEDIMIENTO MIGRATORIO
 CAPÍTULO X
 DEL PROCEDIMIENTO DE VERIFICACIÓN Y VIGILANCIA
