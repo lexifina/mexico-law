@@ -1,0 +1,27 @@
+Artículo 41 Bis.- A la Secretaría de Cultura corresponde el despacho de los siguientes asuntos:
+I. Elaborar y conducir la política nacional en materia de cultura con la participación que corresponda a otras dependencias y entidades de la Administración Pública Federal;
+II. Conservar, proteger y mantener los monumentos arqueológicos, históricos y artísticos que conforman el patrimonio cultural de la Nación;
+III. Conducir la elaboración del Programa Nacional de Cultura, de conformidad con las disposiciones jurídicas aplicables, así como su implementación y evaluación;
+IV. Coordinar, conforme a las disposiciones jurídicas aplicables, las acciones que realizan las unidades administrativas e instituciones públicas pertenecientes a la Administración Pública Federal centralizada y paraestatal en materias de:
+a) Investigación científica sobre Antropología e Historia relacionada principalmente con la población del país y con la conservación y restauración del patrimonio cultural, arqueológico e histórico, así como el paleontológico; la protección, conservación, restauración y recuperación de ese patrimonio y la promoción y difusión de dichas materias, y
+b) Cultivo, fomento, estímulo, creación, educación profesional, artística y literaria, investigación y difusión de las bellas artes en las ramas de la música, las artes plásticas, las artes dramáticas y la danza, las bellas letras en todos sus géneros y la arquitectura;
+V. Organizar y administrar bibliotecas públicas y museos, exposiciones artísticas, congresos y otros eventos de interés cultural;
+VI. Proponer programas de educación artística a la Secretaría de Educación Pública, que se impartan en las escuelas e institutos oficiales, incorporados o reconocidos para la enseñanza y difusión de las bellas artes y de las artes populares;
+VII. Diseñar estrategias, mecanismos e instrumentos, así como fomentar la elaboración de programas, proyectos y acciones para promover y difundir la cultura, la historia y las artes, así como impulsar la formación de nuevos públicos, en un marco de participación corresponsable de los sectores público, social y privado;
+VIII. Promover los medios para la difusión y desarrollo de la cultura, atendiendo la diversidad cultural en todas sus manifestaciones y expresiones;
+IX. Planear, dirigir y coordinar las tareas relacionadas con las lenguas indígenas, así como fomentar su conservación;
+X. Promover e impulsar la investigación, conservación y promoción de la historia, las tradiciones y el arte popular;
+XI. Fomentar las relaciones de orden cultural con otros países; facilitar la celebración de convenios de intercambio de educandos en las especialidades de las artes y la cultura universal; y definir la proyección de la cultura mexicana en el ámbito internacional, tanto bilateral como multilateral, con la colaboración de la Secretaría de Relaciones Exteriores;
+XII. Promover la producción cinematográfica, de radio y televisión y en la industria editorial temas de interés cultural y artístico y de aquéllas tendientes al mejoramiento cultural y la propiedad del idioma nacional, así como diseñar, promover y proponer directrices culturales y artísticos en dichas producciones;
+XIII. Dirigir y coordinar la administración de las estaciones radiodifusoras y televisoras pertenecientes al Ejecutivo Federal, que transmitan programación con contenido preponderantemente cultural, con exclusión de las que dependan de otras dependencias;
+XIV. Estimular el desarrollo y mejoramiento del teatro en el país, así como organizar concursos para autores, actores y escenógrafos;
+XV. Otorgar becas para que los estudiantes de nacionalidad mexicana puedan realizar investigaciones o completar ciclos de estudios relacionados con las artes en el extranjero;
+XVI. Promover e impulsar, en coordinación con otras dependencias, el uso de las tecnologías de la información y comunicación para la difusión y desarrollo de la cultura, así como de los bienes y servicios culturales que presta el Estado, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa, conforme a las disposiciones aplicables;
+XVII. Ejercer todas las atribuciones que la Ley General de Bienes Nacionales y la Ley Federal sobre Monumentos Arqueológicos, Artísticos e Históricos establecen respecto de monumentos arqueológicos, artísticos e históricos, así como respecto de las zonas de monumentos arqueológicos, artísticos e históricos;
+XVIII. Organizar, controlar y mantener actualizado el registro de la propiedad literaria y artística, así como ejercer las facultades en materia de derechos de autor y conexos de conformidad con lo dispuesto en la Ley Federal del Derecho de Autor;
+XIX. Formular el catálogo del patrimonio histórico nacional;
+XX. Formular y manejar el catálogo de los monumentos nacionales;
+XXI. Organizar, sostener y administrar museos históricos, arqueológicos y artísticos, pinacotecas y galerías, a efecto de cuidar la integridad, mantenimiento y conservación de tesoros históricos y artísticos del patrimonio cultural del país;
+XXII. Establecer Consejos Asesores, de carácter interinstitucional, en los que también podrán participar especialistas en las materias competencia de la Secretaría;
+XXIII. Elaborar y suscribir convenios, acuerdos, bases de coordinación y demás instrumentos jurídicos con órganos públicos o privados, nacionales e internacionales, en asuntos de su competencia, y
+XXIV. Los demás que le fijen expresamente las leyes y reglamentos.
