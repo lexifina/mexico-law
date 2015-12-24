@@ -34,8 +34,6 @@ CAPITULO III
 De los Prestadores de Servicios de Certificación
 CAPITULO IV
 Reconocimiento de Certificados y Firmas Electrónicas Extranjeros
-CAPITULO IV
-De la Sociedad en Comandita Simple
 CAPITULO V
 De la Sociedad Anónima
 CAPITULO VI
