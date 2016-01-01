@@ -1,0 +1,15 @@
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, del Código Fiscal de la Federación y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+Publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015
+LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
+ARTÍCULO OCTAVO.- Se reforma el artículo 93, tercer párrafo de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, para quedar como sigue:
+...
+DISPOSICIONES TRANSITORIAS DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
+ARTÍCULO NOVENO.- De conformidad con el artículo 79 constitucional, la Auditoría Superior de la Federación, revisará de manera directa y suficiente los proyectos de infraestructura de las entidades federativas y los municipios, no incluidos en el proyecto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2016 enviado por el poder Ejecutivo Federal que, en su caso, apruebe la Cámara de Diputados en dicho Presupuesto. Esta revisión deberá realizarse de manera simultánea a la ejecución de los recursos, durante el ejercicio presupuestal correspondiente.
+Lo anterior, con objeto de verificar el cumplimiento de las disposiciones aplicables respecto de los recursos federales que reciban las entidades federativas y municipios que correspondan.
+Para efecto de lo anterior, se destinarán recursos a la Auditoría Superior de la Federación, a través del mecanismo que para tal efecto se establezca en el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2016.
+La Auditoría Superior de la Federación emitirá informes específicos a la Cámara de Diputados y al Senado de la República de la revisión y evaluación correspondiente.
+Para efectos de lo previsto en el presente transitorio, y con fundamento en el artículo 107, fracción I y el artículo 19, fracción II de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Secretaría de Hacienda y Crédito Público deberá incluir en los informes trimestrales, sobre la situación económica, las finanzas públicas y la deuda pública, la información sobre el ejercicio del gasto en los proyectos de infraestructura a los que se refiere el presente artículo; indicando el uso y destino de los recursos asignados.
+Transitorio
+Único. El presente Decreto entrará en vigor el 1 de enero de 2016.
+México, D.F., a 29 de octubre de 2015.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de noviembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
