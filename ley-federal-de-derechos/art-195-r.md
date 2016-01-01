@@ -1,1 +1,1 @@
-Artículo 195-R.- En aquellos casos en que las entidades federativas hayan celebrado Convenio de Colaboración Administrativa en esta materia con la Federación, los ingresos que se obtengan por el cobro de los derechos señalados en el propio Convenio, relativos a esta Sección, se destinarán a la entidad federativa que los recaude para mejorar el ejercicio y desempeño de las facultades legales en materia de planeación, programación, vigilancia de los prestadores de servicios, capacitación, protección y asistencia al turista.
+Artículo 195-R. (Se deroga).

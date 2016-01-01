@@ -101,20 +101,8 @@ Sección Octava
 Otorgamiento de Permisos
 Sección Novena
 Otros Servicios
-CAPITULO IX
-De la Secretaría de Desarrollo Social
-Sección Primera
-De los Parques Nacionales
-Sección Segunda
-De la Zona Marítimo Terrestre
-Sección Tercera
-Servicios de Flora y Fauna
-Sección Cuarta
-Impacto Ambiental
-Sección Quinta
-Prevención y Control de la Contaminación
-Sección Sexta
-Del Registro Público de la Propiedad Federal
+CAPÍTULO IX
+Del Instituto Federal de Telecomunicaciones
 CAPITULO X
 De la Secretaría de Educación Pública
 Sección Primera
@@ -172,7 +160,7 @@ Otros Servicios
 Sección Quinta
 CAPITULO XV
 CAPITULO XVI
-De la Scretaría de Turismo
+De la Secretaría de Turismo
 Sección Unica
 Registro Nacional de Turismo
 CAPITULO XVII

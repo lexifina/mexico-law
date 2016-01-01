@@ -1,1 +1,1 @@
-Artículo 174-M.- (Se deroga).
+Artículo 174-M. El pago de los derechos a que se refiere este capítulo se realizará sin perjuicio del pago de las contraprestaciones que resulten aplicables de conformidad con la Ley Federal de Telecomunicaciones y Radiodifusión y de los derechos por el uso, goce o explotación del espectro radioeléctrico que correspondan.

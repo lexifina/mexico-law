@@ -1,4 +1,1 @@
-Artículo 86-C.- Por los servicios técnicos que soliciten las empresas que realicen actividades en materia de plaguicidas agrícolas o pecuarios, se pagará el derecho de sanidad agropecuaria, conforme a las siguientes cuotas:
-I.- Por el dictamen técnico de efectividad biológica de plaguicidas agrícolas o pecuarios. ... $2,289.62
-II. (Se deroga).
-III. (Se deroga).
+Artículo 86-C. Por la solicitud, análisis y, en su caso, expedición del dictamen técnico de efectividad biológica que presenten las empresas que realicen actividades en materia de plaguicidas agrícolas o pecuarios, o de insumos de nutrición vegetal, se pagará el derecho de sanidad agropecuaria, conforme a la cuota de ... $2,417.45

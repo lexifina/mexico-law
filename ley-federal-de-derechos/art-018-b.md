@@ -1,1 +1,1 @@
-Artículo 18-B. No pagarán los derechos a los que se refiere esta Sección los extranjeros que tengan la característica de refugiado, con base en la legislación nacional y en los tratados internacionales en los que México es parte.
+Artículo 18-B. No pagarán los derechos a los que se refiere esta Sección los extranjeros que obtengan de la Secretaría de Gobernación el reconocimiento de la condición de refugiado o el otorgamiento de protección complementaria, con base en la legislación nacional y en los tratados internacionales en los que México es parte.
