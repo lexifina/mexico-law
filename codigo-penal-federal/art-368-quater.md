@@ -1,11 +1,1 @@
-Artículo 368 Quáter. Se sancionará a quien:
-I. Posea o resguarde de manera ilícita petróleo crudo o hidrocarburos refinados, procesados o sus derivados.
-Cuando la cantidad sea menor de 300 litros y hasta 300 litros, con pena de prisión de seis meses a dos años y de cien a quinientos días multa.
-Cuando la cantidad sea mayor de 300 litros pero menor de 1 000 litros, con pena de prisión de dos a cuatro años y de quinientos a mil días multa.
-En caso de que la cantidad sea igual o mayor a 1 000 litros, con pena de prisión de cuatro a diez años y de mil a doce mil días multa.
-No se aplicará la pena prevista en el segundo párrafo de esta fracción, siempre que se trate de la posesión de hidrocarburos refinados, procesados o sus derivados hasta por la cantidad de 300 litros, cuando el sujeto activo detente la posesión de estos productos con fines de consumo para actividades agropecuarias o pesqueras lícitas dentro de su comunidad.
-II. Enajene o suministre gasolinas o diesel con conocimiento de que está entregando una cantidad inferior desde 1.5 por ciento a la cantidad que aparezca registrada por los instrumentos de medición que se emplean para su enajenación o suministro con pena de prisión de tres a seis años y de quinientos a mil días multa.
-III. Enajene o suministre gas licuado de petróleo mediante estación de Gas L.P., para carburación, con conocimiento de que está entregando una cantidad inferior desde 3.0 por ciento a la cantidad que aparezca registrada por los instrumentos de medición que se emplean para su enajenación o suministro con una pena de prisión de tres a seis años y de quinientos a mil días multa.
-IV. Sustraiga o aproveche petróleo crudo o hidrocarburos refinados, procesados o sus derivados de ductos, equipos o instalaciones de Petróleos Mexicanos, sus organismos subsidiarios o empresas filiales con pena de prisión de ocho a doce años y de mil a doce mil días multa.
-Las sanciones que correspondan en este artículo se aumentarán hasta en una mitad cuando el responsable sea o haya sido trabajador o servidor público de la industria petrolera.
-Las penas que correspondan por los delitos previstos en este artículo, se aumentarán en una mitad más para el trabajador o servidor público que, con motivo de su trabajo, suministre información de las instalaciones, del equipo o de la operación de la industria que resulte útil o pueda auxiliar a la comisión de los delitos de referencia.
+Artículo 368 Quáter. Se deroga.
