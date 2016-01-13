@@ -1,2 +1,1 @@
-Artículo 115 Bis.- Se impondrá sanción de seis a diez años de prisión al comercializador o transportista, de gasolina o diesel que tenga en su poder dichos combustibles, cuando éstos no contengan los trazadores o las demás especificaciones que Petróleos Mexicanos o sus organismos subsidiarios utilicen para la identificación de los productos mencionados.
-Tratándose de gasolina o diesel que estén sujetos a especificaciones de identificación para su comercialización exclusiva en zonas geográficas limitadas, también se aplicará la pena mencionada al comercializador o transportista, que tenga en su poder los combustibles mencionados, fuera de las zonas geográficas limitadas.
+Artículo 115 Bis. Se deroga.
