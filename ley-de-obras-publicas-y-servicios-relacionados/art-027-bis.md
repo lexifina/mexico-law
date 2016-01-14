@@ -12,7 +12,6 @@ g) Asistir a los cursos de capacitación que imparte la Secretaría de la Funci�
 h) Presentar manifestación escrita bajo protesta de decir verdad que se abstendrá de participar en contrataciones en las que pudiese existir conflicto de intereses, ya sea porque los licitantes o los servidores públicos que intervienen en las mismas tienen vinculación académica, de negocios o familiar.
 IV. Los testigos sociales tendrán las funciones siguientes:
 a) Proponer a las dependencias, entidades y a la Secretaría de la Función Pública mejoras para fortalecer la transparencia, imparcialidad y las disposiciones legales en materia de obras públicas y servicios relacionados con las mismas;
-15
 b) Dar seguimiento al establecimiento de las acciones que se recomendaron derivadas de su participación en las contrataciones, y
 c) Emitir al final de su participación el testimonio correspondiente del cual entregarán un ejemplar a la Secretaría de la Función Pública. Dicho testimonio deberá ser publicado dentro de los diez días naturales siguientes a su participación en la página de Internet de la dependencia o entidad que corresponda.
 En caso de que el testigo social detecte irregularidades en los procedimientos de contratación, deberá remitir su testimonio al área de quejas del órgano interno de control de la dependencia o entidad convocante y/o a la Comisión de Vigilancia de la Cámara de Diputados del Congreso de la Unión.
