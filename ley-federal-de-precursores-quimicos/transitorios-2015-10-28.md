@@ -1,0 +1,8 @@
+ACUERDO por el que se adicionan las substancias nitroetano, nitrometano, benzaldehído y cloruro de bencilo, al listado de la clasificación a que se refiere la fracción I del artículo 4, de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos; y se consideran substancias psicotrópicas comprendidas en el artículo 245, fracción V, de la Ley General de Salud.
+Publicado en el Diario Oficial de la Federación el 28 de octubre de 2015
+PRIMERO. Se adicionan al listado de substancias controladas a que se refiere la fracción I, del artículo 4, de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos, las substancias denominadas Nitroetano, Nitrometano, Benzaldehído y Cloruro de Bencilo.
+SEGUNDO. Para los efectos de lo establecido en el artículo 245, fracción V, de la Ley General de Salud, las substancias denominadas Nitroetano, Nitrometano, Benzaldehído y Cloruro de Bencilo, se consideran psicotrópicas, que carecen de valor terapéutico y se utilizan corrientemente en la industria.
+TRANSITORIO
+ÚNICO. El presente Acuerdo entrará en vigor a los 90 días naturales siguientes al día de su publicación en el Diario Oficial de la Federación.
+Así lo aprobaron los CC. Integrantes del Consejo de Salubridad General, que estuvieron presentes durante su 1ª Sesión Extraordinaria 2015, celebrada el día 1 de octubre de 2015.
+México, Distrito Federal, a 7 de octubre de 2015.- La Secretaria de Salud y Presidenta del Consejo de Salubridad General, María de las Mercedes Martha Juan López.- Rúbrica.- El Secretario del Consejo de Salubridad General, Leobardo Carlos Ruíz Pérez.- Rúbrica.
