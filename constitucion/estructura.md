@@ -33,7 +33,7 @@ Capítulo IV
 Del Poder Judicial
 Título Cuarto
 Título Quinto
-De los Estados de la Federación y del Distrito Federal
+De los Estados de la Federación y de la Ciudad de México
 Título Sexto
 Del Trabajo y de la Previsión Social
 Título Séptimo
