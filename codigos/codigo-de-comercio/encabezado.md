@@ -1,5 +1,5 @@
 CÓDIGO DE COMERCIO
-ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA SECRETARÍA DE ECONOMÍA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2015.
+ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA SECRETARÍA DE ECONOMÍA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MARZO DE 2016.
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 El Presidente de la República se ha servido dirigirme el decreto que sigue:
 'PORFIRIO DIAZ, Presidente Constitucional de los Estados Unidos Mexicanos, á sus habitantes, sabed:
