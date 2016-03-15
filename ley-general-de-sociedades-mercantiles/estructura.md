@@ -17,7 +17,7 @@ De la administración de la sociedad
 SECCION CUARTA
 De la vigilancia de la sociedad
 SECCION QUINTA
-De la información financiera
+De la Información Financiera
 SECCION SEXTA
 De las asambleas de accionistas
 CAPITULO VI
@@ -37,4 +37,4 @@ De las sociedades extranjeras
 CAPITULO XIII
 De la asociación en participación
 CAPITULO XIV
-Del registro de las sociedades mercantiles
+De la sociedad por acciones simplificada
