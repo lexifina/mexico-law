@@ -27,13 +27,13 @@ DÉCIMO QUINTO. En tanto se cumple con lo dispuesto en el Párrafo Tercero del A
 2. Público urbano;
 3. Pecuario;
 4. Agrícola;
-5. Uso para la conservación ecológica o uso ambiental;
-6. Generación de energía eléctrica para servicio público;
-7. Industrial;
-8. Acuacultura;
+5. Acuacultura;
+6. Usos para la conservación ecológica o uso ambiental;
+7. Generación de energía eléctrica para servicio público;
+8. Industrial;
 9. Generación de energía eléctrica para servicio privado;
 10. Lavado y entarquinamiento de terrenos;
-11. Uso para turismo, recreación y fines terapéuticos;
+11. Usos para turismo, recreación y fines terapéuticos;
 12. Uso múltiple, y
 13. Otros.
 Lo anterior se aplicará sin perjuicio de lo dispuesto en el Artículo 29 BIS 5 y en el Título Quinto, de esta Ley.
