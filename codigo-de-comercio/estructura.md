@@ -28,6 +28,8 @@ TITULO SEGUNDO
 De Comercio Electrónico
 CAPITULO I
 De los Mensajes de Datos
+CAPÍTULO I BIS
+De la Digitalización
 CAPITULO II
 De las Firmas
 CAPITULO III
