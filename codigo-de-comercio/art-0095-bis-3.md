@@ -1,0 +1,1 @@
+Artículo 95 bis 3.- En el caso de documentos digitalizados o almacenados por prestadores de servicios de certificación, se necesitará que éstos cuenten con acreditación para realizar sus actividades a que hace referencia el artículo 102 de este Código.
