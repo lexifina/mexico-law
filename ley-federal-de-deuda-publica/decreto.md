@@ -3,4 +3,4 @@ JOSE LOPEZ PORTILLO, Presidente Constitucional de los Estados Unidos Mexicanos, 
 Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente
 DECRETO:
 "El Congreso de los Estados Unidos Mexicanos, decreta:
-LA LEY GENERAL DE DEUDA PUBLICA
+LA LEY FEDERAL DE DEUDA PUBLICA
