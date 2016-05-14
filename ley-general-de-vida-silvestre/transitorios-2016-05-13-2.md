@@ -1,0 +1,8 @@
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a once de mayo de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica. DECRETO por el que se reforman y adicionan los artículos 53, 54, 55, 122 y 127 de la Ley General de Vida Silvestre.
+Publicado en el Diario Oficial de la Federación el 13 de mayo de 2016
+Artículo Único.- Se reforma el artículo 55 y la fracción II del artículo 127 y se adicionan un último párrafo al artículo 53; un último párrafo al artículo 54 y una fracción XXII Bis al artículo 122 de la Ley General de Vida Silvestre, para quedar como sigue:
+...
+Transitorio
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Ciudad de México, a 14 de abril de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a once de mayo de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
