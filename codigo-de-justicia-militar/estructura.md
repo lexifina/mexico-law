@@ -6,12 +6,18 @@ CAPITULO I
 Disposiciones preliminares
 CAPITULO II
 Del Supremo Tribunal Militar
+CAPITULO II BIS
+De los Tribunales Militares de Juicio Oral
 CAPITULO III
 De los consejos de guerra ordinarios
 CAPITULO IV
 De los consejos de guerra extraordinarios
 CAPITULO V
 De los jueces
+CAPITULO V BIS
+De los Juzgados Militares de Control
+CAPITULO V TER
+De los Juzgados Militares de Ejecución de Sentencias
 TITULO SEGUNDO
 De los auxiliares de la administración de justicia militar
 CAPITULO I
@@ -20,6 +26,8 @@ CAPITULO II
 Del Cuerpo Médico Legal Militar
 CAPITULO III
 Del archivo judicial y biblioteca
+CAPITULO III BIS
+De la Coordinación de Servicios Periciales y Ciencias Forenses.
 TITULO TERCERO
 De la organización del Ministerio Público
 CAPITULO I
@@ -29,19 +37,20 @@ Del Ministerio Público
 CAPITULO III
 Del Laboratorio Científico de Investigaciones
 CAPITULO IV
-De la policía judicial
+Policía Ministerial Militar
 TITULO CUARTO
-De la organización del cuerpo de defensores de oficio
+De la organización de la Defensoría de Oficio Militar
 CAPITULO I
 Disposiciones preliminares
 CAPITULO II
-Del cuerpo de defensores de oficio
+De la Defensoría de Oficio Militar
 TITULO QUINTO
 De la competencia
 CAPITULO I
 Disposiciones preliminares
 CAPITULO II
 Supremo Tribunal Militar y secretarios
+CAPITULO II BIS
 CAPITULO III
 Consejos de guerra
 CAPITULO IV
@@ -49,7 +58,7 @@ Jueces y secretarios
 CAPITULO V
 Ministerio Público
 CAPITULO VI
-Cuerpo de defensores de oficio
+Defensoría de Oficio Militar
 TITULO SEXTO
 Prevenciones generales
 LIBRO SEGUNDO
