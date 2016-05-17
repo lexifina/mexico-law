@@ -1,0 +1,2 @@
+Artículo 71 Bis. Los Tribunales Militares de Juicio Oral, presenciaran en su totalidad la audiencia de juicio oral y en su caso la de individualización de sanciones, deliberando para emitir la sentencia respectiva, explicando su contenido y alcances.
+Los jueces integrantes estarán obligados a guardar el secreto profesional con respecto a la información reservada y confidencial que hayan obtenido en el desempeño de sus funciones, a menos que se trate de audiencias públicas.
