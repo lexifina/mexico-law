@@ -1,0 +1,3 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]
+(ADICIONADO, D.O.F. 16 DE MAYO DE 2016)
+ARTICULO 35 TER.- Los Peritos Militares deberán poseer título oficial en la materia relativa al punto sobre el cual dictaminarán o documentos oficiales que amparen su especialidad y no tener impedimentos para el ejercicio profesional, siempre que la ciencia, el arte, la técnica o el oficio sobre la que verse la pericia en cuestión estén reglamentadas, a menos que se trate de persona de idoneidad manifiesta en una materia específica.
