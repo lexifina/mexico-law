@@ -1,0 +1,6 @@
+FE de erratas al Decreto por el que se reforma el artículo 230 de la Ley Federal de Telecomunicaciones y Radiodifusión, publicado el 1 de junio de 2016.
+Publicada en el Diario Oficial de la Federación el 9 de junio de 2016
+En la Primera Sección, página 50, dice:
+Artículo 230. En sus transmisiones, las estaciones radiodifusoras de los concesionarios podrán hacer uso de cualquiera de las leguas nacionales de conformidad...
+Debe decir:
+Artículo 230. En sus transmisiones, las estaciones radiodifusoras de los concesionarios podrán hacer uso de cualquiera de las lenguas nacionales de conformidad...
