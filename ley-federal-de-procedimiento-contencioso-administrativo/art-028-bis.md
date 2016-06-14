@@ -1,0 +1,6 @@
+ARTÍCULO 28 Bis. Las medidas cautelares positivas y la suspensión de la ejecución del acto impugnado podrán quedar sin efecto si la contraparte exhibe contragarantía para indemnizar los daños y perjuicios que pudieran causarse a la parte actora. Además la contragarantía deberá cubrir los costos de la garantía que hubiese otorgado la parte actora, la cual comprenderá, entre otros aspectos, los siguientes:
+I. Los gastos o primas pagados, conforme a la ley, a la empresa legalmente autorizada que haya otorgado la garantía;
+II. Los gastos legales de la escritura respectiva y su registro, así como los de cancelación y su registro, cuando la parte actora hubiere otorgado garantía hipotecaria;
+III. Los gastos legales acreditados para constituir el depósito; y/o
+IV. Los gastos efectivamente erogados para constituir la garantía, siempre que estén debidamente comprobados con la documentación correspondiente.
+No se admitirá la contragarantía si de ejecutarse el acto impugnado o de no concederse la medida cautelar positiva queda sin materia el juicio o cuando resulte en extremo difícil restituir las cosas al estado que guardaban antes del inicio del juicio, lo cual deberá ser motivado por el Magistrado Instructor.
