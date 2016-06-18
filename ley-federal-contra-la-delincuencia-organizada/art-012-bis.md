@@ -1,0 +1,2 @@
+Artículo 12 Bis.- La petición de arraigo o su ampliación deberá ser resuelta por la autoridad judicial de manera inmediata por cualquier medio que garantice su autenticidad, o en audiencia privada con la sola comparecencia del agente del Ministerio Público de la Federación, en un plazo que no exceda de las seis horas siguientes a que se haya recibido.
+En la solicitud, se deberán expresar las modalidades de lugar, tiempo, forma, así como las autoridades que lo ejecutarán.

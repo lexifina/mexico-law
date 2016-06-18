@@ -1,0 +1,1 @@
+Artículo 11 Quáter.- El agente del Ministerio Público de la Federación podrá retener al imputado hasta por cuarenta y ocho horas, plazo en el que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial; este plazo podrá duplicarse en términos de lo establecido por el artículo 16 Constitucional.

@@ -1,0 +1,1 @@
+Artículo 2o. Ter.- También se sancionará con las penas contenidas en el artículo 4o. de esta Ley a quien a sabiendas de la finalidad y actividad delictiva general de una organización criminal, participe intencional y activamente en sus actividades ilícitas u otras de distinta naturaleza cuando conozca que con su participación contribuye al logro de la finalidad delictiva.
