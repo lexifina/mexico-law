@@ -1,2 +1,2 @@
 Artículo 50 Bis.- Cuando la sentencia determine restricción de libertad o derechos, o suspensión condicional de la ejecución de la sentencia, el juez dispondrá la vigilancia de la autoridad sobre el sentenciado, que tendrá la misma duración que la correspondiente a la sanción impuesta.
-La vigilancia consistirá en ejercer sobre el sentenciado observación y orientación de su conducta por personal especializado dependiente de la autoridad ejecutora, para la readaptación social del reo y la protección de la comunidad.
+La vigilancia consistirá en ejercer sobre el sentenciado observación y orientación de su conducta por personal especializado dependiente de la autoridad ejecutora, para la reinserción social.
