@@ -1,0 +1,1 @@
+Artículo 12 Quintus.- El agente del Ministerio Público de la Federación, notificará la resolución a la persona sujeta al arraigo así como a su defensor. De la misma forma procederá al fenecimiento de la medida.
