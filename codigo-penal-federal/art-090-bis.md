@@ -1,1 +1,1 @@
-Artículo 90 Bis.- El Órgano Administrativo Desconcentrado Prevención y Readaptación Social, de la Secretaría de Seguridad Pública y aquellas autoridades que participen en la fase de ejecución de sentencias remitirán un informe al Sistema Nacional de Seguridad Pública en forma periódica en el que especificará el número de sentenciados del orden federal, las penas impuestas, el número de expedientes beneficiados con libertad anticipada o condena condicional, y el número de acciones de la autoridad para supervisar su debida ejecución.
+Artículo 90 Bis.- Se deroga.
