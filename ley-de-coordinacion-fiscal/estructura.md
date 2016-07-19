@@ -7,5 +7,5 @@ CAPITULO III
 De la Colaboración Administrativa entre las Entidades y la Federación
 CAPITULO IV
 De los Organismos en Materia de Coordinación
-CAPITULO V
+CAPÍTULO V
 De los Fondos de Aportaciones Federales
