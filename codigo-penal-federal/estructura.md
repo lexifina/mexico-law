@@ -60,9 +60,9 @@ CAPITULO IV
 Condena condicional
 CAPITULO V
 TITULO QUINTO
-Extinción de la Responsabilidad Penal
+De las Causas de Extinción de la Acción Penal
 CAPITULO I
-Muerte del delincuente
+Muerte del imputado o sentenciado
 CAPITULO II
 Amnistía
 CAPITULO III
@@ -76,7 +76,7 @@ Prescripción
 CAPITULO VII
 Cumplimiento de la pena o medida de seguridad
 CAPITULO VIII
-Vigencia y aplicación de una nueva ley más favorable
+Supresión del tipo penal
 CAPITULO IX
 CAPITULO X
 Extinción de las medidas de tratamiento de inimputables
@@ -179,10 +179,10 @@ Revelación de secretos
 Capitulo II
 Acceso ilícito a sistemas y equipos de informática
 TITULO DECIMO
-Delitos Cometidos por Servidores Públicos
+Delitos por hechos de corrupción
 CAPITULO I
 CAPITULO II
-Ejercicio indebido de servicio público
+Ejercicio ilícito de servicio público
 CAPITULO III
 Abuso de autoridad
 CAPITULO III BIS
@@ -190,7 +190,7 @@ Desaparición forzada de personas
 CAPITULO IV
 Coalición de servidores públicos
 CAPITULO V
-Uso indebido de atribuciones y facultades
+Uso ilícito de atribuciones y facultades
 CAPITULO VI
 Concusión
 CAPITULO VII
