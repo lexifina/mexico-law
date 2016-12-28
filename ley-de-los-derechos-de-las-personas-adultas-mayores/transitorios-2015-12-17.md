@@ -1,5 +1,5 @@
 DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, así como de otras leyes para crear la Secretaría de Cultura.
-Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2012
+Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015
 ARTÍCULO DÉCIMO QUINTO.- Se REFORMAN los artículos 23, fracción III y 30, incisos i. y j., se ADICIONAN el artículo 17 Bis, y el inciso k del artículo 30, y se DEROGAN las fracciones IV, V, VI y VII del artículo 17 de la Ley de los Derechos de las Personas Adultas Mayores, para quedar como sigue:
 ...
 TRANSITORIOS
