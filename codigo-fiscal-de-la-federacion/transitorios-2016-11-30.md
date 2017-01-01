@@ -1,0 +1,15 @@
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto al Valor Agregado, del Código Fiscal de la Federación y de la Ley Federal del Impuesto sobre Automóviles Nuevos.
+Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2016
+CÓDIGO FISCAL DE LA FEDERACIÓN
+Artículo Quinto.- Se reforman los artículos 27, segundo y octavo párrafos; 32-A, quinto párrafo; 32 - H, primer párrafo; 42, primer párrafo en su encabezado y fracción V; 53-B, fracciones III y IV; 69-F; 81, fracción XXXIX, y 82, fracción XXXVI; se adicionan los artículos 17-F, con un segundo párrafo; 17-L; 29 - A, con un cuarto y quinto párrafos; 31, con un décimo quinto y décimo sexto párrafos; 32-I; 53-B, con un último párrafo; 67, primer párrafo con una fracción V; 81, con las fracciones XLII, XLIII y XLIV, y 82, con las fracciones XXXIX y XL, y se deroga el artículo 53-B, primer párrafo, fracción I, segundo párrafo, y segundo párrafo del mismo, del Código Fiscal de la Federación, para quedar como sigue:
+...
+DISPOSICIONES TRANSITORIAS DEL CÓDIGO FISCAL DE LA FEDERACIÓN
+Artículo Sexto.- En relación con las modificaciones a las que se refiere el Artículo Quinto de este Decreto, se estará a lo siguiente:
+I. La adición de los párrafos cuarto y quinto del artículo 29-A del Código Fiscal de la Federación, entrará en vigor el 1 de mayo de 2017.
+II. La declaración informativa de situación fiscal de los contribuyentes correspondiente al ejercicio fiscal de 2016, a que se refiere el artículo 32-H del Código Fiscal de la Federación vigente hasta el 31 de diciembre de 2016, deberá presentarse conforme a las disposiciones vigentes hasta dicha fecha.
+III. El Servicio de Administración Tributaria mediante reglas de carácter general, deberá emitir un sistema simplificado para llevar los registros contables de las personas físicas que obtengan ingresos por actividades agrícolas, ganaderas, silvícolas o pesqueras, cuyos ingresos no excedan de 16 veces el valor anual de la Unidad de Medida y Actualización y que los ingresos por su actividad primaria representen cuando menos el 25% de sus ingresos totales en el ejercicio, en sustitución de la obligación de llevar contabilidad conforme a los sistemas contables que establece el Código Fiscal de la Federación y su Reglamento.
+...
+Transitorio
+Único. El presente Decreto entrará en vigor el 1 de enero de 2017.
+Ciudad de México, a 26 de octubre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Pablo Escudero Morales, Presidente.- Dip. Raúl Domínguez Rex, Secretario.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiocho de noviembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
