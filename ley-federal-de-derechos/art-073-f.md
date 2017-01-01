@@ -1,2 +1,1 @@
-Artículo 73-F.- Por la autorización para el uso de hologramas con que marcarán las obras o instalaciones que dictaminen las unidades de verificación acreditadas en materia de gas durante el desarrollo de sus actividades deverificación, se pagará el derecho de normas conforme a la cuota de ... $595.14
-(Se deroga)
+Artículo 73-F.- Por la autorización para el uso de hologramas con que marcarán las obras o instalaciones que dictaminen las unidades de verificación acreditadas en materia de gas durante el desarrollo de sus actividades deverificación, se pagará el derecho de normas conforme a la cuota de ... $628.36
