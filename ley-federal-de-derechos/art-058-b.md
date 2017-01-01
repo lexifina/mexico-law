@@ -1,3 +1,1 @@
-Artículo 58-B. Por el análisis y, en su caso, la expedición de la resolución sobre las propuestas de Petróleos Mexicanos y sus organismos subsidiarios, dichos organismos pagarán derechos conforme a las siguientes cuotas:
-I. Respecto de los términos y condiciones de las ventas de primera mano del gas, del combustóleo y de los petroquímicos básicos ... $600,980.30
-II. Respecto de los términos y condiciones del transporte y distribución por medio de ductos de los productos que se obtengan de la refinación del petróleo y de los petroquímicos básicos; así como los sistemas de almacenamiento que se encuentren directamente vinculados a éstos, o que forman parte integral de las terminales de importación o distribución de dichos productos ... $612,130.48
+Artículo 58-B. (Se deroga).

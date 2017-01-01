@@ -1,1 +1,1 @@
-Artículo 173-A.- (Se deroga).
+Artículo 173-A. Por el estudio de la solicitud y, en su caso, la autorización de arrendamiento y subarrendamiento de bandas de frecuencias concesionadas para uso comercial o privado, en este último caso con propósitos de comunicación privada, se pagarán derechos conforme a la cuota de ... $12,316.88
