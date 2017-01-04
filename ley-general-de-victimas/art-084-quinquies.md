@@ -1,0 +1,2 @@
+Artículo 84 Quinquies. La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al año y las extraordinarias que propondrá su Presidente, el Comisionado Ejecutivo o al menos 3 de sus integrantes.
+Artículo 84 Sexíes. La Junta de Gobierno sesionará válidamente con la asistencia de la mayoría de sus integrantes, siempre que esté presente el Presidente de la Junta de Gobierno. Los acuerdos se adoptarán por mayoría de votos de los miembros presentes.
