@@ -1,0 +1,1 @@
+Artículo 157 Quáter. De los recursos que constituyan el patrimonio de cada uno de los Fondos estatales, se deberá mantener una reserva del 20% para cubrir los reintegros que, en su caso, deban realizarse al Fondo, de acuerdo con lo establecido en los artículos 8, 39 Bis, 68 y 88 Bis de esta Ley.
