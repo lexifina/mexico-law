@@ -1,0 +1,9 @@
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a once de mayo de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica. DECRETO por el que se reforma el artículo 87 Bis 2 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+Publicado en el Diario Oficial de la Federación el 24 de enero de 2017
+Artículo Único.- Se reforma el artículo 87 Bis 2 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para quedar como sigue:
+...
+Transitorios
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo.- Las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de sus respectivas competencias, deberán adecuar la legislación en un plazo no mayor a 360 días siguientes al día de su publicación en el Diario Oficial de la Federación, para dar cumplimiento al presente Decreto.
+Ciudad de México, a 14 de diciembre de 2016.- Sen. Pablo Escudero Morales, Presidente.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.- Sen. Lorena Cuellar Cisneros, Secretaria.- Dip. Raúl Domínguez Rex, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintitrés de enero de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
