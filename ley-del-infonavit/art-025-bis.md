@@ -1,4 +1,4 @@
-Artículo 25 Bis.- El Comité de Transparencia y Acceso a la Información se integrará en forma tripartita, por un representante del sector de los trabajadores, uno del sector empresarial y uno del Gobierno Federal, los cuales serán designados por la Asamblea General, durarán en su cargo seis años.
+Artículo 25 Bis.- El Comité de Transparencia se integrará en forma tripartita, por un representante del sector de los trabajadores, uno del sector empresarial y uno del Gobierno Federal, los cuales serán designados por la Asamblea General, durarán en su cargo seis años.
 El Comité será presidido en forma rotativa, en el orden en que las representaciones que propusieron el nombramiento de sus miembros, se encuentran mencionadas en el Artículo 7o.
 Los miembros del Comité, no podrán serlo de algún otro Órgano del Instituto y deberán cumplir con los siguientes requisitos:
 1. Ser una persona de reconocido prestigio.
