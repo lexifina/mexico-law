@@ -307,6 +307,23 @@ SECCIÓN CUARTA
 Pericial
 SECCIÓN QUINTA
 Prueba Superveniente
+TÍTULO ESPECIAL BIS
+Del Juicio Ejecutivo Mercantil Oral
+Capítulo I
+Disposiciones Generales
+CAPÍTULO II
+Del Procedimiento Ejecutivo Mercantil Oral
+SECCIÓN PRIMERA
+Fijación de la Litis
+SECCIÓN SEGUNDA
+De las Audiencias
+CAPÍTULO III
+De los Incidentes
+CAPÍTULO IV
+De las Pruebas
+CAPÍTULO V
+De la Ejecución
+SECCIÓN PRIMERA
 TITULO TERCERO
 De los Juicios Ejecutivos
 TITULO TERCERO BIS
