@@ -1,0 +1,1 @@
+Artículo 1390 Ter.- El procedimiento ejecutivo a que se refiere este Título tiene lugar cuando la demanda se funda en uno de los documentos que traigan aparejada ejecución previstos en el artículo 1391.

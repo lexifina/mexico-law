@@ -1,4 +1,4 @@
-Artículo 1390 Bis.- Se tramitarán en este juicio todas las contiendas cuya suerte principal sea inferior a la que establece el artículo 1339 para que un juicio sea apelable, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de interposición de la demanda.
+Artículo 1390 Bis.- Se tramitarán en este juicio todas las contiendas mercantiles sin limitación de cuantía.
 Contra las resoluciones pronunciadas en el juicio oral mercantil no procederá recurso ordinario alguno.
 No obstante, las partes podrán solicitar al juez, de manera verbal en las audiencias, que subsane las omisiones o irregularidades que se llegasen a presentar en la substanciación del juicio oral, para el sólo efecto de regularizar el procedimiento.
 Asimismo, el juez podrá ordenar que se subsane toda omisión que notare en la substanciación, para el solo efecto de regularizar el procedimiento.

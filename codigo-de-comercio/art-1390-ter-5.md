@@ -1,0 +1,1 @@
+Artículo 1390 Ter 5.- Presentada por el actor su demanda, se dictará auto, con efectos de mandamiento en forma, para que el demandado sea requerido de pago, y no haciéndolo se proceda al embargo de acuerdo a las reglas previstas en los artículos 1392, 1393, 1394, 1395 y 1396.
