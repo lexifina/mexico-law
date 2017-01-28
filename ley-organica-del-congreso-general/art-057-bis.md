@@ -1,0 +1,2 @@
+ARTICULO 57 BIS.
+1. Conforme a lo previsto en el artículo 74, fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, corresponde a la Cámara de Diputados designar, por el voto de las dos terceras partes de sus miembros presentes a los titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución que ejerzan recursos del Presupuesto de Egresos de la Federación.

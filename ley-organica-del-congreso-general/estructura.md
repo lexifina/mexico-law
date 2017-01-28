@@ -47,6 +47,13 @@ Sección Cuarta
 De otros Organos Técnicos de la Cámara
 Sección Quinta
 Disposiciones Generales
+CAPITULO OCTAVO
+Sección Primera
+De su Naturaleza Constitucional
+Sección Segunda
+Del Proceso para su Designación
+Sección Tercera
+De la Responsabilidad de los Titulares de los Órganos Internos de Control
 TITULO TERCERO
 De la Organización y Funcionamiento de la Cámara de Senadores
 CAPITULO PRIMERO

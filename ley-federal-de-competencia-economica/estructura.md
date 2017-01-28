@@ -40,7 +40,7 @@ De sus Atribuciones
 Capítulo III
 De su Designación
 Capítulo IV
-De la Responsabilidad del Titular de la Contraloría
+De la Responsabilidad del Titular del Órgano Interno de Control
 Capítulo V
 De las Prohibiciones
 TÍTULO V
