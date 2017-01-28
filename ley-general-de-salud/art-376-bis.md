@@ -1,3 +1,3 @@
-Artículo 376 Bis.- El registro sanitario a que se refiere el Artículo anterior se sujetará a los siguientes requisitos:
+Artículo 376 Bis.- El registro sanitario a que se refiere el artículo anterior se sujetará a los siguientes requisitos:
 I. En el caso de medicamentos, estupefacientes y psicotrópicos, la clave de registro será única, no pudiendo aplicarse la misma a dos productos que se diferencien ya sea en su denominación genérica o distintiva o en su formulación. Por otra parte, el titular de un registro, no podrá serlo de dos registros que ostenten el mismo principio activo, forma farmacéutica o formulación, salvo cuando uno de éstos se destine al mercado de genéricos. En los casos de fusión de establecimientos se podrán mantener, en forma temporal, dos registros, y
-II. En el caso de los productos que cita la fracción II del Artículo 194, podrá aceptarse un mismo número de registro para líneas de producción del mismo fabricante, a juicio de la Secretaría.
+II. En el caso de los productos que cita la fracción II del artículo 194, podrá aceptarse un mismo número de registro para líneas de producción del mismo fabricante, a juicio de la Secretaría.
