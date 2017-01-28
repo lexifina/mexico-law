@@ -30,6 +30,8 @@ CAPÍTULO X
 Del Juicio en Línea
 Capítulo XI
 Del Juicio en la Vía Sumaria
+CAPÍTULO XII
+Del Juicio de Resolución Exclusiva de Fondo
 TÍTULO III
 De los Recursos
 CAPÍTULO I
