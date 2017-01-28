@@ -275,5 +275,6 @@ TÍTULO SEGUNDO
 CAPÍTULO I
 De las Responsabilidades Administrativas
 CAPÍTULO II
+Del Régimen de Responsabilidades Administrativas
 Capítulo III
 De la Contraloría General
