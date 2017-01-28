@@ -1,0 +1,1 @@
+ARTÍCULO 65 Bis. La Condecoración a la Distinción Militar se otorgará a los militares o civiles, nacionales o extranjeros por disposición del Secretario. Tiene como objeto corresponder a las atenciones o muestras de cortesía de otras naciones, así como para reconocer los actos o hechos que hagan patente el intercambio de experiencias y conocimientos con la institución militar.
