@@ -31,7 +31,7 @@ De las Obligaciones de los Comisionados y de la Autoridad Investigadora
 Capítulo II
 Del Consejo Consultivo
 Capítulo III
-De la Contraloría Interna del Instituto
+Del Órgano Interno de Control del Instituto
 Capítulo IV
 Del Régimen Laboral de los Trabajadores del Instituto
 Capítulo V
