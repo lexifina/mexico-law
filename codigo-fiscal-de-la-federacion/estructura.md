@@ -27,6 +27,8 @@ Sección Segunda
 De la Impugnación de las Notificaciones
 Sección Tercera
 Del Trámite y Resolución de los Recursos
+Sección Cuarta
+Del Trámite y Resolución del Recurso de Revocación Exclusivo de Fondo
 CAPITULO II
 De las notificaciones y la garantía del interés fiscal
 CAPITULO III
