@@ -1,4 +1,4 @@
-Artículo 32 Bis.- A la Secretaría de Medio Ambiente y Recursos Naturales, corresponde el despacho de los siguientes asuntos:
+Artículo 32 Bis.- A la Secretaría de Medio Ambiente y Recursos Naturales corresponde el despacho de los siguientes asuntos:
 I. Fomentar la protección, restauración y conservación de los ecosistemas y recursos naturales y bienes y servicios ambientales, con el fin de propiciar su aprovechamiento y desarrollo sustentable;
 II. Formular y conducir la política nacional en materia de recursos naturales, siempre que no estén encomendados expresamente a otra dependencia; así como en materia de ecología, saneamiento ambiental, agua, regulación ambiental del desarrollo urbano y de la actividad pesquera, con la participación que corresponda a otras dependencias y entidades;
 III. Administrar y regular el uso y promover el aprovechamiento sustentable de los recursos naturales que correspondan a la Federación, con excepción de los hidrocarburos y los minerales radioactivos;
