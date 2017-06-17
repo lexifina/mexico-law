@@ -1,0 +1,1 @@
+Artículo 9 Ter.- Las policías federales, estatales y municipales, auxiliarán a las capitanías de puerto y a las oficinas de servicios a la Marina Mercante, cuando así lo requieran, dentro de sus respectivos ámbitos de competencia.

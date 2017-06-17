@@ -1,1 +1,1 @@
-Artículo 49 Bis.- La capitanía de puerto a requerimiento del CUMAR podrá negar o dejar sin efectos el despacho de salida de cualquier embarcación como medida precautoria cuando se haya decretado un Nivel 3 de Protección Marítima y Portuaria en términos de la Ley de Puertos.
+Artículo 49 Bis.- La capitanía de puerto por sí o a requerimiento del CUMAR podrá negar o dejar sin efectos el despacho de salida de cualquier embarcación como medida precautoria en cualquiera de los niveles de Protección Marítima y Portuaria en términos de la Ley de Puertos.
