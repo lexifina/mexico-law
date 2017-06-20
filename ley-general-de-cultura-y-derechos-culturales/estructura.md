@@ -1,0 +1,19 @@
+TÍTULO PRIMERO
+DISPOSICIONES GENERALES
+TÍTULO SEGUNDO
+DERECHOS CULTURALES Y MECANISMOS PARA SU EJERCICIO
+TÍTULO TERCERO
+BASES DE COORDINACIÓN
+Capítulo I
+Capítulo II
+Sistema Nacional de Información Cultural
+Capítulo III
+De la Reunión Nacional de Cultura
+TÍTULO CUARTO
+DE LA PARTICIPACIÓN SOCIAL Y PRIVADA
+Capítulo I
+De la participación social
+Capítulo II
+De la participación del sector privado
+TÍTULO QUINTO
+DE LA VINCULACIÓN INTERNACIONAL
