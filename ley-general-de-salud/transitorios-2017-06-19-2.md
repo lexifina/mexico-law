@@ -1,0 +1,13 @@
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Salud, en materia de vacunación.
+Publicado en el Diario Oficial de la Federación el 19 de junio de 2017
+Artículo Único.- Se reforma el artículo 144; primer párrafo y fracciones III y IV del artículo 408; el artículo 420; y se adicionan las fracciones V y VI y último párrafo del artículo 408; un Capítulo II Bis, al Título Octavo, que comprende los artículos 157 Bis 1 a 157 Bis 16 y un artículo 462 Bis 1 de la Ley General de Salud, para quedar como sigue:
+...
+Transitorios
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Segundo. Se abroga el Decreto por el que se reforma el Consejo Nacional de Vacunación, publicado en el Diario Oficial de la Federación el 5 de julio de 2001.
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+Cuarto. La Secretaría de Salud contará con un plazo de noventa días hábiles para convocar e instalar el Consejo Nacional de Vacunación de conformidad con el presente Decreto. El Consejo Nacional de Vacunación tendrá un plazo de noventa días hábiles para emitir su Reglamento Interno, contados a partir de la fecha en que se celebre su sesión de instalación.
+Quinto. El Consejo de Salubridad General publicará en el Diario Oficial de la Federación los acuerdos que permitan instrumentar las acciones necesarias para enfrentar circunstancias epidemiológicas extraordinarias. Asimismo, la Secretaría de Salud y las demás dependencias y entidades de la Administración Pública que forman parte del Sistema Nacional de Salud, considerarán en sus respectivos proyectos de presupuesto la incorporación de las nuevas vacunas al Programa de Vacunación Universal conforme a la disponibilidad presupuestaria, en los términos previstos en el presente Decreto.
+Sexto. La Secretaría de Salud contará con un plazo máximo de hasta 360 días para emitir las disposiciones a que se refiere el presente Decreto.
+Ciudad de México, a 28 de abril de 2017.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Lorena Cuéllar Cisneros, Secretaria.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieciséis de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
