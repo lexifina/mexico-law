@@ -1,0 +1,3 @@
+Artículo 381 Quater.- El delito de abigeato se considera calificado y se aumentará la pena hasta en una mitad, cuando sea cometido por quien tenga una relación laboral, o de parentesco por consanguinidad o afinidad hasta el cuarto grado con el propietario del ganado.
+De igual manera se impondrá la pena establecida en el párrafo anterior, cuando el delito se ejecute mediante violencia física o moral, o bien cuando lo comenta un servidor público.
+Cuando la conducta a que se refiere este artículo se cometa por una asociación delictuosa, banda o pandilla, se sancionará en términos de los artículos 164 o 164 Bis, según corresponda.
