@@ -6,4 +6,3 @@ Transitorios
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Segundo.- Se derogan todas aquellas disposiciones que se opongan a este Decreto.
 Ciudad de México, a 10 de marzo de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Luis Humberto Fernández Fuentes, Secretario.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas."
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a cinco de abril de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
