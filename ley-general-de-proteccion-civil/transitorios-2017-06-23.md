@@ -1,0 +1,8 @@
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a seis de abril de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica. DECRETO por el que se adicionan diversas disposiciones de la Ley General de Protección Civil, en Materia Innovación Tecnológica.
+Publicado en el Diario Oficial de la Federación el 23 de junio de 2017
+Artículo Único.- Se reforma el artículo 2, fracción XXXII y se adicionan los artículos 39, con un segundo párrafo, recorriéndose los subsecuentes en su orden; 49, con un tercer párrafo y 83, con un segundo párrafo a la Ley General de Protección Civil, para quedar como sigue:
+...
+Transitorio
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Ciudad de México, a 27 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de junio de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
