@@ -38,6 +38,8 @@ Capítulo IX
 De la matrícula de las aeronaves
 Capítulo X
 Del Registro Aeronáutico Mexicano
+Capítulo X Bis
+De los derechos y las obligaciones de los pasajeros
 Capítulo XI
 De los contratos
 Sección Primera
