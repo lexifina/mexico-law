@@ -1,0 +1,2 @@
+Artículo 47 Bis 1. Los pasajeros con alguna discapacidad tendrán derecho a transportar sillas de ruedas, andadores, prótesis, muletas, bastones o cualquier otro instrumento, siempre y cuando la persona que viaja haga uso de ésta de manera personal y se encuentre directamente asociado con la discapacidad que presenta. En vuelos internacionales, dichos límites serán los fijados de conformidad con los Tratados.
+Los permisionarios o concesionarios deberán informar las medidas de seguridad operacional de forma clara y precisa como parte de los términos y condiciones del contrato.
