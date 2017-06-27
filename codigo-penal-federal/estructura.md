@@ -263,7 +263,7 @@ Violación de las leyes sobre inhumaciones y exhumaciones
 TITULO DECIMOCTAVO
 Delitos Contra la Paz y Seguridad de las Personas
 CAPITULO I
-Amenazas
+Amenazas y Cobranza Extrajudicial Ilegal
 CAPITULO II
 Allanamiento de morada
 TITULO DECIMONOVENO
