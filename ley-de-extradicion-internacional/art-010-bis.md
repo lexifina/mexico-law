@@ -1,0 +1,2 @@
+ARTICULO 10 Bis.- Queda prohibido extraditar a una persona a otro Estado cuando haya razones fundadas para creer que estará en peligro de ser sometida a tortura o desaparición forzada.
+A efecto de determinar si existen razones para suponer que la persona puede ser sometida a tortura, las autoridades competentes tendrán en cuenta todas las consideraciones pertinentes, inclusive, cuando proceda, la existencia en el Estado de que se trate de un cuadro persistente o sistemático de violaciones manifiestas, patentes o masivas de derechos humanos.
