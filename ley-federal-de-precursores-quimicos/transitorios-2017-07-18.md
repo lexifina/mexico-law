@@ -1,0 +1,7 @@
+ACUERDO por el que se adicionan las substancias N-fenetil-4-piperidona (NPP) y 4 - anilino-N-fenetilpiperidina (ANPP), al listado de la clasificación a que se refiere la fracción I, del artículo 4, de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos; y se consideran estupefacientes comprendidos en el artículo 234, de la Ley General de Salud.
+Publicado en el Diario Oficial de la Federación el 18 de julio de 2017
+PRIMERO. Se adicionan al listado de substancias controladas a que se refiere la fracción I, del artículo 4, de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos, las substancias denominadas N-fenetil-4 - piperidona (NPP) y 4-anilino-N-fenetilpiperidina (ANPP).
+SEGUNDO. Para los efectos de lo establecido en los artículos 234 y 235 de la Ley General de Salud, las substancias denominadas N-fenetil-4-piperidona (NPP) y 4-anilino-N-fenetilpiperidina (ANPP), se consideran estupefacientes.
+TRANSITORIO
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Ciudad de México, a 19 de junio de 2017.- El Secretario de Salud y Presidente del Consejo de Salubridad General, José Ramón Narro Robles.- Rúbrica.- El Secretario del Consejo de Salubridad General, Jesús Ancer Rodríguez.- Rúbrica.
