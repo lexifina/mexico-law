@@ -1,4 +1,1 @@
-ARTÍCULO 77 Bis.- Cuando en el procedimiento administrativo disciplinario se haya determinado la responsabilidad del servidor público y que la falta administrativa haya causado daños y perjuicios a particulares, éstos podrán acudir a las dependencias, entidades o a la Secretaría de la Función Pública, para que ellas directamente reconozcan la responsabilidad de indemnizar la reparación del daño en cantidad líquida y, en consecuencia, ordenar el pago correspondiente, sin necesidad de que los particulares acudan a la instancia judicial o cualquier otra.
-El Estado podrá repetir de los servidores públicos el pago de la indemnización hecha a los particulares.
-Si el órgano del Estado niega la indemnización, o si el monto no satisface al reclamante, se tendrán expeditas, a su elección, la vía administrativa o judicial.
-Cuando se haya aceptado una recomendación de la Comisión de Derechos Humanos en la que se proponga la reparación de daños y perjuicios, la autoridad competente se limitará a su determinación en cantidad líquida y la orden de pago respectiva.
+ARTÍCULO 77 Bis.- (Se deroga)

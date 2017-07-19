@@ -1,6 +1,8 @@
 TITULO PRIMERO
+(Se deroga)
 CAPITULO UNICO
 Disposiciones Generales
+(Se deroga)
 TITULO SEGUNDO
 CAPITULO I
 Sujetos, causas de juicio político y sanciones
