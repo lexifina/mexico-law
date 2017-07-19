@@ -1,9 +1,3 @@
-TRANSITORIOS
-Primero. La presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
-Segundo. La implementación de esta Ley deberá realizarse con los recursos humanos, materiales y presupuestarios asignados a la Secretaría de la Función Pública, a las dependencias y entidades de la Administración Pública Federal y a la Procuraduría General de la República, así como a las demás autoridades facultadas para aplicar dicho ordenamiento, por lo que no implicará erogaciones adicionales.
-México, D.F., a 25 de abril de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Martín García Avilés, Secretario.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a ocho de junio de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
-ARTÍCULOS TRANSITORIOS DE DECRETO ABROGATORIO
 DECRETO por el que se expide la Ley General del Sistema Nacional Anticorrupción; la Ley General de Responsabilidades Administrativas, y la Ley Orgánica del Tribunal Federal de Justicia Administrativa.
 Publicado en el Diario Oficial de la Federación el 18 de julio de 2016
 TRANSITORIOS
