@@ -1,0 +1,9 @@
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Telecomunicaciones y Radiodifusión.
+Publicado en el Diario Oficial de la Federación el 31 de octubre de 2017
+Artículo Único.- Se reforman las fracciones LIX y LXI del artículo 15; las fracciones II y IV del artículo 216; las fracciones II, IV y X así como el párrafo segundo del artículo 256; el segundo, tercero y quinto párrafos del artículo 259; el primer párrafo del artículo 260; el tercero y quinto párrafos del artículo 261; el quinto párrafo del artículo 297, y la denominación del Capítulo IV del Título Décimo Quinto para quedar como "Sanciones en materia de Transmisión de Mensajes Comerciales y Derechos de las Audiencias"; se adicionan un tercero y un cuarto párrafos al artículo 256; y se derogan la fracción III del artículo 256 y la fracción II del inciso c) del artículo 311, todos de la Ley Federal de Telecomunicaciones y Radiodifusión, para quedar como sigue:
+...
+Transitorios
+Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial de la Federación.
+Segundo.- Se abrogan las disposiciones reglamentarias y administrativas que se opongan al presente Decreto.
+Ciudad de México, a 26 de octubre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a treinta de octubre de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
