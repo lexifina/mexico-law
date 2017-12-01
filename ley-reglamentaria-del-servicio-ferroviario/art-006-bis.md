@@ -5,7 +5,7 @@ III. Garantizar la interconexión en las vías férreas cuando sean vías genera
 IV. Establecer bases de regulación tarifaria cuando no existan condiciones de competencia efectiva;
 V. Integrar el registro de las concesiones y permisos que se otorguen conforme a lo dispuesto en la presente Ley;
 VI. Interpretar esta Ley para efectos administrativos;
-VII. Emitir recomendaciones a las dependencias y entidades de la administración pública federal, estatal, municipal y del Distrito Federal competentes y a los concesionarios para que en el ámbito de sus facultades promuevan medidas de Seguridad Pública para la adecuada operación del servicio público ferroviario;
+VII. Emitir recomendaciones a las dependencias y entidades de la administración pública federal, estatal, municipal y de la Ciudad de México competentes y a los concesionarios para que en el ámbito de sus facultades promuevan medidas de Seguridad Pública para la adecuada operación del servicio público ferroviario;
 VIII. Promover la expansión y el uso de la red ferroviaria;
 IX. Cooperar con las autoridades migratorias, de Seguridad Pública y con los concesionarios, para llevar a cabo las acciones necesarias para resolver cuestiones de migración e inseguridad que afecten el servicio público de transporte ferroviario, garantizando que en todo momento se respeten los derechos humanos;
 X. Registrar las tarifas máximas de flete, para los efectos previstos en el artículo 46;
