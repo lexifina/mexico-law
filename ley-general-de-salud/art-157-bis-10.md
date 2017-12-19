@@ -1,0 +1,1 @@
+Artículo 157 Bis 10.- Los establecimientos y el personal de salud de los sectores público, social y privado deberán registrar y notificar a la Secretaría de Salud la presencia de casos de enfermedades prevenibles por vacunación y eventos supuestamente atribuibles a dicha inmunización, de conformidad con lo que señale esta Ley y demás disposiciones aplicables.

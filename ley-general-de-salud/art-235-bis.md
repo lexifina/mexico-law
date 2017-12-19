@@ -1,0 +1,1 @@
+Artículo 235 Bis.- La Secretaría de Salud deberá diseñar y ejecutar políticas públicas que regulen el uso medicinal de los derivados farmacológicos de la cannabis sativa, índica y americana o marihuana, entre los que se encuentra el tetrahidrocannabinol, sus isómeros y variantes estereoquímicas, así como normar la investigación y producción nacional de los mismos.
