@@ -1,0 +1,1 @@
+Artículo 157 Bis 14.- La operación del Programa de Vacunación Universal en el ámbito local, corresponde a los gobiernos de las entidades federativas, quienes deberán contar con los recursos físicos, materiales y humanos necesarios.

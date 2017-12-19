@@ -1,0 +1,1 @@
+Artículo 157 Bis 15.- La Secretaría de Salud supervisará el cumplimiento de los indicadores de desempeño del Programa de Vacunación Universal que servirán como elemento para la vigilancia del uso eficiente de los recursos que se destinen a las acciones de inmunización.

@@ -1,0 +1,1 @@
+Artículo 157 Bis 6.- Las dependencias y entidades de la Administración Pública, tanto federal como local, deberán participar con recursos humanos, materiales y financieros suficientes para la atención de los operativos y campañas de vacunación, tanto ordinarias como extraordinarias, cuando alguna de las autoridades sanitarias del país así lo requiera.
