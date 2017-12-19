@@ -1,0 +1,2 @@
+Artículo 157 Bis 9.- La Cartilla Nacional de Vacunación es un documento gratuito, único, individual e intransferible, a través del cual se lleva el registro y el control de las vacunas que sean aplicadas a las personas.
+La Secretaría de Salud determinará las características y el formato único de la Cartilla Nacional de Vacunación, misma que deberá ser utilizada en todos los establecimientos de salud de los sectores público, social y privado, en todo el territorio nacional.
