@@ -1,0 +1,1 @@
+Artículo 157 Bis 7.- El Consejo se regirá por las disposiciones contenidas en esta Ley, su reglamento interno y demás normativa aplicable, basando su actuación en la evidencia científica, así como en los criterios de racionalidad y objetividad.
