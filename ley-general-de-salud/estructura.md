@@ -78,8 +78,12 @@ CAPITULO I
 Disposiciones Comunes
 CAPITULO II
 Enfermedades Transmisibles
+CAPÍTULO II BIS
+Vacunación
 CAPITULO III
 Enfermedades no Transmisibles
+CAPÍTULO III BIS
+Del Registro Nacional de Cáncer
 CAPITULO IV
 Accidentes
 TITULO OCTAVO BIS
