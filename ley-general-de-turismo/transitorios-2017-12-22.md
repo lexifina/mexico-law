@@ -1,0 +1,8 @@
+DECRETO por el que se reforman diversas disposiciones de la Ley General de Turismo.
+Publicado en el Diario Oficial de la Federación el 22 de diciembre de 2017
+Artículo Único.- Se reforman los artículos 1, párrafo primero; 2, fracciones I, II y VIII; 4, fracciones III, VIII y XII segundo párrafo; 5, párrafos primero, segundo y cuarto; 7, fracción VIII; la denominación del Capítulo III del Título Segundo; 9, párrafo primero y fracción XII; 10, fracciones III y XV; 13; 15 párrafo primero; 17, párrafo segundo; 19, párrafo tercero; 20; 25, párrafo segundo; 26; 28, párrafo primero; 29, párrafo primero y fracción III; 31, párrafos segundo y tercero; 36; 37; 44, fracción III; 46, párrafo primero; 47; 51; 65, párrafo primero; 66, párrafo tercero; 69, párrafos primero y cuarto; 70; Cuarto transitorio, párrafo segundo y Sexto transitorio, párrafo segundo de la Ley General de Turismo, para quedar como sigue:
+...
+Transitorio
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Ciudad de México, a 7 de noviembre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Andrés Fernández del Valle Laisequilla, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de diciembre de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
