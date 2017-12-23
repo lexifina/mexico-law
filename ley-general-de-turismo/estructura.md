@@ -8,7 +8,7 @@ De la Federación
 CAPÍTULO II
 De las Dependencias Concurrentes en Materia Turística
 CAPÍTULO III
-De los Estados y el Distrito Federal
+De los Estados y la Ciudad de México
 CAPÍTULO IV
 De los Municipios
 CAPÍTULO V
