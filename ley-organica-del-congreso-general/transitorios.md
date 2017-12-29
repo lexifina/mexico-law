@@ -11,11 +11,11 @@ COMISIONES VIGENTES
 NUEVAS COMISIONES O COMITES Asuntos de la Frontera Sur
 Asuntos Fronterizos
 Gobernación y Puntos Constitucionales
-Población y Desarrollo Gobernación, Población y Seguridad Pública
+Población y Desarrollo
 Protección Civil
 Radio, Televisión y Cinematografía
 Seguridad Pública
-Gobernación y Puntos Constitucionales (iniciativas de reforma constitucional)
+Gobernación, Población y Seguridad Pública Gobernación y Puntos Constitucionales (iniciativas de reforma constitucional)
 Fortalecimiento del Federalismo
 Fortalecimiento Municipal
 Puntos Constitucionales y Sistema Federal Derechos Humanos
@@ -32,8 +32,8 @@ Vivienda
 Desarrollo Social y Vivienda Asuntos Hidráulicos
 Bosques y Selvas
 Ecología y Medio Ambiente
-Pesca
-Medio Ambiente, Recursos Naturales y Pesca Energéticos
+Medio Ambiente, Recursos Naturales y Pesca Pesca
+Energéticos
 Energía Artesanías
 Comercio
 Patrimonio y Fomento Industrial
@@ -58,11 +58,12 @@ Distrito Federal Asuntos Indígenas
 Asuntos Indígenas Equidad y Género
 Equidad y Género Atención y Apoyo a Discapacitados
 Asuntos de la Juventud
-Participación Ciudadana
-Atención a Grupos Vulnerables Fomento Cooperativo
+Atención a Grupos Vulnerables Participación Ciudadana
+Fomento Cooperativo
 Distribución y Manejo de Bienes de Consumo y Servicios
 Fomento Cooperativo y Economía Social Vigilancia de la Contaduría Mayor de Hacienda
-Vigilancia de la Contaduría Mayor de Hacienda Comisión Información, Gestoría y Quejas Comité de Información, Gestoría y Quejas
+Vigilancia de la Contaduría Mayor de Hacienda Comisión Información, Gestoría y Quejas
+Comité de Información, Gestoría y Quejas
 COMITES VIGENTES ORGANO O AREA QUE ASUME SUS TAREAS
 Administración
 Junta de Coordinación Política Asuntos Editoriales
