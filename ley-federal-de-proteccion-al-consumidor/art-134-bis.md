@@ -1,0 +1,3 @@
+ARTÍCULO 134 BIS.- Las multas que imponga la Procuraduría serán consideradas créditos fiscales y se ejecutarán por ésta en su carácter de autoridad fiscal bajo el Procedimiento Administrativo de Ejecución previsto en el Código Fiscal de la Federación y su Reglamento.
+La Procuraduría deberá implementar mecanismos para el pago de multas a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología.
+Cuando el infractor pague las multas impuestas dentro de los treinta días hábiles siguientes a la fecha de su notificación, se aplicará una reducción de un cincuenta por ciento de su monto, siempre y cuando no se hubiere interpuesto medio de defensa alguno en contra de dicha multa.
