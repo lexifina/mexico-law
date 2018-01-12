@@ -7,7 +7,6 @@ De la información y publicidad
 Capítulo IV
 De las promociones y ofertas
 Capítulo V
-De las ventas a domicilio, mediatas o indirectas
 Capítulo VI
 De los servicios
 Capítulo VII
