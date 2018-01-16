@@ -1,4 +1,1 @@
-Artículo 215-B.- A quien cometa el delito de desaparición forzada de personas se le impondrá una pena de cinco a cuarenta años de prisión.
-Si la víctima fuere liberada espontáneamente dentro de los tres días siguientes a su detención la pena será de ocho meses a cuatro años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismos delitos.
-Si la liberación ocurriera dentro de los diez días siguientes a su detención, la pena aplicable será de dos a ocho años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismo delitos.
-Estas penas podrán ser disminuidas hasta una tercera parte en beneficio de aquel que hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos, y hasta en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
+Artículo 215-B.- Derogado.

@@ -1,0 +1,1 @@
+Artículo 280 Bis.- Se impondrá pena de cinco a ocho años de prisión y de quinientos a mil días multa, a quien incinere, sepulte, desintegre o destruya total o parcial el cadáver o restos humanos de una persona no identificada, sin autorización de las autoridades competentes en la materia.
