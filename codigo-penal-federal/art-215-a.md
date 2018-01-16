@@ -1,1 +1,1 @@
-Artículo 215-A.- Comete el delito de desaparición forzada de personas, el servidor público que, independientemente de que haya participado en la detención legal o ilegal de una o varias personas, propicie o mantenga dolosamente su ocultamiento bajo cualquier forma de detención.
+Artículo 215-A.- Derogado.
