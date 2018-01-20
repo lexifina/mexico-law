@@ -3,5 +3,5 @@ MANUEL AVILA CAMACHO, Presidente Constitucional de los Estados Unidos Mexicanos,
 Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente
 D E C R E T O:
 "El Congreso de los Estados Unidos Mexicanos, decreta:
-Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones
-en el Distrito Federal.
+LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL, RELATIVO AL EJERCICIO
+DE LAS PROFESIONES EN LA CIUDAD DE MÉXICO
