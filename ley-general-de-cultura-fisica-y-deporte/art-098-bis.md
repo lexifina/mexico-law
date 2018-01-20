@@ -1,2 +1,2 @@
 Artículo 98 Bis. Para la celebración de eventos deportivos masivos o con fines de espectáculo, las instalaciones en que pretendan realizarse, independientemente del origen de los fondos con que hayan sido construidas, deberán contar con el equipamiento de seguridad y protección civil que establezcan las leyes y demás ordenamientos aplicables.
-Las autoridades municipales, o las correspondientes del Distrito Federal, serán competentes para verificar el cumplimiento de la presente disposición.
+Las autoridades municipales, o las correspondientes de la Ciudad de México, serán competentes para verificar el cumplimiento de la presente disposición.
