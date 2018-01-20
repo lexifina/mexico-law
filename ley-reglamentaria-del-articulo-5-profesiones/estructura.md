@@ -5,7 +5,7 @@ Condiciones que deben llenarse para obtener un título profesional
 CAPITULO III
 Instituciones autorizadas que deben expedir los títulos profesionales
 SECCION I
-Títulos expedidos en el Distrito Federal.
+Títulos expedidos en la Ciudad de México
 SECCION II
 SECCION III
 Registro de títulos expedidos en el extranjero

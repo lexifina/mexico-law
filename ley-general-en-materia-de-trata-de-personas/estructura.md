@@ -49,7 +49,7 @@ TÍTULO TERCERO
 CAPÍTULO I
 Del Gobierno Federal
 CAPÍTULO II
-De las Autoridades Estatales, Municipales y del Distrito Federal
+De las Autoridades de las Entidades Federativas y Municipales
 CAPÍTULO III
 De la Reglamentación del Programa
 CAPÍTULO IV
