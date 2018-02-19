@@ -29,3 +29,11 @@ Transitorio
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 México, D.F., a 10 de diciembre de 2014.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lucero Saldaña Pérez, Secretaria.- Rúbricas."
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de enero de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+DECRETO por el que se reforma la fracción II del artículo 6 de la Ley de los Institutos Nacionales de Salud.
+Publicado en el Diario Oficial de la Federación 16 de febrero de 2018
+Artículo Único.- Se reforma la fracción II del artículo 6 de la Ley de los Institutos Nacionales de Salud, para quedar como sigue:
+...
+Transitorio
+Único: El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Diario Oficial de la Federación.
+Ciudad de México, a 12 de diciembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Juan G. Flores Ramírez, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de febrero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
