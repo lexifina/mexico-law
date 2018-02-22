@@ -1,0 +1,3 @@
+Artículo 376 Quáter.- Además de la pena que le corresponda conforme al primer párrafo del artículo anterior, se aplicarán las previstas en este artículo en los casos siguientes:
+I.- La pena de prisión se aumentará en un tercio cuando exista apoderamiento del remolque o semirremolque y sea utilizado para cometer otro ilícito, y
+II.- La pena de prisión se aumentará en una mitad cuando, a sabiendas de sus funciones el servidor público, cometa o participe en el robo y este tenga o desempeñe funciones de prevención, investigación, persecución del delito o ejecución de penas, con independencia de la sanción penal, se le inhabilitará para desempeñar cualquier empleo, cargo o comisión pública por un tiempo igual al de la pena de prisión impuesta.
