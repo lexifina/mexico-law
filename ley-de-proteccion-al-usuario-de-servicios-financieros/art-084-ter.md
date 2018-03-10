@@ -1,4 +1,4 @@
-ARTÍCULO 84 Ter.- Las ofertas públicas del Sistema Arbitral en Materia Financiera que emitan las Instituciones Financieras para la solución de controversias futuras originadas por operaciones o servicios contratados con los Usuarios, se inscribirán en el Registro de Ofertas Públicas del Sistema Arbitral, que tendrá a su cargo la Comisión Nacional.
+Artículo 84 Ter.- Las ofertas públicas del Sistema Arbitral en Materia Financiera que emitan las Instituciones Financieras para la solución de controversias futuras originadas por operaciones o servicios contratados con los Usuarios, se inscribirán en el Registro de Ofertas Públicas del Sistema Arbitral, que tendrá a su cargo la Comisión Nacional.
 Las solicitudes de registro que efectúen las Instituciones Financieras deberán contener:
 I. Sometimiento expreso al arbitraje y a los lineamientos de la Comisión Nacional sobre el Sistema Arbitral en Materia Financiera;
 II. Indicación de por lo menos tres productos o servicios financieros.
