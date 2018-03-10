@@ -1,3 +1,3 @@
-ARTÍCULO 84 Bis.- La Comisión Nacional tendrá a su cargo la organización, funcionamiento y promoción del Sistema Arbitral en Materia Financiera.
+Artículo 84 Bis.- La Comisión Nacional tendrá a su cargo la organización, funcionamiento y promoción del Sistema Arbitral en Materia Financiera.
 A través del Sistema Arbitral en Materia Financiera, las Instituciones Financieras podrán otorgar al público usuario la facilidad de solucionar mediante arbitraje controversias futuras sobre operaciones y servicios previamente determinados. Dichas determinaciones serán hechas del conocimiento público, a través de los medios que esta Ley prevé, las cuales constituirán ofertas públicas.
 La Comisión Nacional, emitirá los lineamientos necesarios para que opere el Sistema Arbitral en Materia Financiera, con sujeción a lo previsto en este Capítulo y conforme a las disposiciones compatibles de los Capítulos I y II del Título Quinto de esta Ley.
