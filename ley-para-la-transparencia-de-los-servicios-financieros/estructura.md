@@ -13,7 +13,6 @@ Sección V
 Sección VI
 Sección VII
 Sección VIII
-Sanciones que corresponde imponer al Banco de México
 Capítulo VI
 Del recurso de revisión
 Capítulo VII
