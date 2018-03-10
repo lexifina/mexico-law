@@ -1,0 +1,2 @@
+Artículo 227 Bis 1.- La Comisión podrá incluir en las disposiciones generales aplicables a los asesores en inversiones, reglas especiales para los servicios automatizados de asesoría y gestión de inversión.
+Los asesores en inversiones, además de las obligaciones a que estén sujetos, deberán cumplir, en lo conducente, con lo dispuesto en los artículos 130, 190 Bis y 190 Bis 1 de esta Ley, conforme a lo previsto en dichos artículos.
