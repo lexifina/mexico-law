@@ -1,0 +1,9 @@
+DECRETO por el que se reforman los artículos Transitorios Segundo; primer párrafo del artículo Tercero; primer párrafo del artículo Cuarto, y artículo Quinto; se adicionan los párrafos segundo y tercero al artículo Segundo Transitorio del "Decreto por el que se reforman y adicionan diversas disposiciones del Código de Comercio, en materia de Juicios Orales Mercantiles", publicado en el Diario Oficial de la Federación el 25 de enero de 2017.
+Publicado en el Diario Oficial de la Federación el 28 de marzo de 2018
+Artículo Único.- Se reforman los artículos Transitorios Segundo; primer párrafo del artículo Tercero; primer párrafo del artículo Cuarto, y artículo Quinto; se adicionan los párrafos segundo y tercero al artículo Segundo Transitorio del "Decreto por el que se reforman y adicionan diversas disposiciones del Código de Comercio, en materia de Juicios Orales Mercantiles", publicado en el Diario Oficial de la Federación el 25 de enero de 2017, para quedar como sigue:
+...
+Transitorios
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Segundo.- Los asuntos cuya demanda haya sido admitida a partir del 25 de enero de 2018 y hasta la entrada en vigor del presente Decreto, se tramitarán conforme a las leyes aplicables en ese momento.
+Ciudad de México, a 6 de marzo de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Rosa Adriana Díaz Lizama, Secretaria.- Dip. Andrés Fernández del Valle Laisequilla, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiséis de marzo de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
