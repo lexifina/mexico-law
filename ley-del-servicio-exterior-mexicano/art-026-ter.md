@@ -1,0 +1,1 @@
+ARTÍCULO 26-TER.- Para una mejor conducción de las Actividades Diplomáticas, la Comisión de Personal también podrá promover y fomentar vínculos entre el Servicio Exterior y dependencias y entidades del sector público federal o local que cuenten con áreas encargadas del desahogo de asuntos internacionales; así como con organizaciones de la sociedad civil o del sector privado.

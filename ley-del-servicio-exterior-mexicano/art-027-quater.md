@@ -1,0 +1,1 @@
+ARTÍCULO 27-QUÁTER.- Todo lo concerniente al diseño, etapas, requisitos, evaluaciones de desempeño y estrategias de formación del Plan de Carrera se desarrollarán de conformidad con lo dispuesto en el Reglamento.
