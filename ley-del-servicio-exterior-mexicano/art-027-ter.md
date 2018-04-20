@@ -1,0 +1,2 @@
+ARTÍCULO 27-TER.- Los procesos de formación, evaluación, rotación y ascensos de las dos ramas del Servicio Exterior estarán sujetos a un Plan de Carrera que será publicado en el Diario Oficial de la Federación.
+Se entenderá por Plan de Carrera el proyecto de trayectoria y formación de los Miembros del Servicio Exterior, con el fin de adquirir los conocimientos y experiencia necesarios para profesionalizar su desempeño al servicio del Estado en materia de administración pública y Actividades Diplomáticas.
