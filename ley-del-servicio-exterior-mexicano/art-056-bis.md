@@ -1,0 +1,1 @@
+ARTÍCULO 56-BIS.- El presente capítulo tiene por objeto establecer las irregularidades en las que se pueden incurrir, durante el ejercicio de funciones como Miembros del Servicio Exterior, las sanciones aplicables a las mismas, así como el procedimiento para su aplicación.
