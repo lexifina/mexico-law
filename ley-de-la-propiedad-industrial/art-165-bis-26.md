@@ -1,0 +1,1 @@
+Artículo 165 BIS 26.- La declaración de protección de una denominación de origen o indicación geográfica protegida dejará de surtir efectos por otra declaración del Instituto, publicada en el Diario Oficial, aplicándose para tal efecto, en lo que resulte conducente, el procedimiento previsto en el Capítulo II de este Título.

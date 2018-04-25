@@ -1,0 +1,2 @@
+Artículo 165 BIS 1.- Recibida la solicitud, el Instituto efectuará un examen a los datos y documentos aportados.
+Si los documentos presentados no satisfacen los requisitos legales, resultan insuficientes para la comprensión y análisis de cualquiera de los elementos de la solicitud, o la denominación de origen o indicación geográfica señalada cae en alguno de los impedimentos a que se refiere el artículo 163, se requerirá al solicitante para que haga las aclaraciones o adiciones necesarias, otorgándole al efecto un plazo de dos meses.

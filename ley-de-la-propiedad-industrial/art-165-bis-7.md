@@ -1,0 +1,2 @@
+Artículo 165 BIS 7.- Para los efectos de este Capítulo se admitirán toda clase de pruebas con excepción de la confesional y testimonial, salvo que el testimonio o la confesión estén contenidos en documental, así como las que sean contrarias a la moral y al derecho.
+El Instituto podrá realizar en cualquier tiempo, antes de la declaración, las investigaciones que estime pertinentes y allegarse los elementos que considere necesarios.

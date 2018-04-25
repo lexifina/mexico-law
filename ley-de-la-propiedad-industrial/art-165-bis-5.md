@@ -1,0 +1,2 @@
+Artículo 165 BIS 5.- El Instituto otorgará un plazo improrrogable de dos meses, contados a partir de la fecha de publicación en el Diario Oficial, para que cualquier tercero que justifique su interés presente su oposición a la solicitud de declaración de protección y formule observaciones u objeciones respecto al cumplimiento de lo establecido en los artículos 163 y 165 BIS de la presente Ley.
+La oposición deberá presentarse por escrito, acompañada de las pruebas respectivas, así como del comprobante de pago de la tarifa correspondiente.
