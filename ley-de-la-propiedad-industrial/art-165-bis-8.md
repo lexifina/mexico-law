@@ -1,0 +1,3 @@
+Artículo 165 BIS 8.- El Instituto suspenderá el trámite de una solicitud de declaración de protección de denominación de origen o indicación geográfica, en los siguientes casos:
+I.- Cuando la solicitud se encuentre en alguno de los impedimentos a los que se refieren las fracciones IV y V del artículo 163 y se presente una solicitud de declaración administrativa de nulidad, caducidad o cancelación sobre la marca registrada o de cesación de los efectos de un nombre comercial publicado. La suspensión procederá de oficio o a petición de cualquiera de las partes en el procedimiento de declaración administrativa y se levantará cuando éste sea resuelto por el Instituto, y
+II.- Por orden de autoridad jurisdiccional o administrativa.

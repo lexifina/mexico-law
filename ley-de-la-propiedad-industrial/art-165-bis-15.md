@@ -1,0 +1,1 @@
+Artículo 165 BIS 15.- La solicitud para obtener una autorización de uso de denominación de origen o indicación geográfica deberá contener los datos y acompañarse de los documentos que señale el reglamento de esta Ley.

@@ -39,11 +39,15 @@ De las Licencias y la Transmisión de Derechos
 Capítulo VII
 De la Nulidad, Caducidad y cancelación de Registro
 TITULO QUINTO
-De la Denominación de Origen
+De las Denominaciones de Origen e Indicaciones Geográficas
 Capítulo I
-De la Protección a la Denominación de Origen
+Disposiciones Comunes
 Capítulo II
-De la autorización para su Uso
+Del Trámite de la Declaración de Protección
+Capítulo III
+De la Autorización para su Uso
+Capítulo IV
+Capítulo V
 TÍTULO QUINTO BIS
 De los Esquemas de Trazado de Circuitos Integrados
 TITULO SEXTO

@@ -1,0 +1,1 @@
+Artículo 36 BIS.- La renovación del registro de un diseño industrial deberá solicitarse por el titular dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el Instituto dará trámite a aquellas solicitudes que se presenten dentro del plazo de gracia al que hace referencia la fracción II del artículo 80 de esta Ley.
