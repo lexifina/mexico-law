@@ -1,0 +1,2 @@
+Artículo 284 Quáter.
+1. La evaluación del desempeño de los trabajos legislativos se deberá realizar mediante elementos de evaluación que contengan y ponderen todas las actividades y encomiendas que desarrollan los legisladores en el ejercicio de su cargo, de conformidad con los derechos, prerrogativas, facultades, atribuciones y obligaciones previstas en la Constitución Política de los Estados Unidos Mexicanos, la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, en este Reglamento y demás disposiciones aplicables.

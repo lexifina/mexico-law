@@ -191,5 +191,7 @@ CAPITULO IV
 De la Diplomacia Parlamentaria en la Cámara
 CAPITULO V
 Del Servicio de Carrera
+Capítulo VI
+Del Sistema de Evaluación de Diputados
 TITULO NOVENO
 De las Reformas al Reglamento
