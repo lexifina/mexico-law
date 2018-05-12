@@ -1,0 +1,1 @@
+ARTÍCULO 33 Bis.- Los accesorios en que se reproduzcan la Bandera o el Himno Nacionales para efectos comerciales, deberán cumplir con los requisitos que establezca el Reglamento de esta Ley, de conformidad con lo previsto en la presente Ley.

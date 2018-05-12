@@ -1,0 +1,1 @@
+ARTÍCULO 56 Bis.- El procedimiento para imponer las sanciones a las infracciones a que se refiere el artículo anterior, se tramitará en términos del Título Cuarto de la Ley Federal de Procedimiento Administrativo.

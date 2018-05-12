@@ -1,0 +1,1 @@
+ARTÍCULO 23 Bis.- En los eventos deportivos de carácter internacional que se celebren dentro del territorio nacional, el Abanderamiento y la ejecución del Himno Nacional, así como el uso de la Bandera Nacional, se ajustarán a lo previsto en el presente ordenamiento y a su Reglamento.

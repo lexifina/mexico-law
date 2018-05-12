@@ -11,6 +11,6 @@ De la Ejecución y Difusión del Himno Nacional
 CAPITULO SEXTO
 Disposiciones Generales
 CAPITULO SEPTIMO
-Competencias y Sanciones
+Competencias, Infracciones y Sanciones
 CAPITULO ESPECIAL
 De la Letra y Música del Himno Nacional
