@@ -1,1 +1,1 @@
-Artículo 69-A.- Las disposiciones de este título se aplicarán a los actos, procedimientos y resoluciones de la administración pública federal centralizada y de los organismos descentralizados de la administración pública federal en términos del segundo párrafo del artículo 1 de esta Ley, a excepción de los actos, procedimientos o resoluciones de las Secretarías de la Defensa Nacional y de Marina.
+Artículo 69-A.- Se deroga.
