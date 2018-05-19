@@ -1,1 +1,1 @@
-Artículo 69-P.- La legalidad y el contenido de la información que se inscriba en el Registro será de estricta responsabilidad de las dependencias y los organismos descentralizados de la administración pública federal, que proporcionen dicha información y la Comisión sólo podrá opinar al respecto. En caso de discrepancia entre la Comisión y la dependencia u organismo descentralizado correspondiente, decidirá en definitiva la Consejería Jurídica del Ejecutivo Federal, y se modificará, en su caso, la información inscrita.
+Artículo 69-P.- Se deroga.

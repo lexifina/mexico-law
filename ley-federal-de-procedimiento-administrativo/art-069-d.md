@@ -1,5 +1,1 @@
-Artículo 69-D.- Los titulares de las dependencias y los directores generales de los organismos descentralizados de la administración pública federal designarán a un servidor público con nivel de subsecretario u oficial mayor, como responsable de:
-I. Coordinar el proceso de mejora regulatoria en el seno de la dependencia u organismo descentralizado correspondiente, y supervisar su cumplimiento;
-II. Someter a la opinión de la Comisión Federal de Mejora Regulatoria, al menos cada dos años, de acuerdo con el calendario que éste establezca, un programa de mejora regulatoria en relación con la normatividad y trámites que aplica la dependencia u organismo descentralizado de que se trate, así como reportes periódicos sobre los avances correspondientes, y
-III. Suscribir y enviar a la Comisión Federal de Mejora Regulatoria, en los términos de esta Ley, los anteproyectos de leyes, decretos legislativos y actos a que se refiere el artículo 4 y las manifestaciones respectivas que formule la dependencia u organismo descentralizado correspondiente, así como la información a inscribirse en el Registro Federal de Trámites y Servicios.
-La Comisión Federal de Mejora Regulatoria hará públicos los programas y reportes a que se refiere la fracción II así como las opiniones que emita al respecto.
+Artículo 69-D.- Se deroga.
