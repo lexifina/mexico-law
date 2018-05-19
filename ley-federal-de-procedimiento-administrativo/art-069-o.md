@@ -1,1 +1,1 @@
-Artículo 69-O.- La información a que se refiere el artículo 69-M, fracciones III a X, deberá estar prevista en leyes, reglamentos, decretos o acuerdos presidenciales o, cuando proceda, en normas oficiales mexicanas o acuerdos generales expedidos por las dependencias o los organismos descentralizados de la administración pública federal, que aplican los trámites.
+Artículo 69-O.- Se deroga.
