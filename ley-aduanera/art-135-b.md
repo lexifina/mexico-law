@@ -5,3 +5,4 @@ III. Las mermas resultantes de los procesos de elaboración, transformación o r
 IV. Los desperdicios no retornados no causarán contribuciones siempre que se demuestre que han sido destruidos cumpliendo con las disposiciones de control que para tales efectos establezca el Servicio de Administración Tributaria mediante reglas.
 Para destinar las mercancías al régimen de recinto fiscalizado estratégico, se deberá tramitar el pedimento respectivo o efectuar el registro a través de medios electrónicos que señale el Servicio de Administración Tributaria mediante reglas, determinando las contribuciones y cuotas compensatorias que correspondan.
 A partir de la fecha en que las mercancías nacionales o nacionalizadas queden bajo este régimen, se entenderán exportadas definitivamente.
+Los petrolíferos son mercancías que no podrán ser objeto de este régimen.
