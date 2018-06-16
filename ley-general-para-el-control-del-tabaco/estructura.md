@@ -31,3 +31,6 @@ De la Denuncia Ciudadana
 Título Séptimo
 De las Sanciones
 Capítulo Único
+Título Octavo
+De los Delitos
+Capítulo Único
