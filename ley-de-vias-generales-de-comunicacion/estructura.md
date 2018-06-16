@@ -147,7 +147,8 @@ Correspondencia
 CAPITULO II
 Definición y clasificación de la correspondencia
 CAPITULO III
-Correspondencia irregular Ojetos (sic) prohibidos
+Correspondencia irregular
+Ojetos (sic DOF 05-01-1951) prohibidos
 CAPITULO IV
 CAPITULO V
 Transporte de la correspondencia
