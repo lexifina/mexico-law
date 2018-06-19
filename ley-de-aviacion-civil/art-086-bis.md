@@ -1,1 +1,1 @@
-Artículo 86 Bis. Las infracciones a que se refiere el artículo anterior, cometidas en el caso del servicio de transporte aéreo privado no comercial, por el propietario o poseedor de la aeronave, serán sancionadas por la Secretaría con una multa de cien a mil salarios mínimos.
+Artículo 86 Bis. Las infracciones a que se refiere el artículo anterior, cometidas en el caso del servicio de transporte aéreo privado no comercial, por el propietario o poseedor de la aeronave, serán sancionadas por la Secretaría con una multa de cien a mil Unidades de Medida y Actualización.

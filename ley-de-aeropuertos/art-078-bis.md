@@ -1,0 +1,1 @@
+ARTICULO 78 BIS. Los concesionarios o permisionarios de aeródromos de servicio al público, deberán obtener la certificación de los mismos, de conformidad con esta Ley, sus reglamentos y las disposiciones nacionales e internacionales en esta materia.
