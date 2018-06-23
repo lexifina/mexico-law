@@ -38,6 +38,8 @@ Capítulo Décimo Octavo
 Del Derecho a la Seguridad Jurídica y al Debido Proceso
 Capítulo Décimo Noveno
 Niñas, Niños y Adolescentes Migrantes
+Capítulo Vigésimo
+Derecho de Acceso a las Tecnologías de la Información y Comunicación
 TÍTULO TERCERO
 De las Obligaciones
 Capítulo Único
