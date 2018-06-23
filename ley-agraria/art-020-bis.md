@@ -1,0 +1,1 @@
+Artículo 20 Bis.- Cuando el ejidatario o el avecindado sea declarado ausente, en los términos de la legislación especial en la materia, se procederá conforme a lo establecido en el artículo 18 de esta Ley. La desaparición en ningún caso podrá ser causal para perder la condición de ejidatario o avecindado.
