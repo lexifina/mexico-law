@@ -1,0 +1,1 @@
+Artículo 78 Bis. Cuando el trabajador tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia en términos de la legislación especial en la materia, los recursos de su cuenta individual serán puestos a disposición de sus beneficiarios, en los términos en que la resolución de la Declaración Especial de Ausencia establezca.
