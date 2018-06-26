@@ -6,11 +6,10 @@ Transitorios
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Segundo.- A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 Tercero.- Las sanciones pecuniarias que se hayan impuesto antes de la entrada en vigor del presente Decreto, se regirán por las disposiciones vigentes en el momento de su determinación.
-Cuarto.- El procedimiento administrativo de ejecución a que hace referencia el artículo 134 Bis entrará en vigor a los 180 días siguientes, contados a partir de que se encuentre vigente el presente Decreto.
-Quinto.- El Titular del Ejecutivo Federal deberá realizar la expedición y reforma a los Reglamentos correspondientes dentro de los 180 días siguientes a la publicación del presente Decreto.
+Cuarto.- El procedimiento administrativo de ejecución a que hace referencia el artículo 134 Bis entrará en vigor a los 18 meses siguientes, contados a partir de que se encuentre vigente el presente Decreto.
+Quinto.- El Titular del Ejecutivo Federal deberá realizar la expedición y reforma a los Reglamentos correspondientes dentro de los 18 meses siguientes a la publicación del presente Decreto.
 Sexto.- El Titular de la Procuraduría Federal del Consumidor deberá adecuar el Estatuto Orgánico del organismo descentralizado dentro de los 180 días siguientes a la publicación a la reforma del Reglamento de la Procuraduría Federal del Consumidor.
 Séptimo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto para el presente ejercicio fiscal y los subsecuentes de la Procuraduría.
 Octavo.- Las actualizaciones a que se refiere el presente Decreto estarán vigentes del 1 de enero al 31 de diciembre de cada año.
 Noveno.- La Secretaría deberá emitir en un plazo máximo de nueve meses a partir de la entrada en vigor del presente Decreto, la Norma Mexicana a la que hace referencia el artículo 76 Bis 1.
 Ciudad de México, a 14 de noviembre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Lorena Cuéllar Cisneros, Secretaria.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Rúbricas."
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a nueve de enero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
