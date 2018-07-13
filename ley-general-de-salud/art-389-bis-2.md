@@ -1,0 +1,1 @@
+Artículo 389 Bis 2.- El certificado de discapacidad será expedido conforme a la legislación vigente y acorde con los tratados internacionales de los que México sea parte, por profesionales de la medicina o persona autorizada por la autoridad sanitaria. El certificado de discapacidad deberá incluir la Clave Única de Registro de Población del beneficiario.
