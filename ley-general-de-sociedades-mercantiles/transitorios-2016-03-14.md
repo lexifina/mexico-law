@@ -5,4 +5,3 @@ Artículo Único.- Se reforman el párrafo segundo del artículo 1o.; el párraf
 Transitorio
 Único.- El presente Decreto entrará en vigor a los seis meses contados a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 9 de febrero de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Rúbricas."
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a once de marzo de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
