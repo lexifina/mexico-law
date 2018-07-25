@@ -1,1 +1,1 @@
-Artículo 22-C. Los contribuyentes que tengan cantidades a su favor cuyo monto sea igual o superior a $14,140.00, deberán presentar su solicitud de devolución en formato electrónico con firma electrónica avanzada.
+Artículo 22-C. Los contribuyentes que tengan cantidades a su favor cuyo monto sea igual o superior a $15,790.00, deberán presentar su solicitud de devolución en formato electrónico con firma electrónica avanzada.
