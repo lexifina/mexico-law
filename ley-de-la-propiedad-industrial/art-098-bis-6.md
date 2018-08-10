@@ -1,2 +1,1 @@
-Artículo 98 bis-6. Concluido el trámite de la solicitud y satisfechos los requisitos legales y reglamentarios, se expedirá la declaratoria correspondiente.
-En caso de que el Instituto niegue el otorgamiento de la declaratoria, lo notificará por escrito al solicitante, expresando los motivos y fundamentos legales de su resolución y valorando todos los elementos probatorios recibidos.
+Artículo 98 bis-6. (Se deroga).

@@ -1,0 +1,1 @@
+Artículo 120 BIS-3.- La oposición al registro o publicación de una solicitud no suspenderá el trámite, ni tampoco prejuzgará sobre el resultado del examen de fondo que realice el Instituto sobre la solicitud.

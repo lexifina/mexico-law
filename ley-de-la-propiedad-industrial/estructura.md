@@ -25,9 +25,9 @@ De las Marcas y de los Avisos y Nombres Comerciales
 Capítulo I
 De las Marcas
 Capítulo II
-De las Marcas Colectivas
-CAPÍTULO II BIS.
-De las Marcas Notoriamente Conocidas y Famosas.
+De las Marcas Colectivas y de Certificación
+CAPÍTULO II BIS
+De las Marcas Notoriamente Conocidas y Famosas
 Capítulo III
 De los Avisos Comerciales
 Capítulo IV
