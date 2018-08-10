@@ -1,3 +1,6 @@
-Artículo 98 bis-1. La declaratoria o cualquiera de sus actualizaciones constituyen un acto administrativo por medio del cual el Instituto declara, con base en los elementos de prueba aportados, que las condiciones por virtud de las cuales una marca es notoriamente conocida o famosa, subsisten al tiempo en que el acto se emite.
-Los impedimentos previstos en el artículo 90 fracciones XV y XV bis, para la protección de marcas notoriamente conocidas o famosas, se aplicarán con independencia de que éstas se encuentren registradas o declaradas.
-Sin embargo, para que el titular de una marca pueda obtener declaratoria, la misma debe estar registrada en México y amparar los productos o servicios en los que la marca originó su notoriedad o fama.
+Artículo 98 BIS-1.- Podrá solicitar el registro cualquier persona moral, siempre y cuando no desarrolle una actividad empresarial que implique el suministro de productos o la prestación del servicio de la misma naturaleza o tipo que aquella certifica.
+Cuando la marca de certificación se constituya por una indicación geográfica nacional, sólo podrán solicitar el registro:
+I.- Las personas morales que directamente se dediquen a la extracción, producción o elaboración del producto que se pretenda amparar;
+II.- Las cámaras o asociaciones de fabricantes o productores vinculados con el producto que se pretenda amparar con la indicación;
+III.- Las dependencias o entidades del Gobierno Federal, y
+IV.- Los gobiernos de las Entidades de la Federación en cuyo territorio o zona geográfica se extraiga, produzca o elabore el producto que se pretenda amparar.

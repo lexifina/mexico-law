@@ -1,2 +1,2 @@
-Artículo 98 bis-3. El Instituto presumirá, salvo prueba en contrario, que las condiciones que originaron la declaratoria o sus actualizaciones, subsisten por un período de cinco años a partir de la fecha de su expedición; en consecuencia, durante dicho período deberá aplicar según corresponda, el impedimento previsto en artículo 90 fracción XV o el previsto en la fracción XV bis, de manera expedita.
-La declaratoria podrá actualizarse en cualquier tiempo, a petición de quien tenga interés jurídico, siempre que acredite que las condiciones que le dieron origen subsisten a la fecha de la solicitud respectiva.
+Artículo 98 BIS-3.- La marca de certificación no será objeto de licencia, quedando su uso reservado a las personas que cumplan con las condiciones determinadas en las reglas para su uso.
+Las marcas de certificación se regirán, en lo que no haya disposición especial, por lo establecido en esta Ley para las marcas.

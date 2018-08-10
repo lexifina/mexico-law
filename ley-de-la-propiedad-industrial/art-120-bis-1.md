@@ -1,0 +1,1 @@
+Artículo 120 BIS-1.- Para el trámite de la oposición se admitirán toda clase de pruebas con excepción de la confesional y testimonial, salvo que el testimonio o la confesión estén contenidos en documental, así como las que sean contrarias a la moral y al derecho.
