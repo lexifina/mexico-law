@@ -27,13 +27,13 @@ Marina Hacienda y Crédito Público
 Hacienda y Crédito Público Desarrollo Regional y Apoyo a la Producción
 Programación, Presupuesto y Cuenta Pública
 Presupuesto y Cuenta Pública Asentamientos Humanos y Obras Públicas
-Desarrollo Social
+Desarrollo Social y Vivienda Desarrollo Social
 Vivienda
-Desarrollo Social y Vivienda Asuntos Hidráulicos
+Asuntos Hidráulicos
 Bosques y Selvas
 Ecología y Medio Ambiente
-Medio Ambiente, Recursos Naturales y Pesca Pesca
-Energéticos
+Pesca
+Medio Ambiente, Recursos Naturales y Pesca Energéticos
 Energía Artesanías
 Comercio
 Patrimonio y Fomento Industrial
@@ -58,8 +58,8 @@ Distrito Federal Asuntos Indígenas
 Asuntos Indígenas Equidad y Género
 Equidad y Género Atención y Apoyo a Discapacitados
 Asuntos de la Juventud
-Atención a Grupos Vulnerables Participación Ciudadana
-Fomento Cooperativo
+Participación Ciudadana
+Atención a Grupos Vulnerables Fomento Cooperativo
 Distribución y Manejo de Bienes de Consumo y Servicios
 Fomento Cooperativo y Economía Social Vigilancia de la Contaduría Mayor de Hacienda
 Vigilancia de la Contaduría Mayor de Hacienda Comisión Información, Gestoría y Quejas
