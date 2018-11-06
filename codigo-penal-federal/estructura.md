@@ -181,7 +181,7 @@ Revelación de secretos
 Capitulo II
 Acceso ilícito a sistemas y equipos de informática
 TITULO DECIMO
-Delitos por hechos de corrupción
+Delitos Cometidos por Servidores Públicos
 CAPITULO I
 CAPITULO II
 Ejercicio ilícito de servicio público
@@ -193,6 +193,8 @@ CAPITULO IV
 Coalición de servidores públicos
 CAPITULO V
 Uso ilícito de atribuciones y facultades
+CAPÍTULO V BIS
+Del pago y recibo indebido de remuneraciones de los servidores públicos
 CAPITULO VI
 Concusión
 CAPITULO VII
