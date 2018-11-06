@@ -12,4 +12,3 @@ j) Quien esté ligado con la víctima por un lazo afectivo o de amistad, de grat
 En los casos de los incisos a), b), c) y d) además de las sanciones señaladas, los autores del delito perderán la patria potestad, tutela o curatela, según sea el caso, respecto de todos sus descendientes, el derecho a alimentos que pudiera corresponderle por su relación con la víctima y el derecho que pudiera tener respecto de los bienes de ésta.
 En los casos de los incisos e), f) y h) además de las sanciones señaladas, se castigará con destitución e inhabilitación para desempeñar el cargo o comisión o cualquiera otro de carácter público o similar, hasta por un tiempo igual a la pena impuesta.
 En todos los casos el juez acordará las medidas pertinentes para que se le prohíba permanentemente al ofensor tener cualquier tipo de contacto o relación con la víctima.
-Artículo. 206.- El lenocinio se sancionará con prisión de dos a nueve años y de cincuenta a quinientos días multa.
