@@ -2,3 +2,6 @@ Artículo 217 Bis.- Al particular que, en su carácter de contratista, permision
 I.- Genere y utilice información falsa o alterada, respecto de los rendimientos o beneficios que obtenga, y
 II.- Cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte.
 Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y de treinta a cien días multa.
+Artículo 217 Bis (sic DOF 05-11-2018). Además de las responsabilidades administrativa y política, incurre en el delito de remuneración ilícita:
+I. El servidor público que apruebe o refrende el pago, o que suscriba el comprobante, cheque, nómina u orden de pago, de una remuneración, retribución, jubilación, pensión, haber de retiro, liquidación por servicios prestados, préstamo o crédito, no autorizado de conformidad con lo dispuesto en la presente Ley;
+II. Quien reciba un pago indebido en los términos de la fracción anterior sin realizar el reporte dentro del plazo señalado en el artículo 5 de la presente Ley, excepto quien forme parte del personal de base y supernumerario de las entidades públicas que no tenga puesto de mando medio o superior, así como el personal de tropa y clases de las fuerzas armadas.
