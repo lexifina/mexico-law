@@ -1,0 +1,8 @@
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a ocho de enero de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica. DECRETO por el que se adicionan diversas disposiciones de la Ley General de Sociedades Mercantiles.
+Publicado en el Diario Oficial de la Federación el 14 de junio de 2018
+Artículo Único.- Se adicionan un párrafo segundo y el actual párrafo segundo pasa a ser el párrafo tercero del artículo 73; un segundo y tercer párrafos al artículo 129, de la Ley General de Sociedades Mercantiles, para quedar como sigue:
+...
+Transitorio
+Único.- El presente Decreto entrará en vigor a los seis meses contados a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar Romo García, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. Sofía del Sagrario De León Maza, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.
