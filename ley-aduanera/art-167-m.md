@@ -1,0 +1,1 @@
+ARTICULO 167-M. En caso de cancelación o extinción de la patente de algún agente aduanal que integra la agencia aduanal, se entenderá desincorporado de la misma, con independencia de que la agencia aduanal efectúe el trámite que corresponda y proporcione los antecedentes respectivos a la autoridad aduanera.

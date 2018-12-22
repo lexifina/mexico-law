@@ -4,5 +4,5 @@ II. (Se deroga).
 III. El despacho a domicilio a la exportación de acuerdo con los lineamientos que emita el Servicio de Administración Tributaria mediante reglas;
 IV. (Se deroga).
 V. Considerar como desperdicios los materiales que ya manufacturados en el país sean rechazados por control de calidad, así como los que se consideran obsoletos por avances tecnológicos;
-VI. Las relativas a la reducción de multas y el cumplimiento en forma espontánea de sus obligaciones derivadas del despacho aduanero, en los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas;
-VII. Otras medidas de simplificación y fortalecimiento de la seguridad jurídica previstas en esta Ley o que establezca mediante reglas el Servicio de Administración Tributaria.
+VI. Las relativas a la reducción de multas y el cumplimiento de sus obligaciones derivadas del despacho aduanero, en forma espontánea o durante el ejercicio de facultades de comprobación, en los términos y condiciones que establezca el Servicio de Administración Tributaria mediante reglas;
+VII. Otras medidas de simplificación y facilitación del despacho aduanero previstas en esta Ley o que establezca mediante reglas el Servicio de Administración Tributaria.

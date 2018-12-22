@@ -1,8 +1,8 @@
 ARTICULO 135-B. El régimen de recinto fiscalizado estratégico consiste en la introducción, por tiempo limitado, de mercancías extranjeras, nacionales o nacionalizadas, a los recintos fiscalizados estratégicos, para ser objeto de manejo, almacenaje, custodia, exhibición, venta, distribución, elaboración, transformación o reparación y se sujetará a lo siguiente:
-I. No se pagarán los impuestos al comercio exterior ni las cuotas compensatorias, salvo tratándose de mercancías extranjeras, en los casos previstos en el artículo 63-A de esta Ley.
-II. No estarán sujetas al cumplimiento de las regulaciones y restricciones no arancelarias y normas oficiales mexicanas, excepto las expedidas en materia de sanidad animal y vegetal, salud pública, medio ambiente y seguridad nacional.
-III. Las mermas resultantes de los procesos de elaboración, transformación o reparación no causarán contribución alguna ni cuotas compensatorias.
+I. No se pagarán los impuestos al comercio exterior, salvo tratándose de mercancías extranjeras, en los casos previstos en el artículo 63-A de esta Ley.
+II. Estarán sujetas al cumplimiento de las regulaciones y restricciones no arancelarias que señale la Secretaría de Economía y que se expidan en términos de la Ley de Comercio Exterior.
+III. Las mermas resultantes de los procesos de elaboración, transformación o reparación no causarán contribución alguna.
 IV. Los desperdicios no retornados no causarán contribuciones siempre que se demuestre que han sido destruidos cumpliendo con las disposiciones de control que para tales efectos establezca el Servicio de Administración Tributaria mediante reglas.
-Para destinar las mercancías al régimen de recinto fiscalizado estratégico, se deberá tramitar el pedimento respectivo o efectuar el registro a través de medios electrónicos que señale el Servicio de Administración Tributaria mediante reglas, determinando las contribuciones y cuotas compensatorias que correspondan.
+Para destinar las mercancías al régimen de recinto fiscalizado estratégico, se deberá tramitar el pedimento respectivo o efectuar el registro a través de medios electrónicos que señale el Servicio de Administración Tributaria mediante reglas, determinando las contribuciones y, en su caso, las cuotas compensatorias que correspondan.
 A partir de la fecha en que las mercancías nacionales o nacionalizadas queden bajo este régimen, se entenderán exportadas definitivamente.
 Los petrolíferos son mercancías que no podrán ser objeto de este régimen.
