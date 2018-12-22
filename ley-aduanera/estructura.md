@@ -67,10 +67,10 @@ Título Sexto
 Atribuciones del Poder Ejecutivo Federal y de las autoridades fiscales
 Capítulo Unico
 Título Séptimo
-Agentes aduanales, apoderados aduanales y dictaminadores aduaneros
+Agentes aduanales, agencias aduanales y dictaminadores aduaneros
 Capítulo Unico
 Sección Primera
-Agentes aduanales
+Agentes aduanales y agencias aduanales
 Sección Segunda
 Apoderados aduanales
 Sección Tercera
