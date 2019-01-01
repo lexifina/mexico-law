@@ -1,0 +1,12 @@
+DECRETO de reformas y adiciones a la Ley Orgánica de los Tribunales de Justicia del Fuero Común del Distrito Federal, Código de Procedimiento Civiles para el Distrito Federal y Código de Comercio.
+Publicado en el Diario Oficial de la Federación el 30 de diciembre de 1975
+ARTICULO CUARTO.- Se reforma el artículo 1340 del Código de Comercio, para quedar como sigue:
+...
+TRANSITORIOS
+ARTICULO PRIMERO.- Los Juzgados Mixtos Menores de los Partidos Judiciales Segundo, Tercero y Cuarto, pasarán a ser juzgados de lo Civil o de lo Familiar, según lo determine el Pleno del Tribunal Superior de Justicia del Distrito Federal de acuerdo con las necesidades, asignándoles el número respectivo.
+ARTICULO SEGUNDO.- Los asuntos que se encuentren en trámite en los Juzgados mixtos Menores que de acuerdo con la Ley pasen a ser de lo Civil o de lo Familiar, continuarán tramitándose ante el Juzgad donde están radicados hasta su conclusión.
+ARTICULO TERCERO.- Los Juzgados de Paz Civiles, pasan a ser Mixtos de Paz, en Materia penal y Civil, y el Pleno del Tribunal Superior de Justicia del Distrito Federal determinará su residencia y distribución entre las Delegaciones Políticas en el número que la densidad de población o la distancia lo requiera.
+ARTICULO CUARTO.- Los asuntos que estén en trámite ante los Juzgados Mixtos de lo Civil y Familiar de los Partidos Judiciales Segundo y Cuarto, se tramitarán en el Juzgado que al efecto se forme para atender la materia que correspondan y el Pleno del Tribunal asignará a estos juzgados y al de lo Civil y al de lo Familiar del Tercer Partido Judicial, el número respectivo.
+ARTICULO QUINTO.- Los Juzgados Penales de los Partidos Judiciales Segundo, Tercero y Cuarto, serán Superior, y continuarán tramitando los asuntos que tienen radicados hasta su conclusión, y los individuos que sean detenidos por delitos cometidos dentro del perímetro de las Delegaciones que comprendían cada uno de estos Partidos judiciales, en su casa quedarán privados de la libertad en los respectivos reclusorios existentes, hasta que la autoridad administrativa provea a la sustitución de éstos.
+ARTICULO SEXTO.- Los asuntos de cuantía inferior a cinco mil pesos, que se presenten en los juzgado de lo Civil antes del día en que entre en vigor este Decreto, continuarán su trámite ante dichos juzgados hasta su conclusión.
+ARTICULO SEPTIMO.- El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
