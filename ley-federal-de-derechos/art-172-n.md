@@ -1,1 +1,1 @@
-Artículo 172-N.- Por la autorización para constituir gravámenes sobre los derechos derivados de la concesión del sistema ferroviario, se pagará la cuota de ... $16,814.44
+Artículo 172-N.- Por la autorización para constituir gravámenes sobre los derechos derivados de la concesión del sistema ferroviario, se pagará la cuota de ... $18,773.71

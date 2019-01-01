@@ -12,12 +12,12 @@ ZONA X. Estado de Baja California Sur: Los Cabos; Estado de Guerrero: Acapulco d
 ZONA XI. Subzona A. Estado de Quintana Roo: Cozumel. Subzona B. Estado de Quintana Roo: Benito Juárez, Puerto Morelos, Solidaridad y Tulum.
 Artículo 232-D-1.- Están obligadas a pagar el derecho por extracción de materiales pétreos, las personas físicas y morales que los extraigan de las playas, la zona federal marítimo terrestre y los terrenos ganados al mar o de cualquier otro depósito de aguas marítimas, así como del lecho marino, conforme a la cuota que resulte por metro cúbico:
 Material $/M3
-Grava ... $14.98
-Arena ... $14.98
-Arcillas y limos ... $10.87
-Materiales en greña ... $11.72
-Piedra bola ... $12.93
-Otros ... $4.48
+Grava ... $16.72
+Arena ... $16.72
+Arcillas y limos ... $12.14
+Materiales en greña ... $13.09
+Piedra bola ... $14.44
+Otros ... $5.01
 El derecho se pagará por ejercicios fiscales mediante declaración que se presentará en las oficinas autorizadas por el Servicio de Administración Tributaria, dentro de los tres meses siguientes a la fecha en que termine el ejercicio fiscal.
 A cuenta del derecho, se realizarán pagos provisionales mensuales, mediante declaración que se presentará en las oficinas autorizadas por el Servicio de Administración Tributaria, dentro de los diez días previos al mes en el que se efectúe la extracción, considerando el volumen de material que se tenga programado extraer durante ese periodo.
 Al monto total del derecho que resulte por el ejercicio de que se trate en los términos de este artículo, se le restará el monto total de los pagos provisionales enterados durante el ejercicio. La diferencia que resulte a su cargo se enterará conjuntamente con la declaración anual del derecho del mismo ejercicio. Cuando resulte saldo a favor, dicho saldo podrá compensarse contra los pagos provisionales del derecho que resulte a su cargo en el ejercicio siguiente, posteriores a la presentación de la declaración anual del ejercicio inmediato anterior.

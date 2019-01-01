@@ -1,4 +1,4 @@
 Artículo 288-F. Por el aprovechamiento de la imagen para la publicación, reproducción o comunicación pública de fotografías, independientemente de los derechos señalados en los artículos 288-B, 288-D y 288-E de esta Ley, se pagarán derechos conforme a las siguientes cuotas:
-I. Impreso de 1 a 1000 ejemplares ... $196.24
-II. Impreso de 1001 ejemplares en adelante o publicado en soporte filmado, videograbado o digital ... $589.26
+I. Impreso de 1 a 1000 ejemplares ... $219.11
+II. Impreso de 1001 ejemplares en adelante o publicado en soporte filmado, videograbado o digital ... $657.92
 No pagarán los derechos establecidos en este artículo las autoridades competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.

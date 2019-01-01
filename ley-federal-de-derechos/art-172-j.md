@@ -1,2 +1,2 @@
 Artículo 172-J.- Por las autorizaciones de los servicios ferroviarios, se pagarán derechos conforme a las siguientes cuotas:
-I.- Manuales de sistemas de control de tránsito ... $8,494.15
+I.- Manuales de sistemas de control de tránsito ... $9,483.91

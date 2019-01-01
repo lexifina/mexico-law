@@ -1,34 +1,34 @@
 Artículo 223-Bis. Las personas físicas y morales a que se refieren los artículos 222 y 223 de esta Ley, que trasvasen directamente las aguas nacionales, así como aquéllas que se beneficien del trasvase indirecto, pagarán adicionalmente a las cuotas previstas en el artículo 223 citado, las cuotas siguientes atendiendo a los usos establecidos en el artículo 223 de esta Ley, así como a las zonas de disponibilidad de donde se efectúa la exportación del agua trasvasada y la de importación.
 Apartado A, del artículo 223 de esta Ley, fuente de extracción aguas superficiales
-Zona de disponibilidad exportadora Zona de disponibilidad importadora ZD 1 2 3 4 1 $2.7573
-2 $1.5122 $1.2695
-3 $1.0172 $0.5895 $0.4162
-4 $0.9705 $0.5338 $0.3252 $0.3183
+Zona de disponibilidad exportadora Zona de disponibilidad importadora ZD 1 2 3 4 1 $3.0786
+2 $1.6884 $1.4175
+3 $1.1357 $0.6582 $0.4647
+4 $1.0835 $0.5960 $0.3631 $0.3554
 Apartado B, fracción I del artículo 223 de esta Ley, fuente de extracción aguas superficiales
-Zona de disponibilidad exportadora Zona de disponibilidad importadora ZD 1 2 3 4 1 $81.96
-2 $46.01 $39.31
-3 $33.95 $22.61 $19.63
-4 $29.00 $16.48 $11.28 $9.76
+Zona de disponibilidad exportadora Zona de disponibilidad importadora ZD 1 2 3 4 1 $91.51
+2 $51.37 $43.89
+3 $37.91 $25.25 $21.92
+4 $32.38 $18.40 $12.60 $10.90
 Apartado B, fracción II del artículo 223 de esta Ley, fuente de extracción aguas superficiales
-Zona de disponibilidad exportadora Zona de disponibilidad importadora ZD 1 2 3 4 1 $0.9473
-2 $0.9473 $0.9473
-3 $0.9473 $0.9473 $0.9473
-4 $0.9473 $0.9473 $0.9473 $0.9473
+Zona de disponibilidad exportadora Zona de disponibilidad importadora ZD 1 2 3 4 1 $1.0577
+2 $1.0577 $1.0577
+3 $1.0577 $1.0577 $1.0577
+4 $1.0577 $1.0577 $1.0577 $1.0577
 Apartado B, fracción III del artículo 223 de esta Ley, fuente de extracción aguas superficiales
-Zona de disponibilidad exportadora Zona de disponibilidad importadora ZD 1 2 3 4 1 $0.6813
-2 $0.3916 $0.3400
-3 $0.2784 $0.1861 $0.1561
-4 $0.2370 $0.1359 $0.0860 $0.0723
+Zona de disponibilidad exportadora Zona de disponibilidad importadora ZD 1 2 3 4 1 $0.7607
+2 $0.4373 $0.3796
+3 $0.3109 $0.2077 $0.1742
+4 $0.2646 $0.1517 $0.0960 $0.0807
 Apartado B, fracción IV del artículo 223 de esta Ley, fuente de extracción aguas superficiales
-Zona de disponibilidad exportadora Zona de disponibilidad importadora ZD 1 2 3 4 1 $2.0305
-2 $1.2530 $1.1332
-3 $0.8644 $0.6261 $0.5286
-4 $0.7071 $0.4414 $0.2731 $0.2180
+Zona de disponibilidad exportadora Zona de disponibilidad importadora ZD 1 2 3 4 1 $2.2671
+2 $1.3990 $1.2652
+3 $0.9651 $0.6990 $0.5901
+4 $0.7895 $0.4929 $0.3049 $0.2435
 Apartado C, del artículo 223 de esta Ley, fuente de extracción aguas superficiales
-Zona de disponibilidad exportadora Zona de disponibilidad importadora ZD 1 2 3 4 1 $0.0289
-2 $0.0289 $0.0289
-3 $0.0289 $0.0289 $0.0289
-4 $0.0289 $0.0289 $0.0289 $0.0289
+Zona de disponibilidad exportadora Zona de disponibilidad importadora ZD 1 2 3 4 1 $0.0323
+2 $0.0323 $0.0323
+3 $0.0323 $0.0323 $0.0323
+4 $0.0323 $0.0323 $0.0323 $0.0323
 La cuota que resulte de las tablas anteriores, se aplicará por cada metro cúbico o mil metros cúbicos de agua que durante el trimestre trasvase directamente el contribuyente, así como por cada metro cúbico o mil metros cúbicos de los que se haya beneficiado el contribuyente derivado del trasvase indirecto, según corresponda.
 El contribuyente podrá optar por adicionar a la cuota prevista en el artículo 223 de esta Ley, la cuota que se determine de acuerdo con la siguiente fórmula:
           

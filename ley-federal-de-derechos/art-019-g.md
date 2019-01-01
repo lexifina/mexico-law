@@ -1,2 +1,2 @@
-Artículo 19-G.- Por el apostillamiento de documentos públicos federales, por cada documento ... $733.45
+Artículo 19-G.- Por el apostillamiento de documentos públicos federales, por cada documento ... $818.92
 No se pagará el derecho por el apostillamiento de documentos públicos que sean solicitados por la Federación, de asuntos oficiales y de su competencia, siempre que no derive de la petición de un particular. Tampoco se pagará este derecho cuando se trate del apostillamiento de documentos para la substanciación del juicio de amparo.
