@@ -17,7 +17,7 @@ De la Correspondencia
 TITULO TERCERO
 De los Corredores
 LIBRO SEGUNDO
-Del Comercio en General
+DEL COMERCIO EN GENERAL
 TITULO PRIMERO
 De los Actos de Comercio y de los Contratos Mercantiles en General
 CAPITULO I
@@ -25,17 +25,16 @@ De los Actos de Comercio
 CAPITULO II
 De los Contratos Mercantiles en General
 TITULO SEGUNDO
-De Comercio Electrónico
-CAPITULO I
-De los Mensajes de Datos
+DEL COMERCIO ELECTRONICO
+CAPÍTULO I
+DE LOS MENSAJES DE DATOS
 CAPÍTULO I BIS
 De la Digitalización
-CAPITULO II
-De las Firmas
-CAPITULO III
-De los Prestadores de Servicios de Certificación
-CAPITULO IV
-Reconocimiento de Certificados y Firmas Electrónicas Extranjeros
+CAPÍTULO II
+DE LAS FIRMAS
+CAPÍTULO III
+DE LOS PRESTADORES DE SERVICIOS DE CERTIFICACIÓN
+CAPÍTULO IV
 CAPITULO V
 De la Sociedad Anónima
 CAPITULO VI
@@ -57,7 +56,7 @@ De los Comisionistas
 CAPITULO II
 De los Factores y Dependientes
 TITULO CUARTO
-Del Deposito Mercantil
+Del Depósito Mercantil
 CAPITULO I
 Del Depósito Mercantil en General
 CAPITULO II
@@ -67,7 +66,7 @@ Del Préstamo Mercantil
 CAPITULO I
 Del Préstamo Mercantil en General
 CAPITULO II
-De los Préstamos con Garantía o Título de Valores Públicos
+De los Préstamos con Garantía o Títulos de Valores Públicos
 TITULO SEXTO
 CAPITULO I
 De la Compraventa
@@ -76,7 +75,7 @@ De las Permutas Mercantiles
 CAPITULO III
 De las Cesiones de Créditos no Endosables
 CAPITULO IV
-De la Consignación Mercantil
+De la Consignación Mercantil.
 TITULO SEPTIMO
 De los Contratos de Seguros
 CAPITULO I
@@ -112,7 +111,7 @@ De las Acciones que Competen al Portador de una Letra de Cambio
 CAPITULO X
 Del Recambio y Resaca
 TITULO NOVENO
-De las Libranzas, Vales, Pagares, Cheques y Carta de Crédito
+De las Libranzas, Vales, Pagares, Cheques y Cartas de Crédito
 CAPITULO I
 De las Libranzas, Vales y Pagarés
 CAPITULO II
@@ -123,7 +122,7 @@ TITULO DECIMO
 De los Transportes por Vías Terrestres o Fluviales
 CAPITULO I
 Del Contrato Mercantil de Transporte Terrestre
-TITULO DECIMO PRIMERO
+TITULO UNDECIMO
 De la Prenda Mercantil
 TITULO DECIMO SEGUNDO
 CAPITULO I
@@ -152,7 +151,6 @@ TITULO TERCERO
 De los Contratos Especiales del Comercio Marítimo
 CAPITULO I
 Del Contrato de Fletamento
-De las Formas y Efectos del Contrato de Fletamento
 CAPITULO II
 De los Derechos y Obligaciones del Fletante
 CAPITULO III
@@ -221,7 +219,7 @@ Disposiciones Generales
 CAPITULO I
 Del Procedimiento Especial Mercantil
 CAPITULO II
-De la Capacidad y Personalidad
+De la capacidad y personalidad
 CAPITULO III
 De las Formalidades Judiciales
 CAPITULO IV
@@ -231,8 +229,8 @@ De los Términos Judiciales
 CAPITULO VI
 CAPITULO VII
 De las Costas
-CAPITULO VIII
-De las Competencias y Excepciones Procesales
+CAPÍTULO VIII
+De las competencias y excepciones procesales
 CAPITULO IX
 De los Impedimentos, Recusaciones y Excusas
 CAPITULO X
@@ -263,12 +261,12 @@ CAPITULO XXII
 De las Sentencias
 CAPITULO XXIII
 De la Aclaración de Sentencia
-CAPITULO XXIV
-De la Revocación y Reposición
+CAPÍTULO XXIV
+De la revocación y reposición
 CAPITULO XXV
 De la Apelación
-CAPITULO XXVI
-Del Trámite de la Apelación
+CAPÍTULO XXVI
+Del Trámite de la apelación
 CAPITULO XXVII
 De la Ejecución de las Sentencias
 CAPITULO XXVIII
@@ -330,24 +328,24 @@ TITULO TERCERO BIS
 CAPITULO I
 CAPITULO II
 TITULO CUARTO
-Del Arbitraje Comercial
+DEL ARBITRAJE COMERCIAL
 CAPITULO I
-Disposiciones Generales
+DISPOSICIONES GENERALES
 CAPITULO II
-Acuerdo de Arbitraje
+ACUERDO DE ARBITRAJE
 CAPITULO III
-Composición del Tribunal Arbitral
+COMPOSICION DEL TRIBUNAL ARBITRAL
 CAPITULO IV
-Competencia del Tribunal Arbitral
+COMPETENCIA DEL TRIBUNAL ARBITRAL
 CAPITULO V
-Sustanciación de las Actuaciones Arbitrales
+SUSTANCIACION DE LAS ACTUACIONES ARBITRALES
 CAPITULO VI
-Pronunciamiento del Laudo y Terminación de las Actuaciones
+PRONUNCIAMIENTO DEL LAUDO Y TERMINACION DE LAS ACTUACIONES
 CAPITULO VII
-De las Costas
+DE LAS COSTAS
 CAPITULO VIII
-De la Nulidad del Laudo
+DE LA NULIDAD DEL LAUDO
 CAPITULO IX
-Reconocimiento y Ejecución de Laudos
+RECONOCIMIENTO Y EJECUCION DE LAUDOS
 CAPÍTULO X
 De la Intervención Judicial en la Transacción Comercial y el Arbitraje
