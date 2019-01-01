@@ -1,0 +1,13 @@
+LEY que establece, reforma, adiciona y deroga diversas disposiciones fiscales.
+Publicada en el Diario Oficial de la Federación el 31 de diciembre de 1984
+ARTICULO DECIMO SEGUNDO.- Se REFORMA el artículo 5o.-A párrafos segundo y tercero de la Ley del Impuesto Especial Sobre Producción y Servicios, para quedar como sigue:
+...
+Disposiciones con Vigencia durante el año de 1985
+ARTICULO DECIMO TERCERO.- Durante el año de 1985 se aplicarán en materia del Impuesto Especial sobre Producción y Servicios, las siguientes disposiciones:
+I.- Lo dispuesto en el segundo párrafo del artículo 5o. A de la Ley no será aplicable a los contribuyentes que produzcan, envasen o importen cerveza, o los concentrados, polvos, jarabes o esencias, o extractos de sabores a que se refiere el inciso c), de la fracción I, del artículo 2o. de la Ley.
+II.- Para los efectos de la tasa establecida en el artículo 2o.fracción I, inciso H), subinciso 2, de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que el 1o. de enero de 1985, tengan un precio máximo al público que no exceda de $30.00 por cajetilla de 20 cigarros.
+Disposición con Vigencia durante los años de 1985 y 1986
+ARTICULO DECIMO CUARTO.- Durante los años de 1985 y 1986 los productores o envasadores de agua mineral natural o con sabor que de conformidad con el artículo 5o.-A de la Ley del Impuesto Especial sobre Producción y Servicios, estén obligados a retener ese impuesto, lo harán sobre el 50% del impuesto que corresponde a los adquirentes de esos bienes durante el ejercicio fiscal de 1985, siempre que los adquirentes de esos bienes se encuentren en población distinta a aquélla en que esté ubicada la fábrica. Durante el ejercicio fiscal de 1986 las retenciones a que se refiere este párrafo serán del 75%.
+Los contribuyentes a los que se les retenga el impuesto de conformidad con lo señalado en el párrafo anterior, deberán presentar declaración de pago provisional en la que acreditarán el impuesto que les debió haber retenido en los términos del segundo párrafo del artículo 5o-A de la Ley.
+TRANSITORIO
+ARTICULO UNICO.- La presente Ley entrara en vigor el día 1o. de enero de 1985, excepto lo establecido por los Artículos Décimo y Décimo Primero que comenzarán a regir a partir del día 1o. de enero de 1986; Decimo Segundo que entrará en vigor el 1o. de julio de 1985; Vigésimo, en lo relativo a las adiciones y reformas a la Sección Cuarta, Capítulo VIII, Título I de la Ley Federal de Derechos, que regirán a partir del día 1o. de febrero de 1985; y Vigésimo Tercero que entrará en vigor el 1o. de agosto de 1985.
