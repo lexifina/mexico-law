@@ -1,0 +1,7 @@
+LEY General de Sociedades Mercantiles.
+Publicada en el Diario Oficial de la Federación el 4 de agosto de 1934
+TRANSITORIOS:
+ARTICULO 1°.- Esta Ley entrará en vigor en la fecha de su publicación.
+ARTICULO 2°.- Sus disposiciones regirán los efectos jurídicos de los actos anteriores a su vigencia, siempre que su aplicación no resulte retroactiva.
+ARTICULO 3°.- Las sociedades anónimas que al entrar en vigor la presente Ley estén constituyéndose por el procedimiento de suscripción pública, podrán ajustar sus estatutos a las prevenciones de esta Ley sobre sociedades de capital variable, siempre que así lo acuerde la asamblea constitutiva que al efecto se celebre, con el quórum y la mayoría requeridos por el artículo 190, computados en relación con las acciones que hayan sido suscritas.
+ARTICULO 4°.- Se derogan el Título Segundo del Libro Segundo del Código de Comercio de 15 de septiembre de 1889 y todas las disposiciones legales que se opongan a la presente Ley.
