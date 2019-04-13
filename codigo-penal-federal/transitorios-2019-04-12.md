@@ -1,0 +1,9 @@
+Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares Guadalupe Vázquez Alatorre, Secretaria.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas. DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Remuneraciones de los Servidores Públicos, reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos, del Código Penal Federal y de la Ley General de Responsabilidades Administrativas.
+Publicado en el Diario Oficial de la Federación el 12 de abril de 2019
+Artículo Segundo.- Se reforman la denominación del Título Décimo del Libro Segundo; el numeral del artículo 217 Bis correspondiente al Capítulo V Bis, para pasar a ser 217 Ter, del mismo Capítulo, y sus fracciones I y II; así como el numeral del artículo 217 Ter del Capítulo V Bis, para pasar a ser 217 Quáter, y sus fracciones I, II, III y IV del Código Penal Federal, para quedar como sigue:
+...
+Transitorios
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Segundo.- Quedan derogadas todas disposiciones que se opongan al contenido del presente Decreto.
+Ciudad de México, a 5 de marzo de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 9 de abril de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
