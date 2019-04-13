@@ -6,4 +6,3 @@ Transitorios
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 Segundo. Al momento de la entrada en vigor de la presente Ley quedan sin efectos todas las disposiciones contrarias a la misma.
 Ciudad de México, a 13 de septiembre de 2018.
-Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares Guadalupe Vázquez Alatorre, Secretaria.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Rúbricas.
