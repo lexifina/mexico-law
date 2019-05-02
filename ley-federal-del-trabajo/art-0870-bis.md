@@ -1,0 +1,1 @@
+Artículo 870 Bis.- Las partes no podrán invocar en ninguna etapa procesal, antecedente alguno relacionado con la proposición, discusión, aceptación, rechazo o reconocimiento de hechos y derechos que se hayan realizado en el procedimiento de conciliación prejudicial.

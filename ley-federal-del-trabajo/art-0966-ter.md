@@ -1,0 +1,1 @@
+Artículo 966 Ter.- El Tribunal deberá dar vista al Instituto Mexicano del Seguro Social con la sentencia condenatoria, a fin de que dicho organismo actúe conforme a sus atribuciones haga cumplir a la parte condenada respecto de sus obligaciones en materia de seguridad social.

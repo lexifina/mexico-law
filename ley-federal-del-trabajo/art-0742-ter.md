@@ -1,0 +1,1 @@
+Artículo 742 Ter.- Tratándose de Dependencias u Organismos Públicos, las notificaciones posteriores al emplazamiento a Juicio, se hará al buzón electrónico asignado en términos del artículo 739 de esta Ley.

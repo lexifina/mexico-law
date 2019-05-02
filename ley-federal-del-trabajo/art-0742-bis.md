@@ -1,0 +1,1 @@
+Artículo 742 Bis.- Si las partes aceptaron que las notificaciones personales posteriores al emplazamiento a juicio se lleven a cabo mediante el buzón electrónico, éstas se harán por dicho medio, sin necesidad de remitir la orden de notificación al actuario.

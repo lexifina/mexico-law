@@ -75,7 +75,7 @@ Trabajadores actores y músicos
 CAPITULO XII
 Trabajo a domicilio
 CAPITULO XIII
-Trabajadores domésticos
+Trabajadores del hogar
 Capitulo XIII Bis
 De Los Trabajadores en Minas
 CAPITULO XIV
@@ -131,12 +131,15 @@ Comisiones Consultivas de la Comisión Nacional de los Salarios Mínimos
 CAPITULO VIII
 Procedimiento ante la Comisión Nacional de los Salarios Mínimos
 CAPITULO IX
+CAPITULO IX BIS
+Del Centro Federal de Conciliación y Registro Laboral
+CAPITULO IX TER
 CAPITULO X
 Juntas federales de conciliación
 CAPITULO XI
 Juntas locales de conciliación
 CAPITULO XII
-Junta federal de conciliación y arbitraje
+De la Competencia de los Tribunales
 CAPITULO XIII
 Juntas locales de conciliación y arbitraje
 TITULO DOCE
@@ -146,6 +149,13 @@ Representantes de los Trabajadores y de los Patrones
 CAPITULO I
 CAPITULO II
 CAPITULO III
+TÍTULO TRECE BIS
+CAPITULO I
+Del Procedimiento de Conciliación Prejudicial
+CAPITULO II
+De los Conciliadores
+CAPITULO III
+Del Procedimiento para la Selección de Conciliadores
 TITULO CATORCE
 Derecho Procesal del Trabajo
 CAPITULO I
@@ -157,7 +167,7 @@ De las Competencias
 CAPITULO IV
 De los Impedimentos y Excusas
 CAPITULO V
-De la Actuación de las Juntas
+De la Actuación de los Tribunales
 CAPITULO VI
 De los Términos Procesales
 CAPITULO VII
@@ -199,9 +209,13 @@ De las Providencias Cautelares
 CAPITULO XVI
 Procedimientos Ante las Juntas de Conciliación
 CAPITULO XVII
-Procedimiento Ordinario Ante las Juntas de Conciliación y Arbitraje
+Del procedimiento ordinario
+Sección Primera
+Audiencia Preliminar
+Sección Segunda
+Audiencia de Juicio
 CAPITULO XVIII
-De los Procedimientos Especiales
+Del Procedimiento Especial
 Sección Primera
 Conflictos Individuales de Seguridad Social
 CAPITULO XIX

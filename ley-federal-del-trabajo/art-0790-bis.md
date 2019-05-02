@@ -1,0 +1,1 @@
+Artículo 790 Bis.- Si fueren varios los declarantes, las diligencias se practicarán evitando que los que declaren primero se comuniquen con los que lo hagan después; éstos últimos permanecerán en una sala distinta a aquélla en donde se desarrolle la audiencia, por lo que serán llamados a declarar en el orden establecido. Esta disposición no aplica para el actor ni el demandado.

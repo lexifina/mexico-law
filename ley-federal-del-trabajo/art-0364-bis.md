@@ -1,1 +1,3 @@
-Artículo 364 Bis. En el registro de los sindicatos se deberán observar los principios de legalidad, transparencia, certeza, gratuidad, inmediatez, imparcialidad y respeto a la libertad, autonomía, equidad y democracia sindical.
+Artículo 364 Bis.- En el registro de los sindicatos, federaciones y confederaciones, así como en la actualización de las directivas sindicales, se deberán observar los principios de autonomía, equidad, democracia, legalidad, transparencia, certeza, gratuidad, inmediatez, imparcialidad y respeto a la libertad sindical y sus garantías.
+Tratándose de actualización de la directiva sindical, la Autoridad Registral deberá expedirla dentro de los diez días siguientes a que se realice la solicitud, y se procederá de forma tal que no deje al sindicato en estado de indefensión.
+En materia de registro y actualización sindical, la voluntad de los trabajadores y el interés colectivo prevalecerán sobre aspectos de orden formal.
