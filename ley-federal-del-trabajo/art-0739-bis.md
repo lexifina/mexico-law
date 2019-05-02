@@ -1,0 +1,3 @@
+Artículo 739 Bis.- Las resoluciones que se dicten en los juicios laborales deben notificarse a más tardar dentro del tercer día hábil siguiente. La razón que corresponda se asentará inmediatamente después de dicha resolución.
+Las partes y el tercero interesado podrán autorizar a cualquier persona con capacidad legal para oír y recibir notificaciones aún las de carácter personal e imponerse de los autos.
+Cuando las partes y el tercero interesado cuenten con Firma Electrónica y pretendan que los autorizados en términos del párrafo anterior, utilicen o hagan uso de ésta en su representación, deberán comunicarlo a la Autoridad Conciliadora y al órgano jurisdiccional correspondiente, señalando las limitaciones o revocación de facultades en el uso de la misma.

@@ -1,0 +1,1 @@
+Artículo 706 Bis.- Con el propósito de facilitar el acceso a la justicia, los poderes judiciales locales o federal podrán autorizar el funcionamiento, en régimen de movilidad, de uno o más Tribunales conforme a las necesidades de los asuntos que deban conocer. Para esto dispondrá la instalación de la sede correspondiente durante un periodo determinado.
