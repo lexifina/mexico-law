@@ -1,1 +1,1 @@
-Artículo 826 Bis.- Cuando el dictamen rendido por un perito sea notoriamente falso, tendencioso o inexacto, la Junta dará vista al Ministerio Público para que determine si existe la comisión de un delito.
+Artículo 826 Bis.- Cuando el dictamen rendido por un perito sea notoriamente falso, tendencioso o inexacto, el Tribunal dará vista al Ministerio Público para que determine si existe la comisión de un delito.
