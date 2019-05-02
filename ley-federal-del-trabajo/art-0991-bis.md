@@ -1,0 +1,1 @@
+Artículo 991 Bis.- El patrón podrá depositar ante el Tribunal la indemnización a la que se refiere el artículo 49 de esta Ley, así como el pago de la prima de antigüedad prevista en el artículo 162 y demás prestaciones.

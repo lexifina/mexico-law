@@ -1,0 +1,1 @@
+Artículo 279 Quáter.- El patrón llevará un padrón especial de los trabajadores contratados por estacionalidades, para registrar la acumulación de éstas a fin de establecer la antigüedad en el trabajo y, con base en la suma de éstas, calcular las prestaciones y derechos derivados del tiempo sumado de trabajo.
