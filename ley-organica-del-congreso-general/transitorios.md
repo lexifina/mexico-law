@@ -26,8 +26,8 @@ Defensa Nacional Marina
 Marina Hacienda y Crédito Público
 Hacienda y Crédito Público Desarrollo Regional y Apoyo a la Producción
 Programación, Presupuesto y Cuenta Pública
-Presupuesto y Cuenta Pública Asentamientos Humanos y Obras Públicas
-Desarrollo Social y Vivienda Desarrollo Social
+Presupuesto y Cuenta Pública Asentamientos Humanos y Obras Públicas Desarrollo Social y Vivienda
+Desarrollo Social
 Vivienda
 Asuntos Hidráulicos
 Bosques y Selvas
@@ -52,8 +52,8 @@ Salud y Seguridad Social Trabajo y Previsión Social
 Trabajo y Previsión Social Reforma Agraria
 Reforma Agraria Turismo
 Turismo Estudios Legislativos
-Reglamentos y Prácticas Parlamentarias
-Reglamentos y Prácticas Parlamentarias Distrito Federal
+Reglamentos y Prácticas Parlamentarias Reglamentos y Prácticas Parlamentarias
+Distrito Federal
 Distrito Federal Asuntos Indígenas
 Asuntos Indígenas Equidad y Género
 Equidad y Género Atención y Apoyo a Discapacitados
