@@ -13,7 +13,7 @@ Disposiciones Generales
 CAPITULO II
 De las actas de nacimiento
 CAPITULO III
-De las actas de reconocimiento
+De las Actas de Reconocimiento
 CAPITULO IV
 De las Actas de Adopción
 CAPITULO V
@@ -53,12 +53,12 @@ De los Matrimonios Nulos e Ilícitos
 CAPITULO X
 Del Divorcio
 TITULO SEXTO
-Del Parentesco, de los Alimentos y de la Violencia Familiar
+Del parentesco, de los alimentos y de la violencia familiar
 CAPITULO I
 Del Parentesco
 CAPITULO II
 De los Alimentos
-CAPITULO III
+CAPÍTULO III
 De la Violencia Familiar
 TITULO SEPTIMO
 De la Paternidad y Filiación
@@ -72,13 +72,13 @@ CAPITULO IV
 Del Reconocimiento de los Hijos Nacidos Fuera del Matrimonio
 CAPITULO V
 De la Adopción
-Sección Primera
-Disposiciones Generales
-Sección Segunda
+SECCIÓN PRIMERA
+Disposiciones generales
+SECCIÓN SEGUNDA
 De la Adopción Simple
-Sección Tercera
+SECCIÓN TERCERA
 De la Adopción Plena
-Sección Cuarta
+SECCIÓN CUARTA
 De la Adopción Internacional
 TITULO OCTAVO
 De la Patria Potestad
@@ -225,6 +225,8 @@ De la Manera de Contar el Tiempo para la Prescripción
 TITULO OCTAVO
 De los Derechos de Autor
 CAPITULO I
+CAPITULO II
+CAPITULO III
 LIBRO TERCERO
 De las Sucesiones
 TITULO PRIMERO
@@ -256,8 +258,8 @@ CAPITULO II
 Del Testamento Público Abierto
 CAPITULO III
 Testamento Público Cerrado
-CAPITULO III Bis
-Testamento Público Simplificado
+Capítulo III Bis
+Testamento público simplificado
 CAPITULO IV
 Del Testamento Ológrafo
 CAPITULO V
@@ -416,7 +418,7 @@ De los Derechos y Obligaciones del Arrendador
 CAPITULO III
 De los Derechos y Obligaciones del Arrendatario
 CAPITULO IV
-Del Arrendamiento de Fincas Urbanas Destinadas a la Habitación
+Del arrendamiento de fincas urbanas destinadas a la habitación
 CAPITULO V
 Del Arrendamiento de Fincas Rústicas
 CAPITULO VI
@@ -462,7 +464,7 @@ TITULO DECIMO PRIMERO
 De las Asociaciones y de las Sociedades
 I.- De las Asociaciones
 CAPITULO I
-Disposiciones Generales
+Disposiciones generales
 CAPITULO II
 De los Socios
 CAPITULO III
@@ -472,7 +474,7 @@ De la Disolución de las Sociedades
 CAPITULO V
 De la Liquidación de la Sociedad
 CAPITULO VI
-De las Personas Morales Extranjeras de Naturalezas Privada
+De las Personas Morales Extranjeras de Naturaleza Privada
 CAPITULO VII
 De la Aparcería Rural
 TITULO DECIMOSEGUNDO
@@ -527,13 +529,13 @@ Acreedores de Tercera Clase
 CAPITULO VII
 Acreedores de Cuarta Clase
 TITULO SEGUNDO
-Del Registro Público
+DEL REGISTRO PUBLICO
 CAPITULO I
 De su Organización
 CAPITULO II
 Disposiciones Comunes de los Documentos Registrables
 CAPITULO III
 CAPITULO IV
-Del Registro de Operaciones sobre Bienes Muebles
+Del Registro de Operaciones Sobre Bienes Muebles
 CAPITULO V
 Del Registro de Personas Morales
