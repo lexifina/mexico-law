@@ -1,0 +1,9 @@
+DECRETO por el que se reforman y derogan diversas disposiciones del Código Civil Federal, en materia de prohibición del matrimonio infantil.
+Publicado en el Diario Oficial de la Federación el 3 de junio de 2019
+Artículo Único.- Se reforman los artículos 98, fracciones I y V; 100; 103, fracciones II y IV; 104; 113; 148; 156, fracción I, y último párrafo; 159; 172; 187, primer párrafo; 209, primer párrafo; 256; 272, primer y tercer párrafo; 412; 438, fracción I; 442; 473 y 605, y se derogan el artículo 31, fracción I; el Capítulo VI "De las Actas de Emancipación" y los artículos 93; 98, fracción II; 149; 150; 151; 152; 153; 154; 155; 156, fracción II; 160; 173; 181; 187, segundo párrafo; 209, segundo párrafo; 229; 237; 238; 239; 240; 435; 443, fracción II; 451; 499; 624, fracción II; 636; 639; 641 y 643 del Código Civil Federal, para quedar como sigue:
+...
+Transitorios
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren pendientes de resolución, continuarán su trámite de conformidad con la legislación aplicable en el momento de la presentación de estos.
+Ciudad de México, a 30 de abril de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares G. Vázquez Alatorre, Secretaria.- Dip. Mariana Dunyaska García Rojas, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 30 de mayo de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
