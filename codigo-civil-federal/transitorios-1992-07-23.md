@@ -1,0 +1,8 @@
+ARTICULO QUINTO.- Las solicitudes de inmatriculación por resolución del Director del Registro Público de la Propiedad que se encuentren en trámite a la entrada en vigor de estas reformas y adiciones, deberán ajustarse al procedimiento que establecen los artículos 3052 y 3053 que se reforman. DECRETO que reforma diversas disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal y el Código de Procedimientos Civiles para el Distrito Federal.
+Publicado en el Diario Oficial de la Federación el 23 de julio de 1992
+ARTICULO PRIMERO.- Se reforman la denominación del capítulo IV, del Título Noveno, del Libro Primero y los Artículos 23, 156 fracciones VIII y IX, 331, 450 fracción II, 464 primer párrafo, 466, 505, 543, 544, 561, 563, 584, 591, 597 y 600 del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, para quedar como sigue:
+...
+ARTICULO SEGUNDO.- Se derogan las fracciones III y IV del Artículo 450 y el Artículo 506 del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal.
+TRANSITORIOS
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- Las declaraciones de incapacidad o de nombramiento de tutor que actualmente se encuentra en trámite ante los tribunales competentes, en sus resoluciones que se dicten respecto de los motivos que les dieron origen y causa, deberán apegarse al texto de los artículos reformados, debiendo declarar en sus puntos resolutivos el tipo de incapacidad que padezca la persona.

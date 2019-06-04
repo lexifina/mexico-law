@@ -1,0 +1,2 @@
+FE de erratas del Decreto que reforma, adiciona y deroga diversas disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal; del Código de Procedimientos Civiles para el Distrito Federal; de la Ley Orgánica de los Tribunales de Justicia del Fuero Común del Distrito Federal; y del Código de Comercio, publicado el día 27 de diciembre de 1983, Primera Sección.
+Publicada en el Diario Oficial de la Federación el 8 de enero de 1985
