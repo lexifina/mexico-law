@@ -1,0 +1,1 @@
+Artículo 170 Bis.- Los padres o madres de menores diagnosticados con cualquier tipo de cáncer, gozarán de la licencia a que se refiere el artículo 140 Bis de la Ley del Seguro Social, en los términos referidos, con la intención de acompañar a los mencionados pacientes en sus correspondientes tratamientos médicos.
