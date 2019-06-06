@@ -1,0 +1,1 @@
+Artículo 30 Bis 4. Los solicitantes deberán acudir a las Procuradurías de Protección, al Sistema Nacional DIF o a los Sistemas de las Entidades para realizar sus trámites de adopción, atendiendo a lo previsto en la reglamentación correspondiente.
