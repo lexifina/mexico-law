@@ -1,0 +1,1 @@
+Artículo 30 Bis 15. El Sistema Nacional DIF y la Procuraduría de Protección Federal celebrarán los convenios de colaboración que se consideren necesarios para garantizar el derecho a vivir en familia con sus pares locales o con las autoridades que se requiera.
