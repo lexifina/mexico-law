@@ -3,7 +3,7 @@ De las Disposiciones Generales
 TÍTULO SEGUNDO
 De los Derechos de Niñas, Niños y Adolescentes
 Capítulo Primero
-Del Derecho a la Vida, a la Supervivencia y al Desarrollo
+Del Derecho a la Vida, a la Paz, a la Supervivencia y al Desarrollo
 Capítulo Segundo
 Del Derecho de Prioridad
 Capítulo Tercero
