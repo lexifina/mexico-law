@@ -1,0 +1,1 @@
+Artículo 337 Bis.- Las personas migrantes trabajadoras del hogar además de lo dispuesto en el presente capítulo, se regirán por las disposiciones de los artículos 28, 28 A de esta Ley, en los tratados internacionales de los que el Estado Mexicano sea parte y en las demás disposiciones jurídicas aplicables.
