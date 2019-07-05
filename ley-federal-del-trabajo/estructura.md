@@ -75,7 +75,7 @@ Trabajadores actores y músicos
 CAPITULO XII
 Trabajo a domicilio
 CAPITULO XIII
-Trabajadores del hogar
+Personas Trabajadoras del Hogar
 Capitulo XIII Bis
 De Los Trabajadores en Minas
 CAPITULO XIV
