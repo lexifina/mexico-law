@@ -3,4 +3,4 @@ VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitante
 Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
 DECRETO
 "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-LEY ORGÁNICA DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS
+LEY ORGÁNICA DEL BANCO DEL BIENESTAR

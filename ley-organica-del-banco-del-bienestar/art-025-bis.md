@@ -1,0 +1,1 @@
+Artículo 25 Bis.- El Director General, así como los funcionarios de los dos niveles jerárquicos inferiores a éste, podrán expedir certificaciones de los documentos existentes en los archivos de las direcciones a su cargo.
