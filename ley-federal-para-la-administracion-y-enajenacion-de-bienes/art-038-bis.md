@@ -1,1 +1,1 @@
-Artículo 38 bis.-Tratándose de la enajenación a través del procedimiento de licitación pública, los participantes deberán entregar al SAE su postura en sobre cerrado y la postura más alta determinará el ganador y el precio de la transacción.
+Artículo 38 bis.- Tratándose de la enajenación a través del procedimiento de licitación pública, los participantes deberán entregar al Instituto su postura en sobre cerrado y la postura más alta determinará el ganador y el precio de la transacción.

@@ -23,4 +23,4 @@ Adjudicación Directa
 TÍTULO QUINTO
 De la Destrucción de Bienes
 TÍTULO SEXTO
-Del SAE
+Del Instituto
