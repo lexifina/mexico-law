@@ -4,6 +4,11 @@ CAPITULO II
 De la enajenación
 CAPITULO III
 De la prestación de servicios
+CAPÍTULO III BIS
+Sección I
+Disposiciones generales
+Sección II
+De los servicios digitales de intermediación entre terceros
 CAPITULO IV
 Del uso o goce temporal de bienes
 CAPITULO V
