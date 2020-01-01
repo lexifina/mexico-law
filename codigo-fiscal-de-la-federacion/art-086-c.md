@@ -1,1 +1,1 @@
-Artículo 86-C. (Se deroga)
+Artículo 86-C. Se considera infracción en la que pueden incurrir los contribuyentes conforme lo previsto en el artículo 17-K de este Código, el no habilitar el buzón tributario, no registrar o no mantener actualizados los medios de contacto conforme lo previsto en el mismo.

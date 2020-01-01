@@ -42,34 +42,5 @@ De la Intervención
 Sección Cuarta
 Del Remate
 TITULO SEXTO
-Del Juicio Contencioso Administrativo
-CAPITULO I
-Disposiciones generales
-CAPITULO II
-De la improcedencia y del sobreseimiento
-CAPITULO III
-De los impedimentos y excusas
-CAPITULO IV
-De la demanda
-CAPITULO V
-De la contestación
-CAPITULO VI
-De los incidentes
-CAPITULO VII
-De las pruebas
-CAPITULO VIII
-Del cierre de la instrucción
-CAPITULO IX
-De la sentencia
-CAPITULO X
-De los recursos
-Sección Primera
-De la Reclamación
-Sección Segunda
-De La Apelación
-Sección Tercera
-De la Revisión
-CAPITULO XI
-De las notificaciones y del cómputo de los términos
-CAPITULO XII
-De la jurisprudencia
+De la Revelación de Esquemas Reportables
+CAPÍTULO ÚNICO
