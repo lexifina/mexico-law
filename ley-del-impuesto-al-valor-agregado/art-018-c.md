@@ -1,0 +1,5 @@
+Artículo 18-C.- Se considera que el receptor del servicio se encuentra en el territorio nacional cuando se dé cualquiera de los supuestos siguientes:
+I. Que el receptor haya manifestado al prestador del servicio un domicilio ubicado en territorio nacional.
+II. Que el receptor del servicio realice el pago al prestador del servicio mediante un intermediario ubicado en territorio nacional.
+III. Que la dirección IP que utilicen los dispositivos electrónicos del receptor del servicio corresponda al rango de direcciones asignadas a México.
+IV. Que el receptor haya manifestado al prestador del servicio un número de teléfono, cuyo código de país corresponda a México.
