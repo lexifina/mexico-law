@@ -1,0 +1,8 @@
+LEY que crea los Consejos Tutelares para Menores Infractores del Distrito y Territorios Federales.
+Publicado en el Diario Oficial de la Federación el 2 de agosto de 1974
+DISPOSICIONES TRANSITORIAS
+ARTICULO 1o. Transitorio.- La presente Ley entrará en vigor a los treinta días de su publicación en el "Diario Oficial", y a partir de la misma fecha quedarán derogados los artículos 119 a 122 del Código Penal para el Distrito y Territorios Federales en materia del Fuero Común y para toda la República en materia del Fuero Federal, de 13 de agosto de 1931, sólo por lo que se refiere al Distrito y Territorios Federales, la Ley Orgánica y Normas de Procedimiento de los Tribunales de Menores y sus Instituciones Auxiliares en el Distrito y Territorios Federales, de 22 de abril de 1941 y las demás disposiciones que se opongan al presente Ordenamiento.
+ARTICULO 2o. Transitorio.- El primer turno entre los Consejeros para los efectos de la instrucción del procedimiento se establecerá según el orden cronológico de su nombramiento.
+ARTICULO 3o. Transitorio.- Los Consejeros que se nombren al entrar en vigor la presente Ley, en los términos del artículo 5o., durarán en su encargo hasta el 31 de diciembre de 1976.
+ARTICULO 4o. Transitorio.- Se sujetarán a las previsiones de esta Ley tanto los procedimientos que se estén desarrollando al iniciarse su vigencia como las medidas impuestas con anterioridad a la misma, que se hallen en proceso de ejecución.
+ARTICULO 5o. Transitorio.- Mientras se establezcan los Consejos Auxiliares, conocerán de las faltas a los reglamentos de policía y buen gobierno los jueces Calificadores y el Consejo Tutelar de los demás casos señalados en el artículo 48.
