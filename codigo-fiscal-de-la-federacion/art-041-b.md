@@ -1,1 +1,1 @@
-Artículo 41-B. Las autoridades fiscales podrán llevar a cabo verificaciones para constatar los datos proporcionados al registro federal de contribuyentes, relacionados con la identidad, domicilio y demás datos que se hayan manifestado para los efectos de dicho registro, sin que por ello se considere que las autoridades fiscales inician sus facultades de comprobación.
+Artículo 41-B. (Se deroga).
