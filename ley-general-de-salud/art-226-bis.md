@@ -1,0 +1,3 @@
+Artículo 226 Bis.- Tratándose de atención intrahospitalaria, se podrán prescribir dosis unitarias de conformidad con los Lineamientos que para tal efecto expida la Secretaría de Salud.
+En el caso de medicamentos que deban suministrarse en las instituciones públicas del Sistema Nacional de Salud a sus usuarios, estos podrán ser prescritos en dosis unitarias a fin de que puedan ser dispensados en dosis exactas, de conformidad con los Lineamientos que para tal efecto expida la Secretaría de Salud.
+En lo referente a lo señalado en este artículo, estos se sujetarán a lo establecido en el artículo 195 de la presente Ley.

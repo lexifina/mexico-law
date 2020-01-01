@@ -24,22 +24,19 @@ Servicios de Planificación Familiar
 CAPITULO VII
 Salud Mental
 TÍTULO TERCERO BIS
-De la Protección Social en Salud
 Capítulo I
 Disposiciones Generales
 Capítulo II
-De los Beneficios de la Protección Social en Salud
 Capítulo III
-De las Aportaciones para el Sistema de Protección Social en Salud
 Capítulo IV
 Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
 Capítulo V
 De las Cuotas Familiares
 Capítulo VI
-Del Fondo de Protección contra Gastos Catastróficos
+Del Fondo de Salud para el Bienestar
 Capítulo VII
 Capítulo VIII
-De la Comisión Nacional de Protección Social en Salud
+Del Instituto de Salud para el Bienestar
 Capítulo IX
 Derechos y Obligaciones de los Beneficiarios
 Capítulo X
