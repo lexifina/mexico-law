@@ -16,6 +16,3 @@ La autoridad publicará en la página de Internet del Servicio de Administració
 La publicación a que se refiere el párrafo anterior, tiene como efecto confirmar la transmisión indebida de las pérdidas fiscales obtenidas por el contribuyente que las generó, así como la improcedencia de su disminución por el contribuyente que corresponda.
 Cuando los contribuyentes que hubieren disminuido indebidamente pérdidas fiscales corrijan su situación fiscal dentro de los treinta días siguientes a la publicación del listado a que se refiere este artículo, podrán aplicar las tasas de recargos por prórroga determinada conforme a la Ley de Ingresos de la Federación por el plazo que corresponda.
 Transcurrido el plazo a que se refiere el párrafo anterior, cuando el contribuyente no hubiere corregido su situación fiscal, la autoridad estará en posibilidad de ejercer sus facultades de comprobación en términos del artículo 42, fracción IX de este Código. Lo anterior, sin perjuicio de las sanciones que en su caso procedan en términos de este Código, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
-(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 9 DE DICIEMBRE DE 2013)
-CAPÍTULO II
-De los Acuerdos Conclusivos
