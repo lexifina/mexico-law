@@ -27,4 +27,3 @@ Gasolina mayor o igual a 92 octanos 51.77 centavos por litro.
 Diésel 35.21 centavos por litro.
 TRANSITORIO
 ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2019
-Ciudad de México, a 21 de diciembre de 2018.- Con fundamento en el artículo 105 del Reglamento Interior de la Secretaría de Hacienda y Crédito Público, en ausencia del C. Secretario de Hacienda y Crédito Público, el Subsecretario de Hacienda y Crédito Público, Arturo Herrera Gutiérrez.- Rúbrica.
