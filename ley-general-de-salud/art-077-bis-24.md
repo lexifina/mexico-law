@@ -1,1 +1,1 @@
-Artículo 77 bis 24. Los Regímenes Estatales de Protección Social en Salud deberán presentar a la Secretaría de Salud, conforme a los lineamientos que la misma establezca, los informes que sean necesarios respecto del destino, manejo y comprobación del ejercicio de los recursos correspondientes a las cuotas familiares.
+Artículo 77 bis 24.- Se deroga.

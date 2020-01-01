@@ -1,1 +1,1 @@
-Artículo 77 bis 8.- Se considerarán como beneficiarios del Sistema de Protección Social en Salud a las personas a que se refieren los artículos 77 Bis 3 y 77 Bis 4 de esta Ley que satisfagan los requisitos del artículo anterior, previa solicitud de incorporación.
+Artículo 77 bis 8.- Se deroga.
