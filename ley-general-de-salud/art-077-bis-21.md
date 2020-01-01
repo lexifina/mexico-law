@@ -1,2 +1,1 @@
-Artículo 77 bis 21.- Los beneficiarios del Sistema de Protección Social en Salud participarán en su financiamiento con cuotas familiares que serán anticipadas, anuales y progresivas, que se determinarán con base en las condiciones socioeconómicas de cada familia, las cuales deberán cubrirse en la forma y fechas que determine la Secretaría de Salud, salvo cuando exista la incapacidad de la familia a cubrir la cuota, lo cual no le impedirá incorporarse y ser sujeto de los beneficios que se deriven del Sistema de Protección Social en Salud.
-Las disposiciones reglamentarias establecerán los lineamientos para los casos en que por las características socioeconómicas de los beneficiarios éstos no aportarán cuotas familiares.
+Artículo 77 bis 21.- Se deroga.
