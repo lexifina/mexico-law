@@ -25,6 +25,7 @@ V. Introducción clandestina de armas de fuego que no están reservadas al uso e
 VI. De la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los previstos en los artículos 9, 10, 11 y 15;
 VII. Contrabando y su equiparable, previstos en los artículos 102 y 105 del Código Fiscal de la Federación;
 VIII. Defraudación Fiscal y su equiparable, previstos en los artículos 108 y 109, del Código Fiscal de la Federación;
+VIII Bis. Del Código Fiscal de la Federación, el delito previsto en el artículo 113 Bis;
 IX. De la Ley de la Propiedad Industrial, los delitos previstos en el artículo 223;
 X. De la Ley de Instituciones de Crédito, los previstos en los artículos 111; 111 Bis; 112; 112 Bis; 112 Ter; 112 Quáter; 112 Quintus; 113 Bis y 113 Bis 3;
 XI. De la Ley General de Títulos y Operaciones de Crédito, los previstos en los artículos 432, 433 y 434;
