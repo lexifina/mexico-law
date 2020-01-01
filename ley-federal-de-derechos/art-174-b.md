@@ -5,3 +5,4 @@ b). Por la prórroga ... $8,629.38
 II. Para uso social:
 a). Por la expedición del título de concesión ... $19,504.61
 b). Por la prórroga ... $8,629.38
+III. Para uso público, por la prórroga ... $8,629.38

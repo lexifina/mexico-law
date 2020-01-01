@@ -14,7 +14,4 @@ V. (Se deroga).
 VI. Por el trámite, estudio, clasificación · y, en su caso, autorización de materiales grabados, se pagarán derechos por cada 15 minutos o fracción de duración por material, la cuota de ... $302.15
 VII. (Se deroga).
 VIII. (Se deroga).
-IX.- Cuando los servicios a que se refiere la fracción VI de este artículo, se presten fuera del horario ordinario o de las instalaciones de la Dirección General de Radio, Televisión y Cinematografía, se pagarán adicionalmente, por hora de servicio, las siguientes cuotas:
-a) Por la primera hora ... $354.52
-b) Por cada hora o fracción adicional ... $177.21
-Para efectos de esta fracción se entiende como horario ordinario el de 9:00 a 18:00 horas.
+IX. (Se deroga).

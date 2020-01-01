@@ -96,7 +96,7 @@ Sección Quinta
 Autotransporte Federal y Servicios Auxiliares.
 Sección Sexta
 Sección Séptima
-Registro Público Marítimo Nacional y Servicios Marítimos
+Registro Público Marítimo Nacional y Servicios a la Marina Mercante
 Sección Octava
 Otorgamiento de Permisos
 Sección Novena
@@ -181,7 +181,7 @@ Del Instituto Federal de Especialistas de Concursos Mercantiles
 CAPÍTULO XX
 De la Secretaría de Marina
 Sección Única
-Cartas Náuticas
+Servicios Marítimos
 TITULO SEGUNDO
 CAPITULO I
 Bosques y Areas Naturales Protegidas

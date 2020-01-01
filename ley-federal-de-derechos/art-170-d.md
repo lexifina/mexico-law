@@ -1,2 +1,1 @@
-Artículo 170-D. Por la inspección, verificación y, en su caso, certificación del cumplimiento de la normatividad de estaciones de servicio a balsas salvavidas y botes totalmente cerrados, así como a estaciones de servicio para los equipos contra incendio de las embarcaciones, se pagarán derechos, conforme a la cuota de: ... $33,207.67
-Por el análisis de la solicitud y, en su caso, autorización del personal técnico distinto o del que sustituya al considerado en el certificado otorgado, se pagará el derecho por cada persona, conforme a la cuota de: ... $1,739.44
+Artículo 170-D. (Se deroga).

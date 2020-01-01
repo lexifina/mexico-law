@@ -1,3 +1,1 @@
-Artículo 192-B.- Por la expedición de los certificados siguientes, se pagarán derechos conforme a las siguientes cuotas:
-I.- Por la expedición del certificado de calidad del agua, a que se refieren las fracciones V del artículo 224 y IV del artículo 282, por cada uno ... $5,398.85
-II. (Se deroga).
+Artículo 192-B. Por el estudio y trámite y, en su caso, la expedición del certificado de calidad del agua, a que se refiere la fracción V del artículo 224, se pagarán derechos conforme a la cuota de ... $5,593.21

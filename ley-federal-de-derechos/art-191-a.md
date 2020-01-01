@@ -13,6 +13,6 @@ IV. Por el otorgamiento de una concesión para acuacultura comercial ... $16,255
 V. Por la expedición de permiso para acuacultura de fomento ... $8,368.40
 VI. Por el otorgamiento de permiso para acuacultura didáctica ... $2,831.20
 VII. Por el otorgamiento de autorización para la sustitución de titular de los derechos de la concesión acuícola ... $2,089.54
-VIII. (Se deroga).
+VIII. Por el otorgamiento de un permiso para acuacultura comercial ... $3,936.78
 IX. (Se deroga).
 X. (Se deroga).
