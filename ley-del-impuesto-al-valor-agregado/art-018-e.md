@@ -1,0 +1,1 @@
+Artículo 18-E.- El cumplimiento de las obligaciones a que se refiere el artículo 18-D de esta Ley, no dará lugar a que se considere que el residente en el extranjero constituye un establecimiento permanente en México.
