@@ -1,0 +1,13 @@
+REFORMAS al Código Penal para el Distrito y Territorios Federal.
+Publicado en el Diario Oficial de la Federación el 14 de enero de 1966
+ARTICULO PRIMERO.- Se reforma la denominación del Título Octavo y del Capítulo I del Código Penal para el Distrito y Territorios Federales y el artículo 200 del propio Código, para quedar como sigue:
+...
+ARTICULO SEGUNDO.- Se reforma el artículo 201 y se adiciona un párrafo segundo al artículo 202 del Código Penal, para quedar como sigue:
+...
+ARTICULO TERCERO.- Se deroga el artículo 205 del Código Penal.
+ARTICULO CUARTO.- Se reforma el artículo 208 del Código Penal, para quedar como sigue:
+...
+ARTICULO QUINTO.- Se reforma el artículo 85, para quedar como sigue:
+...
+TRANSITORIO
+UNICO.- Estas reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
