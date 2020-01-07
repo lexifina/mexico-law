@@ -5,6 +5,7 @@ III. Cubrir, cuando proceda, el derecho federal por el uso o aprovechamiento de 
 IV. Instalar y mantener en buen estado, los aparatos medidores y los accesos para el muestreo necesario en la determinación de las concentraciones de los parámetros previstos en los permisos de descarga;
 V. Hacer del conocimiento de "la Autoridad del Agua" los contaminantes presentes en las aguas residuales que generen por causa del proceso industrial o del servicio que vienen operando, y que no estuvieran considerados en las condiciones particulares de descarga fijadas;
 VI. Informar a "la Autoridad del Agua" de cualquier cambio en sus procesos, cuando con ello se ocasionen modificaciones en las características o en los volúmenes de las aguas residuales contenidas en el permiso de descarga correspondiente;
+VI Bis. Adoptar dentro de sus procesos, la utilización de materiales biodegradables, siempre y cuando técnicamente sean viables, atendiendo a las disposiciones reglamentarias en la materia;
 VII. Operar y mantener por sí o por terceros las obras e instalaciones necesarias para el manejo y, en su caso, el tratamiento de las aguas residuales, así como para asegurar el control de la calidad de dichas aguas antes de su descarga a cuerpos receptores;
 VIII. Conservar al menos por cinco años el registro de la información sobre el monitoreo que realicen;
 IX. Cumplir con las condiciones del permiso de descarga correspondiente y, en su caso, mantener las obras e instalaciones del sistema de tratamiento en condiciones de operación satisfactorias;
