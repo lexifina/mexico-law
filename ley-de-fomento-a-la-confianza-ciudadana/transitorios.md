@@ -1,0 +1,6 @@
+Transitorios
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin a las dependencias y entidades de la Administración Pública Federal, para el ejercicio fiscal de que se trate.
+Tercero. Sin perjuicio de las disposiciones que la Secretaría, por conducto de la Comisión Nacional de Mejora Regulatoria, emita para la aplicación de la presente Ley, el titular del Poder Ejecutivo Federal proveerá en la esfera reglamentaria, las disposiciones correspondientes.
+Ciudad de México, a 3 de diciembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de enero de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
