@@ -5,7 +5,7 @@ III. La persona Titular de la Secretaría de Gobernación;
 IV. La persona Titular de la Secretaría de Hacienda y Crédito Público;
 V. La persona Titular de la Secretaría de Educación Pública;
 VI. La persona Titular de la Secretaría de Salud;
-VII. La persona Titular de la Dirección General del Instituto de Administración de Bienes y Activos, quien encabezará la Secretaría Técnica;
+VII. La persona Titular de la Dirección General del Instituto para Devolver al Pueblo lo Robado, quien encabezará la Secretaría Técnica;
 VIII. La persona Titular de la Dirección General del Instituto Mexicano del Seguro Social;
 IX. La persona Titular de la Dirección General del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 X. La persona Titular del Sistema Nacional para el Desarrollo Integral de la Familia, y
