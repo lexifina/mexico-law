@@ -1,0 +1,2 @@
+Artículo 348 Bis 1.- Corresponde a la Secretaría de Salud emitir disposiciones que prevengan los riesgos sanitarios por la reutilización y destino final de los ataúdes y féretros.
+Toda reutilización o donación de ataúdes o féretros provenientes de servicios de cremación o desintegración de cadáveres, se hará previo procedimiento de desinfección y aviso a la autoridad sanitaria competente. El establecimiento será responsable de la utilización de productos biodegradables para llevar a cabo dicho procedimiento.
