@@ -63,7 +63,7 @@ Disposiciones Generales
 Capítulo II
 De los Símbolos Patrios
 Capítulo III
-De las Culturas Populares
+De las Culturas Populares y de las Expresiones Culturales Tradicionales
 TITULO VIII
 De los Registros de Derechos
 Capítulo I
