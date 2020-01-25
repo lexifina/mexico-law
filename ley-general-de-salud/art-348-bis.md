@@ -1,0 +1,1 @@
+Artículo 348 Bis.- Los prestadores de servicios funerarios deberán disponer de recipientes o contendedores de material biodegradable adecuados, que impidan el derrame de líquidos o el esparcimiento de olores, que se colocarán dentro de los ataúdes, en los casos previstos por las autoridades sanitarias.

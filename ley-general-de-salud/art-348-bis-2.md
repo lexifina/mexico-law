@@ -1,0 +1,1 @@
+Artículo 348 Bis 2.- Las autoridades sanitarias locales estarán facultadas para llevar a cabo verificaciones a los establecimientos para constatar el cumplimiento de lo previsto en el artículo anterior. Asimismo, deberán prever programas y mecanismos destinados a la destrucción o reutilización de ataúdes y féretros en condiciones ambientales responsables.
