@@ -267,6 +267,8 @@ CAPÍTULO I
 De los Sujetos, Conductas Sancionables y Sanciones
 CAPÍTULO II
 Del Procedimiento Sancionador
+CAPÍTULO II BIS
+De las Medidas Cautelares y de Reparación
 CAPÍTULO III
 Del Procedimiento Sancionador Ordinario
 CAPÍTULO IV
