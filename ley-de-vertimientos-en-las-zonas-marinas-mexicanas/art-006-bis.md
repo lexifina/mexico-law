@@ -1,0 +1,1 @@
+Artículo 6 Bis.- En materia de vertimientos en zonas marinas mexicanas por actividades del sector hidrocarburos, la Secretaría y la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, establecerán mecanismos específicos de coordinación para el ejercicio de sus respectivas atribuciones de regulación y supervisión.
