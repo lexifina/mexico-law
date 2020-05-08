@@ -1,5 +1,7 @@
 DECRETO por el que se declara reformado el artículo 3o. transitorio, del Decreto por el que se reformaron los artículos 30, 32 y 37 de la Constitución Política de los Estados Unidos Mexicanos, publicado el 20 de marzo de 1997.
 Publicado en el Diario Oficial de la Federación el 26 de febrero de 1999
+ARTICULO UNICO.- Se reforma el Artículo 3o. transitorio, del decreto por el que se reformaron los artículos 30, 32 y 37 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 20 de Marzo de 1997, para quedar como sigue:
+...
 ARTÍCULO TRANSITORIO
 Único.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 SALON DE SESIONES DE LA COMISION PERMANENTE DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 3 de febrero de 1999.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Guadalupe Gómez Maganda, Secretaria.- Dip. Carlos Jiménez Macías, Secretario.- Rúbricas."
