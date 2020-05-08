@@ -1,0 +1,6 @@
+FE de erratas al Decreto por el que se reforman los artículos 16, 19, 20 y 119 y se deroga la fracción XVIII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos, publicado el 3 de septiembre de 1993.
+Publicada en el Diario Oficial de la Federación el 6 de septiembre de 1993
+En la página 6, segunda columna, renglón 55, dice:
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dos días del mes de septiembre de mil novecientos noventa y tres.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
+Debe decir:
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dos días del mes de septiembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.

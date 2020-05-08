@@ -1,7 +1,9 @@
 DECRETO por el que se aprueba el diverso por el que se modifica la denominación del Título Cuarto y se adiciona un segundo párrafo al artículo 113 de la Constitución Política de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 14 de junio de 2002
+ARTICULO UNICO.- Se modifica la denominación del Título Cuarto y se adiciona un segundo párrafo al artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+...
 TRANSITORIO
-Artículo Único.- El presente Decreto entrará en vigor el 1o. de enero del segundo año siguiente al de su publicación en el Diario Oficial de la Federación.
+ÚNICO.- El presente Decreto entrará en vigor el 1o. de enero del segundo año siguiente al de su publicación en el Diario Oficial de la Federación.
 La Federación, las entidades federativas y los municipios contarán con el periodo comprendido entre la publicación del presente Decreto y su entrada en vigor, para expedir las leyes o realizar las modificaciones necesarias, según sea el caso, a fin de proveer el debido cumplimiento del mismo, así como para incluir en sus respectivos presupuestos, una partida para hacer frente a su responsabilidad patrimonial.
 La aprobación de la reforma constitucional implicará necesariamente la adecuación a las disposiciones jurídicas secundarias, tanto en el ámbito federal como en el local, conforme a los criterios siguientes:
 a) El pago de la indemnización se efectuaría después de seguir los procedimientos para determinar que al particular efectivamente le corresponde dicha indemnización, y
