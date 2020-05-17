@@ -1,6 +1,6 @@
 [N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 CÓDIGO FISCAL DE LA FEDERACIÓN
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 9 DE ENERO DE 2020.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 14 DE MAYO DE 2020.
 Código publicado en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 JOSE LOPEZ PORTILLO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes sabed:
