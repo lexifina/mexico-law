@@ -1,0 +1,1 @@
+Artículo 232 Sexies.- Las infracciones previstas en los artículos 232 Bis, 232 Ter, 232 Quáter y 232 Quinquies serán sancionadas conforme al artículo 234 de esta Ley y con arreglo a lo dispuesto en la Ley Federal de Procedimiento Administrativo.

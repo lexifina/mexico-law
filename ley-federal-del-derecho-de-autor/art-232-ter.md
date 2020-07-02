@@ -1,0 +1,1 @@
+Artículo 232 Ter.- Se impondrá multa de mil hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, a quien eluda una medida tecnológica de protección efectiva que controle el acceso a una obra, interpretación o ejecución, o fonograma protegido por esta Ley.
