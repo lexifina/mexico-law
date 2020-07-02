@@ -35,6 +35,7 @@ Capítulo III
 De la Obra Cinematográfica y Audiovisual
 Capítulo IV
 De los Programas de Computación y las Bases de Datos
+Capítulo V
 TITULO V
 De los Derechos Conexos
 Capítulo I
@@ -80,7 +81,7 @@ Capítulo Unico
 TITULO XI
 De los Procedimientos
 Capítulo I
-Del Procedimiento ante Autoridades Judiciales
+Del Procedimiento ante Autoridades Jurisdiccionales
 Capítulo II
 Del Procedimiento de Avenencia
 Capítulo III

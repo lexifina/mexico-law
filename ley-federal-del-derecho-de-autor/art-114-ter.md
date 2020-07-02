@@ -1,0 +1,1 @@
+Artículo 114 Ter.- No constituyen violaciones a las medidas tecnológicas de protección efectiva su evasión o elusión cuando se trate de obras, interpretaciones o ejecuciones, o fonogramas, cuyos plazos de protección otorgados por esta Ley hayan expirado.
