@@ -1,1 +1,0 @@
-Artículo 37 BIS.- La publicación de la solicitud de registro de diseño industrial en trámite tendrá lugar lo más pronto posible después de que haya aprobado el examen de forma, sin que pueda solicitarse su publicación anticipada.

@@ -1,4 +1,0 @@
-Artículo 98 TER-8.- Procederá la nulidad de la declaratoria cuando:
-I.- Se haya otorgado en contravención a las disposiciones de esta Ley, y
-II.- Se hubiese concedido a quien no tuviera derecho a obtenerla.
-Las declaraciones administrativas de nulidad se harán por el Instituto, a petición de quien tenga interés jurídico y acredite los supuestos en los que funda su solicitud.

@@ -1,1 +1,0 @@
-Artículo 165 BIS 6.- El Instituto notificará al solicitante sobre las oposiciones recibidas, otorgándole un plazo improrrogable de dos meses, contado a partir de la fecha en que surta efectos la notificación respectiva, para manifestar por escrito lo que a su derecho convenga en relación con la oposición, observaciones u objeciones presentadas y, en su caso, presente pruebas.

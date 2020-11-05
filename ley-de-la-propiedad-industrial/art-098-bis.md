@@ -1,2 +1,0 @@
-Artículo 98 BIS.- La marca de certificación podrá estar conformada por el nombre de una zona geográfica o que contenga dicho nombre, u otra indicación conocida por hacer referencia a la citada zona, que identifique un producto como originario de la misma, cuando determinada calidad, reputación, u otra característica del producto sea imputable fundamentalmente a su origen geográfico.
-En el caso de indicaciones geográficas nacionales protegidas como marcas de certificación, se entenderá que éstas son bienes de dominio del poder público de la Federación.
