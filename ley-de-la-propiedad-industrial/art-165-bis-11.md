@@ -1,1 +1,0 @@
-Artículo 165 BIS 11.- En caso de que el Instituto niegue la protección a la denominación de origen o indicación geográfica solicitada, lo comunicará por escrito al solicitante y, en su caso, a los oponentes, expresando los motivos y fundamentos legales de su resolución.

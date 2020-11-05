@@ -1,1 +1,0 @@
-Artículo 212 BIS 1.- En el aseguramiento de bienes a que se refiere el artículo anterior, se preferirá como depositario a la persona o Institución que, bajo su responsabilidad, designe el solicitante de la medida.

@@ -1,1 +1,0 @@
-Artículo 165 BIS 22.- En caso de que la denominación de origen o indicación geográfica protegida no sea usada en la forma establecida por la declaración o esta Ley, el Instituto procederá a la cancelación de la autorización de uso.

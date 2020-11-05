@@ -1,2 +1,0 @@
-Artículo 98 BIS-3.- La marca de certificación no será objeto de licencia, quedando su uso reservado a las personas que cumplan con las condiciones determinadas en las reglas para su uso.
-Las marcas de certificación se regirán, en lo que no haya disposición especial, por lo establecido en esta Ley para las marcas.

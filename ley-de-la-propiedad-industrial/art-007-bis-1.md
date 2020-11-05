@@ -1,1 +1,0 @@
-Artículo 7 Bis 1.- El Director General, o su equivalente, es el representante legal del Instituto y es designado a indicación del Ejecutivo Federal, a través del Secretario de Economía por la Junta de Gobierno.

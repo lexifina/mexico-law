@@ -1,1 +1,0 @@
-Artículo 165 BIS 19.- La denominación de origen o indicación geográfica podrá usarse en publicidad, documentación comercial, empaques, embalajes, envases o sobre los propios productos en que sea aplicada o de cualquier otra manera con propósitos comerciales.
