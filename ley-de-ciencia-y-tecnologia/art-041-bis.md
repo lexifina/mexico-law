@@ -1,7 +1,7 @@
 Artículo 41 Bis. El Comité Intersectorial para la Innovación operará en los términos del reglamento interno que al efecto se expida y tendrá las siguientes facultades:
 I. Aprobar el programa de innovación e informar al Consejo General;
 II. Aplicar los recursos que se hayan aprobado al programa de innovación en el Presupuesto de Egresos de la Federación;
-III. Establecer las reglas de operación de los fondos sectoriales de innovación que se financien con recursos del programa de innovación;
+III. Se deroga.
 IV. Proponer al Consejo General y a las dependencias de la Administración Pública Federal las recomendaciones que considere pertinentes en materia de normalización y derechos de propiedad intelectual, a fin de promover la innovación;
 V. Opinar respecto del marco regulatorio nacional, diagnosticar su aplicación y proponer al Consejo General proyectos de reformas a las disposiciones legislativas y administrativas relacionadas con la innovación, así como mecanismos que la incentiven;
 VI. Opinar sobre los proyectos o programas federales relacionados con la innovación en las entidades de la Administración Pública Federal para mejorar el impacto que puedan tener sobre el desarrollo tecnológico y la innovación de los sectores productivos y de servicios;
