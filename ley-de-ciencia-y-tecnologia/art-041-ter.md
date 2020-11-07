@@ -1,5 +1,4 @@
-Artículo 41 Ter.
-El Comité Intersectorial para la Innovación se apoyará en un Secretario Técnico adscrito a la Secretaría de Economía quien será designado por el titular de dicha Secretaría de entre los Directores Generales ya existentes y tendrá las siguientes atribuciones:
+Artículo 41 Ter. El Comité Intersectorial para la Innovación se apoyará en un Secretario Técnico adscrito a la Secretaría de Economía quien será designado por el titular de dicha Secretaría de entre los Directores Generales ya existentes y tendrá las siguientes atribuciones:
 I. Proponer y ejecutar el programa de innovación;
 II. Ejecutar y dar seguimiento a los acuerdos del Comité;
 III. Formular y presentar al Comité el proyecto del programa de innovación, para su aprobación así como un informe anual de evaluación de dicho programa y de otros programas específicos prioritarios;

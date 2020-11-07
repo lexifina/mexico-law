@@ -10,7 +10,6 @@ Información
 SECCIÓN III
 Programa Especial de Ciencia, Tecnología e Innovación
 SECCIÓN IV
-Fondos
 SECCIÓN V
 Estímulos Fiscales
 CAPÍTULO V
