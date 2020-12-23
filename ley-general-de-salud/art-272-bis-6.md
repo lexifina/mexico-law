@@ -1,0 +1,1 @@
+Artículo 272 Bis 6.- Los establecimientos que presten servicios que ofrezcan cirugía bariátrica, sin apego a lo dispuesto en la presente Ley y en las disposiciones jurídicas aplicables, serán sancionados en términos del artículo 420 de la presente Ley.
