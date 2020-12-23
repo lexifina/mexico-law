@@ -1,0 +1,1 @@
+Artículo 272 Bis 5.- Las instituciones de salud pública y privada, así como los establecimientos autorizados que practiquen la cirugía bariátrica, procurarán contar con la infraestructura multidisciplinaria adecuada para dichos procedimientos de alta complejidad, de conformidad con las disposiciones jurídicas aplicables.
