@@ -1,1 +1,1 @@
-Artículo 192-B. Por el estudio y trámite y, en su caso, la expedición del certificado de calidad del agua, a que se refiere la fracción V del artículo 224, se pagarán derechos conforme a la cuota de ... $5,593.21
+Artículo 192-B. Por el estudio y trámite y, en su caso, la expedición del certificado de calidad del agua, a que se refiere la fracción V del artículo 224, se pagarán derechos conforme a la cuota de ... $5,779.46

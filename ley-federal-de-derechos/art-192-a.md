@@ -1,8 +1,8 @@
 Artículo 192-A. Por el estudio y trámite y, en su caso, autorización de títulos de concesión y permisos que se indican, incluyendo su posterior inscripción por parte de la Comisión Nacional del Agua en el Registro Público de Derechos de Agua, se pagará el derecho de servicios relacionados con el agua, conforme a las siguientes cuotas:
-I. Por cada título de concesión para la extracción de materiales de cauces, vasos y depósitos de propiedad nacional. ... $1,727.50
-II. Por cada título de concesión para el uso o aprovechamiento de terrenos de cauces, vasos, lagos o lagunas, así como esteros, zonas federales y demás bienes nacionales regulados por la Ley de Aguas Nacionales ... $1,728.41
-III. Por cada permiso para la construcción de obras hidráulicas destinadas a la explotación, uso o aprovechamiento de aguas nacionales o en zonas de veda y reglamentadas, para perforación de pozos para uso de aguas del subsuelo o para la construcción de obras en zona federal ... $5,277.15
-IV. Por cada permiso que corresponda autorizar a la Comisión Nacional del Agua para la construcción de las siguientes obras hidráulicas u obras que afecten bienes nacionales a cargo de la Comisión Nacional del Agua: ... $305,508.98
+I. Por cada título de concesión para la extracción de materiales de cauces, vasos y depósitos de propiedad nacional. ... $1,838.04
+II. Por cada título de concesión para el uso o aprovechamiento de terrenos de cauces, vasos, lagos o lagunas, así como esteros, zonas federales y demás bienes nacionales regulados por la Ley de Aguas Nacionales ... $1,839.01
+III. Por cada permiso para la construcción de obras hidráulicas destinadas a la explotación, uso o aprovechamiento de aguas nacionales o en zonas de veda y reglamentadas, para perforación de pozos para uso de aguas del subsuelo o para la construcción de obras en zona federal ... $5,614.83
+IV. Por cada permiso que corresponda autorizar a la Comisión Nacional del Agua para la construcción de las siguientes obras hidráulicas u obras que afecten bienes nacionales a cargo de la Comisión Nacional del Agua: ... $315,682.43
 a). Presas con capacidad de almacenamiento igual o mayor a tres millones de metros cúbicos o con una cortina de igual o mayor a quince metros de altura desde la parte más baja de la cimentación hasta la corona;
 b). Puentes carreteros que comunican a zonas metropolitanas a que se refiere la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano;
 c). Puentes carreteros de caminos y carreteras a que se refiere la Ley de Caminos, Puentes y Autotransporte Federal;
@@ -14,7 +14,7 @@ h). Presas de jales a que se refiere la norma oficial mexicana NOM-141-SEMARNAT-
 i). Pozo exploratorio costero y pozo de extracción costero, entendido el primero como el pozo construido en la franja terrestre comprendida entre la bajamar y un kilómetro tierra adentro de la pleamar, con el fin de investigar el comportamiento hidrodinámico, las características hidráulicas y la salinidad del agua del acuífero y; el segundo como aquel pozo construido en la franja terrestre comprendida entre la bajamar y un kilómetro tierra adentro de la pleamar, cuyo caudal de extracción procede del mar;
 j). Pozo, pozo de alivio, pozo de avanzada, pozo de disposición y pozo exploratorio, todos ellos para la exploración y extracción de hidrocarburos en yacimientos no convencionales, y
 k). Para la exploración o explotación de yacimientos geotérmicos hidrotermales a que se refiere la Ley de Aguas Nacionales.
-V. Por cada título de concesión para el uso o aprovechamiento de infraestructura hidráulica federal, incluyendo la prestación de los servicios respectivos ... $5,553.80
-VI. Por la prórroga o modificación, a petición de parte interesada, de los títulos o permisos a que se refieren las fracciones I a V de este artículo ... $2,085.26
-VII. Por cada transmisión de títulos de concesión a que se refieren las fracciones I, II y V de este artículo ... $3,893.80
+V. Por cada título de concesión para el uso o aprovechamiento de infraestructura hidráulica federal, incluyendo la prestación de los servicios respectivos ... $5,909.18
+VI. Por la prórroga o modificación, a petición de parte interesada, de los títulos o permisos a que se refieren las fracciones I a V de este artículo ... $2,218.69
+VII. Por cada transmisión de títulos de concesión a que se refieren las fracciones I, II y V de este artículo ... $4,023.46
 Los derechos a que se refiere este artículo, se pagarán independientemente de los que corresponden por el uso o goce de inmuebles, conforme al Título II de esta Ley.

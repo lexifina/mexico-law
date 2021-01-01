@@ -1,40 +1,40 @@
 Artículo 195-A.- Por las autorizaciones, permisos, solicitudes y registros que implican análisis y manejo de riesgos sanitarios para la salud pública, se pagará el derecho de riesgo sanitario conforme a las siguientes cuotas:
 I. Por la solicitud y, en su caso, el registro de Medicamentos Alopáticos, se pagará por cada uno, el derecho conforme a las siguientes cuotas:
-a). Medicamento genérico ... $79,646.49
-b). Medicamento molécula nueva ... $142,412.24
-II. Por la solicitud y, en su caso, el registro de medicamentos homeopáticos, herbolarios y vitamínicos, se pagará por cada uno el derecho conforme a la cuota de ... $18,939.37
+a). Medicamento genérico ... $84,742.99
+b). Medicamento molécula nueva ... $151,525.05
+II. Por la solicitud y, en su caso, el registro de medicamentos homeopáticos, herbolarios y vitamínicos, se pagará por cada uno el derecho conforme a la cuota de ... $20,151.28
 III. Por la solicitud y, en su caso, el registro de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, materiales quirúrgicos, de curación, productos higiénicos e insumos de uso odontológico que no sean medicamentos, se pagará por cada uno, el derecho conforme a las siguientes cuotas:
-a). Clase I ... $11,837.11
-b). Clase II ... $17,361.08
-c). Clase III ... $22,095.93
+a). Clase I ... $12,594.55
+b). Clase II ... $18,471.99
+c). Clase III ... $23,509.83
 IV. Por la solicitud y, en su caso, el registro de plaguicidas, según la categoría toxicológica que le corresponda, y nutrientes vegetales, se pagará el derecho de registro por cada producto, conforme a las siguientes cuotas:
-a). Categoría toxicológica 1 ... $79,065.91
-b). Categoría toxicológica 2 ... $65,888.25
-c). Categoría toxicológica 3 ... $46,307.95
-d). Categoría toxicológica 4 ... $33,383.38
-e). Categoría toxicológica 5 ... $21,548.06
-f). Nutrientes vegetales ... $6,844.27
-V. Por la solicitud y, en su caso, el registro de cada producto que contenga sustancias tóxicas de alto y mediano riesgo para la salud ... $8,700.25
-VI. Por la solicitud y, en su caso, el registro de cada producto que contenga sustancias tóxicas de bajo riesgo para la salud ... $1,739.60
+a). Categoría toxicológica 1 ... $84,125.26
+b). Categoría toxicológica 2 ... $70,104.37
+c). Categoría toxicológica 3 ... $49,271.15
+d). Categoría toxicológica 4 ... $35,519.55
+e). Categoría toxicológica 5 ... $22,926.90
+f). Nutrientes vegetales ... $7,282.22
+V. Por la solicitud y, en su caso, el registro de cada producto que contenga sustancias tóxicas de alto y mediano riesgo para la salud ... $9,256.97
+VI. Por la solicitud y, en su caso, el registro de cada producto que contenga sustancias tóxicas de bajo riesgo para la salud ... $1,850.92
 Por las modificaciones de la razón o denominación social del titular del registro o por cualquier otro cambio respecto al titular de los registros señalados en las fracciones anteriores de este artículo, se pagará el 50% del derecho de registro que corresponda.
 Por otras modificaciones, renovación o prórroga que se soliciten a los registros señalados en las fracciones anteriores de este artículo, se pagará el 75% del derecho que corresponda al registro.
 VII. Por la solicitud y, en su caso, el otorgamiento de cada permiso para la importación de plaguicidas, según la categoría toxicológica que le corresponda, y de nutrientes vegetales y de sustancias tóxicas, se pagarán derechos conforme a las siguientes cuotas:
-a). Categoría toxicológica 1 ... $29,649.70
-b). Categoría toxicológica 2 ... $15,059.42
-c). Categoría toxicológica 3 ... $6,483.11
-d). Categoría toxicológica 4 ... $2,503.76
-e). Categoría toxicológica 5 ... $1,655.22
-f). Nutrientes vegetales ... $4,097.65
-g). Sustancias tóxicas ... $4,071.01
-VIII. Por la solicitud y, en su caso, expedición de la licencia sanitaria para establecimientos de servicios de sangre, con excepción de lo establecido en la fracción I del artículo 195-K-2 de esta Ley ... $12,299.12
+a). Categoría toxicológica 1 ... $31,546.96
+b). Categoría toxicológica 2 ... $16,023.05
+c). Categoría toxicológica 3 ... $6,897.96
+d). Categoría toxicológica 4 ... $2,663.97
+e). Categoría toxicológica 5 ... $1,761.14
+f). Nutrientes vegetales ... $4,359.85
+g). Sustancias tóxicas ... $4,331.51
+VIII. Por la solicitud y, en su caso, expedición de la licencia sanitaria para establecimientos de servicios de sangre, con excepción de lo establecido en la fracción I del artículo 195-K-2 de esta Ley ... $13,086.12
 Por la modificación a la licencia sanitaria de servicios de sangre se pagará el 75% del derecho que corresponda.
 No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
-IX. Por cada solicitud y, en su caso, autorización del permiso de importación para suplementos alimenticios, se pagará el derecho conforme a la cuota de: ... $5,051.44
+IX. Por cada solicitud y, en su caso, autorización del permiso de importación para suplementos alimenticios, se pagará el derecho conforme a la cuota de: ... $5,374.68
 Por las modificaciones o prórrogas que se soliciten a los permisos señalados en esta fracción, se pagará el 75% del derecho que corresponda.
-X. Por la solicitud y, en su caso, expedición de la licencia sanitaria para establecimientos con disposición de órganos, tejidos y células; centros de colecta de células troncales; bancos de órganos, tejidos y células; bancos de células troncales o establecimientos de medicina regenerativa ... $11,809.70
+X. Por la solicitud y, en su caso, expedición de la licencia sanitaria para establecimientos con disposición de órganos, tejidos y células; centros de colecta de células troncales; bancos de órganos, tejidos y células; bancos de células troncales o establecimientos de medicina regenerativa ... $12,565.39
 Por la modificación a la licencia sanitaria a que se refiere esta fracción, se pagará el 75% de la cuota del derecho que corresponda conforme a los incisos anteriores.
 No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
-XI. Por cada solicitud y, en su caso, autorización de la tarjeta de control sanitario para las personas que practiquen procedimientos de modificación a la apariencia física mediante tatuajes, perforación o micropigmentación ... $5,412.78
+XI. Por cada solicitud y, en su caso, autorización de la tarjeta de control sanitario para las personas que practiquen procedimientos de modificación a la apariencia física mediante tatuajes, perforación o micropigmentación ... $5,759.14
 Por la modificación o prórrogas de la tarjeta de control sanitario señalados en esta fracción, se pagará el 75% de la cuota del derecho que corresponda.
-XII. Por cada solicitud y, en su caso, autorización para su comercialización e importación para su comercialización de los organismos genéticamente modificados que se destinen al uso o consumo humano o al procesamiento de alimentos para consumo humano o que se destinen a una finalidad de salud pública o a la biorremediación ... $246,035.28
-XIII. Por la expedición de cada certificado de plaguicidas o nutrientes vegetales, se pagará el derecho de certificados, para libre venta o para exportación conforme a la cuota de ... $3,054.47
+XII. Por cada solicitud y, en su caso, autorización para su comercialización e importación para su comercialización de los organismos genéticamente modificados que se destinen al uso o consumo humano o al procesamiento de alimentos para consumo humano o que se destinen a una finalidad de salud pública o a la biorremediación ... $261,778.84
+XIII. Por la expedición de cada certificado de plaguicidas o nutrientes vegetales, se pagará el derecho de certificados, para libre venta o para exportación conforme a la cuota de ... $3,249.92
