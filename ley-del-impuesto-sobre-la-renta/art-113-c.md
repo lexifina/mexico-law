@@ -6,5 +6,3 @@ IV. Retener y enterar el impuesto sobre la renta que corresponda conforme a lo d
 En el caso de que los contribuyentes no proporcionen su clave del Registro Federal de Contribuyentes prevista en el inciso b) de la fracción III del artículo 18-J de la Ley del Impuesto al Valor Agregado, se deberá retener el impuesto que corresponda por los ingresos a que se refiere el artículo 113-A de esta Ley, aplicando la tasa del 20% sobre los ingresos referidos.
 V. Conservar como parte de su contabilidad la documentación que demuestre que efectuaron la retención y entero del impuesto sobre la renta correspondiente.
 Las obligaciones establecidas en las fracciones III, IV y V de este artículo, deberán cumplirse de conformidad con las reglas de carácter general que para tal efecto emita el Servicio de Administración Tributaria.
-DE LOS INGRESOS POR ARRENDAMIENTO Y EN GENERAL POR OTORGAR EL USO O
-GOCE TEMPORAL DE BIENES INMUEBLES
