@@ -1,0 +1,2 @@
+Artículo 73-J. Por la recepción y estudio de la solicitud, dictaminación y, en su caso, la aprobación de organismos de certificación, unidades de inspección, laboratorios de prueba o laboratorios de calibración, para evaluar la conformidad de Normas Oficiales Mexicanas emitidas por la Secretaría de Economía, así como Estándares y Normas Internacionales referidos en dichas Normas, se pagarán los derechos conforme a la cuota de: ... $9,799.47
+(Se deroga)
