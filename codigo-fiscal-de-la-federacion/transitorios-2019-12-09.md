@@ -26,3 +26,15 @@ Nota: Se compilan diversas cantidades establecidas en los artículos 20, 22-C, 3
 ...
 Atentamente,
 Ciudad de México, a 23 de diciembre de 2019.- En suplencia por ausencia de la Jefa del Servicio de Administración Tributaria, con fundamento en el artículo 4, primer párrafo del Reglamento Interior del Servicio de Administración Tributaria vigente, firma la Administradora General Jurídica, María de los Angeles Jasso Cisneros.- Rúbrica.
+ANEXOS 1-A, 5, 6, 7, 9, 14 y 23 de la Primera Resolución de Modificaciones a la Resolución Miscelánea Fiscal para 2020, publicada el 12 de mayo de 2020.
+Publicados en el Diario Oficial de la Federación el 14 de mayo de 2020
+Modificación al Anexo 5 de la Primera Resolución de Modificaciones a la Resolución Miscelánea
+Fiscal para 2020
+A. Cantidades actualizadas establecidas en el Código.
+I. Conforme a la fracción XI de la regla 2.1.13., se dan a conocer las cantidades actualizadas establecidas en los artículos que se precisan en dicha regla, que entrarán en vigor a partir del 1 de enero de 2020.
+Nota: Se actualizan diversas cantidades establecidas en los artículos 26, 32-H, 80, 82-B, 82-D, 84 y 86-D del Código Fiscal de la Federación.
+B. Compilación de cantidades establecidas en el Código vigente.
+Nota: Se compilan diversas cantidades establecidas en los artículos 20, 22-C, 32-A, 59, 80, 82, 84, 84-B, 84-D, 84-F, 84-H, 84-J, 84-L, 86, 86-B, 86-F, 86-H, 86-J, 88, 90, 91, 102, 104, 108, 112, 115 y 150 del Código Fiscal de la Federación.
+...
+Atentamente,
+Ciudad de México, a 8 de mayo de 2020.- La Jefa del Servicio de Administración Tributaria, Raquel Buenrostro Sánchez.- Rúbrica.
