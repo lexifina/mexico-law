@@ -1,0 +1,13 @@
+Transitorios
+Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo. En un término de seis meses, a partir del inicio de vigencia del presente Decreto, el Ejecutivo Federal deberá emitir los reglamentos necesarios y elaborará las guías de atención para el correcto funcionamiento de este ordenamiento.
+Tercero. En un plazo de ciento ochenta días contados a partir de la entrada en vigor de la presente Ley, la Secretaría de Salud, en coordinación con los demás miembros del Sistema Nacional de Salud, deberán emitir las disposiciones de carácter general para la operación de los mecanismos de la Red de Apoyo contra el Cáncer en la Infancia y la Adolescencia.
+Cuarto. La Secretaría establecerá los mecanismos para garantizar los traslados y otras prestaciones médicas necesarias para la atención de las personas sujetas de derecho a las que se refiere esta Ley.
+Quinto. La Secretaría realizará las modificaciones necesarias al Reglamento del Registro Nacional de Cáncer para los efectos de este Decreto en los noventa días posteriores al inicio de su vigencia.
+Sexto. La Secretaría realizará las modificaciones a la Norma Oficial Mexicana y demás disposiciones administrativas relativas al Sistema Nacional de Información Básica en Materia de Salud que permitan la recopilación, integración y disposición de la información necesaria para los efectos de este Decreto, garantizando la protección de datos personales de los pacientes de conformidad con la normatividad aplicable.
+Séptimo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de manera progresiva con cargo a los presupuestos autorizados para el presente ejercicio fiscal y los subsecuentes.
+Artículo Segundo.- ...
+Transitorio
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Ciudad de México, a 18 de noviembre de 2020.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Martha Hortencia Garay Cadena, Secretaria.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de enero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
