@@ -1,0 +1,11 @@
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Fiscalización y Rendición de Cuentas de la Federación.
+Publicado en el Diario Oficial de la Federación el 11 de enero de 2021
+Artículo Único.- Se reforman la fracción III del artículo 4; la fracción XI del artículo 17; el segundo párrafo del artículo 60 y se adicionan los artículos 17 Bis; 17 Ter; un tercer párrafo al artículo 61 y, un segundo párrafo a la fracción VIII del artículo 89 de la Ley de Fiscalización y Rendición de Cuentas de la Federación, para quedar como sigue:
+...
+Transitorios
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo. La Auditoría Superior de la Federación realizará y adecuará las disposiciones reglamentarias correspondientes, a fin de poner en funcionamiento la herramienta electrónica a que hace referencia el artículo 17 Bis de la presente Ley, dentro del plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+Tercero. Las auditorías presenciales iniciadas antes de la entrada en vigor de la presente reforma se concluirán bajo la misma modalidad.
+Cuarto. El Congreso de la Unión homologará y armonizará la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y la Cámara de Diputados hará lo conducente respecto al Reglamento de la Cámara de Diputados, a fin de permitir la recepción, por medios electrónicos de las denuncias a que se refiere la presente Ley, dentro del plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+Ciudad de México, a 10 de diciembre de 2020.- Sen. Eduardo Ramírez Aguilar, Presidente.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip. Martha Hortencia Garay Cadena, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de enero de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
