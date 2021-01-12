@@ -74,6 +74,8 @@ CAPITULO XI
 Trabajadores actores y músicos
 CAPITULO XII
 Trabajo a domicilio
+CAPÍTULO XII BIS
+Teletrabajo
 CAPITULO XIII
 Personas Trabajadoras del Hogar
 Capitulo XIII Bis
