@@ -1,12 +1,12 @@
 DECRETO que reforma el Código Penal.
 Publicado en el Diario Oficial de la Federación el 14 de febrero de 1940
-ARTICULO PRIMERO.- Se reforma el Título Séptimo del Libro Segundo del Código Penal, para quedar como sigue:
+ARTICULO PRIMERO.- Se reforma el título séptimo del libro segundo del Código Penal, en los siguientes términos:
 ...
-ARTICULO SEGUNDO.- Se modifica el rubro del Capítulo I del Título Octavo del Código Penal, para quedar como sigue:
+ARTICULO SEGUNDO.- Se modifica el rubro del Capítulo I del Título Octavo del Código Penal, en los siguientes términos:
 ...
-ARTICULO TERCERO.- Se reforma y adiciona el artículo 200 del Código Penal, para quedar como sigue:
+ARTICULO TERCERO.- Se reforma y adiciona el artículo 200 del Código Penal, como sigue:
 ...
-ARTICULO CUARTO.- Se reforma y adiciona el artículo 207 del Código Penal, para quedar como sigue:
+ARTICULO CUARTO.- Se reforma y adiciona el artículo 207 del Código Penal, en los siguientes términos:
 ...
 TRANSITORIOS
 ARTICULO 1°.- Este Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
