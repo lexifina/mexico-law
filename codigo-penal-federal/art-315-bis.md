@@ -1,2 +1,2 @@
 Artículo 315 Bis.- Se impondrá la pena del artículo 320 de este Código, cuando el homicidio sea cometido intencionalmente, a propósito de una violación o un robo por el sujeto activo de éstos, contra su víctima o víctimas.
-También se aplicará la pena a que se refiere el artículo 320 de este Código, cuando el homicidio se cometiera intencionalmente en casa-habitación, habiéndose penetrado en la misma de manera furtiva, con engaño o violencia, o sin permiso de la persona autorizada para darlo.
+También se aplicará la pena a que se refiere el Artículo 320 de este Código, cuando el homicidio se cometiera intencionalmente en casa-habitación, habiéndose penetrado en la misma de manera furtiva, con engaño o violencia, o sin permiso de la persona autorizada para darlo.

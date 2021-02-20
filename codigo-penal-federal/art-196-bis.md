@@ -1,1 +1,1 @@
-Artículo 196 Bis.- (Se deroga).
+Artículo 196 Bis.- Se deroga.
