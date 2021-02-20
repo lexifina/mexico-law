@@ -11,7 +11,7 @@ Personas responsables de los delitos
 CAPITULO IV
 Causas de exclusión del delito
 CAPITULO V
-Concurso de delitos
+Concurso de Delitos
 CAPITULO VI
 Reincidencia
 TITULO SEGUNDO
@@ -26,7 +26,7 @@ Confinamiento
 CAPITULO V
 Sanción pecuniaria
 CAPITULO VI
-Decomiso de Instrumentos, objetos y productos del delito
+Decomiso de Instrumentos, Objetos y Productos del Delito
 CAPITULO VII
 Amonestación
 CAPITULO VIII
@@ -66,25 +66,25 @@ Muerte del imputado o sentenciado
 CAPITULO II
 Amnistía
 CAPITULO III
-Perdón del ofendido o legitimado para otorgarlo
+Perdón del Ofendido o Legitimado para Otorgarlo
 CAPITULO IV
-Reconocimiento de inocencia e indulto
+Reconocimiento de Inocencia e Indulto
 CAPITULO V
 Rehabilitación
 CAPITULO VI
 Prescripción
 CAPITULO VII
-Cumplimiento de la pena o medida de seguridad
+Cumplimiento de la Pena o Medida de Seguridad
 CAPITULO VIII
 Supresión del tipo penal
 CAPITULO IX
 CAPITULO X
-Extinción de las medidas de tratamiento de inimputables
+Extinción de las Medidas de Tratamiento de Inimputables
 TITULO SEXTO
 De los menores
 LIBRO SEGUNDO
 TITULO PRIMERO
-Delitos Contra la Seguridad de la Nación
+Delitos contra la seguridad de la Nación
 CAPITULO I
 Traición a la Patria
 CAPITULO II
@@ -114,7 +114,7 @@ Violación de inmunidad y de neutralidad
 CAPITULO III
 TERRORISMO INTERNACIONAL
 TITULO TERCERO
-Delitos Contra la Humanidad
+Delitos contra la humanidad
 CAPITULO I
 Violación de los deberes de humanidad
 CAPITULO II
@@ -124,7 +124,7 @@ Delitos contra la Dignidad de las Personas
 Capítulo Único
 Discriminación
 TITULO CUARTO
-Delitos Contra la Seguridad Pública
+Delitos contra la seguridad pública
 CAPITULO I
 Evasión de presos
 CAPITULO II
@@ -134,11 +134,11 @@ Armas prohibidas
 CAPITULO IV
 Asociaciones delictuosas
 TITULO QUINTO
-Delitos en Materia de Vías de Comunicación y Correspondencia
+Delitos en materia de vías de comunicación y de correspondencia
 CAPITULO I
 Ataques a las vías de comunicación y violación de correspondencia
 CAPITULO I BIS
-Uso ilícito de instalaciones destinadas al tránsito aéreo
+Uso ilícito de instalaciones destinadas al tránsito aéreo.
 CAPITULO II
 Violación de correspondencia
 TITULO SEXTO
@@ -178,7 +178,7 @@ TITULO NOVENO
 Revelación de secretos y acceso ilícito a sistemas y equipos de informática
 CAPITULO I
 Revelación de secretos
-Capitulo II
+CAPÍTULO II
 Acceso ilícito a sistemas y equipos de informática
 TITULO DECIMO
 Delitos por hechos de corrupción
@@ -205,7 +205,7 @@ CAPITULO IX
 Tráfico de Influencia
 CAPITULO X
 Cohecho
-Capítulo XI
+CAPÍTULO XI
 Cohecho a servidores públicos extranjeros
 CAPITULO XII
 Peculado
@@ -220,7 +220,7 @@ Ejercicio indebido del propio derecho
 TITULO DECIMOSEGUNDO
 Responsabilidad Profesional
 CAPITULO I
-Disposiciones generales
+Disposiciones Generales
 CAPITULO II
 Delitos de abogados, patronos y litigantes
 TITULO DECIMOTERCERO
@@ -240,9 +240,9 @@ CAPITULO VII
 CAPITULO VIII
 Disposiciones comunes a los capítulos precedentes
 TITULO DECIMOCUARTO
-Delitos Contra la Economía Pública
+Delitos contra la economía pública
 CAPITULO I
-Delitos contra el consumo y la riqueza nacionales
+Delitos contra el consumo y la Riqueza Nacionales
 CAPITULO II
 Vagos y malvivientes
 CAPITULO III
@@ -257,11 +257,11 @@ Incesto
 CAPITULO IV
 Adulterio
 CAPITULO V
-Disposiciones generales
+Disposiciones Generales
 TITULO DECIMOSEXTO
 Delitos Contra el Estado Civil y Bigamia
 TITULO DECIMOSEPTIMO
-Delitos en Materia de Inhumaciones y Exhumaciones
+Delitos en materia de inhumaciones y exhumaciones
 CAPITULO UNICO
 Violación de las leyes sobre inhumaciones y exhumaciones
 TITULO DECIMOCTAVO
@@ -271,7 +271,7 @@ Amenazas y Cobranza Extrajudicial Ilegal
 CAPITULO II
 Allanamiento de morada
 TITULO DECIMONOVENO
-Delitos Contra la Vida y la Integridad Corporal
+Delitos contra la vida y la integridad corporal
 CAPITULO I
 Lesiones
 CAPITULO II
@@ -286,7 +286,7 @@ CAPITULO VI
 Aborto
 CAPITULO VII
 Abandono de personas
-CAPITULO OCTAVO
+CAPÍTULO OCTAVO
 Violencia familiar
 TITULO VIGESIMO
 Delitos Contra el Honor
@@ -299,10 +299,10 @@ Calumnia
 CAPITULO IV
 Disposiciones comunes para los capítulos precedentes
 TITULO VIGESIMO PRIMERO
-Privación Ilegal de la Libertad y de otras Garantías
+Privación ilegal de la libertad y de otras garantías
 CAPITULO UNICO
 TITULO VIGESIMO SEGUNDO
-Delitos en Contra de las Personas en su Patrimonio
+Delitos en contra de las personas en su patrimonio
 CAPITULO I
 Robo
 CAPITULO II
@@ -319,14 +319,14 @@ CAPITULO V
 Despojo de cosas inmuebles o de aguas
 CAPITULO VI
 Daño en propiedad ajena
-TITULO VIGESIMO TERCERO
+TITULO VIGESIMOTERCERO
 Encubrimiento y Operaciones con Recursos de Procedencia Ilícita
 CAPITULO I
 Encubrimiento
 CAPITULO II
 Operaciones con recursos de procedencia ilícita
 TITULO VIGESIMOCUARTO
-Delitos Electorales y en Materia de Registro Nacional de Ciudadanos
+Delitos Electorales y en materia de Registro Nacional de Ciudadanos
 CAPITULO UNICO
 TITULO VIGESIMO QUINTO
 Delitos Contra el Ambiente y la Gestión Ambiental

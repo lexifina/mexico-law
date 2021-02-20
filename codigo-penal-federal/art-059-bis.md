@@ -1,1 +1,1 @@
-Artículo 59 Bis.- (Se deroga).
+Artículo 59 Bis.- Se deroga.

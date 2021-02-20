@@ -18,6 +18,6 @@ ARTICULO OCTAVO.- Se reforma el artículo 309 del citado Código Penal, para que
 ...
 ARTICULO NOVENO.- Se adiciona el artículo 387 del citado Código Penal con las fracciones XIX y XX, para quedar como sigue:
 ...
-TRANSITORIOS
+TRANSITORIOS:
 ARTICULO PRIMERO.- El presente Decreto entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
 ARTICULO SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a las presentes reformas y adiciones.
