@@ -20,4 +20,4 @@ XVIII. No comunicar al Instituto por escrito sobre el estallamiento de huelga o 
 XIX. Omitir o presentar extemporáneamente el dictamen por contador público autorizado cuando se haya ejercido dicha opción en términos del artículo 16 de esta Ley;
 XX. No cumplir o hacerlo extemporáneamente con la obligación de dictaminar por contador público autorizado sus aportaciones ante el Instituto;
 XXI. Notificar en forma extemporánea, hacerlo con datos falsos o incompletos o bien, omitir notificar al Instituto en los términos del reglamento respectivo, el domicilio de cada una de las obras o fase de obra que realicen los patrones que esporádica o permanentemente se dediquen a la industria de la construcción, y
-XXII. No presentar al Instituto la información señalada en el artículo 15-A de esta Ley.
+XXII. No presentar o presentar fuera del plazo legal establecido, la información señalada en el artículo 15 A de esta Ley.
