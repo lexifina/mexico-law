@@ -195,3 +195,9 @@ Capítulo VI
 Del Sistema de Evaluación de Diputados
 TITULO NOVENO
 De las Reformas al Reglamento
+TÍTULO DÉCIMO
+De los asuntos que pasan de una legislatura a otra
+Capítulo I
+De las iniciativas y minutas
+Capítulo II
+De los dictámenes en poder de la Mesa Directiva
