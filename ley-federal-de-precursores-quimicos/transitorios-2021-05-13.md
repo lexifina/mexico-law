@@ -1,0 +1,7 @@
+ACUERDO por el que se adicionan las substancias N-Fenil-4-piperidinamina (4-AP), Diclorhidrato de N-Fenil-4-piperidinamina (4-AP), Anhídrido propiónico y Cloruro de propionilo), al listado de la clasificación a que se refiere a la fracción I, del artículo 4, de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos; y se consideran estupefacientes comprendidos en el artículo 234, de la Ley General de Salud.
+Publicado en el Diario Oficial de la Federación el 13 de mayo de 2021
+PRIMERO. Se adicionan al listado de substancias controladas a que se refiere la fracción I, del artículo 4, de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos, las substancias denominadas N-Fenil-4 - piperidinamina (4-AP), Diclorhidrato de N-Fenil-4-piperidinamina, Anhídrido propiónico y Cloruro de propionilo.
+SEGUNDO. Para los efectos de lo establecido en los artículos 234 y 235 de la Ley General de Salud, las substancias denominadas N-Fenil-4-piperidinamina (4-AP), Diclorhidrato de N-Fenil-4-piperidinamina (4-AP), Anhídrido propiónico y Cloruro de propionilo, se consideran estupefacientes.
+TRANSITORIO
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Ciudad de México, a 7 de mayo de 2021.- El Secretario del Consejo de Salubridad General, José Ignacio Santos Preciado.- Rúbrica.
