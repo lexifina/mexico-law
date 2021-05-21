@@ -56,6 +56,7 @@ Cuarto. (Se deroga).
 Quinto. Se condonan los derechos generados durante el ejercicio fiscal de 2002, relativos al aprovechamiento no extractivo de ballenas en zonas federales, originado por el desarrollo de actividades de observación y acercamiento de ballenas a que se refiere el artículo 238-B del Decreto por el que se Reforman, Adicionan y Derogan diversas disposiciones de la Ley Federal de Derechos, publicado en el Diario Oficial de la Federación el 1o. de enero de 2002.
 Lo dispuesto en este artículo, no dará lugar a devolución alguna.
 Los derechos que se causen a partir del 1o. de enero de 2003 por la aplicación del artículo 238-B de la Ley Federal de Derechos se pagarán conforme a lo dispuesto en el último párrafo del artículo antes mencionado.
+...
 Transitorio del Decreto
 Único.- El presente Decreto entrará en vigor a partir del 1o. de enero de 2003.
 México, D.F., a 15 de diciembre 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Adela Cerezo Bautista, Secretario.- Sen. Sara I. Castellanos Cortés, Secretario.- Rúbricas".

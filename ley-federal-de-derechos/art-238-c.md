@@ -6,4 +6,3 @@ No pagarán el derecho a que se refiere la fracción I de este artículo, las pe
 En el supuesto de que el aprovechamiento no extractivo a que se refiere este artículo, se lleve a cabo en un Área Natural Protegida, no se pagará este derecho, debiéndose enterar únicamente el derecho establecido en el artículo 198 de esta Ley.
 Los ingresos que se obtengan por la recaudación del derecho a que se refiere este artículo, se destinarán a la Comisión Nacional de Áreas Naturales Protegidas para programas de conservación, mantenimiento y operación de los centros tortugueros.
 Los residentes de la zona de influencia de las Áreas Naturales Protegidas que realicen algunas de las actividades a que se hace referencia en este precepto, que demuestren dicha calidad ante la autoridad competente, pagarán el 50% de la cuota establecida en el presente artículo.
-(Se deroga denominación Sección Primera Espectro Radioeléctrico)

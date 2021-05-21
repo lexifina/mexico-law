@@ -4,7 +4,7 @@ La anterior disposición es aplicable a los establecimientos permanentes. En el 
 II.- Por la verificación en campo de levantamiento topográfico presentado por el solicitante de uso o aprovechamiento de las playas, la zona federal marítimo terrestre, los terrenos ganados al mar, o a cualquier otro depósito que se forme por aguas marítimas:
 Rango de superficie (metros cuadrados)
 límites
-inferior Superior Cuota fija Cuota adicional por m2 excedente del límite inferior
+inferior Superior Cuota fija Cuota Adicional por m2 excedente del límite inferior
 0.01 500.00 $1,913.39 $0.0000 500.01 1,000.00 $1,913.39 $5.3582 1,000.01 2,500.00 $4,593.17 $4.0009 2,500.01 5,000.00 $10,596.68 $2.1661 5,000.01 10,000.00 $16,015.57 $1.3798 10,000.01 15,000.00 $22,921.58 $1.0610 15,000.01 20,000.00 $28,235.04 $0.9251 20,000.01 25,000.00 $32,866.31 $0.8002 25,000.01 50,000.00 $36,874.28 $0.6643 50,000.01 100,000.00 $53,525.43 $0.3671 100,000.01 150,000.00 $71,978.68 $0.2781 150,000.01 En adelante $85,937.14 $0.1859
 A partir del límite inferior, a los m2 adicionales se les aplicará el factor correspondiente hasta llegar al límite inferior del siguiente rango.
 III. Por la cesión de la concesión entre particulares ... $6,247.78

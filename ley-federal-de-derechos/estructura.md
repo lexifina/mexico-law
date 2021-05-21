@@ -93,7 +93,7 @@ Concesiones, Permisos, Autorizaciones e Inspecciones
 Sección Cuarta
 Servicio de Correos
 Sección Quinta
-Autotransporte Federal y Servicios Auxiliares.
+Autotransporte Federal y Servicios Auxiliares
 Sección Sexta
 Sección Séptima
 Registro Público Marítimo Nacional y Servicios a la Marina Mercante

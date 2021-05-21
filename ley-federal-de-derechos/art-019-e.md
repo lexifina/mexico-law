@@ -11,7 +11,7 @@ Para los efectos de este inciso, se entiende como horario ordinario de servicio 
 III. Por el trámite y estudio y, en su caso, la autorización anual por transmisiones en idioma extranjero ... $1,476.11
 IV. (Se deroga).
 V. (Se deroga).
-VI. Por el trámite, estudio, clasificación · y, en su caso, autorización de materiales grabados, se pagarán derechos por cada 15 minutos o fracción de duración por material, la cuota de ... $321.48
+VI. Por el trámite, estudio, clasificación y, en su caso, autorización de materiales grabados, se pagarán derechos por cada 15 minutos o fracción de duración por material, la cuota de ... $321.48
 VII. (Se deroga).
 VIII. (Se deroga).
 IX. (Se deroga).

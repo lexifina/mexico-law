@@ -1,6 +1,6 @@
 Artículo 223-Bis. Las personas físicas y morales a que se refieren los artículos 222 y 223 de esta Ley, que trasvasen directamente las aguas nacionales, así como aquéllas que se beneficien del trasvase indirecto, pagarán adicionalmente a las cuotas previstas en el artículo 223 citado, las cuotas siguientes atendiendo a los usos establecidos en el artículo 223 de esta Ley, así como a las zonas de disponibilidad de donde se efectúa la exportación del agua trasvasada y la de importación.
 Apartado A, del artículo 223 de esta Ley, fuente de extracción aguas superficiales
-Zona de disponi bilidad exporta Zona de disponibilidad importadora ZD 1 2 3 4 1 $3.2756
+Zona de disponibilidad exportadora Zona de disponibilidad importadora ZD 1 2 3 4 1 $3.2756
 2 $1.7964 $1.5082
 3 $1.2083 $0.7003 $0.4944
 4 $1.1529 $0.6341 $0.3864 $0.3782

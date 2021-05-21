@@ -1,5 +1,6 @@
 Artículo 244-E. Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, de conformidad con la tabla B, como sigue:
-Tabla A Rango de frecuencias en Megahertz
+Tabla A
+Rango de frecuencias en Megahertz
 De 1710 MHz a 1770 MHz De 2110 MHz a 2170 MHz
 Tabla B
 Cobertura Cuota por cada kilohertz concesionado permisionado 1MHz=1000 KHz Todos los municipios de Baja California, Baja California Sur y el municipio de San Luis Río Colorado del estado de Sonora. $4,437.49 Todos los municipios de Sinaloa y todos los de Sonora, excepto el municipio de San Luis Río Colorado. $657.81 Todos los municipios de los estados de Chihuahua y Durango y los municipios Francisco
