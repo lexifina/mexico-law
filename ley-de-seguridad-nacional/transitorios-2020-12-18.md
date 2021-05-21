@@ -1,5 +1,5 @@
 DECRETO por el que se adicionan diversas disposiciones a la Ley de Seguridad Nacional.
-Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2019
+Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2020
 Artículo Único.- Se adicionan una fracción VI al artículo 6, y un Título Séptimo denominado "De la Cooperación con los Gobiernos Extranjeros en materia de seguridad que contribuyan a preservar la Seguridad Nacional", conformado por dos Capítulos y los artículos 68; 69; 70; 71; 72; 73; 74; 75 y 76 a la Ley de Seguridad Nacional, para quedar como sigue:
 ...
 Transitorios
