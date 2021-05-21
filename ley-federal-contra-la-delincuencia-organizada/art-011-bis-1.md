@@ -6,4 +6,4 @@ IV. Seguimiento de personas;
 V. Colaboración de informantes, y
 VI. Usuarios simulados.
 Para el empleo de las técnicas previstas en las fracciones I y III de este artículo siempre que con su aplicación resulten afectadas comunicaciones privadas, se requerirá de una autorización judicial previa de intervención de comunicaciones privadas.
-El Procurador General de la República emitirá los protocolos para el uso de las técnicas de investigación previstas en este artículo.
+El Fiscal General de la República emitirá los protocolos para el uso de las técnicas de investigación previstas en este artículo.

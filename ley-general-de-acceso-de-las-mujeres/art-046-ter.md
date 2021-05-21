@@ -7,4 +7,4 @@ V. Tomar medidas y realizar las acciones necesarias, en coordinación con las de
 VI. Constituir un padrón sobre las unidades destinadas para las mujeres a las que se refieren los artículos 63 y 71 de la Ley Agraria, con base en la información contenida en el Registro Agrario Nacional;
 VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa, y
 VIII. Las demás previstas para el cumplimiento de la presente ley.
-Sección Novena. De la Procuraduría General de la República
+Sección Novena. De la Fiscalía General de la República
