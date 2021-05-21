@@ -1,0 +1,1 @@
+Artículo 78 Bis 11. La Secretaría establecerá y mantendrá un proceso para analizar los datos e información sobre Seguridad operacional obtenida de los Sistemas de recopilación y procesamiento de datos referentes a la Seguridad operacional conexa.

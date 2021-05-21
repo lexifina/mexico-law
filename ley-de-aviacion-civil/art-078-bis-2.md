@@ -4,7 +4,7 @@ II. Los concesionarios y permisionarios aeroportuarios;
 III. El organismo descentralizado Aeropuertos y Servicios Auxiliares;
 IV. El órgano administrativo desconcentrado Servicios a la Navegación en el Espacio Aéreo Mexicano;
 V. Los permisionarios de talleres aeronáuticos;
-VI. Las organizaciones responsables de diseño de tipo y las organizaciones responsables de la fabricación de aeronaves;
+VI. Las organizaciones responsables del diseño de tipo o responsables de la fabricación de aeronaves, motores o hélices;
 VII. Los prestadores de servicio de tránsito aéreo;
 VIII. Los centros de formación o de capacitación y adiestramiento con aeronaves, y
 IX. Los operadores aéreos de aeronaves de estado distintas de las militares.
