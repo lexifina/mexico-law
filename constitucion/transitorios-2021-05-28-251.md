@@ -1,0 +1,12 @@
+DECRETO por el que se adiciona una fracción XXIII Bis al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Seguridad Privada.
+Publicado en el Diario Oficial de la Federación el 28 de mayo de 2021
+Artículo Único. Se adiciona una fracción XXIII Bis al artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+...
+Transitorios
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo. Dentro del plazo de 180 días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión deberá expedir la ley general en materia de seguridad privada a que hace referencia el artículo 73, fracción XXIII Bis de la Constitución Política de los Estados Unidos Mexicanos.
+Tercero. Dentro del plazo de 180 días naturales siguientes a la entrada en vigor de la ley general de seguridad privada a que se refiere el artículo 73, fracción XXIII Bis de la Constitución Política de los Estados Unidos Mexicanos, el Congreso de la Unión y las legislaturas de las entidades federativas deberán expedir la legislación necesaria para adecuar el marco normativo con este Decreto y la ley citada. Mientras tanto, continuará en vigor la legislación en los términos que se encuentre a la fecha de entrada en vigor del presente Decreto.
+Para el caso que no se lleven a cabo las adecuaciones normativas, dentro del plazo concedido al Congreso de la Unión y a las legislaturas de las entidades federativas, deberá cesar la aplicación de la legislación que no se ajuste al contenido de la mencionada ley general y, en su caso, aplicarse directamente el contenido de ésta.
+Cuarto. Los asuntos en trámite hasta el momento en que entre en vigor la ley general en materia de seguridad privada, se concluirán conforme a la legislación con que se iniciaron.
+Ciudad de México, a 19 de mayo de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. María del Carmen Almeida Navarro, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
