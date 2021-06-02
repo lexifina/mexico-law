@@ -1,0 +1,7 @@
+Transitorios
+Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo. Se abroga la Ley General de Bibliotecas publicada en el Diario Oficial de la Federación el 21 de enero de 1988.
+Tercero. Se abroga el Decreto que dispone la obligación de los editores y productores de materiales bibliográficos y documentales, de entregar ejemplares de sus obras a la Biblioteca Nacional y a la Biblioteca del Congreso de la Unión, publicado en el Diario Oficial de la Federación el 23 de julio de 1991.
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto corresponderán a las dependencias y entidades competentes, y se realizarán con cargo a su presupuesto aprobado para el ejercicio fiscal que corresponda.
+Ciudad de México, a 30 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Lilia Margarita Valdez Martínez, Secretaria.- Dip. Martha Hortencia Garay Cadena, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
