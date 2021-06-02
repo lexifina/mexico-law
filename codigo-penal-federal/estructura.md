@@ -162,6 +162,8 @@ Capítulo III
 Delitos contra los Derechos Reproductivos
 TÍTULO SÉPTIMO BIS
 CAPÍTULO I
+CAPÍTULO II
+Violación a la Intimidad Sexual
 TITULO OCTAVO
 DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD.
 CAPÍTULO I
