@@ -1,0 +1,8 @@
+DECRETO por el que se reforman diversas disposiciones de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano.
+Publicado en el Diario Oficial de la Federación el 1 de junio de 2021
+Artículo Único. Se reforman el artículo 7; las fracciones VI, XII, XIV y XXII al artículo 8; las fracciones VII, XIV, XV y XIX al artículo 10; las fracciones VI y VII al artículo 11; la fracción VIII al artículo 16; el artículo 31; el primer párrafo al artículo 32; el artículo 33; la fracción III al artículo 36; el último párrafo del artículo 37; el artículo 42; y se adicionan las fracciones XLI, XLII y XLIII al artículo 3; la fracción XXVI al artículo 11 y la fracción XVI al artículo 16; de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, para quedar como sigue:
+...
+Transitorio
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip. Edgar Guzmán Valdez, Secretario.- Sen. María Merced González González, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de mayo de 2021.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
