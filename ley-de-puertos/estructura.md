@@ -3,7 +3,7 @@ DISPOSICIONES GENERALES
 CAPITULO II
 Puertos, terminales, marinas e instalaciones portuarias
 CAPITULO III
-La SEMAR y la Secretaría
+La Secretaría
 CAPITULO IV
 Concesiones y permisos
 CAPITULO V
