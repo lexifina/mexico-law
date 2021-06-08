@@ -77,13 +77,13 @@ Jurisprudencia y Declaratoria General de Inconstitucionalidad
 CAPÍTULO I
 Disposiciones Generales
 CAPÍTULO II
-Jurisprudencia por Reiteración de Criterios
+Jurisprudencia por Precedentes Obligatorios
 CAPÍTULO III
-Jurisprudencia por Contradicción de Tesis
+Jurisprudencia por Reiteración
 CAPÍTULO IV
-Interrupción de la Jurisprudencia
+Jurisprudencia por Contradicción de Criterios
 CAPÍTULO V
-Jurisprudencia por sustitución
+Interrupción de la Jurisprudencia
 CAPÍTULO VI
 Declaratoria General de Inconstitucionalidad
 TÍTULO QUINTO
