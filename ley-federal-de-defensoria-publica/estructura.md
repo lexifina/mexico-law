@@ -21,6 +21,6 @@ De las Unidades Administrativas
 CAPÍTULO V
 De los impedimentos
 CAPÍTULO VI
-Del Plan Anual de Capacitación y Estímulo
+Del Plan Anual de Capacitación
 CAPÍTULO VII
 De la Responsabilidad de los Defensores Públicos y Asesores Jurídicos
