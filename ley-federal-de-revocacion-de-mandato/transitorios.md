@@ -1,0 +1,8 @@
+Transitorios
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Segundo. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones normativas que se opongan al mismo.
+Tercero. El Instituto deberá tener a disposición de las ciudadanas y los ciudadanos, a más tardar el 1 de octubre de 2021, el formato impreso y los medios electrónicos de solicitud de la Convocatoria al proceso de revocación de mandato para el periodo constitucional 2018-2024.
+Cuarto. El Instituto deberá garantizar la realización de la consulta establecida en el Transitorio Cuarto del Decreto de reforma constitucional publicado en el Diario Oficial de la Federación el 20 de diciembre de 2019, por lo que hará los ajustes presupuestales que fueren necesarios.
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto serán cubiertas con los presupuestos asignados y subsecuentes.
+Ciudad de México, a 7 de septiembre de 2021.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. María Celeste Sánchez Sugía, Secretaria.- Dip. Brenda Espinoza Lopez, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de septiembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
