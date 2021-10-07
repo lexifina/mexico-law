@@ -26,10 +26,10 @@ Defensa Nacional Marina
 Marina Hacienda y Crédito Público
 Hacienda y Crédito Público Desarrollo Regional y Apoyo a la Producción
 Programación, Presupuesto y Cuenta Pública
-Presupuesto y Cuenta Pública Asentamientos Humanos y Obras Públicas Desarrollo Social y Vivienda
+Presupuesto y Cuenta Pública Asentamientos Humanos y Obras Públicas
 Desarrollo Social
 Vivienda
-Asuntos Hidráulicos
+Desarrollo Social y Vivienda Asuntos Hidráulicos
 Bosques y Selvas
 Ecología y Medio Ambiente
 Pesca
@@ -44,16 +44,16 @@ Comunicaciones y Transportes Ciencia y Tecnología
 Corrección de Estilo
 Cultura
 Deporte
-Educación
-Educación Pública, Cultura y Ciencia y Tecnología Pensionados y Jubilados
+Educación Pública, Cultura y Ciencia y Tecnología Educación
+Pensionados y Jubilados
 Salud
 Seguridad Social
 Salud y Seguridad Social Trabajo y Previsión Social
 Trabajo y Previsión Social Reforma Agraria
 Reforma Agraria Turismo
 Turismo Estudios Legislativos
-Reglamentos y Prácticas Parlamentarias Reglamentos y Prácticas Parlamentarias
-Distrito Federal
+Reglamentos y Prácticas Parlamentarias
+Reglamentos y Prácticas Parlamentarias Distrito Federal
 Distrito Federal Asuntos Indígenas
 Asuntos Indígenas Equidad y Género
 Equidad y Género Atención y Apoyo a Discapacitados
@@ -69,8 +69,8 @@ Administración
 Junta de Coordinación Política Asuntos Editoriales
 Coordinación de Comunicación Social Asuntos Internacionales
 Comisión de Relaciones Exteriores Biblioteca e Informática
-Servicios de Bibliotecas Comunicación Social
-Coordinación de Comunicación Social Instituto de investigaciones Legislativas Centro de Estudios de Derecho e Investigaciones Parlamentarias
+Servicios de Bibliotecas Comunicación Social Coordinación de Comunicación Social
+Instituto de investigaciones Legislativas Centro de Estudios de Derecho e Investigaciones Parlamentarias
 b) Las iniciativas de reforma constitucional que se encuentren en la Comisión de Gobernación y Puntos Constitucionales, serán turnadas a la Comisión de Puntos Constitucionales y Sistema Federal, así como a las otras comisiones ordinarias que corresponda. Los demás asuntos a cargo de la Comisión de Gobernación y Puntos Constitucionales se turnarán a la nueva Comisión de Gobernación, Población y Seguridad Pública.
 c) En caso de que se presenten controversias sobre la distribución de las competencias de las comisiones establecida en el inciso a), la Conferencia para la Dirección y Programación de los Trabajos Legislativos resolverá lo conducente.
 V). Se respetarán los derechos contractuales de los actuales secretarios técnicos y demás personal de las comisiones. Serán adscritos por acuerdo de la Conferencia para la Dirección y Programación de los Trabajos Legislativos, de conformidad con la reestructuración de comisiones a que se refiere el inciso anterior.
