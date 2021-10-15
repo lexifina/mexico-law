@@ -1,0 +1,13 @@
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Salud.
+Publicado en el Diario Oficial de la Federación el 14 de octubre de 2021
+Artículo Único. Se reforman los artículos 414 Bis, primer párrafo; 421 Bis; y se adicionan un tercer párrafo al artículo 270, recorriéndose los subsecuentes; un artículo 271 Bis; un tercer párrafo al artículo 272; una fracción VI Bis al artículo 425, y un artículo 465 Bis, de la Ley General de Salud, para quedar como sigue:
+...
+Transitorios
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo. El Poder Ejecutivo Federal, a través de las instancias competentes, contará con 180 días, contados a partir de su publicación en el Diario Oficial de la Federación, para expedir las disposiciones jurídicas necesarias para la aplicación del presente Decreto.
+Tercero. La Secretaría de Salud, en términos de lo que establece la Ley de Infraestructura de la Calidad, deberá adecuar las normas oficiales mexicanas relacionadas con las disposiciones establecidas por este Decreto.
+Cuarto. A partir de la publicación del presente Decreto, la Secretaría de Salud, en atención a su disponibilidad presupuestaria, incentivará y dará facilidades para la investigación nacional dirigida a desarrollar modelos alternativos al uso de pruebas en animales, validadas por la comunidad científica internacional.
+Quinto. A partir de la publicación de las disposiciones jurídicas a que se refiere el artículo segundo transitorio del presente Decreto, los fabricantes contarán con dos años para sustituir las pruebas cosméticas en animales por métodos alternativos para evaluar la seguridad y eficacia de los productos cosméticos.
+Sexto. Las disposiciones a las que se refiere el presente Decreto no se aplicarán a los productos e ingredientes probados y disponibles para la venta, en el momento de la publicación de este Decreto.
+Ciudad de México, a 2 de septiembre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Jasmine María Bugarín, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de octubre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
