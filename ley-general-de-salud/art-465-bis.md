@@ -1,0 +1,1 @@
+Artículo 465 Bis. A quien contrate, autorice, conduzca, participe o desarrolle pruebas cosméticas en animales se le aplicará pena de dos a siete años de prisión y multa equivalente de doscientas a dos mil veces el valor de la Unidad de Medida y Actualización.
