@@ -1,0 +1,1 @@
+Artículo 64 Ter. Es falta administrativa grave, la omisión de enterar las cuotas, aportaciones, cuotas sociales o descuentos ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los términos que señalan los artículos 21 y 22 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
