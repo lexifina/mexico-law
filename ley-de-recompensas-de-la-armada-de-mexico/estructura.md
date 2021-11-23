@@ -27,6 +27,8 @@ CAPITULO XI
 Condecoración de Perseverancia
 CAPITULO XII
 Condecoración a la Distinción Naval
+CAPITULO XIII
+Condecoración Bicentenario
 TITULO TERCERO
 De las Menciones Honoríficas
 CAPITULO UNICO

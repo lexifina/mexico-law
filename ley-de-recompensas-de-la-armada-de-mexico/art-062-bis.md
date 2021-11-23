@@ -1,0 +1,5 @@
+ARTÍCULO 62 BIS.- La Condecoración Bicentenario se otorga, por acuerdo del Alto Mando a propuesta del Mando Superior en Jefe, al personal militar o civil nacional o extranjero, por efectuar con resultados positivos que redunden en el prestigio y buen nombre de la institución lo siguiente:
+I.- Efectuar acciones en contra de: piratería en la mar, el contrabando, el terrorismo, el tráfico ilícito de armas de fuego y explosivos, personas, estupefacientes y psicotrópicos;
+II.- Efectuar exitosamente, operaciones de rescate, auxilio a la población civil en casos y zonas de desastre; de protección a instalaciones estratégicas del país y en la defensa y conservación del material bajo su cargo;
+III.- Auxiliar con éxito en operaciones de protección de los recursos marítimos, marinos y del medio ambiente marino; y
+IV.- Auxiliar con éxito a las Unidades de las Fuerzas Armadas Mexicanas, así como a corporaciones policiales de los diferentes niveles de gobierno, en situaciones que impliquen riesgo de pérdida de vidas humanas o se comprometa la existencia de la unidad.
