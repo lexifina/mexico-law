@@ -4,4 +4,4 @@ II. Por el estudio y trámite de la solicitud de concesión en territorio insula
 III. (Se deroga).
 IV. Por la expedición de la concesión en territorio insular ... $4,024.38
 V. (Se deroga).
-(Se deroga).
+(Se deroga)

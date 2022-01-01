@@ -13,7 +13,7 @@ Servicios de Cinematografía Televisión y Radio
 Sección Quinta
 Apostillamiento
 Sección Sexta
-Servicios Insulares
+Servicios insulares
 Sección Séptima
 Servicios Privados de Seguridad y Armas de Fuego
 CAPITULO II
@@ -75,7 +75,7 @@ Servicios de Agua
 SECCIÓN SEGUNDA
 Sanidad Fitozoosanitaria
 Sección Tercera
-Certificación y Protección del Obtentor de Variedades Vegetales
+Certificación y protección del obtentor de variedades vegetales
 SECCIÓN CUARTA
 Sanidad Acuícola
 SECCIÓN QUINTA
@@ -98,7 +98,7 @@ Sección Sexta
 Sección Séptima
 Registro Público Marítimo Nacional y Servicios a la Marina Mercante
 Sección Octava
-Otorgamiento de Permisos
+Otorgamiento de permisos
 Sección Novena
 Otros Servicios
 CAPÍTULO IX
