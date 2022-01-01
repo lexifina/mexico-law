@@ -1,0 +1,4 @@
+Artículo 84-M. Son infracciones relacionadas con las obligaciones establecidas en los artículos 32-B Ter, 32-B Quáter y 32-B Quinquies de este Código, las siguientes:
+I. No obtener, no conservar o no presentar la información a que se refiere el artículo 32-B Ter de este Código o no presentarla a través de los medios o formatos que señale el Servicio de Administración Tributaria dentro de los plazos establecidos en las disposiciones fiscales.
+II. No mantener actualizada la información relativa a los beneficiarios controladores a que se refiere el artículo 32-B Ter de este Código.
+III. Presentar la información a que se refiere el artículo 32-B Ter de este Código de forma incompleta, inexacta, con errores o en forma distinta a lo señalado en las disposiciones aplicables.
