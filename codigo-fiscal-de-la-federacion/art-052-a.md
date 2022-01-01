@@ -23,4 +23,5 @@ i) Se haya dejado sin efectos al contribuyente objeto de la revisión, el certif
 j) Tratándose de las revisiones electrónicas a que se refiere la fracción IX del artículo 42 del presente Código.
 k) Cuando habiendo ejercido la opción a que se refiere el artículo 32-A de este Código, el dictamen de los estados financieros se haya presentado en forma extemporánea.
 l) Por cada operación, no proporcionar la información a que se refiere el artículo 31-A de este Código o proporcionarla incompleta, con errores, inconsistencias o en forma distinta a lo señalado en las disposiciones fiscales.
+m) Tratándose de los contribuyentes a que se refiere el artículo 32-A de este Código.
 Tratándose de la revisión de pagos provisionales o mensuales, sólo se aplicará el orden establecido en este artículo, respecto de aquellos comprendidos en los periodos por los cuales ya se hubiera presentado el dictamen.
