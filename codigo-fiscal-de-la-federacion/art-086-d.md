@@ -1,1 +1,1 @@
-Artículo 86-D. A quien cometa la infracción relacionada con la no habilitación del buzón tributario, el no registro o actualización de los medios de contacto conforme a lo previsto en el artículo 86-C, se impondrá una multa de $3,080.00 a $9,250.00.
+Artículo 86-D. A quien cometa la infracción relacionada con la no habilitación del buzón tributario, el no registro o actualización de los medios de contacto conforme a lo previsto en el artículo 86-C, se impondrá una multa de $3,850.00 a $11,540.00.
