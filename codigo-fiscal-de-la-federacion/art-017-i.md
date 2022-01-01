@@ -1,1 +1,1 @@
-Artículo 17-I.- La integridad y autoría de un documento digital con firma electrónica avanzada o sello digital será verificable mediante el método de remisión al documento original con la clave pública del autor.
+Artículo 17-I. La integridad y autoría de un documento digital con firma electrónica avanzada o sello digital será verificable conforme a los medios o mecanismos que para tal efecto determine el Servicio de Administración Tributaria mediante reglas de carácter general.

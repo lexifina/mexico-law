@@ -1,0 +1,9 @@
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto al Valor Agregado, de la Ley del Impuesto Especial sobre Producción y Servicios, de la Ley Federal del Impuesto sobre Automóviles Nuevos, del Código Fiscal de la Federación y otros ordenamientos.
+Publicado en el Diario Oficial de la Federación el 12 de noviembre de 2021
+LEY DEL IMPUESTO AL VALOR AGREGADO
+Artículo Tercero. Se reforman los artículos 2o.-A, fracción I, inciso b), primer párrafo; 5o., fracciones II, primer párrafo, V, incisos b), c) y d), en su primer párrafo y sus numerales 2 y 3, primer párrafo, y VI, segundo párrafo; 5o.-D, primer párrafo; 18-D, fracción III; 18-H BIS, segundo párrafo, y 21; se adicionan los artículos 2o.-A, fracción I, con un inciso j), y 4o.-A, y se deroga el artículo 5o.-E, de la Ley del Impuesto al Valor Agregado, para quedar como sigue:
+...
+Transitorio
+Único. El presente Decreto entrará en vigor el 1 de enero de 2022. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán substanciarse y resolverse en términos de las disposiciones vigentes hasta el 31 de diciembre de 2021.
+Ciudad de México, a 26 de octubre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de noviembre de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
