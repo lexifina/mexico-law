@@ -1,6 +1,6 @@
 ARTICULO 167-D. La agencia aduanal es la persona moral autorizada por el Servicio de Administración Tributaria para promover por cuenta ajena el despacho aduanero de mercancías, en los diferentes regímenes aduaneros previstos en esta Ley.
 Para obtener la autorización a que se refiere el párrafo anterior, la persona moral deberá cumplir con los siguientes requisitos:
-I. Estar constituida como sociedad civil, conforme a las leyes mexicanas y con cláusula de exclusión de extranjeros, debiendo acreditar que el valor de su activo fijo registrado en su contabilidad sea permanentemente superior a $500,000.00.
+I. Estar constituida como sociedad civil, conforme a las leyes mexicanas y con cláusula de exclusión de extranjeros, debiendo acreditar que el valor de su activo fijo registrado en su contabilidad sea permanentemente superior a $672,680.00.
 II. Señalar en su acta constitutiva como objeto social la prestación de los servicios del despacho aduanero de mercancías en los diferentes regímenes aduaneros previstos en esta Ley.
 III. Estar conformada por ciudadanos mexicanos y, al menos, por un agente aduanal que no se encuentre sujeto a algún procedimiento de inhabilitación, suspensión, cancelación o extinción de la patente de que sea titular.
 IV. Incluir en sus estatutos sociales, mecanismos encaminados a establecer mejores prácticas corporativas que contribuyan a un eficiente funcionamiento de sus órganos de administración y vigilancia, debiendo cumplir, además de las obligaciones previstas en la ley de la materia, las siguientes funciones:
