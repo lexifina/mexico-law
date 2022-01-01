@@ -11,7 +11,7 @@ I. Por cada solicitud y, en su caso, la expedición de licencia sanitaria de Ser
 II. Por la solicitud de permiso de internación o salida de unidades de sangre, componentes y células progenitoras hematopoyéticas ... $686.49
 III. Por la solicitud de autorización de ingresos de sangre y hemocomponentes .. $870.94
 Por la modificación a la licencia o permiso indicado en las fracciones de este artículo, se pagarán el 75% del derecho que corresponda.
-Artículo 195-K-3.- Por el dictamen sanitario de efectividad bacteriológica de equipos o sustancias germicidas para potabilización de agua tipo doméstico, se pagarán derechos conforme a la cuota de ... $5,123.11
+Artículo 195-K-3. Por el certificado de efectividad bacteriológica de equipos o sustancias germicidas para potabilización de agua tipo doméstico, se pagarán derechos conforme a la cuota de ... $5,123.11
 Artículo 195-K-4. Por cada certificado que se emita al amparo del Programa Mexicano de Sanidad de Moluscos Bivalvos, distintos a los señalados en este Capítulo, se pagarán derechos conforme a la cuota de ... $2,090.35
 Artículo 195-K-5.- Por la acreditación de laboratorio de bacteriología y biotoxinas marinas en apoyo al Programa Mexicano de Sanidad de Moluscos Bivalvos, se pagarán derechos conforme a la cuota de ... $14,774.98
 Artículo 195-K-6. (Se deroga).

@@ -1,1 +1,3 @@
-Artículo 53-K.- Por la obtención de marbetes que se adhieran a los envases que contengan bebidas alcohólicas a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de marbetes conforme a la cuota de ... $0.4868 por cada uno.
+Artículo 53-K. Por la obtención de marbetes que se adhieran a los envases que contengan bebidas alcohólicas a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de marbetes conforme a lo siguiente:
+I. Tratándose de marbetes físicos la cuota de ... $0.5178 por cada uno.
+II. Tratándose de folios electrónicos para la impresión de marbetes electrónicos la cuota de ... $0.3474 por cada uno.

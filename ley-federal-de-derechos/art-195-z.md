@@ -227,6 +227,21 @@ c). De más de 500 y hasta 1,000 unidades de arqueo bruto ... $7,936.53
 d). De más de 1,000 y hasta 5,000 unidades de arqueo bruto ... $10,298.21
 e). De más de 5,000 y hasta 10,000 unidades de arqueo bruto ... $14,447.63
 f). De más de 10,000 unidades de arqueo bruto ... $23,288.59
+Artículo 195-Z-11 Bis. Por los servicios relacionados con el cumplimiento del Código Internacional para la Protección de los Buques y de las Instalaciones Portuarias, por cada instalación portuaria, se pagarán las siguientes cuotas:
+I. Por la expedición, reposición o renovación de la declaración de cumplimiento ... $4,273.70
+II. Por la evaluación de protección ... $30,043.11
+III. Por la revisión y, en su caso, aprobación del plan de protección ... $11,251.72
+IV. Por la verificación inicial o anual de la implantación del plan de protección ... $22,169.53
+Artículo 195-Z-11 Ter. Por los servicios relacionados con el cumplimiento de medidas de protección de las instalaciones portuarias que reciban embarcaciones menores a 500 unidades de arqueo bruto y realicen navegación de cabotaje se pagarán, por cada instalación portuaria, las siguientes cuotas:
+I. Expedición, reposición o renovación de la declaración nacional de cumplimiento ... $3,035.33
+II. Por la evaluación de protección ... $15,193.61
+III. Por la revisión y, en su caso, aprobación del plan de protección ... $8,257.61
+IV. Verificación inicial, anual o de renovación de la implementación del plan de protección ... $11,847.05
+Artículo 195-Z-11 Quáter. Por los servicios relacionados con el cumplimiento de medidas de protección de los puertos, se pagará por cada uno, las siguientes cuotas:
+I. Por la expedición, reposición o renovación de la declaración de cumplimiento ... $6,911.13
+II. Por la evaluación de protección ... $60,017.63
+III. Por la revisión y, en su caso, aprobación del plan de protección ... $15,274.68
+IV. Por la verificación inicial, anual o de renovación de la implantación del plan de protección ... $40,447.85
 Artículo 195-Z-12. Se pagará el derecho de cumplimiento del Código Internacional de Gestión de la Seguridad, por cada buque o empresa, con excepción de los buques pesqueros o de cualquier otro giro, que no siendo de altura, realicen su actividad en puertos nacionales, así como el cumplimiento del Sistema de Administración de la Seguridad (SAS), conforme a las cuotas de:
 I. Por la revisión de documentación y, en su caso, expedición de documento de cumplimiento o certificado, según corresponda:
 a). Por empresa ... $10,829.00
@@ -288,9 +303,23 @@ VI. De más de 10,000 unidades de arqueo bruto ... $23,288.59
 Artículo 195-Z-22. Por el trámite y, en su caso, expedición, reposición o modificación del Registro Sinóptico Continuo, se pagará por cada embarcación ... $699.15
 Artículo 195-Z-23. Por el trámite y, en su caso, expedición o reposición de la constancia de Pruebas de Conformidad del Sistema de Identificación y Seguimiento de Largo Alcance de los Buques ... $676.62
 Artículo 195-Z-24. Por el trámite y, en su caso, expedición, reposición o renovación de la autorización como Organización de Protección Reconocida ... $26,206.43
-Artículo 195-Z-25. Por la verificación y, en su caso, asignación de número de registro permanente y certificado de aprobación marítima como instalación receptora de desechos, según corresponda:
+Artículo 195-Z-25. Por la verificación y, en su caso, asignación de número de registro permanente, y expedición, revalidación o reposición del certificado de aprobación marítima como instalación receptora de desechos, según corresponda:
 I. Receptora de basuras ... $1,340.79
 II. Receptora de sustancias nocivas líquidas e hidrocarburos ... $1,426.67
 Artículo 195-Z-26. Por la autorización a terceros para efectuar el servicio de inspección submarina a embarcaciones y artefactos navales nacionales ... $1,340.79
 Artículo 195-Z-27. Por la verificación y, en su caso, asignación de número de registro permanente y certificado de aprobación marítima a estaciones de servicio para el mantenimiento a equipos de radiocomunicación marítima e instalaciones eléctricas ... $2,265.56
+Artículo 195-Z-28. Por los servicios que se presten a embarcaciones nacionales o extranjeras en horario ordinario de operación, que efectúen cualquier clase de navegación de altura o cabotaje, se pagará el derecho por cada autorización de arribo, despacho, maniobra de fondeo o enmienda, cuando sea a solicitud del particular, conforme a las siguientes cuotas:
+I. De más de 3 hasta 20 unidades de arqueo bruto ... $341.10
+II. De más de 20 hasta 100 unidades de arqueo bruto ... $513.85
+III. De más de 100 hasta 500 unidades de arqueo bruto ... $842.50
+IV. De más de 500 hasta 1,000 unidades de arqueo bruto ... $1,714.76
+V. De más de 1,000 hasta 15,000 unidades de arqueo bruto ... $3,439.48
+VI. De más de 15,000 hasta 25,000 unidades de arqueo bruto ... $4,382.05
+VII. De más de 25,000 hasta 50,000 unidades de arqueo bruto ... $5,054.36
+VIII. De más de 50,000 unidades de arqueo bruto ... $6,094.33
+Para los efectos de la fracción I y cuando la embarcación se utilice para el servicio de carga y pasaje en navegación interior, se pagará el 50% de la cuota establecida.
+Cuando los servicios se presten en días inhábiles o fuera del horario ordinario de operación se pagará el doble de las cuotas señaladas, aplicable a cada caso, salvo lo previsto en la fracción I.
+Para los efectos de este artículo, se entenderá que el horario ordinario de operación comprende de lunes a viernes de 9:00 a las 14:30 horas tiempo del centro del país.
+No se pagará el derecho a que se refiere este artículo, por las embarcaciones que hagan navegación fluvial, lacustre, interior de puertos que estén dedicadas a la pesca comercial. Tampoco pagarán el derecho a que se refiere este artículo, las embarcaciones nacionales, de hasta 30 unidades de arqueo bruto que se dediquen a las actividades pesqueras.
+El pago que deba realizarse a la autoridad competente por los servicios anteriormente descritos, podrá ser efectuado en su totalidad previo a la autorización del despacho de la embarcación del puerto de que se trate.
 De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público

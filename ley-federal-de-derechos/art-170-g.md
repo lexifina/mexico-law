@@ -1,1 +1,1 @@
-Artículo 170-G. Por el estudio, trámite y, en su caso, la expedición del certificado de cumplimiento por parte de las instalaciones portuarias, se pagará el derecho de cumplimiento del Código Internacional para la Protección de los Buques y de las lnstalaciones Portuarias, por cada instalación portuaria ... $4,058.44
+Artículo 170-G. (Se deroga).

@@ -1,4 +1,4 @@
-Artículo 278-B. Para efectos del acreditamiento a que se refiere el artículo 278 de esta Ley, las concentraciones de contaminantes descargados al cuerpo receptor se determinarán trimestralmente, conforme a lo siguiente:
+Artículo 278-B. Para efectos de los artículos 278 y 282, fracción I de esta Ley, las concentraciones de contaminantes descargados al cuerpo receptor se determinarán, conforme a lo siguiente:
 I. (Se deroga).
 II. El responsable de la descarga realizará el muestreo y análisis de la calidad del agua descargada, en muestras de cada una de sus descargas para verificar las concentraciones de los contaminantes a que se refiere esta Ley.
 Los reportes que presente el responsable de la descarga estarán basados en determinaciones analíticas realizadas por un laboratorio acreditado ante la entidad autorizada por la Secretaría de Economía y aprobado por la Comisión Nacional del Agua.

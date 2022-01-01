@@ -3,6 +3,8 @@ I. Por cada solicitud de visita de verificación sanitaria para la certificació
 II. Por el análisis de la solicitud y, en su caso, por la autorización a personas físicas y morales como Unidades de Verificación, Laboratorios de Pruebas, Organismos de Certificación o terceros autorizados, se pagarán derechos por cada solicitud, y por cada autorización emitida, conforme a la cuota de ... $9,449.96
 Por las modificaciones solicitadas a las autorizaciones señaladas en esta fracción se pagará el 75% de la cuota prevista en el párrafo que antecede.
 Quedan exceptuados del pago del derecho establecido en esta fracción, las instituciones de educación superior públicas.
-III. Por cada solicitud de visita de verificación para estupefacientes o psicotrópicos por:
+III. Por cada solicitud de visita de verificación para materias primas o medicamentos que sean o contengan estupefacientes, psicotrópicos o precursores químicos por:
 a). Constatación de destrucción ... $2,791.09
 b). Enfajillamiento, sello y lacre con fines de exportación ... $2,791.09
+c). De balance de medicamentos ... $5,877.14
+d). Toma de muestra y liberación ... $2,321.17

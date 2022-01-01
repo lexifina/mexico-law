@@ -1,12 +1,15 @@
-Artículo 194-N. Por la recepción, evaluación y dictamen del programa de manejo de plantación forestal comercial y, en su caso, autorización de plantación forestal comercial en terrenos preferentemente forestales, en superficies mayores a 800 hectáreas, se pagará la cuota de $8,080.46
+Artículo 194-N. Por la recepción, evaluación y, en su caso, la autorización de plantación forestal comercial en terrenos preferentemente forestales, en superficies mayores a 800 hectáreas, se pagará la cuota de ... $8,080.46
 Artículo 194-N-1. Por la expedición de los certificados de inscripción o de constancias del Registro Forestal Nacional, se pagarán derechos, por cada uno, conforme a la cuota de ... $492.71
 Artículo 194-N-2.- Por los servicios que presta la Secretaría de Medio Ambiente y Recursos Naturales, en materia de sanidad forestal, se pagarán derechos conforme a las siguientes cuotas:
-I. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de cada certificado fitosanitario para la importación de productos y subproductos forestales ... $1,478.14
+I. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de cada hoja de requisitos fitosanitarios para la importación de materias primas, productos y subproductos forestales ... $1,478.14
 II. Por la recepción, evaluación de la solicitud, verificación de la calidad fitosanitaria de los embarques y, en su caso, la expedición de cada certificado fitosanitario internacional para la exportación o la reexportación de materias primas o productos forestales ... $1,182.52
-III. Por la recepción, evaluación de la solicitud y, en su caso, la emisión del dictamen técnico de determinación taxonómica de muestras entomológicas o patológicas detectadas en productos y/o subproductos forestales de importación ... $1,675.22
+III. Por la recepción, evaluación de la solicitud y, en su caso, la emisión del dictamen técnico de determinación taxonómica de muestras entomológicas o patológicas detectadas en productos y/o subproductos forestales de importación... $1,675.22
 Artículo 194-N-3.- Por la recepción y evaluación de la solicitud y, en su caso, la autorización para el funcionamiento de centros de almacenamiento y transformación de materias primas forestales, se pagará el derecho conforme a la cuota de ... $2,167.94
-Artículo 194-N-4.- Por la recepción y evaluación y, en su caso, la autorización para la colecta y uso de recursos biológicos forestales, se pagarán derechos conforme a las siguientes cuotas:
-I. Por colecta de recursos biológicos forestales con fines biotecnológicos comerciales ... $17,400.93
-II. Por colecta de recursos biológicos forestales con fines científicos ... $1,998.24
-III. (Se deroga).
+Artículo 194-N-4. Por la recepción, evaluación y, en su caso, la autorización para la colecta y uso de recursos biológicos y genéticos forestales, se pagarán derechos conforme a las siguientes cuotas:
+I. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de la autorización para la colecta y uso de recursos biológicos forestales, con fines de utilización en biotecnología ... $6,592.07
+II. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de la autorización para la colecta y uso de recursos biológicos forestales, con fines de utilización en investigación ... $773.35
+III. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de la autorización para la colecta y uso de recursos genéticos forestales, con fines comerciales ... $6,592.07
+IV. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de la autorización para la colecta de recursos biológicos forestales, con fines de investigación para la generación de información científica básica ... $773.35
+V. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de la autorización para la colecta y uso de recursos genéticos forestales, con fines de investigación ... $773.35
+VI. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de la autorización para la colecta de recursos genéticos forestales, con fines de investigación para la generación de información científica básica ... $773.35
 Artículo 194-N-5. (Se deroga).
