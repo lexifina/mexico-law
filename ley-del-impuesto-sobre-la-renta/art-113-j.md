@@ -1,0 +1,4 @@
+Artículo 113-J. Cuando los contribuyentes a que se refiere el artículo 113-E de esta Ley realicen actividades empresariales, profesionales u otorguen el uso o goce temporal de bienes, a personas morales, estas últimas deberán retener, como pago mensual, el monto que resulte de aplicar la tasa del 1.25% sobre el monto de los pagos que les efectúen, sin considerar el impuesto al valor agregado, debiendo proporcionar a los contribuyentes el comprobante fiscal en el que conste el monto del impuesto retenido, el cual deberá enterarse por dicha persona moral a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago.
+El impuesto retenido en los términos de este artículo será considerado en el pago mensual que deban presentar las personas físicas.
+DE LOS INGRESOS POR ARRENDAMIENTO Y EN GENERAL POR OTORGAR EL USO O
+GOCE TEMPORAL DE BIENES INMUEBLES

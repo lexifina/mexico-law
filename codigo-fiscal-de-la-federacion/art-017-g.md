@@ -5,5 +5,5 @@ III. La mención de que fue emitido por el Servicio de Administración Tributari
 IV. Nombre del titular del certificado y su clave del registro federal de contribuyentes.
 V. Período de vigencia del certificado, especificando el día de inicio de su vigencia y la fecha de su terminación.
 VI. La mención de la tecnología empleada en la creación de la firma electrónica avanzada contenida en el certificado.
-VII. La clave pública del titular del certificado.
+VII. La llave pública del titular del certificado.
 Cuando se trate de certificados emitidos por prestadores de servicios de certificación autorizados por el Banco de México, que amparen datos de creación de firmas electrónicas que se utilicen para los efectos fiscales, dichos certificados deberán reunir los requisitos a que se refieren las fracciones anteriores, con excepción del señalado en la fracción III. En sustitución del requisito contenido en dicha fracción, el certificado deberá contener la identificación del prestador de servicios de certificación y su dirección electrónica, así como los requisitos que para su control establezca el Servicio de Administración Tributaria, mediante reglas de carácter general.
