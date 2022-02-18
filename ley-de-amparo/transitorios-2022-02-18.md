@@ -1,0 +1,19 @@
+SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 95/2021 y su acumulada 105/2021, así como los Votos Aclaratorio y Concurrente del señor Ministro Alberto Pérez Dayán, Particulares y Concurrentes de la señora Ministra Norma Lucía Piña Hernández y del señor Ministro Luis María Aguilar Morales y Concurrente del señor Ministro Jorge Mario Pardo Rebolledo.
+Publicada en el Diario Oficial de la Federación el 18 de febrero de 2022
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.- Secretaría General de Acuerdos.
+ACCIÓN DE INCONSTITUCIONALIDAD 95/2021 Y SU ACUMULADA 105/2021 PROMOVENTES: DIVERSOS INTEGRANTES DE LAS CÁMARAS DE SENADORES Y DE DIPUTADOS DEL CONGRESO DE LA UNIÓN
+PONENTE: MINISTRO JOSÉ FERNANDO FRANCO GONZÁLEZ SALAS SECRETARIOS: ROBERTO FRAGA JIMÉNEZ
+MANUEL POBLETE RÍOS
+Ciudad de México. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación correspondiente al dieciséis de noviembre de dos mil veintiuno.
+...
+187. Por lo expuesto y fundado, se resuelve:
+PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.
+SEGUNDO. Se declara la invalidez del artículo transitorio décimo tercero del 'DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y del Código Federal de Procedimientos Civiles', publicado en el Diario Oficial de la Federación el siete de junio de dos mil veintiuno, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal, en los términos precisados en los considerandos séptimo y octavo de esta decisión.
+TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+Notifíquese; haciéndolo por medios electrónicos y, en su oportunidad, archívese el expediente.
+Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
+...
+El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados. Doy fe.
+Firman el señor Ministro Presidente y el Ponente con el Secretario General de Acuerdos, quien da fe.
+Presidente, Ministro Arturo Zaldívar Lelo de Larrea.- Firmado electrónicamente.- Ponente, Ministro José Fernando Franco González Salas.- Firmado electrónicamente.- Secretario General de Acuerdos, Licenciado Rafael Coello Cetina.- Firmado electrónicamente.
+EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN: CERTIFICA: Que la presente copia fotostática constante de cincuenta y seis fojas útiles, concuerda fiel y exactamente con el original firmado electrónicamente de la sentencia emitida en la acción de inconstitucionalidad 95/2021 y su acumulada 105/2021, promovidas por diversos integrantes de las Cámaras de Senadores y de Diputados del Congreso de la Unión, dictada por el Pleno de la Suprema Corte de Justicia de la Nación en su sesión del dieciséis de noviembre dos mil veintiuno. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de México, a treinta y uno de enero de dos mil veintidós.- Rúbrica.
