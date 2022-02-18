@@ -1,0 +1,10 @@
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para el Control del Tabaco.
+Publicado en el Diario Oficial de la Federación el 17 de febrero de 2022
+Artículo Único.- Se reforman la fracción II del artículo 5; la fracción X del artículo 6; las fracciones VII y VIII del artículo 12; 23; el primer párrafo del artículo 26; 27; 28; 29; la fracción I del artículo 35; y 44; se adicionan las fracciones X Bis, X Ter y X Quáter al artículo 6; y se derogan el segundo y tercer párrafos del artículo 23; y las fracciones I y II del artículo 27 de la Ley General para el Control del Tabaco, para quedar como sigue:
+...
+Transitorios
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Segundo. En términos de lo dispuesto por los artículos 26 y 27 del presente Decreto, los propietarios, administradores o responsables de los establecimientos o lugares con acceso al público, áreas de trabajo, públicas y privadas, deberán ubicar las zonas exclusivas para fumar en espacios no interiores al aire libre en un plazo no mayor a 60 días posteriores a la publicación del presente Decreto en el Diario Oficial de la Federación.
+Tercero. Los gobiernos de las Entidades Federativas y de los municipios, deberán adecuar sus leyes, reglamentos, bandos y demás disposiciones jurídicas, de acuerdo con las competencias que a cada uno corresponda, para que sean congruentes con lo dispuesto en el presente Decreto.
+Ciudad de México, a 14 de diciembre de 2021.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Fuensanta Guadalupe Guerrero Esquivel, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de febrero de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
