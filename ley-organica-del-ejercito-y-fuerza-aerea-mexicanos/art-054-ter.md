@@ -1,0 +1,1 @@
+ARTICULO 54 TER. El Estado Mayor del Ejército es el órgano técnico operativo, colaborador inmediato del Comandante del Ejército, a quien auxilia en la planeación y coordinación de los asuntos de su competencia y de las misiones que le sean conferidas y transforma las decisiones en órdenes, directivas e instrucciones, verificando su cumplimiento.
