@@ -1,0 +1,1 @@
+ARTICULO 54 BIS. El mando del Ejército recae en un General de División del Ejército, al que se denominará Comandante del Ejército, quien será responsable de la operación y administración del mismo, así como del empleo de sus Unidades, de conformidad con las directivas, instrucciones, órdenes y demás disposiciones del Alto Mando.
