@@ -40,7 +40,6 @@ De las Disposiciones Generales
 CAPITULO II
 De la Contabilidad
 TITULO QUINTO
-De las Prohibiciones, Sanciones Administrativas y Delitos
 CAPITULO I
 De las Prohibiciones
 CAPITULO II
@@ -51,6 +50,7 @@ Capítulo III
 De las Notificaciones
 Capítulo IV
 De los Delitos
+CAPITULO V
 TÍTULO SEXTO
 De la Comisión Nacional Bancaria y de Valores
 Capítulo Único
