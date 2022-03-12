@@ -1,1 +1,2 @@
 Artículo 116 Bis 1.- Las personas que ostenten algún cargo, mandato, comisión o cualquier otro título jurídico que, para el desempeño de las actividades y operaciones que correspondan a las instituciones de crédito, éstas les hubieren otorgado, serán consideradas como funcionarios o empleados de dichas instituciones, para efectos de las responsabilidades administrativas y penales establecidas en el presente Título.
+De la Garantía de Audiencia de las personas incluidas en la lista de personas bloqueadas
