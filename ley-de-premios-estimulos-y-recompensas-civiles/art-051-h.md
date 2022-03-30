@@ -1,0 +1,1 @@
+Artículo 51-H. La convocatoria fijará plazos dentro de los cuales las instituciones y agrupaciones incluidas en la lista que prevé el artículo 51-F de esta Ley, podrán ampliar informaciones ante el Consejo.

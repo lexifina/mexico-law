@@ -1,0 +1,1 @@
+Artículo 91-D.- El premio consistirá en diploma y se complementará con entrega en numerario o en especie, por el monto o naturaleza que determine el propio Consejo. En lo demás es aplicable el artículo 72 de esta Ley.
