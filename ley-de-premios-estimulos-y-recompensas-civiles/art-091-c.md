@@ -1,0 +1,1 @@
+Artículo 91-C.- En la materia del presente Capítulo es aplicable lo dispuesto en el artículo 38; pero la Comisión Nacional Forestal deberá constituirse en el promotor de candidaturas, exhortando el envío de proposiciones.

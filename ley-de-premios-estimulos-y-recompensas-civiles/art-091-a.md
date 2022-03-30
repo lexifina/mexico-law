@@ -1,0 +1,1 @@
+Artículo 91-A.- El Premio Nacional al Mérito Forestal será entregado a las personas físicas y morales de los sectores privado y social que realicen o hayan realizado acciones en el país a favor de la conservación, protección, restauración y uso sustentable de los recursos forestales, que representen beneficios a la sociedad.

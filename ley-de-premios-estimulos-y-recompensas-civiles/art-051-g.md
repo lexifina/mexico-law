@@ -1,0 +1,1 @@
+Artículo 51-G. El Consejo integrará un Jurado por cada campo de premiación. A tal fin dará preferencia a quienes con anterioridad hayan obtenido el premio y podrá solicitar proposiciones de las mismas instituciones o agrupaciones incluidas en la lista a que se refiere el artículo anterior.
