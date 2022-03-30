@@ -1,0 +1,2 @@
+ARTÍCULO 156 BIS.- En materia de contaminación por ruido, la Secretaría expedirá las normas oficiales mexicanas para el establecimiento y operación de los sistemas de monitoreo del ruido.
+Los gobiernos de las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México realizarán los monitoreos necesarios para la prevención y el control de la contaminación por ruido.
