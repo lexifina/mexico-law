@@ -1,0 +1,1 @@
+Artículo 51-B. Merecerán estos premios quienes, por sus producciones o trabajos docentes de investigación o de divulgación, hayan contribuido a enriquecer el acervo cultural del país o el progreso del arte o de la filosofía.

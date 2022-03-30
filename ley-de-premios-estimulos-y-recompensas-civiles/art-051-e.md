@@ -1,0 +1,1 @@
+Artículo 51-E. Solamente las personas físicas podrán ser beneficiarias de los premios de Artes y Literatura, salvo en el campo de Artes y Tradiciones Populares que podrán también otorgarse a comunidades y grupos. Por cada año habrá una asignación de premios, pero no será necesario que las obras o actos que acrediten su merecimiento, se hayan realizado dentro de ese lapso.
