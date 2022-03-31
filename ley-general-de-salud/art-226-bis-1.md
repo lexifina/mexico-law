@@ -1,0 +1,2 @@
+Artículo 226 Bis 1.- La Secretaría de Salud promoverá las medidas y acciones necesarias a efecto de comunicar a la población, sobre la seguridad, eficacia y calidad de los medicamentos genéricos y biocomparables.
+Así mismo, en los programas de capacitación al personal de salud, promoverá las obligaciones de prescripción médica previstas en esta Ley y demás disposiciones reglamentarias que para tal efecto se emitan y fortalecerá las acciones de profesionalización del personal de las farmacias conforme el artículo 79 de esta Ley.
