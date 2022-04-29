@@ -1,1 +1,1 @@
-Artículo 84 Ter. La Comisión Ejecutiva cuenta con una Junta de Gobierno y un Comisionado Ejecutivo para su administración, así como con una Asamblea Consultiva, como órgano de consulta y vinculación con las víctimas y la sociedad.
+Artículo 84 Ter. La Comisión Ejecutiva cuenta con una Junta de Gobierno y un Comisionado o Comisionada Ejecutiva para su administración, así como con una Asamblea Consultiva, como órgano de consulta y vinculación con las víctimas y la sociedad.
