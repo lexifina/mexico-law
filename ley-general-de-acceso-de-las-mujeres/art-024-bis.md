@@ -1,0 +1,5 @@
+ARTÍCULO 24 Bis.- La Alerta de Violencia de Género contra las mujeres iniciará su trámite:
+I. A solicitud de organismos públicos autónomos de derechos humanos u organismos internacionales de protección de los derechos humanos;
+II. A solicitud de organizaciones de la sociedad civil legalmente constituidas o por colectivos o grupos de familiares de víctimas a través de una persona representante, o
+III. A partir de la identificación por parte de la Comisión Nacional para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del incremento persistente de hechos o delitos que involucren violaciones a los derechos a la vida, libertad, integridad y seguridad de las mujeres, las adolescentes y las niñas en un territorio determinado o la existencia de un agravio comparado.
+A fin de garantizar el análisis expedito y la tramitación oportuna, cuando se presenten diversas solicitudes de Alerta de Violencia de Género contra las mujeres y exista identidad en las autoridades o hechos constitutivos de violencia contra las mujeres, las adolescentes y las niñas, se podrán acumular tanto el trámite, como las medidas que deberán ser adoptadas.
