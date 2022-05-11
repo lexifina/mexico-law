@@ -1,0 +1,10 @@
+DECRETO por el que se reforman y adicionan diversos artículos de la Ley de Premios, Estímulos y Recompensas Civiles.
+Publicado en el Diario Oficial de la Federación el 10 de mayo de 2022
+Artículo Único.- Se reforman las fracciones II Bis y XV del artículo 6, así como la denominación de los Capítulos VII y XX y los artículos 44, 46, 113, 114 y 115; y se adiciona un segundo párrafo al artículo 51 y un artículo 114 Bis, a la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
+...
+Transitorios
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo.- Los trámites para la entrega del Premio al Mérito Ecológico, del Premio Nacional de Preservación del Medio Ambiente y del Premio Nacional de Ciencias que se hayan iniciado antes de la entrada en vigor del presente Decreto continuarán su trámite conforme a las disposiciones jurídicas vigentes correspondientes al año que se curse.
+Tercero.- Quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto, en consecuencia, las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado a los ejecutores de gasto responsables, por lo que no se requerirán recursos adicionales y no se incrementará el presupuesto de éstas para el presente ejercicio fiscal ni posteriores.
+Ciudad de México, a 05 de abril de 2022.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Karen Michel González Márquez, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.

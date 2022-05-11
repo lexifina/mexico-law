@@ -10,7 +10,7 @@ Condecoración "Miguel Hidalgo"
 CAPITULO VI
 Orden Mexicana del Aguila Azteca
 CAPÍTULO VII
-Premio Nacional de Ciencias
+Premio Nacional de Ciencias, "José Mario Molina Pasquel y Henríquez"
 CAPÍTULO VII BIS
 Premio Nacional de Artes y Literatura
 CAPÍTULO VIII
@@ -43,7 +43,7 @@ Premio Nacional de Trabajo y Cultura Indígena
 Capítulo XIX
 Premio Nacional de Derechos Humanos
 Capítulo XX
-Premio Nacional de Preservación del Medio Ambiente
+Premio al Mérito Ecológico
 Capítulo XXI
 Premio Nacional de Seguridad Pública
 CAPÍTULO XXII
