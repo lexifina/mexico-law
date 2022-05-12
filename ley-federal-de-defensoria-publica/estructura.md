@@ -15,7 +15,7 @@ Disposiciones Generales
 CAPÍTULO II
 De la Junta Directiva
 CAPÍTULO III
-Del Director General
+De la Dirección General
 CAPÍTULO IV
 De las Unidades Administrativas
 CAPÍTULO V
