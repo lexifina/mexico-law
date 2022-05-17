@@ -1,0 +1,3 @@
+Artículo 72 Bis.- El propósito último de los servicios de salud mental es la recuperación y el bienestar, el despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación.
+La recuperación varía de persona a persona, de acuerdo con las preferencias individuales, significa el empoderamiento de la persona para poder tener una vida autónoma, superando o manejando el trauma.
+La atención a la salud mental deberá brindarse con un enfoque comunitario, de recuperación y con estricto respeto a los derechos humanos de los usuarios de estos servicios, en apego a los principios de interculturalidad, interdisciplinariedad, integralidad, intersectorialidad, perspectiva de género y participación social.
