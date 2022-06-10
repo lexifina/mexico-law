@@ -1,0 +1,2 @@
+Artículo 74 Bis. Los titulares de aprovechamiento forestal maderable estarán obligados a presentar un informe sobre la ejecución, desarrollo y cumplimiento del programa de manejo forestal, en los términos que establezca el Reglamento de la presente Ley.
+En caso de no rendir el informe señalado en el párrafo anterior se negará la emisión de remisiones forestales para realizar el transporte de materias primas o productos forestales hasta en tanto esta obligación sea satisfecha.

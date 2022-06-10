@@ -21,7 +21,9 @@ De los Instrumentos de la Política Forestal
 Sección Primera
 De la Planeación del Desarrollo Forestal
 Sección Segunda
-Del Sistema Nacional de Información y Gestión Forestal
+Del Sistema Nacional de Información Forestal
+Sección Segunda Bis
+Del Sistema Nacional de Gestión Forestal
 Sección Tercera
 Del Registro Forestal Nacional
 Sección Cuarta
@@ -49,6 +51,8 @@ De la Colecta y Uso de los Recursos Forestales
 Sección Sexta
 Sección Séptima
 Del Cambio de Uso de Suelo en Terrenos Forestales
+Sección Octava
+Del Aviso de registro de acahuales y aprovechamiento de recursos forestales provenientes de acahuales
 Capítulo II
 De los Servicios Forestales
 Capítulo III

@@ -1,0 +1,2 @@
+Artículo 156 Bis. Cuando la Procuraduría practique el aseguramiento de bienes, podrá designar como depositario al titular del aprovechamiento forestal, al prestador de servicios, al transportista, al responsable de centros de almacenamiento o de transformación o a cualquier otra persona, según las circunstancias de la diligencia que dé motivo al aseguramiento.
+La Procuraduría Federal de Protección al Ambiente y las autoridades administrativas podrán colocar sellos o marcas en los bienes y dictar las medidas para garantizar su cuidado.
