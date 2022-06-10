@@ -1,0 +1,5 @@
+Artículo 100 Bis. El registro de acahuales y el de aprovechamiento de recursos forestales provenientes de los mismos se realizará mediante aviso que presenten los interesados.
+El registro previo es necesario para realizar el aprovechamiento de recursos forestales provenientes de acahuales. El aprovechamiento doméstico de recursos forestales provenientes de acahuales se sujetará a lo dispuesto en el Reglamento.
+La inscripción de los avisos de acahuales en el Registro se llevará a cabo si el aviso de éstos cumple los requisitos establecidos en el Reglamento y una vez que se hubieran realizado las verificaciones de gabinete y de campo necesarios.
+La Secretaría deberá solicitar al Consejo Estatal correspondiente, su opinión y las observaciones que considere en relación a los avisos de registro de acahuales y el aprovechamiento de recursos forestales provenientes de los mismos, previamente a que sean inscritos al Registro. El Consejo Estatal contará con diez días hábiles para emitir su opinión.
+La Secretaría contará con un plazo de sesenta días para emitir respuesta sobre el registro del aviso o, en su caso, negarlo.

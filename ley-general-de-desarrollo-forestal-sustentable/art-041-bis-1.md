@@ -1,0 +1,1 @@
+Artículo 41 Bis 1. La Secretaría incorporará la información del Sistema Nacional de Gestión Forestal en el Sistema Nacional de Información Forestal de acuerdo con lo que se establezca en el Reglamento.

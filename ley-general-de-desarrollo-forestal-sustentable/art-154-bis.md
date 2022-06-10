@@ -1,0 +1,1 @@
+Artículo 154 Bis. De conformidad a lo previsto en el Título Sexto de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, toda persona podrá denunciar ante la Procuraduría, todo hecho, acto u omisión que produzca o pueda producir daños a los recursos forestales, o contravenga las disposiciones de la Ley.
