@@ -8,6 +8,7 @@ III. Auxiliar a la población civil en casos de necesidades públicas;
 IV. Realizar acciones cívicas y obras sociales que tiendan al progreso del país; y
 V. En caso de desastre prestar ayuda para el mantenimiento del orden, auxilio de las personas y sus bienes y la reconstrucción de las zonas afectadas.
 ARTICULO 2/o. Las misiones enunciadas, podrán realizarlas el Ejército y la Fuerza Aérea, por si o en forma conjunta con la Armada o con otras Dependencias de los Gobiernos Federal, Estatales o Municipales, todo, conforme lo ordene o lo apruebe el Presidente de la República, en ejercicio de sus facultades constitucionales.
+ARTICULO 2/o BIS. El personal militar podrá efectuar operaciones de apoyo a las instituciones de seguridad pública en los términos que señale el marco jurídico aplicable.
 ARTICULO 3/o. El Ejército y Fuerza Aérea Mexicanos deben ser organizados, adiestrados y equipados conforme a los requerimientos que reclame el cumplimiento de sus misiones.
 TITULO SEGUNDO
 INTEGRACION DEL EJERCITO Y FUERZA AEREA MEXICANOS
