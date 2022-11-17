@@ -1,0 +1,1 @@
+Artículo 239-E. Tratándose de incapacidades médicas expedidas por el Instituto, la persona empleadora deberá continuar con el entero de las cuotas obrero patronales, como lo establece la fracción IV del artículo 31 de esta Ley, por el periodo de incapacidad establecido por el Instituto.
