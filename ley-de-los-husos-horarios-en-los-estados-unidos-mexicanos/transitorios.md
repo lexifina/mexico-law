@@ -5,10 +5,3 @@ Tercero.- A partir de la entrada en vigor de la presente Ley, queda abrogado el 
 Cuarto.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 Ciudad de México, a 25 de octubre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en La Paz, Baja California Sur, a los 28 días del mes de octubre de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
-FE DE ERRATAS A DECRETO DE LEY
-FE de erratas al Decreto por el que se expide la Ley de los Husos Horarios en los Estados Unidos Mexicanos, publicado el 28 de octubre de 2022 en la edición vespertina.
-Publicada en el Diario Oficial de la Federación el 2 de noviembre de 2022
-En el último párrafo del Decreto, dice:
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en La Paz, Baja California Sur, a los 28 días del mes de octubre de 2022...
-Debe decir:
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en La Paz, Baja California Sur, a los 28 días del mes de octubre de 2022...
