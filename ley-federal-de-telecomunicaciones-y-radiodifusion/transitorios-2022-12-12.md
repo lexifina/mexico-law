@@ -1,0 +1,35 @@
+SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 82/2021 y su acumulada 86/2021, así como los Votos Concurrentes de la señora Ministra Loretta Ortiz Ahlf y de los señores Ministros Juan Luis González Alcántara Carrancá, Luis María Aguilar Morales y Presidente Arturo Zaldívar Lelo de Larrea.
+Publicada en el Diario Oficial de la Federación el 12 de diciembre de 2022 y notificados los puntos resolutivos previamente al
+Congreso de la Unión para efectos legales el 27 de abril de 2022
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.- Secretaría General de Acuerdos.
+ACCIÓN DE INCONSTITUCIONALIDAD 82/2021 Y SU ACUMULADA 86/2021
+PROMOVENTES: INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES Y DIVERSOS SENADORES INTEGRANTES DE LA LXIV LEGISLATURA
+PONENTE: MINISTRA NORMA LUCÍA PIÑA HERNÁNDEZ SECRETARIOS: EDUARDO ARANDA MARTÍNEZ
+Vo. Bo. Señora Ministra
+Ciudad de México. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación correspondiente al veintiséis de abril de dos mil veintidós.
+VISTOS para resolver en la acción de inconstitucionalidad 82/2021 y su acumulada 86/2021, promovidas, respectivamente, por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales y por una minoría de senadores; y
+RESULTANDO:
+...
+427. OCTAVO. Efectos. De conformidad con el artículo 73, en relación con los numerales 41, 43, 44 y 45, todos de la Ley Reglamentaria de la materia, las sentencias deberán contener los alcances y efectos de la misma, fijando con precisión los órganos obligados a cumplirla, las normas generales respecto de los cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda.
+428. Como quedó precisado, en el caso la invalidez decretada abarca la totalidad del sistema normativo que integra el Decreto de reformas a la Ley Federal de Telecomunicaciones y Radiodifusión publicado en el Diario Oficial de la Federación el dieciséis de abril de dos mil veintiuno, por lo que dicha invalidez surtirá sus efectos a partir de la notificación de los puntos resolutivos de la presente sentencia al Congreso de la Unión.
+429. Sin embargo, dado que los artículos 176 y 190, fracciones VI y VII, de la referida legislación fueron los únicos que se reformaron - ya que el resto de los preceptos fueron adiciones-, deben precisarse los efectos que respecto a dichos artículos en concreto tendrá la invalidez decretada a fin de dotar a los operadores jurídicos de certeza sobre las consecuencias de esta resolución.
+430. En esa tesitura, tomando en cuenta: i) que en ellos se prevén facultades del Instituto Federal de Telecomunicaciones que no tienen que ver con la creación y regulación del PANAUT; ii) que en la presente resolución se declara la invalidez del sistema normativo introducido por el Decreto impugnado; y iii) a fin no generar un vacío normativo que afecte las competencias del Instituto Federal de Telecomunicaciones, este Tribunal Pleno precisa que, en cuanto a dichas normas, la invalidez decretada únicamente tendrá por efecto expulsar del ordenamiento jurídico la porción normativa referida al Padrón Nacional de Usuarios de Telefonía Móvil; de suerte que, a partir de la presente resolución, dichas normas deberán leerse de la siguiente manera:
+"Artículo 176. El Instituto llevará el Registro Público de Telecomunicaciones, el cual estará integrado por el Registro Público de Concesiones, el Padrón Nacional de Usuarios de Telefonía Móvil y el Sistema Nacional de Información de Infraestructura, de conformidad con lo dispuesto en la presente Ley y las disposiciones aplicables que se emitan."
+"Artículo 190...
+I. a V...
+VI. Realizar la suspensión del servicio de los equipos o dispositivos terminales móviles reportados como robados o extraviados, a solicitud del titular, y realizar el aviso correspondiente en el Padrón Nacional de Usuarios de Telefonía Móvil.
+(... )
+VII. Realizar el bloqueo inmediato de líneas de comunicación móvil que funcionen bajo cualquier esquema de contratación reportadas por los titulares o propietarios, utilizando cualquier medio, como robadas o extraviadas, y proceder a realizar el aviso correspondiente en el Padrón Nacional de Usuarios de Telefonía Móvil; así como, realizar la suspensión inmediata del servicio de telefonía móvil cuando así lo instruya el Instituto para efectos del Padrón Nacional de Usuarios de Telefonía Móvil o la autoridad competente para hacer cesar la comisión de delitos, de conformidad con lo establecido en las disposiciones administrativas y legales aplicables;
+VIII. a XII... "
+431. Por lo expuesto y fundado, se
+RESUELVE:
+PRIMERO. Es procedente y fundada la acción de inconstitucionalidad 82/2021 y su acumulada 86/2021.
+SEGUNDO. Se declara la invalidez de la totalidad del sistema normativo que integra el Decreto de reformas a la Ley Federal de Telecomunicaciones y Radiodifusión publicado en el Diario Oficial de la Federación el dieciséis de abril de dos mil veintiuno, específicamente, de la fracción XLII bis del artículo 15, y los artículos 180 Bis, 180 Ter, 180 Quáter, 180 Quintes, 180 Sextus, 180 Septimus, 307 Bis, 307 Ter, 307 Quáter, y 307 Quintus, así como los transitorios primero, segundo, tercero, cuarto, quinto y sexto, adicionados a la Ley Federal de Telecomunicaciones y Radiodifusión; así como la invalidez de las porciones normativas ", el Padrón Nacional de Usuarios de Telefonía Móvil" del artículo 176, ", y realizar el aviso correspondiente en el Padrón Nacional de Usuarios de Telefonía Móvil" de la fracción VI del artículo 190, ", y proceder a realizar el aviso correspondiente en el Padrón Nacional de Usuarios de Telefonía Móvil;" y "el Instituto para efectos del Padrón Nacional de Usuarios de Telefonía Móvil o" de la fracción VII del artículo 190, reformados mediante dicho Decreto.
+TERCERO. Las declaratorias de invalidez surtirán sus efectos a partir de la notificación de los puntos resolutivos de esta sentencia al Congreso de la Unión, de conformidad con su considerando octavo.
+CUARTO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente como asunto concluido
+Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
+...
+El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados. Doy fe.
+Firman el señor Ministro Presidente y la señora Ministra Ponente con el Secretario General de Acuerdos, quien da fe.
+Ministro Presidente, Arturo Zaldívar Lelo de Larrea.- Firmado electrónicamente.- Ministra Ponente, Norma Lucía Piña Hernández.- Firmado electrónicamente.- Secretario General de Acuerdos, Rafael Coello Cetina.- Firmado electrónicamente.
