@@ -104,8 +104,6 @@ TÍTULO SÉPTIMO
 Del Registro Público de Telecomunicaciones
 Capítulo I
 Del Registro Público de Concesiones
-Capítulo I Bis
-Del Padrón Nacional de Usuarios de Telefonía Móvil
 Capítulo II
 Del Sistema Nacional de Información de Infraestructura
 Sección I
@@ -180,8 +178,6 @@ Capítulo I
 Disposiciones Generales
 Capítulo II
 Sanciones en materia de Telecomunicaciones y Radiodifusión
-Capítulo II Bis
-Sanciones en materia del Padrón Nacional de Usuarios de Telefonía Móvil
 Capítulo III
 Sanciones en materia de Contenidos Audiovisuales
 Capítulo IV
