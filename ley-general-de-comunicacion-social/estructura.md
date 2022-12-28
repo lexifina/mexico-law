@@ -4,7 +4,7 @@ Capítulo Único
 Título II
 De la Comunicación Social de los Entes Públicos
 Capítulo I
-De las Reglas de la Comunicación Social
+De las Campañas de Comunicación Social
 Capítulo II
 De los Tiempos Oficiales
 Capítulo III
@@ -12,7 +12,6 @@ Del Gasto en Comunicación Social
 Capítulo IV
 De la Difusión de la Comunicación Social durante los Procesos Electorales
 Capítulo V
-De la Estrategia, Programa Anual y Campañas de Comunicación Social
 Capítulo VI
 Del Mensaje Extraordinario
 Capítulo VII
