@@ -1,0 +1,9 @@
+Artículo 5 Bis.- Los criterios para aplicación de gasto público en Propaganda gubernamental, conforme a los principios señalados en el artículo anterior, serán los siguientes:
+I. Austeridad Republicana: Medidas que los Entes Públicos están obligados a acatar de conformidad con el orden jurídico, para combatir la desigualdad social, la corrupción y el despilfarro de los bienes y recursos nacionales, y administrar los recursos con eficiencia, eficacia, economía, transparencia y honradez, así como satisfacer los objetivos a los que están destinados;
+II. Economía y racionalidad presupuestaria: Administración recta y prudente del erario, así como respeto irrestricto a los topes presupuestales establecidos para cada ejercicio fiscal.
+Los Entes Públicos no podrán reclasificar el gasto público en materia de Comunicación Social de una manera distinta a la aprobada en el presupuesto de egresos respectivo, salvo los casos que sean autorizados por las autoridades correspondientes. Toda vez que provienen de un proceso enfocado en la administración de resultados.
+Se prohíbe contratar Campañas de Comunicación Social a precios superiores a los que pagan anunciantes privados. Los Entes Públicos tomarán como referencia las tarifas registradas ante la Secretaría de Hacienda y Crédito Público;
+III. Finalidad: Beneficio informativo que genera a la población en términos del artículo 2 de esta Ley;
+IV. Legalidad: Administración de bienes y recursos públicos con estricta sujeción a la normativa en la materia;
+V. Oportunidad: La relación de contenidos de interés general y atención prioritaria en un momento determinado, y
+VI. Territorialidad: Área geográfica donde se difunde la información que puede ser nacional, regional, estatal o municipal, conforme a la competencia territorial de los Entes Públicos.

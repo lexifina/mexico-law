@@ -1,0 +1,7 @@
+Artículo 18 Bis.- Sin perjuicio de los principios rectores y criterios establecidos en esta Ley, los Entes Públicos deben cumplir las siguientes reglas de asignación de Campañas de Comunicación Social:
+I. Verificar la idoneidad del Medio de Comunicación para difundir un mensaje determinado en una población objetivo;
+II. Revisar el alcance, circulación e impacto en el público de los medios impresos o en la audiencia de los medios electrónicos y digitales adecuados respecto de las condiciones previstas en la campaña;
+III. Observar que la contratación se realice en igualdad de condiciones entre los Medios de Comunicación establecidos como idóneos para cada campaña, así como entre los diferentes tipos de Medios respecto de la totalidad de campañas;
+IV. Considerar las características, tarifas, público o audiencia, cobertura territorial y especialidad del Medio de Comunicación, y
+V. Se pueden realizar contrataciones directas de espacios para la difusión de Campañas de Comunicación Social, en casos de emergencia o extrema urgencia ante situaciones que pongan en riesgo o peligro a las personas en términos de lo que determinen las leyes y autoridades correspondientes.
+Los Entes Públicos deben ponderar las reglas establecidas en este artículo, a fin de seleccionar la combinación de Medios de Comunicación requeridos para la campaña, en función de la equidad del gasto y los objetivos de comunicación para difundir el mensaje.
