@@ -1,0 +1,1 @@
+Artículo 14 Bis. Por la recepción, estudio de la solicitud y, en su caso, la autorización de visas por unidad familiar u oferta de empleo, que se tramiten ante el Instituto Nacional de Migración, se pagará el derecho conforme a la cuota de ... $219.07
