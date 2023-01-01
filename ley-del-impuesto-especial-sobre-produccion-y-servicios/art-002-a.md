@@ -1,7 +1,7 @@
 Artículo 2o.-A.- Sin perjuicio de lo dispuesto en el artículo 2o., fracción I, incisos D), y H), en la enajenación de gasolinas y diésel en el territorio nacional, se aplicarán las cuotas siguientes:
-I. Gasolina menor a 91 octanos 48.4720 centavos por litro.
-II. Gasolina mayor o igual a 91 octanos 59.1449 centavos por litro.
-III. Diésel 40.2288 centavos por litro.
+I. Gasolina menor a 91 octanos 52.2479 centavos por litro.
+II. Gasolina mayor o igual a 91 octanos 63.7522 centavos por litro.
+III. Diésel 43.3626 centavos por litro.
 Tratándose de fracciones de las unidades de medida, la cuota se aplicará en la proporción en que corresponda a dichas fracciones respecto de la unidad de medida.
 Las cuotas establecidas en el presente artículo, se actualizarán anualmente y entrarán en vigor a partir del 1 de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación durante el mes de diciembre de cada año, así como la cuota actualizada, misma que se expresará hasta el diezmilésimo.
 Los contribuyentes trasladarán en el precio, a quien adquiera gasolinas o diésel, un monto equivalente al impuesto establecido en este artículo, pero en ningún caso lo harán en forma expresa y por separado.
