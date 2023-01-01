@@ -4,9 +4,9 @@ II. Tratándose de las concesiones para uso social y público, previstas en el a
 III. No se pagarán los derechos a que se refieren los artículos 5, fracciones I y III, 173, 174 - A, 174-B y 174-C, cuando el servicio se vincule a concesiones para uso social comunitario o indígena.
 IV. Tratándose de las modificaciones de concesiones para uso público y social previstas en el artículo 174-C, se pagará el 50% de las cuotas establecidas en el mismo, según corresponda.
 V. (Se deroga).
-Artículo 174-L-1. Por el estudio y, en su caso, la expedición de licencia de estación de radio a bordo de barcos y/o aeronaves ... $1,622.01
-Artículo 174-L-2. Por el estudio y, en su caso, la asignación de códigos de identidad del servicio móvil marítimo MMSI ... $1,622.01
+Artículo 174-L-1. Por el estudio y, en su caso, la expedición de licencia de estación de radio a bordo de barcos y/o aeronaves ... $1,741.55
+Artículo 174-L-2. Por el estudio y, en su caso, la asignación de códigos de identidad del servicio móvil marítimo MMSI ... $1,741.55
 Artículo 174-L-3. Por el estudio de la solicitud y, en su caso, la acreditación de peritos en materia de telecomunicaciones y/o radiodifusión, se pagarán los derechos conforme a las siguientes cuotas:
-I. Por la acreditación de perito por primera vez ... $6,884.07
-II. Por la revalidación de la acreditación ... $2,933.26
-III. Por la acreditación de perito en una segunda especialidad ... $2,656.36
+I. Por la acreditación de perito por primera vez ... $7,391.43
+II. Por la revalidación de la acreditación ... $3,149.44
+III. Por la acreditación de perito en una segunda especialidad ... $2,852.13

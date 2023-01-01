@@ -1,1 +1,1 @@
-Artículo 73-I. Por la recepción y estudio de la solicitud y, en su caso, la emisión de dictamen de cumplimiento de los dispositivos de seguridad esenciales en vehículos nuevos, se pagarán los derechos conforme a la cuota de: ... $9,303.33
+Artículo 73-I. Por la recepción y estudio de la solicitud y, en su caso, la emisión de dictamen de cumplimiento de los dispositivos de seguridad esenciales en vehículos nuevos, se pagarán los derechos conforme a la cuota de: ... $9,988.99

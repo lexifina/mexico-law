@@ -1,3 +1,3 @@
 Artículo 173-C. Por el estudio y, en su caso, la expedición de la constancia de autorización para el uso y aprovechamiento de bandas de frecuencias del espectro radioeléctrico para uso secundario, así como por la autorización de las modificaciones técnicas, se pagarán derechos conforme a las siguientes cuotas:
-I. Por el otorgamiento ... $14,582.96
-II. Por aquellas modificaciones técnicas que no impliquen la ampliación de cobertura o cambio de ubicación geográfica ... $7,572.37
+I. Por el otorgamiento ... $15,657.72
+II. Por aquellas modificaciones técnicas que no impliquen la ampliación de cobertura o cambio de ubicación geográfica ... $8,130.45
