@@ -1,0 +1,7 @@
+Transitorios
+Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo. Se derogan todas las disposiciones que se opongan a la presente Ley.
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio fiscal del que se trate.
+Cuarto. El Consejo Nacional de Vigilancia y Protección del Espacio Aéreo emitirá los procedimientos de actuación y de coordinación para la aplicación de esta Ley dentro de los 180 días posteriores a su entrada en vigor.
+Ciudad de México, a 22 de febrero de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de febrero de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
