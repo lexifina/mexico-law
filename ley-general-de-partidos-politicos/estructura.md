@@ -48,7 +48,7 @@ OTRAS PRERROGATIVAS
 CAPÍTULO I
 Régimen Fiscal
 CAPÍTULO II
-De las Franquicias Postales y Telegráficas
+De las franquicias postales
 TÍTULO OCTAVO
 DE LA FISCALIZACIÓN DE PARTIDOS POLÍTICOS
 CAPÍTULO I
