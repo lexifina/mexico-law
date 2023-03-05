@@ -1,9 +1,9 @@
 LIBRO PRIMERO
+[Denominación suprimida]
 TÍTULO ÚNICO
-Disposiciones Generales
+[Disposiciones Generales]
 LIBRO SEGUNDO
 TÍTULO PRIMERO
-De la Participación de los Ciudadanos en las Elecciones
 CAPÍTULO I
 De los Derechos y Obligaciones
 CAPÍTULO II
@@ -18,9 +18,6 @@ TÍTULO TERCERO
 CAPÍTULO ÚNICO
 Disposiciones Generales
 LIBRO TERCERO
-De los Organismos Electorales
-TÍTULO PRIMERO
-Del Instituto Nacional Electoral
 CAPÍTULO I
 Disposiciones Preliminares
 CAPÍTULO II
@@ -32,31 +29,22 @@ De las Atribuciones del Consejo General
 Sección Tercera
 De las Atribuciones de la Presidencia y del Secretario del Consejo General
 Sección Cuarta
-De la Junta General Ejecutiva
 Sección Quinta
 Del Secretario Ejecutivo del Instituto
 Sección Sexta
-De las Direcciones Ejecutivas y Unidades Técnicas
 CAPÍTULO III
-De los Órganos del Instituto en las Delegaciones
 Sección Primera
-De las Juntas Locales Ejecutivas
 Sección Segunda
-De los Vocales Ejecutivos de las Juntas Locales
 Sección Tercera
 De los Consejos Locales
 Sección Cuarta
 De las Atribuciones de los Presidentes de los Consejos Locales
 CAPÍTULO IV
-De los Órganos del Instituto en los Distritos Electorales Uninominales
 Sección Primera
-De las Juntas Distritales Ejecutivas
 Sección Segunda
-De los Vocales Ejecutivos de las Juntas Distritales
 Sección Tercera
 De los Consejos Distritales
 Sección Cuarta
-De las Atribuciones de los Presidentes de los Consejos Distritales
 CAPÍTULO V
 De las Mesas Directivas de Casilla
 Sección Primera
@@ -70,13 +58,11 @@ De la Integración
 CAPÍTULO II
 De los Requisitos de Elegibilidad
 CAPÍTULO III
-Del Proceso de Elección de los Consejeros
 CAPÍTULO IV
 De la Remoción de los Consejeros
 CAPÍTULO V
 De las Atribuciones de los Organismos Públicos Locales
 TÍTULO TERCERO
-De las Autoridades Electorales Jurisdiccionales Locales
 CAPÍTULO I
 De las Disposiciones Generales
 CAPÍTULO II
@@ -116,19 +102,16 @@ De las Listas Nominales de Electores y de su Revisión
 CAPÍTULO IV
 De la Credencial para Votar
 CAPÍTULO V
-De las Comisiones de Vigilancia
 TÍTULO SEGUNDO
 De las Prerrogativas de los Partidos Políticos
 CAPÍTULO I
 Del Acceso a Radio y Televisión
 CAPÍTULO II
-De las Franquicias Postales y Telegráficas
 CAPÍTULO III
 De la Fiscalización de Partidos Políticos
 CAPÍTULO IV
 De la Comisión de Fiscalización
 CAPÍTULO V
-De la Unidad Técnica de Fiscalización de la Comisión de Fiscalización
 TÍTULO TERCERO
 De las Bases para la Organización del Servicio Profesional Electoral Nacional
 CAPÍTULO I
@@ -154,7 +137,6 @@ De la Distritación Electoral
 CAPÍTULO V
 De la Capacitación Electoral
 CAPÍTULO VI
-De la Impresión de Documentos y Producción de Materiales
 CAPÍTULO VII
 De la Observación Electoral
 CAPÍTULO VIII
@@ -194,7 +176,6 @@ Disposiciones Complementarias
 TÍTULO CUARTO
 De los Actos Posteriores a la Elección y los Resultados Electorales
 CAPÍTULO I
-De la Disposición Preliminar
 CAPÍTULO II
 De la Información Preliminar de los Resultados
 CAPÍTULO III
