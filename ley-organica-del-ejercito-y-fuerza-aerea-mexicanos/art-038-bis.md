@@ -1,0 +1,1 @@
+ARTICULO 38 BIS. Las Bases Aéreas Militares se integran con organismos de la Fuerza Aérea que se encuentren dentro de su adscripción, pudiendo incluir unidades de vuelo, de los Servicios y organismos aéreos.

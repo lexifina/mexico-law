@@ -1,0 +1,1 @@
+ARTICULO 32 TER. Para desarrollar sus funciones, el Centro Nacional de Vigilancia y Protección del Espacio Aéreo empleará los medios para la detección, identificación, interceptación y salvamento puestos a su disposición.
