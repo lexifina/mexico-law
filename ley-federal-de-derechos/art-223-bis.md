@@ -10,7 +10,7 @@ Zona de disponibilidad exportadora Zona de disponibilidad importadora ZD 1 2 3 4
 3 $43.31 $28.85 $25.04
 4 $36.99 $21.02 $14.39 $12.44
 Apartado B, fracción II del artículo 223 de esta Ley, fuente de extracción aguas superficiales
-Zona de disponi bilidad exporta Zona de disponibilidad importadora ZD 1 2 3 4 1 $1.2083
+Zona de disponibilidad exportadora Zona de disponibilidad importadora ZD 1 2 3 4 1 $1.2083
 2 $1.2083 $1.2083
 3 $1.2083 $1.2083 $1.2083
 4 $1.2083 $1.2083 $1.2083 $1.2083
