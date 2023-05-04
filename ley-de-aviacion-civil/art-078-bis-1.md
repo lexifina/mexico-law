@@ -1,11 +1,16 @@
-Artículo 78 Bis 1. En materia de Seguridad operacional, la Secretaría tendrá las siguientes atribuciones:
-I. Manejar y mantener un sistema eficaz de supervisión de la Seguridad operacional;
-II. Implantar, administrar y mantener el Programa estatal de seguridad operacional eficaz para garantizar los niveles óptimos de Seguridad operacional;
+Artículo 78 Bis 1. La Agencia Federal de Aviación Civil, en materia de seguridad operacional, tiene las siguientes atribuciones:
+I. Establecer y mantener un sistema de vigilancia de la seguridad operacional;
+II. Establecer y mantener la gestión de la seguridad operacional del sistema de aviación civil por los Estados Unidos Mexicanos;
 III. Requerir a los proveedores de servicio que implementen y mantengan un Sistema de gestión de la seguridad operacional eficaz, certificado de conformidad con las disposiciones de reglamentos y normas oficiales mexicanas aplicables;
 IV. Coordinar las actividades de las diversas organizaciones que participen en el Programa estatal de seguridad operacional;
-V. Establecer un sistema de notificación de incidentes obligatoria y otro de notificación voluntaria, para facilitar la recopilación de información sobre las deficiencias de Seguridad operacional reales o posibles, así como para promover las instalaciones y los servicios para recopilar, publicar y difundir la información de Seguridad operacional y alcanzar acuerdos con individuos o entidades gubernamentales para el ejercicio de esos servicios, con la finalidad de que exista un flujo continuo e intercambio de datos sobre Seguridad operacional entre la Secretaría y los proveedores de servicio;
+V. Establecer un sistema de notificación obligatorio y otro de notificación voluntario de seguridad operacional;
 VI. Conducir inspecciones, verificaciones y evaluaciones de las actividades aeronáuticas de los proveedores de servicio;
 VII. Requerir que los proveedores de servicio mejoren, enmienden o tomen acciones en su Sistema de gestión de la seguridad operacional, cuando se identifiquen deficiencias o carencias que representan un riesgo que podría comprometer la Seguridad operacional de sus actividades;
-VIII. Hacer uso de un procedimiento documentado para adoptar las medidas correctivas apropiadas las cuales eliminen las causas que generaron los hallazgos de Seguridad operacional, incluyendo medidas para el cumplimiento, que permitan resolver los problemas de Seguridad operacional detectados;
+VIII. Adoptar las medidas correctivas y preventivas que eliminen las causas que generen los diferentes hallazgos de seguridad operacional, derivados de las inspecciones y verificaciones, incluidas medidas para el cumplimiento, para resolver los problemas de seguridad operacional detectados;
 IX. Asegurarse de que los hallazgos de Seguridad operacional detectados se resuelvan de manera oportuna por medio de un sistema que permita observar y registrar el progreso, así como las medidas adoptadas por los proveedores de servicios, para solucionar los mismos;
-X. Incluir los recursos financieros necesarios para la implementación del Programa estatal de seguridad operacional en su presupuesto.
+X. Proponer a la Secretaría los recursos financieros necesarios para la implementación del Programa Estatal de Seguridad Operacional;
+XI. Establecer sistemas de recopilación y procesamiento de datos sobre seguridad operacional;
+XII. Acceder a los datos e información sobre seguridad operacional;
+XIII. Recopilar, analizar, compartir, procesar, intercambiar y utilizar datos e información de seguridad operacional;
+XIV. Emitir el Manual del Programa Estatal de Seguridad Operacional, y
+XV. Emitir disposiciones técnico-administrativas en materia de seguridad operacional.

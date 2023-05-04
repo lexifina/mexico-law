@@ -1,3 +1,8 @@
-Artículo 88 Quáter. Se le impondrá sanción al personal técnico aeronáutico por:
-I. No portar durante el ejercicio de sus actividades la licencia correspondiente y constancia de aptitud psicofísica vigentes, con una multa de quinientas a cinco mil Unidades de Medida y Actualización, y
-II. Realizar actividades distintas a las otorgadas en su licencia o a las capacidades inscritas en la misma, con una multa de quinientas a cinco mil Unidades de Medida y Actualización.
+Artículo 88 Quater. Al personal técnico-aeronáutico se le impondrá las siguientes sanciones por:
+I. No portar durante el ejercicio de sus actividades la licencia correspondiente y certificado de aptitud psicofísica vigentes, multa de quinientas a cinco mil Unidades de Medida y Actualización;
+II. Realizar actividades distintas a las otorgadas en su licencia o a las capacidades inscritas en la misma, multa de quinientas a cinco mil Unidades de Medida y Actualización;
+III. Presentar documentación que no fue emitida por la autoridad competente relacionada con los certificados de aptitud psicofísica, o cualquier documento médico en los trámites administrativos con la Agencia Federal de Aviación Civil, así como en la realización de la evaluación médica, multa de un mil a tres mil Unidades de Medida y Actualización;
+IV. Presentar documentación que no fue emitida por la autoridad competente para la revalidación de su licencia, multa de un mil a tres mil Unidades de Medida y Actualización;
+V. Ejercer en estado de ebriedad o bajo los efectos de sustancias psicoactivas las funciones que su licencia le confiere, multa de dos mil a cinco mil Unidades de Medida y Actualización;
+VI. Omitir, en sus declaraciones de salud, los datos requeridos, o asentar datos falsos sobre su estado de salud, durante la evaluación médica, multa de quinientas a un mil Unidades de Medida y Actualización, así como la denegación de la evaluación médica por un año, y
+VII. Coaccionar, mediante violencia física o psicológica, al personal médico para que le otorgue la evaluación médica, multa de doscientas a quinientas Unidades de Medida y Actualización.
