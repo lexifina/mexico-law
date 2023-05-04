@@ -1,11 +1,13 @@
 Capítulo I
 Disposiciones generales
 Capítulo II
-De la autoridad aeronáutica
+De la Autoridad de Aviación Civil
 Capítulo III
-De las concesiones y de los permisos
+De las concesiones, asignaciones y permisos
 Sección Primera
 De las concesiones
+Sección Primera Bis
+De las asignaciones
 Sección Segunda
 De los permisos
 Sección Tercera
@@ -17,9 +19,9 @@ Generalidades
 Sección Segunda
 Del servicio al público de transporte aéreo
 Sección Tercera
-Del servicio de transporte aéreo privado comercial
+De los servicios aéreos a terceros
 Sección Cuarta
-Del transporte aéreo privado no comercial
+De las operaciones de aeronaves para uso particular
 Sección Quinta
 De las aeronaves de Estado
 Capítulo V
@@ -60,11 +62,17 @@ Capítulo XV
 Del abandono de aeronaves
 Capítulo XV Bis
 Seguridad operacional
+Capítulo XV Ter
+Gestión de Riesgos Asociados a la Fatiga
+Capítulo XV Quater
+De la Seguridad de la Aviación Civil
 Capítulo XVI
 De los accidentes y de la búsqueda y salvamento
+Capítulo XVI Bis
+De la investigación administrativa (regulatory investigation)
 Capítulo XVII
 De la requisa
 Capítulo XVIII
-De la verificación
+De la vigilancia y verificación
 Capítulo XIX
 De las sanciones

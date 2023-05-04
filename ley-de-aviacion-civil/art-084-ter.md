@@ -1,0 +1,2 @@
+Artículo 84 Ter. La Agencia Federal de Aviación Civil dará seguimiento a las irregularidades detectadas durante el ejercicio de las actividades de vigilancia y verificación.
+La Agencia Federal de Aviación Civil, para la aplicación de sanciones a las personas infractoras, instaurará, sustanciará y resolverá los procedimientos administrativos que correspondan, en términos de lo dispuesto en esta Ley, sus reglamentos, la Ley Federal de Procedimiento Administrativo y demás disposiciones aplicables.

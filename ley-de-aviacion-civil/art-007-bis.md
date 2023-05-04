@@ -5,7 +5,7 @@ II. Verificar que los servicios de control de tránsito aéreo, de radioayudas a
 III. Verificar la vigencia de las licencias y capacidades del personal técnico aeronáutico, de los certificados de matrícula y de aeronavegabilidad de las aeronaves;
 IV. Verificar el cumplimiento de las condiciones de seguridad y eficiencia en los servicios de transporte aéreo;
 V. Disponer el cierre parcial o total de aeropuertos, helipuertos o aeródromos en general, cuando no reúnan las condiciones de seguridad para las operaciones aéreas;
-VI. Prohibir a cualquier piloto o miembro de la tripulación la realización de operaciones, cuando no cumplan con las disposiciones aplicables;
-VII. Levantar actas administrativas por violaciones a lo previsto en esta Ley, sus reglamentos y normas oficiales mexicanas; actuar como auxiliar del ministerio público; cumplimentar las resoluciones judiciales y coordinar sus actividades con las demás autoridades que ejerzan funciones en los aeropuertos; y
+VI. Impedir al personal técnico-aeronáutico ejercer las funciones inherentes a su licencia y certificado de aptitud psicofísica, cuando no cumplan con las disposiciones aplicables;
+VII. Levantar actas administrativas por violaciones a lo previsto en esta Ley, sus reglamentos, normas oficiales mexicanas y disposiciones técnico-administrativas; actuar como auxiliar del ministerio público; cumplimentar las resoluciones judiciales y coordinar sus actividades con las demás autoridades que ejerzan funciones en los aeropuertos, y
 VIII. Las demás que señalen esta Ley y otros ordenamientos aplicables.
-Para estos efectos, los comandantes dispondrán del apoyo de un cuerpo de verificadores aeronáuticos subordinados a ellos.
+Las atribuciones establecidas en las fracciones I, II, III, IV, VI y VII del presente artículo pueden ser ejercidas por las personas designadas como inspectoras verificadoras subordinadas a la comandancia del aeropuerto.

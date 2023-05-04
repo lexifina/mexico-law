@@ -1,1 +1,2 @@
-Artículo 78 Bis 6. La información sobre Seguridad operacional precisada en el artículo anterior tiene carácter de reservada.
+Artículo 78 Bis 6. Los datos e información de seguridad operacional recopilados por medio de los sistemas precisados en el artículo anterior tienen el carácter de confidencial.
+La clasificación y acceso a los datos e información de seguridad operacional recopilados por medio de los sistemas precisados en el artículo anterior, debe ajustarse a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública, así como a lo dispuesto en los tratados.

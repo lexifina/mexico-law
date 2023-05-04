@@ -1,1 +1,1 @@
-Artículo 78 Bis 11. La Secretaría establecerá y mantendrá un proceso para analizar los datos e información sobre Seguridad operacional obtenida de los Sistemas de recopilación y procesamiento de datos referentes a la Seguridad operacional conexa.
+Artículo 78 Bis 11. La Agencia Federal de Aviación Civil establecerá y mantendrá un proceso para analizar los datos e información sobre seguridad operacional obtenida de los sistemas de recopilación y procesamiento de datos y bases de datos sobre seguridad operacional conexas.

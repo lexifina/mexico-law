@@ -1,1 +1,1 @@
-Artículo 78 Bis 10. Con el fin de promover la Seguridad operacional, la Secretaría tiene la facultad de concertar acuerdos con los proveedores de servicio respecto a la recopilación, análisis, uso y difusión de información de Seguridad operacional.
+Artículo 78 Bis 10. Con el fin de promover la seguridad operacional, la Agencia Federal de Aviación Civil tiene la facultad de concertar acuerdos con las personas proveedoras de servicios respecto a la recopilación, análisis, uso, compartición, intercambio y utilización de datos e información de seguridad operacional.
