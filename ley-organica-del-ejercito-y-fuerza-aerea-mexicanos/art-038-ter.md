@@ -1,0 +1,1 @@
+ARTICULO 38 TER. La Secretaría de la Defensa Nacional por conducto de las personas Comandantes de la Fuerza Aérea, Región Aérea, Base Aérea Militar o Estación Aérea Militar ejercerá sus funciones en materia de defensa aérea.

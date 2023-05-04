@@ -1,0 +1,1 @@
+ARTICULO 36 BIS. Las Regiones Aéreas Militares se integran con las Bases Aéreas, Estaciones Aéreas y otros organismos de la Fuerza Aérea que se encuentren dentro de su jurisdicción, atendiendo a necesidades estratégicas, y estarán al mando de una persona Comandante con el grado de General de División Piloto Aviador.

@@ -1,0 +1,1 @@
+ARTICULO 32 BIS. El Centro Nacional de Vigilancia y Protección del Espacio Aéreo es un órgano dependiente de la Secretaría de la Defensa Nacional, responsable de la vigilancia y protección del espacio aéreo mexicano.
