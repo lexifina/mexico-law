@@ -3,9 +3,9 @@ Disposiciones generales
 CAPITULO II
 De la autoridad aeroportuaria
 CAPITULO III
-De las concesiones y de los permisos
+De las concesiones, asignaciones y permisos
 Sección primera
-De las concesiones
+De las concesiones y asignaciones
 Sección segunda
 De los permisos
 Sección tercera
@@ -22,6 +22,8 @@ CAPITULO VIII
 De las tarifas y precios
 CAPITULO IX
 De la seguridad
+CAPITULO IX BIS
+De la Seguridad de la Aviación Civil
 CAPITULO X
 De la protección al ambiente
 CAPITULO XI
