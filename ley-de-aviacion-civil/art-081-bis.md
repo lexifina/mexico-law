@@ -13,6 +13,7 @@ VIII. Realizar cualquier tipo de pruebas, incluyendo las destructivas, de todo m
 IX. Custodiar cualquier documento o componente hasta que la investigación haya finalizado;
 X. Requerir un examen médico a la persona o personas que directa o indirectamente hayan estado implicadas en la operación de una aeronave involucrada en un accidente o incidente y si procede a los pasajeros;
 XI. Requerir a los médicos competentes la información con que cuenten de un paciente involucrado en un accidente o incidente, cuando sea relevante para la investigación;
+XI Bis. Requerir de la Agencia Federal de Aviación Civil la información médica, con que cuenten, del personal técnico-aeronáutico involucrado en un accidente o incidente, cuando sea relevante para la investigación;
 XII. Solicitar a la instancia medica competente los resultados de las necropsias realizadas a los miembros de la tripulación involucrados en un accidente y, en su caso, a pasajeros;
 XIII. Requerir a las autoridades locales por medio de la comandancia que realizó la investigación de campo, que aseguren la protección del lugar del accidente, de la aeronave y de su contenido, hasta el momento en que pueda tomar la custodia y seguridad de la aeronave y de su contenido, y
 XIV. Coordinar en el sitio del accidente la investigación en materia aeronáutica civil, con los representantes acreditados, investigadores y expertos técnicos.
