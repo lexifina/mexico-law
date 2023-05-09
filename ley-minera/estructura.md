@@ -10,4 +10,10 @@ De la Nulidad, Cancelación, Suspensión e Insubsistencia de Derechos
 CAPITULO SEXTO
 Del Registro Público de Minería y la Cartografía Minera
 CAPITULO SEPTIMO
-De las Inspecciones, Sanciones y Recursos
+De las Verificaciones, Sanciones y Recursos
+CAPÍTULO OCTAVO
+De las Notificaciones
+CAPÍTULO NOVENO
+Del Cierre de Minas
+CAPÍTULO DÉCIMO
+De los Delitos
