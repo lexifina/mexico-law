@@ -72,6 +72,8 @@ Sección Quinta
 Temporal Tecnificado
 Capítulo III
 Uso en Generación de Energía Eléctrica
+Capítulo III Bis
+Uso Industrial en la Minería
 Capítulo IV
 Uso en otras Actividades Productivas
 Capítulo V

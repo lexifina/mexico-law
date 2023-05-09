@@ -3,4 +3,4 @@ CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexic
 Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
 D E C R E T O
 "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-LEY MINERA
+LEY DE MINERÍA
