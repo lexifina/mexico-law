@@ -15,6 +15,9 @@ XIII. Reincidir en cualesquiera de las infracciones previstas en el Artículo 11
 XIV. Por dar uso a las aguas distinto al autorizado, sin permiso de "la Autoridad del Agua";
 XV. Proporcionar a terceros en forma provisional el uso total o parcial de las aguas concesionadas sin mediar el aviso previo a "la Autoridad del Agua";
 XVI. Incumplir con lo dispuesto en la Ley respecto de la explotación, uso o aprovechamiento de aguas nacionales o preservación y control de su calidad, cuando por la misma causa al infractor se le hubiere aplicado con anterioridad sanción mediante resolución que quede firme, conforme a las fracciones II y III del Artículo 120 de esta Ley;
-XVII. Por incumplimiento de las medidas preventivas y correctivas que ordene "la Autoridad del Agua", y
-XVIII. Las demás previstas en esta Ley, en sus reglamentos o en las propias concesiones.
+XVII. Por incumplimiento de las medidas preventivas y correctivas que ordene "la Autoridad del Agua";
+XVIII. Cuando, para obtener o conservar una concesión, la persona titular hubiere presentado documentación falsa;
+XIX. Por hechos o actos supervenientes de interés público, general o social, o que causen algún tipo de desequilibrio económico, social, ambiental o de cualquier otra índole;
+XX. Cuando no se cumpla con el Programa de Restauración, Cierre y Post-cierre previsto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y
+XXI. Las demás previstas en esta Ley, en sus reglamentos o en las propias concesiones.
 Al extinguirse los títulos, por término de la concesión o asignación o de su última prórroga, o cuando se haya revocado el título por incumplimiento, de acuerdo con lo que establece esta Ley, las obras e instalaciones adheridas de manera permanente a bienes nacionales deberán revertirse a "la Comisión".

@@ -1,0 +1,1 @@
+ARTÍCULO 81 BIS 2. El volumen de aguas que se establezca en la concesión para uso industrial en la minería comprende el volumen de aguas subterráneas extraídas vía pozos como tomas de aguas superficiales.
