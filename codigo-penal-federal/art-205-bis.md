@@ -1,4 +1,4 @@
-Artículo 205-Bis. Serán imprescriptibles las sanciones señaladas en los artículos 200, 201 y 204. Asimismo, las sanciones señaladas en dichos artículos se aumentarán al doble de la que corresponda cuando el autor tuviere para con la víctima, alguna de las siguientes relaciones:
+Artículo 205-Bis. Serán imprescriptibles las sanciones señaladas en los artículos 200, 201, 204 y 209 Quáter. Asimismo, las sanciones señaladas en dichos artículos se aumentarán al doble de la que corresponda cuando el autor tuviere para con la víctima, alguna de las siguientes relaciones:
 a) Los que ejerzan la patria potestad, guarda o custodia;
 b) Ascendientes o descendientes sin límite de grado;
 c) Familiares en línea colateral hasta cuarto grado;
