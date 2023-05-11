@@ -64,6 +64,8 @@ Sección Segunda
 De la Secretaría Ejecutiva
 Sección Tercera
 De la Evaluación y Diagnóstico
+Sección Cuarta
+Del Registro Nacional de Obligaciones Alimentarias
 Capítulo Cuarto
 De los Sistemas de Protección en las Entidades Federativas
 Sección Primera
