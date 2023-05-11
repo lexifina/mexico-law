@@ -1,0 +1,12 @@
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud.
+Publicado en el Diario Oficial de la Federación el 10 de mayo de 2023
+Artículo Único.- Se reforma la fracción II del artículo 17 Bis; la fracción VIII del artículo 27; artículo 29; fracción V Bis del artículo 58; fracción II del artículo 194; artículo 194 Bis; primer párrafo del artículo 195; primer párrafo del artículo 204; artículo 214; primer párrafo del artículo 262; artículo 263; primer párrafo del artículo 376; se adiciona una fracción VII y un segundo párrafo al artículo 262 y el artículo 464 Quater; y se deroga el artículo 268 de la Ley General de Salud, para quedar como sigue:
+...
+Transitorios
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo.- La Secretaría de Salud emitirá las disposiciones reglamentarias para la aplicación de este Decreto en un plazo máximo de 180 días.
+Tercero.- La Secretaría de Salud emitirá las políticas necesarias que permitan la consideración y adopción de dispositivos médicos en el diagnóstico y tratamiento.
+Cuarto.- La Secretaría de Salud mantendrá actualizado el listado de dispositivos médicos e insumos para la salud considerados como de bajo riesgo para efectos de obtención del registro sanitario, y de aquellos productos que por su naturaleza, características propias y uso no se consideran como insumos para la salud y por ende no requieren registro sanitario.
+Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto que correspondan, por lo que no se autorizarán recursos adicionales para tales efectos, para el presente ejercicio fiscal ni subsecuentes.
+Ciudad de México, a 28 de marzo de 2023.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Santiago Creel Miranda, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. María del Carmen Pinete Vargas, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
