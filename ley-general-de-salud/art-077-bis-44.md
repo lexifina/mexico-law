@@ -1,0 +1,1 @@
+Artículo 77 bis 44.- La Secretaría de Salud a través del Servicio Nacional de Salud Pública coordinará las acciones referidas en el artículo anterior con las dependencias y entidades de la administración pública federal y local, en el ámbito de sus competencias.

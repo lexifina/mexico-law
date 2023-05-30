@@ -1,3 +1,1 @@
-Artículo 77 bis 35 G.- El Director General del Instituto de Salud para el Bienestar será designado por el Presidente de la República, debiendo recaer tal nombramiento en la persona que reúna los requisitos previstos en el artículo 21 de la Ley Federal de las Entidades Paraestatales.
-El Director General representará legalmente al Instituto de Salud para el Bienestar en el cumplimiento de su objeto y administrará sus bienes, pudiendo delegar sus atribuciones en servidores públicos subalternos, de conformidad con su Estatuto Orgánico.
-Para el ejercicio de sus funciones, el Director General se auxiliará de las coordinaciones y de los Servidores Públicos que determine su Estatuto Orgánico, quienes serán designados por la Junta de Gobierno o el Director General, según corresponda.
+Artículo 77 bis 35 G.- Se deroga.
