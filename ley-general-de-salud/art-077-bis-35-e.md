@@ -1,2 +1,1 @@
-Artículo 77 bis 35 E.- La Junta de Gobierno sesionará trimestralmente en forma ordinaria, de conformidad con el calendario que apruebe, y de forma extraordinaria cuando sea necesario, en ambos casos por convocatoria del Secretario o Prosecretario, a indicación de su Presidente.
-La Junta de Gobierno sesionará válidamente en la Ciudad de México o en el lugar que determine su Presidente, con la asistencia de la mayoría de sus miembros, debiendo estar siempre presente su Presidente o su suplente, y los acuerdos se tomarán por mayoría de votos de los miembros asistentes de la Junta, teniendo su Presidente voto de calidad en caso de empate.
+Artículo 77 bis 35 E.- Se deroga.

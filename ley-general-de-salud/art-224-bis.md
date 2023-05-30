@@ -1,1 +1,1 @@
-Artículo 224 Bis.- Medicamentos huérfanos: A los medicamentos que estén destinados a la prevención, diagnóstico o tratamiento de enfermedades raras, las cuales tienen una prevalencia de no más de 5 personas por cada 10, 000 habitantes.
+Artículo 224 Bis.- Medicamentos huérfanos: A los medicamentos que estén destinados a la prevención, diagnóstico o tratamiento de enfermedades raras reconocidas en el país o por organismos internacionales de los cuales el Estado mexicano es parte, las cuales tienen una prevalencia de no más de 5 personas por cada 10,000 habitantes.

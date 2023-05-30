@@ -1,1 +1,1 @@
-Artículo 77 bis 35 I.- Las relaciones de trabajo entre el Instituto de Salud para el Bienestar y sus trabajadores, se regirán por el Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+Artículo 77 bis 35 I.- Se deroga.
