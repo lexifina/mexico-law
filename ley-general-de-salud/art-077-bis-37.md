@@ -13,5 +13,5 @@ XI. Contar con facilidades para obtener una segunda opinión;
 XII. Recibir atención médica en urgencias;
 XIII. Recibir información sobre los procedimientos que rigen el funcionamiento de los establecimientos para el acceso y obtención de servicios de atención médica;
 XIV. No cubrir ningún tipo de cuotas de recuperación o cualquier otro costo por los servicios de salud, medicamentos y demás insumos asociados que reciban conforme al presente Título, y
-XV. Presentar quejas ante los servicios estatales de salud y, en su caso, ante el Instituto de Salud para el Bienestar, por la falta o inadecuada prestación de servicios establecidos en este Título, así como recibir información acerca de los procedimientos, plazos y formas en que se atenderán las quejas y consultas.
+XV. Presentar quejas ante los servicios estatales de salud y, en su caso, ante Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), por la falta o inadecuada prestación de servicios establecidos en este Título, así como recibir información acerca de los procedimientos, plazos y formas en que se atenderán las quejas y consultas.
 XVI. Se deroga.

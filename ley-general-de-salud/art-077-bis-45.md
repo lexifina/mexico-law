@@ -1,0 +1,1 @@
+Artículo 77 bis 45.- Ante urgencias epidemiológicas, desastres o riesgos a la salud poblacional, la Secretaría de Salud a través del Servicio Nacional de Salud Pública ejecutará las acciones de salud pública que en su momento dicten las autoridades sanitarias en su respectivo ámbito de competencia, en términos de las disposiciones que emita la Secretaría de Salud.

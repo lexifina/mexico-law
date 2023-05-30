@@ -1,1 +1,1 @@
-Artículo 77 bis 41.- Se deroga.
+Artículo 77 bis 41.- Para fortalecer la cobertura en favor de las personas beneficiarias del Sistema de Salud Para el Bienestar, Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) integrará la información relativa al padrón de personas beneficiarias y la hará del conocimiento de la Secretaría de Salud, con la finalidad de que ésta la contraste, complemente y verifique con la información que cuentan las diversas instituciones del Sistema Nacional de Salud en sus respectivos registros de afiliación.
