@@ -36,10 +36,11 @@ Capítulo VI
 Del Fondo de Salud para el Bienestar
 Capítulo VII
 Capítulo VIII
-Del Instituto de Salud para el Bienestar
 Capítulo IX
 Derechos y Obligaciones de los Beneficiarios
 Capítulo X
+Capítulo XI
+DEL SERVICIO NACIONAL DE SALUD PÚBLICA
 TITULO CUARTO
 Recursos Humanos para los Servicios de Salud
 CAPITULO I

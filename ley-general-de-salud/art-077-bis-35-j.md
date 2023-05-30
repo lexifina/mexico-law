@@ -1,1 +1,1 @@
-Artículo 77 bis 35 J.- El Instituto de Salud para el Bienestar contará con el órgano de vigilancia y de control interno a que se refieren la Ley Orgánica de la Administración Pública Federal y la Ley Federal de las Entidades Paraestatales, que ejercerá las facultades que se establecen en los mismos ordenamientos y demás disposiciones aplicables. El titular del órgano de vigilancia y de control interno será designado en los términos de las referidas leyes.
+Artículo 77 bis 35 J.- Se deroga.

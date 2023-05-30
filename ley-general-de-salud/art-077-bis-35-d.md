@@ -1,1 +1,1 @@
-Artículo 77 bis 35 D.- La Junta de Gobierno nombrará a un Secretario y a un Prosecretario, a propuesta de su Presidente y del Director General, respectivamente, en apego a lo previsto en la fracción XII del artículo 58 de la Ley Federal de las Entidades Paraestatales. El Secretario o el Prosecretario serán los encargados de convocar a las sesiones, levantar las minutas y llevar el seguimiento de los acuerdos correspondientes.
+Artículo 77 bis 35 D.- Se deroga.

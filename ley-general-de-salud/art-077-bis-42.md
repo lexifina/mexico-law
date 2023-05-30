@@ -1,0 +1,1 @@
+Artículo 77 bis 42.- La Secretaría de Salud a través del Servicio Nacional de Salud Pública realizará acciones que permiten garantizar el derecho a la protección de la salud en su dimensión colectiva o social, con el objeto de promover, proteger, conservar y mejorar, hasta el más alto grado posible, el bienestar físico, mental y social de la población en su conjunto.
