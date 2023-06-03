@@ -4,7 +4,6 @@ Capítulo Único
 Título II
 De la Comunicación Social de los Entes Públicos
 Capítulo I
-De las Campañas de Comunicación Social
 Capítulo II
 De los Tiempos Oficiales
 Capítulo III
