@@ -1,2 +1,0 @@
-Artículo 14 Bis.- Las Unidades Administradoras deben vincular las Campañas de Comunicación Social de los Entes Públicos que consideren temas afines o líneas de acción compartidas en el marco de sus respectivas competencias, y señalar al o a los Entes Públicos que participen en la Coemisión de Campaña.
-Corresponde a la Unidad Administradora coordinar y dar seguimiento a la vinculación de los esfuerzos comunicacionales con base en las Estrategias y Programas anuales presentados por los Entes Públicos.
