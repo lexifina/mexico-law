@@ -1,0 +1,10 @@
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley del Seguro Social, y de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+Publicado en el Diario Oficial de la Federación el 20 de enero de 2023
+Artículo Primero. Se reforman los artículos 5 A, fracción XII; 64, párrafo tercero, fracción II; 65; 66, párrafos primero, tercero y cuarto; 69; 84, fracciones I, II, III y IV; 127, párrafo primero, fracción IV y párrafos segundo y tercero, 130; 137; 138, párrafo primero, fracciones I, III y IV; 165, párrafos primero y segundo; 166, párrafo primero; y se adicionan los artículos 5 A, con las fracciones XX y XXI; y 140, con un párrafo segundo, de la Ley del Seguro Social, para quedar como sigue:
+...
+Transitorios
+Primero. El presente Decreto entrará en vigor seis meses después de su publicación en el Diario Oficial de la Federación.
+Segundo. El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, adecuarán las disposiciones reglamentarias, normativas, administrativas y demás disposiciones de su régimen interno que correspondan, conforme al presente Decreto, dentro de los 180 días naturales siguientes a su entrada en vigor.
+Tercero. Se autoriza al Instituto Mexicano del Seguro Social y al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a solicitar los recursos financieros necesarios que garanticen el cumplimiento del presente Decreto.
+Ciudad de México, a 6 de diciembre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Jessica María Guadalupe Ortega De la Cruz, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de enero de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
