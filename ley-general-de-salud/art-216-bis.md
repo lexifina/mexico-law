@@ -1,0 +1,3 @@
+Artículo 216 Bis.- Los aceites y grasas comestibles, así como los alimentos y bebidas no alcohólicas, no podrán contener en su presentación para venta al público aceites parcialmente hidrogenados, conocidos como grasas trans, que hayan sido añadidos durante su proceso de elaboración industrial.
+Los alimentos, bebidas no alcohólicas, aceites y grasas no podrán exceder dos partes de ácidos grasos trans de producción industrial por cada cien partes del total de ácidos grasos.
+La Secretaría de Salud establecerá las bases de regulación para los ácidos grasos trans de producción industrial en los términos de este precepto.
