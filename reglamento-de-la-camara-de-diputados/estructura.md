@@ -201,3 +201,23 @@ Capítulo I
 De las iniciativas y minutas
 Capítulo II
 De los dictámenes en poder de la Mesa Directiva
+TITULO DECIMO PRIMERO
+De las Sesiones Semipresenciales en casos de excepción
+CAPITULO I
+Del Objeto
+CAPITULO II
+Voces y Significados
+CAPITULO III
+De la Modalidad Semipresencial
+CAPITULO IV
+Del Orden del Día, de las Sesiones del Pleno y Votaciones
+CAPITULO V
+Presencia durante la Sesión
+CAPITULO VI
+De las Votaciones
+CAPITULO VII
+De la Plataforma Digital
+CAPITULO VIII
+De las Reuniones de Órganos de Gobierno, Comisiones y Comités
+CAPITULO IX
+Medidas Complementarias
