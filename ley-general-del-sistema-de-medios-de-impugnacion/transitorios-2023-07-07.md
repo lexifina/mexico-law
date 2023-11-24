@@ -1,0 +1,27 @@
+SENTENCIA dictada por el Tribunal Pleno de la Suprema Corte de Justicia de la Nación en la Acción de Inconstitucionalidad 62/2022 y su acumulada 77/2022, así como los Votos Particular de la señora Ministra Yasmín Esquivel Mossa y Concurrente del señor Ministro Javier Laynez Potisek.
+Publicada en el Diario Oficial de la Federación el 7 de julio de 2023
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.- Secretaría General de Acuerdos.
+ACCIÓN DE INCONSTITUCIONALIDAD 62/2022 Y SU ACUMULADA 77/2022
+PROMOVENTES: PARTIDO POLÍTICO MOVIMIENTO CIUDADANO Y DIVERSOS INTEGRANTES DE LA SEXAGÉSIMA QUINTA LEGISLATURA DE LA CÁMARA DE SENADORES DEL CONGRESO DE LA UNIÓN.
+PONENTE: MINISTRO LUIS MARÍA AGUILAR MORALES SECRETARIO: LUIS ALBERTO TREJO OSORNIO
+Ciudad de México. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, en sesión correspondiente al veintidós de agosto de dos mil veintidós, emite la siguiente:
+SENTENCIA
+...
+VI. EFECTOS.
+229. El artículo 73, en relación con los diversos 41, 43, 44 y 45 de la Ley Reglamentaria de la materia, señalan que las sentencias deben contener los alcances y efectos de estas, así como fijar con precisión los órganos obligados a cumplirla, las normas generales respecto de las cuales opere y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda. Además, se debe fijar la fecha a partir de la cual la sentencia producirá sus efectos.
+230. Declaratoria de invalidez: En atención a las consideraciones desarrolladas en el apartado precedente, se declara la invalidez del inciso h) del numeral 1 del artículo 10 de la Ley General del Sistemas de Medios de Impugnación en Materia Electoral, adicionado mediante Decreto publicado en el Diario Oficial de la Federación el diecinueve de abril de dos mil veintidós.
+231. Fecha a partir de la cual surtirá efectos la declaratoria general de invalidez: Conforme a lo dispuesto por el artículo 45, párrafo primero, de la ley Reglamentaria, esta resolución y la declaratoria de invalidez surtirán efectos a partir de la notificación de los puntos resolutivos de esta sentencia al Congreso de la Unión.
+232. Lo anterior, porque si bien esta acción de inconstitucionalidad fue tramitada como un medio de control abstracto de constitucionalidad en materia electoral, lo cierto es que no tiene un impacto directo en los procesos electorales que se encuentran en curso, ni en aquellos que darán inicio en los próximos meses. Las consecuencias de la presente decisión se circunscriben al ámbito del acceso y desempeño de los cargos públicos representativos de los parlamentarios, de manera que la promoción de medios de impugnación relacionados con esta temática no afectará directamente el desarrollo de los procesos electorales en curso, de manera que no es necesario postergar los efectos de la declaratoria de invalidez.
+233. Notificaciones: Finalmente, para el eficaz cumplimiento de esta sentencia, además del Congreso de la Unión y las Partes, también deberá notificarse a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación.
+VII. DECISIÓN.
+234. Por lo antes expuesto, el Pleno de la Suprema Corte de Justicia de la Nación resuelve:
+PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.
+SEGUNDO. Se declara la invalidez del artículo 10, numeral 1, inciso h), de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, adicionado mediante el DECRETO publicado en el Diario Oficial de la Federación el diecinueve de abril de dos mil veintidós, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos al Congreso de la Unión, en términos de los apartados V y VI de esta decisión.
+TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+Notifíquese; mediante oficio a las partes y a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación y, en su oportunidad, archívese el expediente como asunto concluido.
+Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
+...
+El señor Ministro Presidente Zaldívar Lelo de Larrea declaró que el asunto se resolvió en los términos precisados.
+Firman los señores Ministros Presidente y el Ponente con el Secretario General de Acuerdos que autoriza y da fe.
+Presidente, Ministro Arturo Zaldívar Lelo de Larrea.- Firmado electrónicamente.- Ponente, Ministro Luis María Aguilar Morales.- Firmado electrónicamente.- Secretario General de Acuerdos, Lic. Rafael Coello Cetina.- Firmado electrónicamente.
+EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN: CERTIFICA: Que la presente copia fotostática constante de cuarenta y cuatro fojas útiles, en las que se cuenta esta certificación, concuerda fiel y exactamente con el original firmado electrónicamente de la sentencia emitida en la acción de inconstitucionalidad 62/2022 y su acumulada 77/2022, promovidas por el Partido Político Movimiento Ciudadano y diversos integrantes de la Sexagésima Quinta Legislatura de la Cámara de Senadores del Congreso de la Unión, dictada por el Pleno de la Suprema Corte de Justicia de la Nación en su sesión del veintidós de agosto de dos mil veintidós. Se certifica con la finalidad de que se publique en el Diario Oficial de la Federación.- Ciudad de México, a treinta de mayo de dos mil veintitrés.- Rúbrica.
