@@ -114,3 +114,25 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto se sujetarán al marco normativo aplicable a las dependencias y entidades competentes, así como la disponibilidad presupuestaria de cada una de ellas para el presente ejercicio fiscal y los subsecuentes, por lo que bajo ningún supuesto se autorizarán recursos adicionales para tales efectos.
 Ciudad de México, a 12 de abril de 2023.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Santiago Creel Miranda, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Olga Luz Espinosa Morales, Secretaria.- Rúbricas."
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de mayo de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+DECRETO por el que se adicionan un segundo y tercer párrafos al artículo 45 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+Publicado en el Diario Oficial de la Federación 1 de diciembre de 2023
+Artículo Único.- Se adiciona un segundo y tercer párrafos al artículo 45 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
+...
+Transitorio
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Ciudad de México, a 18 de octubre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Diana Estefanía Gutiérrez Valtierra, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 22 de noviembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica. DECRETO por el que se reforma el primer párrafo del artículo 54 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+Publicado en el Diario Oficial de la Federación 4 de diciembre de 2023
+Artículo Único.- Se reforma el primer párrafo del artículo 54 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
+...
+Transitorio
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Ciudad de México, a 18 de octubre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Diana Estefanía Gutiérrez Valtierra, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 4 de diciembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica. DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de cultura de la paz.
+Publicado en el Diario Oficial de la Federación 11 de diciembre de 2023
+Artículo Único.- Se reforman los artículos 58, fracciones I y IX; 103, fracción VI; 116, fracción II; y se adicionan una fracción VIII, recorriéndose en su orden las siguientes, al artículo 4; y una fracción XX, recorriéndose en su orden las siguientes, al artículo 57 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
+...
+Transitorio
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Ciudad de México, a 30 de octubre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 5 de diciembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
