@@ -1,0 +1,4 @@
+Artículo 75 Bis. Estas disposiciones de carácter general a que se refiere el artículo anterior comprenderán en su contenido y proceso de elaboración, de manera enunciativa más no limitativa, lo siguiente:
+I. Los criterios de sostenibilidad, progresividad, la ausencia de conflicto de interés y la garantía del interés superior de la niñez.
+II. La regulación de la venta de alimentos y bebidas naturales y preparados, saludables, sostenibles, y de la región; así como el consumo de agua simple potable.
+III. La prohibición de la venta y publicidad de los alimentos y bebidas procesados y a granel que no favorezcan la salud de los educandos o la pongan en riesgo por su bajo valor nutricional de acuerdo con los criterios nutrimentales incluidos en el artículo 212 de la Ley General de Salud y las demás disposiciones en la materia.
