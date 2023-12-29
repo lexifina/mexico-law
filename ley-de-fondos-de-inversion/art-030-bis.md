@@ -1,0 +1,2 @@
+Artículo 30 Bis.- Como excepción a lo previsto en el artículo 5, las acciones representativas del capital social de los fondos de inversión de cobertura, únicamente podrán ser ofrecidas a inversionistas calificados e institucionales.
+Adicionalmente, este tipo de fondos no estarán obligados a establecer los límites máximos de tenencia previstos en el artículo 14 de la presente Ley. No obstante, lo anterior, estarán obligados a implementar mecanismos que permitan a sus accionistas, contar con información oportuna relativa al porcentaje y valor de su tenencia accionaria.
