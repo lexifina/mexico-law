@@ -22,7 +22,7 @@ De los fondos de inversión en instrumentos de deuda
 Capítulo Noveno
 De los fondos de inversión de capitales
 Capítulo Décimo
-De los fondos de inversión de objeto limitado
+De los fondos de inversión de cobertura
 Título III
 De la prestación de servicios a los fondos de inversión
 Capítulo Primero
