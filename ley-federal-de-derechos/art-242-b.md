@@ -1,6 +1,6 @@
 Artículo 242-B.- El derecho por el uso del espectro radioeléctrico, por los enlaces redioeléctricos entre estudio-planta y de estaciones móviles remotas, correspondiente a los equipos transmisores, receptores y repetidores, se pagará anualmente conforme a las siguientes cuotas:
-I.- Por cada frecuencia que utilice una estación transmisora, receptora y repetidora de enlace estudio-planta y de estaciones móviles remotas de estaciones de radiodifusión en A.M. y F.M. ... $8,987.71
-II.- Por cada frecuencia que utilice una estación transmisora, receptora y repetidora de enlace estudio-planta y de estaciones móviles remotas de estaciones de radiodifusión de televisión ... $17,976.06
-III. Por cada frecuencia que se utilice para enlaces de redes públicas de radiocomunicación fija para prestar servicios públicos de radio restringido con señal digitalizada o de sistemas de música continua ... $9,255.09
-IV. Por cada frecuencia que se utilice para enlaces de redes públicas de radiocomunicación fija para prestar servicios públicos de televisión restringida, sistemas de televisión por cable o televisión de alta definición ... $18,510.33
+I.- Por cada frecuencia que utilice una estación transmisora, receptora y repetidora de enlace estudio-planta y de estaciones móviles remotas de estaciones de radiodifusión en A.M. y F.M. ... $10,106.37
+II.- Por cada frecuencia que utilice una estación transmisora, receptora y repetidora de enlace estudio-planta y de estaciones móviles remotas de estaciones de radiodifusión de televisión ... $20,213.46
+III. Por cada frecuencia que se utilice para enlaces de redes públicas de radiocomunicación fija para prestar servicios públicos de radio restringido con señal digitalizada o de sistemas de música continua ... $10,407.03
+IV. Por cada frecuencia que se utilice para enlaces de redes públicas de radiocomunicación fija para prestar servicios públicos de televisión restringida, sistemas de televisión por cable o televisión de alta definición ... $20,814.22
 Cuando se reutilicen las frecuencias a que se refieren las fracciones anteriores, se pagará el derecho conforme a la cuota que corresponda según la fracción.

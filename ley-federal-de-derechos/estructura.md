@@ -215,7 +215,7 @@ CAPITULO XIII
 Minería
 CAPITULO XIV
 CAPITULO XV
-Derecho para Racionalizar el Uso o Aprovechamiento del Espacio Aéreo
+Derecho para racionalizar el uso o aprovechamiento del espacio aéreo
 CAPÍTULO XVI
 De los Bienes Culturales Propiedad de la Nación
 CAPÍTULO XVII

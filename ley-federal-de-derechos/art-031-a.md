@@ -1,14 +1,14 @@
 Artículo 31-A.- Por el servicio de autorización que proporciona la Comisión Nacional de Seguros y Fianzas respecto de agentes de fianzas, se pagarán derechos de autorización conforme a las siguientes cuotas:
-I.- Por la autorización definitiva a agentes de fianzas personas físicas para actuar por cuenta propia con vigencia de tres años ... $3,984.06
-II. Por el refrendo trianual de las autorizaciones definitivas a agentes personas físicas ... $2,084.44
-III.- Por la autorización a agentes de fianzas personas morales ... $12,666.69
-IV.- Por la autorización para ejercer la actividad de apoderado de un agente de fianzas persona moral para intervenir en el asesoramiento y contratación de fianzas ... $3,984.06
-V. Por el refrendo trianual de la autorización a que se refiere la fracción anterior ... $2,084.44
-VI.- Por la autorización provisional proporcionada a agentes de fianzas personas físicas. ... $2,534.89
-VII. Por la autorización para ejercer la actividad de agente mandatario de instituciones de fianzas ... $195.42
-VIII. Por la presentación del examen de acreditación de la capacidad técnica, para ejercer la actividad de agente de fianzas persona física o apoderado de agente de fianzas persona moral ... $909.93
-IX. Por la presentación de una sola prueba del examen de acreditación de la capacidad técnica, para ejercer la actividad de agente de fianzas persona física o apoderado de agente de fianzas persona moral ... $470.00
-Artículo 31-A-1. Por la presentación de cada examen de acreditación de conocimientos de los actuarios que presten sus servicios a las instituciones de fianzas, ya sea como personas físicas o morales, se pagará una cuota de $1,841.00 por concepto de derechos por cada una de las pruebas siguientes:
+I.- Por la autorización definitiva a agentes de fianzas personas físicas para actuar por cuenta propia con vigencia de tres años ... $4,479.94
+II. Por el refrendo trianual de las autorizaciones definitivas a agentes personas físicas ... $2,343.88
+III.- Por la autorización a agentes de fianzas personas morales ... $14,243.26
+IV.- Por la autorización para ejercer la actividad de apoderado de un agente de fianzas persona moral para intervenir en el asesoramiento y contratación de fianzas ... $4,479.94
+V. Por el refrendo trianual de la autorización a que se refiere la fracción anterior ... $2,343.88
+VI.- Por la autorización provisional proporcionada a agentes de fianzas personas físicas. ... $2,850.40
+VII. Por la autorización para ejercer la actividad de agente mandatario de instituciones de fianzas ... $219.74
+VIII. Por la presentación del examen de acreditación de la capacidad técnica, para ejercer la actividad de agente de fianzas persona física o apoderado de agente de fianzas persona moral ... $1,023.18
+IX. Por la presentación de una sola prueba del examen de acreditación de la capacidad técnica, para ejercer la actividad de agente de fianzas persona física o apoderado de agente de fianzas persona moral ... $528.50
+Artículo 31-A-1. Por la presentación de cada examen de acreditación de conocimientos de los actuarios que presten sus servicios a las instituciones de fianzas, ya sea como personas físicas o morales, se pagará una cuota de $2,070.14 por concepto de derechos por cada una de las pruebas siguientes:
 I. Elaboración y firma de las notas técnicas para soportar la adecuada operación de los productos que ofrezcan al público las instituciones de fianzas.
 II. Elaboración y firma de la valuación de las reservas técnicas, así como los métodos para la evaluación de las mismas.
 III. Elaboración de los dictámenes actuariales sobre la situación y suficiencia de las reservas de carácter técnico.

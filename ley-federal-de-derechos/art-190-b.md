@@ -7,14 +7,14 @@ V. (Se deroga).
 VI. (Se deroga).
 VII. (Se deroga).
 VIII. (Se deroga).
-IX. Expedición de certificados de libertad o existencia de gravámenes ... $379.37
-X. Expedición de certificados de inscripción de propiedad federal ... $632.92
-XI. Expedición de certificados de no inscripción federal ... $632.92
+IX. Expedición de certificados de libertad o existencia de gravámenes ... $426.59
+X. Expedición de certificados de inscripción de propiedad federal ... $711.69
+XI. Expedición de certificados de no inscripción federal ... $711.69
 XII. (Se deroga).
-XIII. Expedición de listados y copias fotostáticas de los documentos o datos que obran en el Sistema de Información Inmobiliaria Federal y Paraestatal, por cada hoja ... $30.95
-XIV. Expedición de copia certificada de folio real ... $850.20
-XV.- Expedición de copia certificada de documento inscrito ... $637.80
+XIII. Expedición de listados y copias fotostáticas de los documentos o datos que obran en el Sistema de Información Inmobiliaria Federal y Paraestatal, por cada hoja ... $34.80
+XIV. Expedición de copia certificada de folio real ... $956.02
+XV.- Expedición de copia certificada de documento inscrito ... $717.18
 XVI. (Se deroga).
-XVII. Asientos registrales en folio real que soliciten particulares ... $850.20
+XVII. Asientos registrales en folio real que soliciten particulares ... $956.02
 El pago de los derechos que establece este artículo comprende la búsqueda de antecedentes registrales y la expedición de las respectivas copias certificadas.
 No pagarán los derechos a que se refieren las fracciones X, XIII, XIV y XV de este artículo el poder legislativo y las autoridades judiciales o administrativas cuando así lo requieran para el ejercicio de funciones de investigación o procuración de justicia.
