@@ -13,4 +13,6 @@ X. La obligación de la persona agresora de presentarse periódicamente ante el 
 XI. La colocación de localizadores electrónicos, previo consentimiento de la persona agresora;
 XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza;
 XIII. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima, y
-XIV. Las demás que se requieran para brindar una protección a la víctima.
+XIV. Ordenar la restitución, recuperación o entrega inmediata a la mujer víctima, de sus hijas y/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de forma ilícita;
+XV. Ordenar la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes, y
+XVI. Las demás que se requieran para brindar una protección integral a la víctima.

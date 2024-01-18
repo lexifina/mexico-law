@@ -1,1 +1,1 @@
-Artículo 444 bis.- La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia familiar previstas en el artículo 323 ter de este Código, en contra de las personas sobre las cuales la ejerza.
+Artículo 444 bis.- La patria potestad podrá ser limitada cuando la persona que la ejerce incurra en conductas de violencia familiar y de violencia a través de interpósita persona previstas en los artículos 323 ter y 323 quáter de este Código, en contra de las personas sobre las cuales la ejerza.
