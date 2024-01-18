@@ -1,0 +1,2 @@
+ARTÍCULO 18 Bis.- El Estado mexicano tendrá la misma responsabilidad de promover, respetar, proteger y garantizar, desde una perspectiva de género, los derechos humanos de las mujeres, sus hijas e hijos, que se encuentren o residan fuera del país, con base en los mecanismos legales del Servicio Exterior Mexicano.
+Toda acción u omisión que conlleve a la violación de los derechos humanos de las mujeres víctimas deberá ser investigada, sancionada y reparada con perspectiva de género conforme a la normatividad aplicable.
