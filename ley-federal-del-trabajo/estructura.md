@@ -65,7 +65,7 @@ Trabajo de autotransportes
 CAPITULO VII
 Trabajo de maniobras de servicio público en zonas bajo jurisdicción federal
 CAPITULO VIII
-Trabajadores del campo
+Personas Trabajadoras del Campo
 CAPITULO IX
 Agentes de comercio y otros semejantes
 CAPITULO X

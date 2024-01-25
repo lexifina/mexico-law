@@ -1,0 +1,8 @@
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 22 de noviembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica. DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo y de la Ley del Seguro Social, en materia de derechos laborales de las personas trabajadoras del campo.
+Publicado en el Diario Oficial de la Federación el 24 de enero de 2024
+Artículo Segundo.- Se reforman la fracción XIX del artículo 5 A; la fracción IX del artículo 15; el artículo 237; los párrafos primero y segundo del artículo 237-A; el segundo y tercer párrafos del artículo 237-D, y se adiciona el artículo 237-E de la Ley del Seguro Social, para quedar como sigue:
+...
+Transitorio
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Ciudad de México, a 13 de diciembre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de enero de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
