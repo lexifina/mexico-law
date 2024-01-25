@@ -1,0 +1,1 @@
+Artículo 31 Bis.- Tratándose de la facultad del Banco de México para imponer sanciones de carácter administrativo por infracciones a preceptos de otras leyes, así como a las disposiciones que de ellas emita, cuando dichas leyes no prevean expresamente las etapas y los plazos para el ejercicio de esa facultad, el Banco observará lo dispuesto en el artículo 31 anterior.
