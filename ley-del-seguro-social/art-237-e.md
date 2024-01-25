@@ -1,0 +1,1 @@
+Artículo 237-E.- Las trabajadoras del campo temporales embarazadas durante el tiempo de efectiva prestación de servicios tienen derecho a las prestaciones correspondientes al Seguro de Enfermedades y Maternidad a que se refieren las Secciones Segunda y Tercera del Capítulo IV, del Título Segundo de esta Ley, relativas a servicios médicos y hospitalarios.
