@@ -1,6 +1,6 @@
-Artículo 22 Bis 9.- En las Reglas del Registro Único de Certificados, Almacenes y Mercancías se desarrollarán, entre otros:
+Artículo 22 Bis 9.- En las Reglas del RUCAM se desarrollarán, entre otros:
 I. Los procedimientos y requisitos técnicos y operativos que se deberán satisfacer para llevar a cabo las inscripciones, anotaciones, certificaciones y consultas que se realicen;
-II. Las características de las formas precodificadas para la inscripción y anotación en el Registro;
+II. Las características de las formas precodificadas para la inscripción y anotación en el Registro y, los requisitos que permitan la interconexión de los sistemas criptográficos a través de los que se emitan certificados de depósito con el Registro;
 III. Los requisitos y el procedimiento para obtener la autorización para llevar a cabo las inscripciones y anotaciones, así como la forma en que se darán a conocer las personas autorizadas;
 IV. El procedimiento para la renovación de inscripciones;
 V. Los procedimientos y requisitos para la rectificación, modificación o cancelación de la información del Registro;
