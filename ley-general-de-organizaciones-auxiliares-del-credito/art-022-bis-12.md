@@ -1,0 +1,1 @@
+Artículo 22 Bis 12.- La Secretaría de Economía deberá determinar mediante disposiciones de carácter general, los requerimientos técnicos y de seguridad necesarios para que el o los sistemas criptográficos de los almacenes generales de depósito se interconecten con el RUCAM, a fin de cumplir con sus obligaciones regístrales y de publicidad referidos por esta Ley.
