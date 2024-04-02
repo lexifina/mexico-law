@@ -4,5 +4,5 @@ Las declaratorias podrán comprender, de manera parcial o total, predios sujetos
 I.- La delimitación de la zona sujeta a restauración ecológica, precisando superficie, ubicación y deslinde;
 II.- Las acciones necesarias para regenerar, recuperar o restablecer las condiciones naturales de la zona;
 III.- Las condiciones a que se sujetarán, dentro de la zona, los usos del suelo, el aprovechamiento de los recursos naturales, la flora y la fauna, así como la realización de cualquier tipo de obra o actividad;
-IV.- Los lineamientos para la elaboración y ejecución del programa de restauración ecológica correspondiente, así como para la participación en dichas actividades de propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos indígenas, gobiernos locales y demás personas interesadas, y
+IV.- Los lineamientos para la elaboración y ejecución del programa de restauración ecológica correspondiente, así como para la participación en dichas actividades de propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos y comunidades indígenas y afromexicanas, gobiernos locales y demás personas interesadas, y
 V.- Los plazos para la ejecución del programa de restauración ecológica respectivo.

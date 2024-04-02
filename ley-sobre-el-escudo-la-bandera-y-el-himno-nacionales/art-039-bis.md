@@ -1,3 +1,3 @@
-ARTÍCULO 39 Bis.- Los pueblos y las comunidades indígenas podrán cantar el Himno Nacional, traducido a la lengua que en cada caso corresponda.
-Los pueblos y comunidades indígenas, a través de sus autoridades o representantes, podrán solicitar a la Secretaría de Gobernación la autorización de sus propias traducciones del Himno Nacional, previo dictamen del Instituto Nacional de Lenguas Indígenas. La Secretaría de Gobernación llevará el registro de las traducciones autorizadas.
-El Instituto Nacional de Lenguas Indígenas podrá asesorar a los pueblos y comunidades indígenas en las traducciones que realicen del Himno Nacional a sus lenguas.
+ARTÍCULO 39 Bis.- Los pueblos y comunidades indígenas y afromexicanas podrán cantar el Himno Nacional, traducido a la lengua que en cada caso corresponda.
+Los pueblos y comunidades indígenas y afromexicanas, a través de sus autoridades o representantes, podrán solicitar a la Secretaría de Gobernación la autorización de sus propias traducciones del Himno Nacional, previo dictamen del Instituto Nacional de Lenguas Indígenas. La Secretaría de Gobernación llevará el registro de las traducciones autorizadas.
+El Instituto Nacional de Lenguas Indígenas podrá asesorar a los pueblos y comunidades indígenas y afromexicanas en las traducciones que realicen del Himno Nacional a sus lenguas.

@@ -1,4 +1,4 @@
-ARTÍCULO 77 BIS.- Los pueblos indígenas, organizaciones sociales, personas morales, públicas o privadas, y demás personas interesadas en destinar voluntariamente a la conservación predios de su propiedad, establecerán, administrarán y manejarán dichas áreas conforme a lo siguiente:
+ARTÍCULO 77 BIS.- Los pueblos y comunidades indígenas y afromexicanas, organizaciones sociales, personas morales, públicas o privadas, y demás personas interesadas en destinar voluntariamente a la conservación predios de su propiedad, establecerán, administrarán y manejarán dichas áreas conforme a lo siguiente:
 I.- Las áreas destinadas voluntariamente a la conservación se establecerán mediante certificado que expida la Secretaría, en el cual las reconozca como áreas naturales protegidas. Los interesados en obtener dicho certificado presentarán una solicitud que contenga:
 a) Nombre del propietario;
 b) Documento legal que acredite la propiedad del predio;
