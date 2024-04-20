@@ -135,4 +135,27 @@ Artículo Único.- Se reforman los artículos 58, fracciones I y IX; 103, fracci
 Transitorio
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 Ciudad de México, a 30 de octubre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas."
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 5 de diciembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 5 de diciembre de 2023.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica. DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de crianza positiva.
+Publicado en el Diario Oficial de la Federación 26 de marzo de 2024
+Artículo Único.- Se reforman los artículos 44; 103, fracción V; 109, fracción VII y 148, fracción II; y se adicionan una fracción VII Bis al artículo 4 y una fracción XXVI al artículo 116 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
+...
+Transitorios
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo.- Los Congresos de las Entidades Federativas tendrán un plazo de 180 días, contados a partir de la publicación del presente Decreto para realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en el presente Decreto.
+Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+Ciudad de México, a 08 de febrero de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 25 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica. DECRETO por el que se reforman la fracción XI del artículo 57 de la Ley General de los Derechos de Niñas, Niños y Adolescentes; y la fracción III del artículo 266 Bis del Código Penal Federal.
+Publicado en el Diario Oficial de la Federación 27 de marzo de 2024
+Artículo Primero.- Se reforma el artículo 57, fracción XI de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
+...
+Transitorio
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Ciudad de México, a 8 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Karina Isabel Garivo Sánchez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica. DECRETO por el que se adicionan los artículos 4 y 6 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+Publicado en el Diario Oficial de la Federación 17 de abril de 2024
+Artículo Único.- Se adicionan las fracciones XVII y XVIII, recorriéndose el orden de las subsecuentes, al artículo 4, y las fracciones XVI y XVII al artículo 6 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, para quedar como sigue:
+...
+Transitorio
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Ciudad de México, a 12 de marzo de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Karina Isabel Garivo Sánchez, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de abril de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
