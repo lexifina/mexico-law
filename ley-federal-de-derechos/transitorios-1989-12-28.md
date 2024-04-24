@@ -33,6 +33,7 @@ VIII.- El pago del derecho de caza deportiva a que se refiere el artículo 238 d
 IX.- Para los efectos de lo dispuesto en el artículo 223 apartado A, fracción I de la Ley, el pago de derechos por el uso o aprovechamiento de aguas nacionales que se utilicen en la industria minera no será superior a $ 900.00 por metro cúbico de agua.
 DISPOSICION TRANSITORIA
 ARTICULO TRIGESIMO QUINTO.- Las reformas a los artículos 49 y 50 de la Ley Federal de Derechos, entrarán en vigor a partir del 1o. de febrero de 1990.
+...
 TRANSITORIOS
 ARTICULO PRIMERO.- La presente Ley entrará en vigor el día 1o. de enero de 1990.
 ARTICULO SEGUNDO.- Quedan sin efectos las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo preceptuado en esta Ley.
