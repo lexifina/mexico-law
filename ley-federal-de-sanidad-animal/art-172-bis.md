@@ -1,0 +1,36 @@
+Artículo 172 Bis.- Se consideran sustancias o productos prohibidos para uso o consumo en animales destinados al abasto, las siguientes:
+I. Carbadox (QCA)
+II. Cloranfenicol
+III. Clorhidrato de Clenbuterol o Clorhidrato de Clembuterol o Clenbuterol o Clembuterol
+IV. Clorhidrato de Fenilefrina
+V. Cristal violeta
+VI. Cumarina en saborizantes artificiales
+VII. Dienoestrol
+VIII. Dietilestilbestrol (DES)
+IX. Dimetridazol
+X. Feniltiouracilo
+XI. Furaltadona (AMOZ)
+XII. Furazolidona (AOZ)
+XIII. Hexoestrol
+XIV. Lindano
+XV. Metiltiouracilo
+XVI. Metronidazol
+XVII. Nifupirazina
+XVIII. Nifuraldezona
+XIX. Nitrofurantoina (AHD)
+XX. Nitrofurazona
+XXI. Nitrovin (Nitrovina)
+XXII. Olaquindox (MQCA)
+XXIII. Orciprenaline
+XXIV. Oxazolidona
+XXV. Pigmentantes sintéticos del grupo de los sudanes
+XXVI. Propiltiouracilo
+XXVII. Rodinazol o Ronidazol
+XXVIII. Roxarsona (3-Nitro)
+XXIX. Salbutamol
+XXX. Tapazol
+XXXI. Tinidazol
+XXXII. Tiouracil
+El Carbadox (QCA) está prohibido para todos los porcinos adultos y además para todas las edades de las demás especies de animales destinadas para el abasto.
+Se entenderán como animales para abasto a aquellos animales cuyo destino final sea el consumo humano.
+Al listado de sustancias y productos y sus sales, precursores, metabolitos y derivados químicos, previstos en este artículo, se entenderán incorporados los que dé a conocer la Secretaría en términos de lo dispuesto en el artículo 93 de esta Ley.
