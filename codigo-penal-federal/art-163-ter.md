@@ -1,0 +1,1 @@
+Artículo 163 Ter.- Se impondrá pena de prisión de cinco a diez años a quien importe, manufacture, arme, adquiera o adapte aeronaves pilotadas a distancia para el transporte de artefactos explosivos, artefactos explosivos improvisados, armas, narcóticos, drogas sintéticas o demás materiales regulados en la Ley Federal de Armas de Fuego y Explosivos.
