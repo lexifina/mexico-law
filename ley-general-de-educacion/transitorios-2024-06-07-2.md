@@ -1,0 +1,11 @@
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Educación, en materia de educación inclusiva y humanista a pueblos y comunidades indígenas y afromexicanas, migrantes y jornaleros agrícolas.
+Publicado en el Diario Oficial de la Federación el 7 de junio de 2024
+Artículo Único. Se reforman los artículos 3; el Capítulo VI, denominado "De la educación indígena" para denominarse "De la educación indígena, intercultural y plurilingüe"; 56; 57; 58; y se adicionan los artículos 57 Bis; 126, segundo párrafo y 131, segundo párrafo, de la Ley General de Educación, para quedar como sigue:
+...
+Transitorios
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo. Los Congresos de las entidades federativas deberán legislar en materia de educación indígena, intercultural y plurilingüe en un plazo no mayor a 365 días a partir de la publicación del presente Decreto, realizando el respectivo proceso de consulta a pueblos y comunidades indígenas y afromexicanas.
+Tercero. La autoridad educativa federal deberá, previa consulta a pueblos y comunidades indígenas y afromexicanas, actualizar los lineamientos relativos a los Consejos de Participación Escolar en un plazo no mayor a 365 días a partir de la publicación del presente Decreto.
+Cuarto. Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+Ciudad de México, a 25 de abril de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Vania Roxana Ávila García, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de junio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
