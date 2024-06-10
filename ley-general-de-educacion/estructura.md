@@ -29,8 +29,12 @@ Del tipo de educación media superior
 Capítulo IV
 Del tipo de educación superior
 Capítulo V
+Capítulo VI
+De la educación indígena, intercultural y plurilingüe
 Capítulo VII
 De la educación humanista
+Capítulo VIII
+De la educación inclusiva
 Capítulo IX
 De la educación para personas adultas
 Capítulo X
