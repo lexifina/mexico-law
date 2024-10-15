@@ -261,3 +261,43 @@ CAPÍTULO II
 Del Régimen de Responsabilidades Administrativas
 Capítulo III
 De la Contraloría General
+LIBRO NOVENO
+TÍTULO PRIMERO
+CAPÍTULO ÚNICO
+Disposiciones Generales
+TÍTULO SEGUNDO
+CAPÍTULO PRIMERO
+Reglas Generales
+CAPÍTULO SEGUNDO
+De la Convocatoria y Postulación de Candidaturas
+CAPÍTULO TERCERO
+De la Organización de la Elección
+Sección Primera
+De la Propaganda
+Sección Segunda
+Encuestas y Sondeos de Opinión
+Sección Tercera
+De la Elección por Circuitos Judiciales
+Sección Cuarta
+De las Mesas Directivas de Casilla
+Sección Quinta
+De las Boletas y Materiales Electorales
+Sección Sexta
+De la Observación Electoral
+Sección Séptima
+Del Acceso a los Tiempos en Radio y Televisión
+Sección Octava
+De las Campañas Electorales
+Sección Novena
+De las Actividades en Materia Registral y del Listado Nominal
+Sección Décima
+Sección Décima Primera
+De la Fiscalización
+CAPÍTULO CUARTO
+De la Jornada Electoral
+CAPÍTULO QUINTO
+De los Cómputos y Sumatoria
+CAPÍTULO SEXTO
+De la Asignación de Cargos
+CAPÍTULO SÉPTIMO
+Entrega de Constancias de Mayoría y Declaración de Validez de la Elección
