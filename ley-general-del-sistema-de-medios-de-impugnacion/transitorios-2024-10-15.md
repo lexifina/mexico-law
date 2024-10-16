@@ -1,0 +1,9 @@
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General del Sistema de Medios de Impugnación en Materia Electoral.
+Publicado en el Diario Oficial de la Federación el 15 de octubre de 2024
+Artículo Único.- Se reforman el numeral 1 y sus incisos a) y c) del artículo 50; los incisos a) y b) del numeral 1 del artículo 53; los incisos a) y c) del numeral 1 y el numeral 2 del artículo 55; el inciso b) del numeral 1 del artículo 61; el numeral 1 del artículo 71; y el artículo 79, y se adicionan el numeral 2 al artículo 49; el inciso f) al numeral 1 del artículo 50; el inciso c) al numeral 1 del artículo 53; el numeral 3 al artículo 54; el numeral 3 al artículo 55; el numeral 2 al artículo 61; el artículo 77 Ter; el inciso i) al numeral 1 del artículo 80; el Libro Séptimo denominado "Del Juicio Electoral", conformado por los artículos 111 y 112, de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, para quedar como sigue:
+...
+Transitorios
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+Ciudad de México, a 14 de octubre de 2024.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Julieta Andrea Ramírez Padilla, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de octubre de 2024.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- La Secretaria de Gobernación, Rosa Icela Rodríguez Velázquez.- Rúbrica.
