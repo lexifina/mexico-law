@@ -141,3 +141,9 @@ TÍTULO ÚNICO
 De las Reglas Particulares
 CAPÍTULO ÚNICO
 De la Procedencia y Competencia
+LIBRO SEPTIMO
+Del Juicio Electoral
+TITULO UNICO
+De las Reglas Particulares
+CAPITULO UNICO
+De la Procedencia y Competencia
