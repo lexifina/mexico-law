@@ -10,5 +10,6 @@ VIII. La persona Titular de la Dirección General del Instituto Mexicano del Seg
 IX. La persona Titular de la Dirección General del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 X. La persona Titular del Sistema Nacional para el Desarrollo Integral de la Familia, y
 XI. La persona Titular de la Comisión Nacional contra las Adicciones.
-Los integrantes del Gabinete Social de la Presidencia de la República no podrán nombrar suplente. En caso de ausencia del Presidente de los Estados Unidos Mexicanos, la persona Titular de la Secretaria Ejecutiva presidirá la reunión.
-Podrán ser invitados otros secretarios de Estado o personas titulares de Entidades Paraestatales a las sesiones de este Gabinete.
+XII. La persona titular de la Secretaría de Ciencia, Humanidades, Tecnología e Innovación.
+Los integrantes del Gabinete Social de la Presidencia de la República no podrán nombrar suplente. En caso de ausencia de la persona titular del Ejecutivo Federal, la persona Titular de la Secretaría Ejecutiva presidirá la reunión.
+Podrán ser invitados otras personas titulares de las Secretarías de Estado o personas titulares de entidades paraestatales a las sesiones de este Gabinete.
