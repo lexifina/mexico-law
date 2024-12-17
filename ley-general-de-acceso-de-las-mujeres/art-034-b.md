@@ -1,0 +1,1 @@
+ARTÍCULO 34 B.- Corresponde a la Secretaría de Seguridad y Protección Ciudadana administrar y coordinar la operación del Registro Nacional. Es obligación de las autoridades de las entidades federativas y de la Federación integrar, procesar y actualizar la información para el Registro Nacional, en términos que establezcan los lineamientos correspondientes.

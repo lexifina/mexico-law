@@ -1,0 +1,1 @@
+ARTÍCULO 34 F.- Las autoridades administrativas, las fiscalías, los poderes judiciales federales y locales tendrán acceso a la plataforma del Registro Nacional, para garantizar la continuidad, efectividad y no interrupción de las medidas u órdenes de protección con independencia del lugar en que hayan sido ordenadas.
