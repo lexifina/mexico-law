@@ -5,5 +5,5 @@ ARTÍCULO 34 Duodecies.- Las órdenes de protección deberán ser registradas en
 ARTÍCULO 34 Terdecies.- La Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes y sus homólogas en las entidades federativas, deberán solicitar las órdenes de protección a las autoridades correspondientes de manera oficiosa de conformidad con las disposiciones normativas aplicables.
 ARTÍCULO 34 Quaterdecies.- En caso de que la persona agresora incumpla la orden de protección, se emitirán las medidas de apremio conforme a la legislación aplicable.
 Asimismo, se reforzarán las acciones que se contemplaron en un primer momento con la finalidad de salvaguardar la vida y seguridad de las mujeres y niñas.
-DEL SISTEMA NACIONAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA
-VIOLENCIA CONTRA LAS MUJERES
+DEL REGISTRO NACIONAL DE MEDIDAS U ÓRDENES DE PROTECCIÓN DE LAS
+MUJERES, ADOLESCENTES, NIÑAS Y NIÑOS
