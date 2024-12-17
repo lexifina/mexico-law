@@ -1,0 +1,1 @@
+ARTÍCULO 34 D.- La integración y funcionamiento del Registro Nacional deberá garantizar el acceso a las autoridades competentes que ordenen, soliciten, verifiquen o den seguimiento al cumplimiento de las medidas u órdenes de protección determinadas.
