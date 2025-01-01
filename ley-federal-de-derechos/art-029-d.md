@@ -51,10 +51,7 @@ a). El resultado de multiplicar 0.393000 al millar, por el valor del total de su
 b). El resultado de multiplicar 0.243000 al millar, por el valor de su cartera de crédito vencida.
 c). El resultado de multiplicar 0.011650 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
 La cuota que resulte de conformidad con lo previsto en esta fracción en ningún caso podrá ser inferior a: ... $324,392.18
-XIV. Financiera Rural:
-La Financiera Rural, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
-a). Una cuota de ... $3,385,587.83
-b). El resultado de multiplicar 0.240474 al millar, por el total de sus activos.
+XIV. (Se deroga).
 XV. Fideicomisos Públicos:
 Los fideicomisos públicos, que conforme a la Ley de Instituciones de Crédito formen parte del Sistema Bancario Mexicano, pagarán una cuota equivalente al resultado de la suma de las siguientes cantidades:
 a). Una cuota de ... $3,291,080.28
