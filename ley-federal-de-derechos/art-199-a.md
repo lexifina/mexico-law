@@ -1,5 +1,5 @@
 Artículo 199-A.- Las personas físicas y morales mexicanas que en su caso y conforme a la Ley de Pesca, practiquen la pesca comercial en aguas de jurisdicción nacional pagarán el derecho de pesca, anualmente, conforme a las siguientes cuotas:
-ESPECIE CUOTA ANUAL POR TONELADA NETA O FRACCIÓN DE REGISTRO DE LA EMBARCACIÓN DE ARTES O EQUIPOS
+ESPECIE CUOTA ANUAL POR TONELADA NETA O DE ARTES O EQUIPOS FRACCIÓN DE REGISTRO DE LA EMBARCACIÓN
 I.- ABULÓN
 $1,142.93
 II.- SARGAZO
@@ -17,7 +17,8 @@ IX.- CANGREJO
 $124.04
 X.- CARACOL
 $521.08
-XI.- ERIZO $2,400.78
+XI.- ERIZO
+$2,400.78
 XII.- JAIBA
 $81.03
 XIII.- ESPECIES MARINAS DE ESCAMA
@@ -40,7 +41,7 @@ $26.32
 XXII.- TÚNIDOS
 $71.45
 XXIII.- OTRAS PESQUERÍAS MARINAS
-$95.40 $401.52 XXIV.- OTRAS PESQUERÍAS DE AGUA DULCE $52.30 $401.52
+$95.40 $401.52 XXIV.- OTRAS PESQUERÍAS DE AGUA $52.30 $401.52 DULCE
 XXV.- Por la extracción de organismos adultos de especies de la fauna acuática del medio natural, para utilizarlos como pie de cría o reproductores, se pagará la cuota anual por tonelada neta de registro establecida para la especie de que se trate.
 XXVI.- Por la extracción de larvas y postlarvas de camarón del medio natural, para abastecer unidades de producción acuícola, se pagará la cuota de $1,099.74 por cada millón de organismos autorizados.
 XXVII.- Por la extracción de larvas, postlarvas, crías, huevos, semillas o alevines de otras especies de la flora y fauna acuáticas distintas al camarón del medio natural, para abastecer unidades de producción acuícola, se pagará la cuota anual por tonelada neta de registro establecida para la especie de que se trate.

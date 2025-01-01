@@ -1,6 +1,7 @@
 Artículo 31-A.- Por el servicio de autorización que proporciona la Comisión Nacional de Seguros y Fianzas respecto de agentes de fianzas, se pagarán derechos de autorización conforme a las siguientes cuotas:
 I.- Por la autorización definitiva a agentes de fianzas personas físicas para actuar por cuenta propia con vigencia de tres años ... $4,479.94
-II. Por el refrendo trianual de las autorizaciones definitivas a agentes personas físicas ... $2,343.88
+II. Por el refrendo trianual de las autorizaciones definitivas a agentes personas
+físicas ... $2,343.88
 III.- Por la autorización a agentes de fianzas personas morales ... $14,243.26
 IV.- Por la autorización para ejercer la actividad de apoderado de un agente de fianzas persona moral para intervenir en el asesoramiento y contratación de fianzas ... $4,479.94
 V. Por el refrendo trianual de la autorización a que se refiere la fracción anterior ... $2,343.88
