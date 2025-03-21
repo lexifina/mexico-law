@@ -1,25 +1,23 @@
-CAPÍTULO I
+Capítulo I
 Disposiciones Generales
-CAPÍTULO II
+Capítulo II
 De los Principios de Protección de Datos Personales
-CAPÍTULO III
-De los Derechos de los Titulares de Datos Personales
-CAPÍTULO IV
-CAPÍTULO V
+Capítulo III
+De los Derechos de las Personas Titulares de Datos Personales
+Capítulo IV
+Capítulo V
 De la Transferencia de Datos
-CAPÍTULO VI
-De las Autoridades
-Sección I
-Del Instituto
-Sección II
-De las Autoridades Reguladoras
-CAPÍTULO VII
+Capítulo VI
+De la Autorregulación
+Capítulo VII
+De la Secretaría
+Capítulo VIII
 Del Procedimiento de Protección de Derechos
-CAPÍTULO VIII
+Capítulo IX
 Del Procedimiento de Verificación
-CAPÍTULO IX
+Capítulo X
 Del Procedimiento de Imposición de Sanciones
-CAPÍTULO X
+Capítulo XI
 De las Infracciones y Sanciones
-CAPÍTULO XI
+Capítulo XII
 De los Delitos en Materia del Tratamiento Indebido de Datos Personales
