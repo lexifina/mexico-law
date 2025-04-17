@@ -1,0 +1,1 @@
+Artículo 74 Ter. El acceso a la Plataforma por parte de las dependencias, entidades, licitantes, cotizantes y contratistas nacionales se realizará a través de la Firma Electrónica Avanzada, en términos de los lineamientos que para tal efecto emita la Secretaría. Tratándose de contratistas extranjeros, el medio de identificación electrónica se generará por la propia Plataforma.
