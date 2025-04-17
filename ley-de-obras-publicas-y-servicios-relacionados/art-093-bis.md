@@ -1,0 +1,2 @@
+Artículo 93 Bis. Con el escrito que se presente en los términos del artículo anterior, se requerirá a la convocante para que rinda un informe en el plazo de tres días hábiles y dará vista al tercero interesado o al inconforme, según corresponda, para que en el mismo plazo manifieste lo que a su interés convenga.
+Recibido el informe de la convocante y transcurrido el plazo de la vista otorgado para el tercero interesado o inconforme, según el caso, la autoridad resolverá el incidente dentro de los diez días hábiles siguientes.
