@@ -1,0 +1,1 @@
+Artículo 61 Bis. Notificada la rescisión, la dependencia o entidad podrá adjudicar un nuevo contrato, a quien ofrezca las mejores condiciones, con la finalidad de continuar y concluir la obra o servicio relacionado con la misma, considerando los trabajos pendientes por ejecutar que se establezcan en el acta circunstanciada de la rescisión.
