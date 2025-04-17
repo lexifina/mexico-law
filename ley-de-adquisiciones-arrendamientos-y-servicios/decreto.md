@@ -1,0 +1,4 @@
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República. CLAUDIA SHEINBAUM PARDO, Presidenta de los Estados Unidos Mexicanos, a sus habitantes sabed: Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
+DECRETO
+"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA: SE EXPIDE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO Y, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE AUSTERIDAD REPUBLICANA; DE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA Y DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS Artículo Primero.- Se expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, para quedar como sigue:
+LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO
