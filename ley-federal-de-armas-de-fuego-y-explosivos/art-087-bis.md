@@ -1,0 +1,2 @@
+Artículo 87 Bis.- A la persona que fabrique, transporte, posea, porte, comercialice, transfiera la posesión o haga uso de artefactos explosivos improvisados se le impondrá una pena de quince a treinta años de prisión y de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización.
+La pena se aumentará hasta dos terceras partes cuando el artefacto sea destinado o utilizado para actividades de la delincuencia organizada.
