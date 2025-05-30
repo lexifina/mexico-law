@@ -1,0 +1,1 @@
+Artículo 11 Bis.- Se prohíbe a personas ajenas a la Fuerza Armada Permanente la posesión, portación y uso de las armas, cargadores, municiones, materiales, accesorios, ingenios o vehículos blindados previstos en el artículo anterior, así como de vehículos particulares modificados con cualquier tipo de blindaje y adaptados para el uso de armamento.
