@@ -1,7 +1,6 @@
-Artículo 83 Ter.- Al que sin el permiso correspondiente posea un arma de uso exclusivo del Ejército, Armada o Fuerza Aérea, se le sancionará:
-I. Con prisión de tres meses a un año y de uno a diez días multa, cuando se trate de las armas comprendidas en el inciso i) del artículo 11 de esta Ley;
-II.- Con prisión de cuatro a siete años y de cien a trescientos días multa, cuando se trate de las armas comprendidas en los incisos a) y b) del artículo 11 de esta Ley, y
-III. Con prisión de dos a doce años y de cincuenta a doscientos días multa, cuando se trate de cualquiera de las otras armas comprendidas en el artículo 11 de esta Ley.
-Artículo 83 Quat.- Al que posea cartuchos en cantidades mayores a las permitidas, se le sancionará:
-I. Con prisión de uno a cuatro años y de diez a cincuenta días multa, si son para las armas que están comprendidas en los artículos 9, 10 y 11, incisos a) y b), de esta Ley, y
-II.- Con prisión de cuatro a siete años y de cien a trescientos días multa, si son para las armas que están comprendidas en los restantes incisos del artículo 11 de esta Ley.
+Artículo 83 Ter.- A la persona que, sin el permiso correspondiente, posea un arma de las reservadas para el uso exclusivo de la Fuerza Armada Permanente, o sus piezas o componentes, se le sancionará con:
+I.- Prisión de tres meses a un año y multa de uno a diez veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de las armas y accesorios comprendidos en los incisos i) y m) del artículo 11 de esta Ley;
+II.- Prisión de cuatro a siete años y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de las armas o sus piezas o componentes comprendidas en los incisos a) y b) del artículo 11 de esta Ley;
+III.- Prisión de cinco a doce años y multa de sesenta y cinco a doscientas veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de cualquiera de las armas, municiones o cartuchos comprendidos en los incisos c), d), e) y f) del artículo 11 de esta Ley, y
+IV.- Prisión de seis a quince años y multa de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de cualquiera de las armas comprendidas en los incisos g), h), j), k) y l) del artículo 11 de esta Ley.
+A la persona que posea cualquier cantidad de explosivo sin contar con el permiso correspondiente, se le sancionará con las mismas penas previstas en la fracción III del presente artículo.

@@ -1,0 +1,1 @@
+Artículo 82 Bis.- Se impondrá de seis meses a un año de prisión o multa de una a cincuenta veces el valor diario de la Unidad de Medida y Actualización a los militares que infrinjan la prohibición señalada en el último párrafo del artículo 24 de esta Ley.

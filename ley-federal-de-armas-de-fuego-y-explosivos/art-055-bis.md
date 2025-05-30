@@ -1,0 +1,2 @@
+Artículo 55 Bis.- Los permisos extraordinarios de importación y exportación otorgados a las empresas proveedoras de las armas, objetos y materiales referidos en esta Ley pueden ser modificados una sola ocasión, a solicitud de los interesados, previa autorización de la Secretaría, con excepción de las cantidades de material ya autorizado.
+La importación o exportación de materiales sujetos a regulación por parte de la Secretaría se deben ajustar a las prescripciones establecidas por ésta y por la Secretaría de Economía.

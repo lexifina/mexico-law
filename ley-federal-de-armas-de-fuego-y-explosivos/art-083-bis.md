@@ -1,5 +1,7 @@
-Artículo 83 Bis.- Al que sin el permiso correspondiente hiciere acopio de armas, se le sancionará:
-I.- Con prisión de dos a nueve años y de diez a trescientos días multa, si las armas están comprendidas en los incisos a) o b) del artículo 11, de esta Ley. En el caso del inciso i) del mismo artículo, se impondrá de uno a tres años de prisión y de cinco a quince días multa; y
-II.- Con prisión de cinco a treinta años y de cien a quinientos días multa, si se trata de cualquiera otra de las armas comprendidas en el artículo 11 de esta Ley.
-Por acopio debe entenderse la posesión de más de cinco armas de las de uso exclusivo del Ejército, Armada y Fuerza Aérea.
+Artículo 83 Bis.- A la persona que, sin el permiso correspondiente, haga acopio y posea más de cinco armas de las reservadas para el uso exclusivo de la Fuerza Armada Permanente, se le sancionará con:
+I.- Prisión de seis a nueve años y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, si las armas están comprendidas en los incisos a) o b) del artículo 11 de esta Ley. En el caso del inciso i) del mismo artículo, se debe imponer de uno a tres años de prisión y multa de cinco a quince veces el valor diario de la Unidad de Medida y Actualización, y
+II.- Prisión de siete a treinta años y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización, si se trata de cualquiera otra de las armas comprendidas en los incisos c), d), e), f), g), h), j), k), k) bis y l) del artículo 11 de esta Ley.
+En el caso de las armas permitidas, la posesión de más de cinco de las comprendidas en los artículos 9o. y 10 de esta Ley sin el permiso correspondiente, se sancionará con:
+I.- Prisión de uno a cuatro años y multa de diez a doscientas veces el valor diario de la Unidad de Medida y Actualización, si las armas están comprendidas en las fracciones I y II del artículo 9o. de esta Ley, y
+II.- Prisión de uno a siete años y multa de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización, si se trata de cualquiera otra de las armas comprendidas en las fracciones del I a la VI del artículo 10 de esta Ley.
 Para la aplicación de la sanción por delitos de portación o acopio de armas, el Juez deberá tomar en cuenta la actividad a que se dedica el autor, sus antecedentes y las circunstancias en que fue detenido.

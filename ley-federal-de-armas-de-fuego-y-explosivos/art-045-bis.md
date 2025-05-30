@@ -1,0 +1,2 @@
+Artículo 45 Bis.- Cualquier modificación que hagan las personas morales que cuenten con algún permiso general deben hacerla del conocimiento de la Secretaría en un plazo de 15 días hábiles contados a partir de la fecha de su modificación, lo que deben de acreditar con original o copia certificada del documento legal en que conste la modificación, que debe agregarse a su expediente.
+La modificación debe cumplir con los requisitos que señalen esta Ley y su Reglamento y demás disposiciones que emita la Secretaría.

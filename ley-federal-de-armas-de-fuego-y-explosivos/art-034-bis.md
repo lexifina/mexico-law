@@ -1,0 +1,1 @@
+Artículo 34 Bis.- El armamento y municiones correspondientes a una licencia oficial colectiva solo pueden emplearse en funciones de carácter oficial y de seguridad pública. Queda prohibido su uso en actividades de carácter privado tales como seguridad a particulares, seguridad a los bienes y seguridad en el traslado de bienes o valores.
