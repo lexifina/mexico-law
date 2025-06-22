@@ -68,6 +68,8 @@ CAPITULO VIII
 Personas Trabajadoras del Campo
 CAPITULO IX
 Agentes de comercio y otros semejantes
+CAPITULO IX BIS
+TRABAJO EN PLATAFORMAS DIGITALES
 CAPITULO X
 Deportistas profesionales
 CAPITULO XI
