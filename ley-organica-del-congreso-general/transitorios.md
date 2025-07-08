@@ -12,10 +12,10 @@ NUEVAS COMISIONES O COMITES Asuntos de la Frontera Sur
 Asuntos Fronterizos
 Gobernación y Puntos Constitucionales
 Población y Desarrollo
-Gobernación, Población y Seguridad Pública Protección Civil
+Protección Civil
 Radio, Televisión y Cinematografía
 Seguridad Pública
-Gobernación y Puntos Constitucionales (iniciativas de reforma constitucional)
+Gobernación, Población y Seguridad Pública Gobernación y Puntos Constitucionales (iniciativas de reforma constitucional)
 Fortalecimiento del Federalismo
 Fortalecimiento Municipal
 Puntos Constitucionales y Sistema Federal Derechos Humanos
@@ -37,15 +37,15 @@ Medio Ambiente, Recursos Naturales y Pesca Energéticos
 Energía Artesanías
 Comercio
 Patrimonio y Fomento Industrial
-Comercio y Fomento Industrial Agricultura Agricultura, Ganadería y Desarrollo Rural
+Comercio y Fomento Industrial Agricultura
 Ganadería
-Comunicaciones y Transportes
+Agricultura, Ganadería y Desarrollo Rural Comunicaciones y Transportes
 Comunicaciones y Transportes Ciencia y Tecnología
 Corrección de Estilo
 Cultura
 Deporte
-Educación
-Educación Pública, Cultura y Ciencia y Tecnología Pensionados y Jubilados
+Educación Pública, Cultura y Ciencia y Tecnología Educación
+Pensionados y Jubilados
 Salud
 Seguridad Social
 Salud y Seguridad Social Trabajo y Previsión Social
@@ -69,8 +69,8 @@ Administración
 Junta de Coordinación Política Asuntos Editoriales
 Coordinación de Comunicación Social Asuntos Internacionales
 Comisión de Relaciones Exteriores Biblioteca e Informática
-Servicios de Bibliotecas Comunicación Social
-Coordinación de Comunicación Social Instituto de investigaciones Legislativas Centro de Estudios de Derecho e Investigaciones Parlamentarias
+Servicios de Bibliotecas Comunicación Social Coordinación de Comunicación Social
+Instituto de investigaciones Legislativas Centro de Estudios de Derecho e Investigaciones Parlamentarias
 b) Las iniciativas de reforma constitucional que se encuentren en la Comisión de Gobernación y Puntos Constitucionales, serán turnadas a la Comisión de Puntos Constitucionales y Sistema Federal, así como a las otras comisiones ordinarias que corresponda. Los demás asuntos a cargo de la Comisión de Gobernación y Puntos Constitucionales se turnarán a la nueva Comisión de Gobernación, Población y Seguridad Pública.
 c) En caso de que se presenten controversias sobre la distribución de las competencias de las comisiones establecida en el inciso a), la Conferencia para la Dirección y Programación de los Trabajos Legislativos resolverá lo conducente.
 V). Se respetarán los derechos contractuales de los actuales secretarios técnicos y demás personal de las comisiones. Serán adscritos por acuerdo de la Conferencia para la Dirección y Programación de los Trabajos Legislativos, de conformidad con la reestructuración de comisiones a que se refiere el inciso anterior.
