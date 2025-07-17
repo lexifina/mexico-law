@@ -1,0 +1,3 @@
+Artículo 19 Bis.- El Programa Anual de Capacitación de la Guardia Nacional, se ajustará en lo conducente a los lineamientos del Programa Rector de Profesionalización emitido por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
+El programa de capacitación y profesionalización de la Guardia Nacional, determinará los cursos que deban realizarse para conformar la ruta profesional del personal de dicha fuerza de seguridad pública.
+El personal de la Guardia Nacional deberá completar su capacitación y profesionalización policial correspondiente de manera obligatoria, de conformidad con las leyes, reglamentos, manuales y demás disposiciones relativas.

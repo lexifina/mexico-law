@@ -1,2 +1,2 @@
-ARTICULO 95 TER. El Director del Servicio de informática será un General Ingeniero en Computación e Informática.
+ARTICULO 95 TER. La persona titular de la Dirección del Servicio de Informática deberá ostentar la jerarquía de General en activo.
 Servicio de Archivo

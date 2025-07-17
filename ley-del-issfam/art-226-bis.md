@@ -1,4 +1,4 @@
-Artículo 226 Bis. Lista de padecimientos que por producir trastornos funcionales de menos del 20% ameritan cambio de Arma o Servicio a petición de un Consejo Médico.
+Artículo 226 Bis. Lista de padecimientos que por producir trastornos funcionales de menos del 20% ameritan cambio de Arma, Servicio o Guardia Nacional a petición de un Consejo Médico.
 1. Las alteraciones orgánicas o funcionales irreparables que provoquen que la visión central en cada ojo, aún después de corregir los vicios de refracción, alcance a lo sumo 20/40.
 2. El desprendimiento de la retina tratado, cuando a juicio del médico limite la actividad física.
 3. Los procesos patológicos de la conjuntiva que tengan tendencia a la cronicidad, que no cedan a la terapéutica habitual y que constituyan causa de disfunción visual.
