@@ -1,0 +1,2 @@
+Artículo 74 Bis. En la investigación de los delitos previstos en esta Ley, el ingreso del Ministerio Público a un lugar cerrado podrá realizarse sin autorización Judicial debiendo dar cumplimiento a lo previsto en el artículo 290 del Código Nacional de Procedimientos Penales.
+Asimismo, la localización geográfica en tiempo real y la solicitud de entrega de datos conservados se efectuará en términos de lo previsto en el artículo 303 del Código Nacional de Procedimientos Penales.
