@@ -1,0 +1,2 @@
+Artículo 91 Sexies.- En los términos que fije el Reglamento de esta Ley, así como en otras disposiciones jurídicas aplicables, la Clave Única de Registro de Población deberá ser empleada en los procesos de validación y autenticación de la Identidad de las personas en medios digitales.
+Todo ente público o particular estará obligado a solicitar la Clave Única de Registro de Población para la prestación de sus trámites y servicios.
