@@ -1,9 +1,9 @@
 Capítulo I
 Disposiciones generales
 Capítulo II
-De las concesiones y permisos
+De las concesiones, asignaciones y permisos
 Sección Primera
-De las concesiones
+De las concesiones y asignaciones
 Sección Segunda
 De los permisos
 Sección Tercera

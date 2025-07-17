@@ -1,0 +1,14 @@
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Reglamentaria del Servicio Ferroviario; de la Ley Orgánica de la Administración Pública Federal; de la Ley de Caminos, Puentes y Autotransporte Federal; de la Ley de Vías Generales de Comunicación, y de la Ley General de Bienes Nacionales, en materia ferroviaria y de armonización normativa.
+Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
+Artículo Quinto.- Se reforman los artículos 8, párrafo segundo; 16, y 18, y se adiciona al artículo 42, la fracción VIII Bis, de la Ley General de Bienes Nacionales, para quedar como sigue:
+...
+Transitorios
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Las disposiciones relativas a la Ley Reglamentaria del Servicio Ferroviario entrarán en vigor el mismo día de la publicación del Decreto de Creación de la Agencia de Trenes y Transporte Público Integrado que emita la persona titular del Ejecutivo Federal.
+Segundo.- Los asuntos en trámite a la entrada en vigor de este ordenamiento que deban pasar de la Agencia Reguladora del Transporte Ferroviario a la Agencia de Trenes y Transporte Público Integrado, continuarán su trámite y serán resueltos por esta última.
+Tercero.- La Agencia de Trenes y Transporte Público Integrado deberá ser creada por el Ejecutivo Federal en un plazo no mayor a 90 días hábiles a partir de la publicación del presente Decreto.
+Cuarto.- Se derogan aquellas disposiciones que se opongan al contenido del presente Decreto.
+Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para tal fin a la Secretaría de Infraestructura, Comunicaciones y Transportes, por lo que no requerirá recursos adicionales para tales efectos y no incrementará su presupuesto regularizable en el ejercicio fiscal en el que entre en vigor este Decreto.
+Sexto. El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones correspondientes al Reglamento del Servicio Ferroviario.
+Ciudad de México, a 26 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
