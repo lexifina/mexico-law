@@ -1,0 +1,1 @@
+Artículo 396 Ter.- Quien utilice su pertenencia o el servicio en la Institución para solicitar o recibir sin derecho para sí o para otro, dinero o dádiva, o acepte una promesa, se le impondrá sanción de cuatro a ocho años de prisión, destitución de su empleo e inhabilitación.

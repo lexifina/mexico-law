@@ -7,6 +7,9 @@ II. Garantizar la seguridad interior;
 III. Auxiliar a la población civil en casos de necesidades públicas;
 IV. Realizar acciones cívicas y obras sociales que tiendan al progreso del país; y
 V. En caso de desastre prestar ayuda para el mantenimiento del orden, auxilio de las personas y sus bienes y la reconstrucción de las zonas afectadas.
+ARTICULO 1/o BIS. La Guardia Nacional, como fuerza de seguridad pública, profesional, de carácter permanente e integrada por personal militar con formación policial para el cumplimiento de sus fines señalados en la Constitución Política de los Estados Unidos Mexicanos, contará con la estructura orgánica y de dirección previstas en su propia ley.
+La Guardia Nacional como Fuerza Armada Permanente, dependiente de la Secretaría del ramo de Defensa Nacional, participará con el Ejército y Fuerza Aérea Mexicanos, en la defensa de la integridad, independencia y soberanía de la Nación, así como garantizar la seguridad interior, en los términos previstos en la Constitución Política de los Estados Unidos Mexicanos.
+Las disposiciones contenidas en la presente Ley, serán aplicables en lo conducente a la Guardia Nacional.
 ARTICULO 2/o. Las misiones enunciadas, podrán realizarlas el Ejército y la Fuerza Aérea, por si o en forma conjunta con la Armada o con otras Dependencias de los Gobiernos Federal, Estatales o Municipales, todo, conforme lo ordene o lo apruebe el Presidente de la República, en ejercicio de sus facultades constitucionales.
 ARTICULO 2/o BIS. El personal militar podrá efectuar operaciones de apoyo a las instituciones de seguridad pública en los términos que señale el marco jurídico aplicable.
 ARTICULO 3/o. El Ejército y Fuerza Aérea Mexicanos deben ser organizados, adiestrados y equipados conforme a los requerimientos que reclame el cumplimiento de sus misiones.

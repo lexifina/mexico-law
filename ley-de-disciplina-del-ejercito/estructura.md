@@ -6,5 +6,7 @@ CAPÍTULO III
 Correctivos Disciplinarios
 CAPÍTULO IV
 Consejo de Honor
+CAPÍTULO IV BIS
+Consejo Superior de Disciplina
 CAPÍTULO V
 Prevenciones Generales

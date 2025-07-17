@@ -1,4 +1,4 @@
-Artículo 275 Ter.- Se sancionará con pena de prisión de quince a sesenta años y baja de la Fuerza Armada que corresponda, al militar que:
+Artículo 275 Ter.- Se aplicará la pena de prisión de quince a sesenta años y baja de la Fuerza Armada que corresponda, a la persona militar que:
 I. Utilice la fuerza, embarcación, aeronave, o cualquier otro bien o recurso humano que tenga bajo su cargo o mando a favor de cualquier miembro de la delincuencia organizada o asociación delictuosa;
 II. Proporcione a cualquier miembro de la delincuencia organizada o asociación delictuosa, protección o facilidades en la plaza o puesto confiado a su cargo; así como adiestramiento, capacitación o conocimientos militares;
 III. Induzca al personal que tenga bajo su mando o a las tropas de las que forme parte, para que presten algún servicio a cualquier miembro de la delincuencia organizada o asociación delictuosa, o reclute personal militar para el mismo fin;
@@ -11,5 +11,5 @@ IX. Proporcione a sus superiores información diferente a la que conozca acerca 
 X. Conduzca o guíe las actividades de cualquier miembro de la delincuencia organizada o asociación delictuosa, y
 XI. Ponga en libertad a cualquier miembro de la delincuencia organizada o asociación delictuosa, o proteja o facilite su fuga.
 Las penas previstas en este capítulo se impondrán además de las que correspondan a los delitos que resulten cometidos por las actividades del individuo u organización delictiva de que se trate.
-Para los efectos de este capítulo, se entenderá por Fuerzas Armadas Mexicanas, a las instituciones armadas de la Unión, a saber: Ejército, Armada y Fuerza Aérea.
+Para los efectos de este capítulo, se entenderá por Fuerzas Armadas Mexicanas, a las instituciones armadas de la Unión, a saber: Ejército, Armada, Fuerza Aérea y Guardia Nacional.
 Para los efectos de este capítulo se entenderá por delincuencia organizada la prevista en el artículo 2o. de la Ley Federal contra la Delincuencia Organizada y por asociación delictuosa, la prevista en el artículo 164 del Código Penal Federal.

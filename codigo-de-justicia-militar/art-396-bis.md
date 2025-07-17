@@ -1,0 +1,1 @@
+Artículo 396 Bis.- La persona integrante de la Guardia Nacional que haga uso, proporcione o permita el empleo de armas, identificaciones, uniformes, insignias, vehículos o cualquier otro bien de la Institución, para la comisión de un delito, será sancionada con prisión de seis a diez años.
