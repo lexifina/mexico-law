@@ -3,7 +3,7 @@ DE LA ORGANIZACIÓN Y FUNCIONAMIENTO
 TÍTULO I
 DISPOSICIONES GENERALES
 TÍTULO II
-DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA
+DE LA COMISIÓN NACIONAL ANTIMONOPOLIO
 Capítulo I
 De la Comisión
 Sección I
@@ -13,7 +13,7 @@ De las Atribuciones de la Comisión
 Capítulo II
 De la Integración y Atribuciones del Pleno
 Sección I
-De la Integración a través del Comité de Evaluación
+De la Integración del Pleno
 Sección II
 De las Atribuciones del Pleno
 Sección III
@@ -29,7 +29,7 @@ De sus Atribuciones
 Capítulo III
 De su Designación y Remoción
 Capítulo IV
-De la Responsabilidad del Titular de la Autoridad Investigadora
+De la Responsabilidad de la Persona Titular de la Autoridad Investigadora
 Capítulo V
 De las Prohibiciones
 TÍTULO IV
@@ -44,6 +44,7 @@ De la Responsabilidad del Titular del Órgano Interno de Control
 Capítulo V
 De las Prohibiciones
 TÍTULO V
+DE LA ADMINISTRACIÓN DE LA COMISIÓN NACIONAL ANTIMONOPOLIO
 Capítulo I
 Del Presupuesto
 Capítulo II
@@ -69,7 +70,7 @@ Capítulo V
 Sección I
 De la Determinación del Mercado Relevante
 Sección II
-De la Determinación del Poder Sustancial
+De la Determinación del Poder Sustancial o Poder Sustancial Conjunto
 Sección III
 De la Determinación del Insumo Esencial
 Capítulo VI
@@ -92,6 +93,8 @@ Sección I
 Del Inicio de la Investigación
 Sección II
 Del Desahogo de la Investigación
+Sección II Bis
+Del Procedimiento de Calificación
 Sección III
 De la Conclusión de la Investigación
 TÍTULO II
@@ -121,6 +124,8 @@ Capítulo III
 Capítulo IV
 De los Procedimientos de Dispensa y Reducción del Importe de Multas
 Capítulo V
+Capítulo VI
+Del Procedimiento de Aviso del Ejecutivo Federal
 TÍTULO V
 DE LAS REGLAS GENERALES APLICABLES A LOS PROCEDIMIENTOS
 Capítulo I
@@ -169,3 +174,11 @@ Capítulo II
 De la Prescripción
 TÍTULO X
 Capítulo Único
+LIBRO CUARTO
+DE LAS TELECOMUNICACIONES Y RADIODIFUSIÓN
+TÍTULO ÚNICO
+De los Procedimientos y Facultades de la Comisión en los sectores de Telecomunicaciones y Radiodifusión
+Capítulo I
+De la Preponderancia y Regulación Asimétrica
+Capítulo II
+De la Propiedad Cruzada
