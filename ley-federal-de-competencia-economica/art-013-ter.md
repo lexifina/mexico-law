@@ -1,0 +1,1 @@
+Artículo 13 Ter. Cuando las Personas Comisionadas estén por concluir el periodo para el que hayan sido nombradas, la Persona Comisionada Presidente, con tres meses de anticipación, deberá notificar esta circunstancia a la persona titular del Ejecutivo Federal.
