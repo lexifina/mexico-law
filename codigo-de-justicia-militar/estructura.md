@@ -5,7 +5,7 @@ De la organización de los tribunales militares
 CAPITULO I
 Disposiciones preliminares
 CAPITULO II
-Del Supremo Tribunal Militar
+Del Tribunal Superior Militar
 CAPITULO II BIS
 De los Tribunales Militares de Juicio Oral
 CAPITULO III
@@ -49,7 +49,7 @@ De la competencia
 CAPITULO I
 Disposiciones preliminares
 CAPITULO II
-Supremo Tribunal Militar y secretarios
+Tribunal Superior Militar y secretarios
 CAPITULO II BIS
 CAPITULO III
 Consejos de guerra
@@ -147,13 +147,12 @@ Rebelión
 CAPITULO II
 Sedición
 TITULO OCTAVO
-Delitos contra la existencia y seguridad del ejército
+Delitos contra la existencia y seguridad de la Fuerza Armada Permanente
 CAPITULO I
 Falsificación
 CAPITULO II
 Fraude, malversación y retención de haberes
 CAPITULO III
-Extravío, enajenación, robo y destrucción de lo perteneciente al ejército
 CAPITULO IV
 Deserción e insumisión
 CAPITULO IV BIS
@@ -161,7 +160,7 @@ Traición a las Fuerzas Armadas Mexicanas
 CAPITULO V
 Inutilización voluntaria para el servicio
 CAPITULO VI
-Insultos, amenazas o violencias contra centinelas, guardias, tropa formada, salvaguardias, bandera y ejército
+Insultos, amenazas o violencias contra Centinelas, Guardias, Tropa formada,
 CAPITULO VII
 Ultrajes y violencias contra la policía
 CAPITULO VIII
@@ -195,6 +194,8 @@ CAPITULO IV
 Infracción de deberes especiales de aviadores
 CAPITULO V
 CAPITULO VI
+CAPITULO VI BIS
+Delitos especiales del personal integrante de la Guardia Nacional
 CAPITULO VII
 Contra el honor militar
 CAPITULO VIII
