@@ -1,0 +1,1 @@
+Artículo 22 Bis. La supervisión, verificación y vigilancia del cumplimiento de las obligaciones aplicables a quienes realizan las Actividades Vulnerables a que se refiere esta Ley, con excepción de las establecidas en la Sección Primera del Capítulo III, se llevará a cabo por la Secretaría.

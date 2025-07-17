@@ -14,6 +14,8 @@ Sección Cuarta
 Avisos por Conducto de Entidades Colegiadas
 Capítulo IV
 Del Uso de Efectivo y Metales
+Capítulo IV Bis
+Del Beneficiario Controlador
 Capítulo V
 De las Visitas de Verificación
 Capítulo VI
