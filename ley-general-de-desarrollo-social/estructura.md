@@ -41,4 +41,4 @@ DE LA EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL
 Capítulo I
 De la Evaluación
 Capítulo II
-De Consejo Nacional de Evaluación de la Política de Desarrollo Social
+Del Instituto Nacional de Estadística y Geografía
