@@ -1,0 +1,1 @@
+Artículo 91 Quater.- El Registro Nacional de Población contará con una Plataforma Única de Identidad, para la consulta, validación y gestión de las Claves Únicas de Registro de Población que permita la integración de los datos a que se refiere el artículo 91 Bis de la presente Ley, a fin de brindar el Servicio Nacional de Identificación Personal.

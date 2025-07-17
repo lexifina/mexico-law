@@ -1,0 +1,1 @@
+Artículo 114 Bis. Las autoridades de los tres órdenes de gobierno y particulares que incumplan con las obligaciones previstas en el artículo 91 Bis de esta Ley, previo apercibimiento por el reiterado incumplimiento, serán sancionadas con multas de 10,000 a 20,000 veces el valor diario de la Unidad de Medida y Actualización.

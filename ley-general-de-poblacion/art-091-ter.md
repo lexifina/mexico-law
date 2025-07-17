@@ -1,0 +1,1 @@
+Artículo 91 Ter.- La Clave Única de Registro de Población que cuente con los datos biométricos se vinculará con el Registro del Sistema Nacional de Salud, que prevé la Ley General de Salud. Asimismo, podrá integrarse a otros registros y sistemas nacionales, en términos de las leyes y normativa aplicable.
