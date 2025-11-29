@@ -39,7 +39,8 @@ XVIII. De la Ley de Ahorro y Crédito Popular, los previstos en los artículos 1
 XIX. De la Ley de Concursos Mercantiles, los previstos en los artículos 117 y 271;
 XX. Los previstos en el artículo 49 de la Ley Federal para el Control de Sustancias Químicas Susceptibles de desvío para la fabricación de Armas Químicas;
 XXI. Los previstos en los artículos 8, 9, 10, 12, 13, 14, 15, 16, 17, 18 y 19 de la Ley Federal para Prevenir y Sancionar los Delitos en Materia de Hidrocarburos.
-XXII. En los demás casos expresamente previstos en la legislación aplicable.
+XXII. El delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
+XXIII. En los demás casos expresamente previstos en la legislación aplicable.
 Para los efectos del artículo 422 del Código Nacional de Procedimientos Penales, se estará a los siguientes límites de punibilidad para las consecuencias jurídicas de las personas jurídicas:
 a) Suspensión de actividades, por un plazo de entre seis meses a seis años.
 b) Clausura de locales y establecimientos, por un plazo de entre seis meses a seis años.
