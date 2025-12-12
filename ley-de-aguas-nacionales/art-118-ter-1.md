@@ -1,0 +1,5 @@
+ARTÍCULO 118 TER 1. En caso de existir riesgo inminente, daño, deterioro a la salud, a las aguas nacionales, a los bienes a que se refiere el artículo 113 de esta Ley, a la biodiversidad o a los ecosistemas vinculados con el agua, la autoridad del agua o la Procuraduría en el ámbito de sus respectivas competencias, podrán realizar de manera inmediata alguna o algunas de las siguientes medidas:
+I. Clausura temporal del aprovechamiento de aguas nacionales;
+II. Suspensión de las actividades que dan origen al proceso generador de las descargas de aguas residuales, y
+III. Promover ante las autoridades de protección civil y seguridad pública de los gobiernos Federal, de los estados, de la Ciudad de México y de los municipios, la adopción de medidas urgentes incluidas el aseguramiento de bienes, remoción o demolición de infraestructura, con el objeto de proteger la vida y los bienes de las personas.
+Las medidas establecidas en las fracciones I y II se mantendrán hasta el momento en que cesen las condiciones que dieron motivo al establecimiento de las mismas.

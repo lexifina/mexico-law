@@ -1,4 +1,4 @@
-ARTÍCULO 29 BIS 1. Los asignatarios tendrán los siguientes derechos:
+ARTÍCULO 29 BIS 1. Las personas asignatarias tendrán los siguientes derechos:
 I. Explotar, usar, reusar o aprovechar las aguas nacionales, en los términos de la presente Ley y del título respectivo;
 II. Obtener la constitución de las servidumbres legales en los terrenos indispensables para llevar a cabo el aprovechamiento de agua o su desalojo, tales como las de desagüe, acueductos y las demás establecidas en la legislación respectiva o que se convengan;
 III. Solicitar correcciones administrativas o duplicados de sus títulos;
