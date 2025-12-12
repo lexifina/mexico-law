@@ -1,3 +1,1 @@
 ARTÍCULO 84 BIS 2. "La Secretaría", "la Comisión" o el Organismo de Cuenca deberán promover que en los programas dirigidos a la población infantil, los medios masivos de comunicación difundan y fomenten la cultura del agua, la conservación conjuntamente con el uso racional de los recursos naturales, así como la protección de ecosistemas vitales y del medio ambiente, en los términos dispuestos en la Ley Federal de Radio y Televisión.
-Prevención y Control de la Contaminación de las Aguas y Responsabilidad por Daño
-Ambiental
