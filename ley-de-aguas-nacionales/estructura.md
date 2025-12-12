@@ -16,7 +16,7 @@ Organismos de Cuenca
 Capítulo IV
 Consejos de Cuenca
 Capítulo V
-Organización y Participación de los Usuarios y de la Sociedad
+Organización y Participación de las Personas Usuarias y de la Sociedad
 Capítulo V BIS
 Consejo Consultivo del Agua
 TÍTULO TERCERO
@@ -48,9 +48,9 @@ Restricciones de uso de agua
 Sección Quinta
 Servidumbres
 Capítulo IV
-Registro Público de Derechos de Agua
+Registro Público Nacional del Agua
 Capítulo V
-Transmisión de Títulos
+Fondo de Reserva de Aguas Nacionales
 TÍTULO QUINTO
 Zonas Reglamentadas, de Veda o de Reserva
 Capítulo único
@@ -80,6 +80,8 @@ Capítulo V
 Control de Avenidas y Protección contra Inundaciones
 Capítulo V BIS
 Cultura del Agua
+Capítulo VI
+Fomento al Reúso de Aguas Residuales
 TÍTULO SÉPTIMO
 Capítulo I
 Prevención y Control de la Contaminación del Agua
@@ -101,10 +103,16 @@ TÍTULO NOVENO
 Bienes Nacionales a Cargo de "la Comisión"
 Capítulo Único
 TÍTULO DÉCIMO
-Medidas de Apremio, Seguridad, Infracciones, Sanciones y Recursos
+Régimen Sancionador y Procedimientos Administrativos
 Capítulo I
-Medidas de Apremio y Seguridad
+Disposiciones Generales
 Capítulo II
-Infracciones y Sanciones Administrativas
+Verificación, inspección y calificación de infracciones
 Capítulo III
+Medidas de Apremio y Seguridad
+Capítulo IV
+Infracciones y Sanciones Administrativas
+Capítulo V
+Delitos contra las aguas nacionales
+Capítulo VI
 Recurso de Revisión y Denuncia Popular

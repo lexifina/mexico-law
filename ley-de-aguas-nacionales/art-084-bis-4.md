@@ -1,0 +1,1 @@
+ARTÍCULO 84 BIS 4. El tratamiento de las aguas residuales y su reúso deberán cumplir con las disposiciones contenidas en las Normas Oficiales Mexicanas, las normas ambientales que correspondan, las condiciones particulares de descarga y las mejores prácticas internacionales en la materia.

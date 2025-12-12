@@ -1,1 +1,1 @@
-ARTÍCULO 118 BIS 1. "La Comisión" para hacer cumplir sus determinaciones podrá solicitar a las autoridades federales, estatales o municipales, el auxilio de la fuerza pública.
+ARTÍCULO 118 BIS 1. Las disposiciones contenidas en este título son aplicables a los actos de verificación, inspección, ejecución de medidas de apremio y seguridad, determinación de infracciones, sanciones administrativas, recursos administrativos y delitos en el ámbito de esta Ley.

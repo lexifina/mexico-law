@@ -9,8 +9,8 @@ IV. Dejar de pagar oportunamente las cuotas y derechos respectivos;
 V. No ejecutar adecuadamente las obras y trabajos autorizados;
 VI. Dañar ecosistemas vitales al agua como consecuencia de la disposición de materiales pétreos;
 VII. Transmitir los derechos del título sin permiso de "la Autoridad del Agua" o en contravención a lo dispuesto en esta Ley;
-VIII. Permitir a terceros en forma provisional la explotación de los materiales pétreos amparados por la concesión respectiva, sin mediar la transmisión definitiva de derechos, la modificación de las condiciones del título respectivo, o la autorización previa de "la Autoridad del Agua";
+VIII. Permitir a terceras personas en forma provisional la explotación de los materiales pétreos amparados por la concesión respectiva, la modificación de las condiciones del título respectivo, o la autorización previa de "la Autoridad del Agua";
 IX. Incumplir las medidas preventivas y correctivas que ordene "la Autoridad del Agua", y
 X. Las demás previstas en esta Ley, en sus reglamentos o en el propio título de concesión.
 Al extinguirse los títulos, por término de la concesión, o cuando se haya revocado el título, las obras e instalaciones adheridas de manera permanente al motivo de la concesión deberán ser removidas, sin perjuicio de que "la Autoridad del Agua" las considere de utilidad posterior, en cuyo caso se revertirán en su favor.
-De detectarse daños apreciables a taludes, cauces y otros elementos vinculados con la gestión del agua, a juicio de "la Autoridad del Agua", conforme a sus respectivas atribuciones, deberán repararse totalmente por los causantes, sin menoscabo de la aplicación de otras sanciones administrativas y penales que pudieran proceder conforme a la reglamentación que se expida al respecto.
+De detectarse daños apreciables a taludes, cauces y otros elementos vinculados con la gestión del agua, a juicio de "la Autoridad del Agua", conforme a sus respectivas atribuciones, deberán repararse totalmente por las personas causantes, sin menoscabo de la aplicación de otras sanciones administrativas y penales que pudieran proceder conforme a la reglamentación que se expida al respecto.

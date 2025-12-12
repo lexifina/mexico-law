@@ -1,0 +1,2 @@
+ARTÍCULO 82 BIS. "La Autoridad del Agua" promoverá la implementación de sistemas de captación de agua pluvial para uso personal, doméstico y agropecuario familiar, mismos que se sujetarán a los términos previstos en la Ley General de Aguas y las disposiciones aplicables.
+Los sistemas y obras de captación de agua pluvial que tengan un uso distinto al mencionado en el párrafo anterior, requerirán la autorización de "la Autoridad del Agua".

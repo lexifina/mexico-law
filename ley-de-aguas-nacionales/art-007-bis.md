@@ -1,7 +1,7 @@
 ARTÍCULO 7 BIS. Se declara de interés público:
 I. La cuenca conjuntamente con los acuíferos como la unidad territorial básica para la gestión integrada de los recursos hídricos;
 II. La descentralización y mejoramiento de la gestión de los recursos hídricos por cuenca hidrológica, a través de Organismos de Cuenca de índole gubernamental y de Consejos de Cuenca de composición mixta, con participación de los tres órdenes de gobierno, de los usuarios del agua y de las organizaciones de la sociedad en la toma de decisiones y asunción de compromisos;
-III. La descentralización y mejoramiento de la gestión de los recursos hídricos con la participación de los estados, del Distrito Federal y de los municipios;
+III. La descentralización y mejoramiento de la gestión de los recursos hídricos con la participación de los estados, de la Ciudad de México y de los municipios;
 IV. El mejoramiento permanente del conocimiento sobre la ocurrencia del agua en el ciclo hidrológico, en su explotación, uso o aprovechamiento y en su conservación en el territorio nacional, y en los conceptos y parámetros fundamentales para alcanzar la gestión integrada de los recursos hídricos, así como la realización periódica de inventarios de usos y usuarios, cuerpos de agua, infraestructura hidráulica y equipamiento diverso necesario para la gestión integrada de los recursos hídricos;
 V. La atención prioritaria de la problemática hídrica en las localidades, acuíferos, cuencas hidrológicas y regiones hidrológicas con escasez del recurso;
 VI. La prevención, conciliación, arbitraje, mitigación y solución de conflictos en materia del agua y su gestión;

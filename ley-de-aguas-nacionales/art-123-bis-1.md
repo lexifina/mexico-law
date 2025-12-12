@@ -1,1 +1,3 @@
-ARTÍCULO 123 BIS 1. En los casos en que se presuma la existencia de algún delito, "la Comisión" formulará la denuncia correspondiente ante el Ministerio Público.
+ARTÍCULO 123 BIS 1. En los casos en que se presuma la existencia de algún delito, "la Comisión" formulará la denuncia correspondiente ante el Ministerio Público que corresponda.
+"La Autoridad del Agua" debe proporcionar, en el ámbito de su competencia, los dictámenes técnicos o periciales que le solicite el Ministerio Público o las autoridades judiciales, con motivo de las denuncias presentadas.
+"La Autoridad del Agua" tendrá el carácter de víctima u ofendida en los procedimientos penales y juicios relacionados con delitos en contra de las aguas nacionales previstos en esta Ley, en la Ley General de Bienes Nacionales y en el Código Penal Federal.

@@ -1,4 +1,4 @@
-ARTÍCULO 21 BIS. El promovente deberá adjuntar a la solicitud a que se refiere el Artículo anterior, al menos los documentos siguientes:
+ARTÍCULO 21 BIS. La persona promovente deberá adjuntar a la solicitud a que se refiere el Artículo anterior, al menos los documentos siguientes:
 I. Los que acrediten la propiedad o posesión del inmueble en el que se localizará la extracción de aguas, así como los relativos a la propiedad o posesión de las superficies a beneficiar;
 II. El documento que acredite la constitución de las servidumbres que se requieran;
 III. La manifestación de impacto ambiental, cuando así se requiera conforme a la Ley General de Equilibrio Ecológico y Protección al Ambiente;
@@ -7,3 +7,4 @@ V. La memoria técnica con los planos correspondientes que contengan la descripc
 VI. La documentación técnica que soporte la solicitud en términos del volumen de consumo requerido, el uso inicial que se le dará al agua y las condiciones de cantidad y calidad de la descarga de aguas residuales respectivas, y
 VII. Un croquis que indique la ubicación del predio, con los puntos de referencia que permitan su localización y la del sitio donde se realizará la extracción de las aguas nacionales; así como los puntos donde efectuará la descarga.
 Los estudios y proyectos a que se refiere este Artículo, se sujetarán a las normas y especificaciones técnicas que en su caso emita "la Comisión".
+En caso de que la documentación exhibida sea incompleta o presente deficiencias, "la Autoridad del Agua" podrá requerir, por una sola ocasión a la persona solicitante para que la subsane, en los términos y plazos que disponga el reglamento de esta Ley. La ausencia total de la documentación señalada en este artículo o la falta de desahogo al requerimiento de información motivará el desechamiento de la solicitud.
