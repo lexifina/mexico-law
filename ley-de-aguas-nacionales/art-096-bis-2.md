@@ -4,5 +4,5 @@ II. Regulen y conduzcan el agua, para garantizar la disponibilidad y aprovechami
 III. Controlen, y sirvan para la defensa y protección de las aguas nacionales, así como aquellas que sean necesarias para prevenir inundaciones, sequías y otras situaciones excepcionales que afecten a los bienes de dominio público hidráulico; sin perjuicio de las competencias de los Gobiernos Estatales o Municipales;
 IV. Permitan el abastecimiento, potabilización y desalinización cuya realización afecte a dos o más estados;
 V. Tengan importancia estratégica en una región hidrológica por sus dimensiones o costo de inversión;
-VI. Sean necesarias para la ejecución de planes o programas nacionales distintos de los hídricos, pero que guarden relación con éstos, cuando la responsabilidad de las obras corresponda al Ejecutivo Federal, conforme a solicitud del estado o del Distrito Federal en cuyo territorio se ubique, y
+VI. Sean necesarias para la ejecución de planes o programas nacionales distintos de los hídricos, pero que guarden relación con éstos, cuando la responsabilidad de las obras corresponda al Ejecutivo Federal, conforme a solicitud del estado o de la Ciudad de México en cuyo territorio se ubique, y
 VII. Sean necesarias para el cumplimiento de esta Ley y sus reglamentos.

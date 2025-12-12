@@ -13,7 +13,7 @@ X. Desempeñar a solicitud de parte, funciones de arbitraje técnico y científi
 XI. Certificar los laboratorios de calidad del agua, los dispositivos para medición del agua en cantidad, y los equipos, instrumentos y enseres que faciliten la elevación de las eficiencias en la explotación, uso o aprovechamiento del agua, en términos de Ley;
 XII. Presidir el Consejo Científico y Tecnológico Nacional del sector agua, en cuya creación y funcionamiento intervendrán "la Secretaría", "la Comisión" y el Consejo Nacional de Ciencia y Tecnología;
 XIII. Promover la educación y la cultura en torno al agua que fomente en la sociedad la conciencia de que el líquido es un bien escaso que requiere del cuidado de su cantidad y calidad, así como de su aprovechamiento sustentable y de la mitigación de sus efectos indeseables, y
-XIV. Las demás que le confieran otros instrumentos jurídicos y el Titular de "la Secretaría" para el cumplimiento del objeto de esta Ley.
+XIV. Las demás que le confieran otros instrumentos jurídicos y la persona Titular de "la Secretaría" para el cumplimiento del objeto de esta Ley.
 En materia de investigación científica, desarrollo tecnológico, fortalecimiento de las capacidades institucionales y formación de recursos humanos para el sector agua, podrán participar las instituciones académicas y de investigación vinculadas con el tema de agua y su gestión.
 El Instituto se apegará a lo dispuesto en la presente Ley y en sus reglamentos en materia de descentralización del sector agua, y favorecerá la participación de instituciones académicas y de investigación del país en el cumplimiento de las atribuciones contenidas en este Artículo.
 Capítulo V BIS 3 Procuraduría Federal de Protección al Ambiente

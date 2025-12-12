@@ -1,0 +1,1 @@
+ARTÍCULO 84 BIS 3. "La Autoridad del Agua" fomentará el reúso de las aguas residuales tratadas y no tratadas en los términos establecidos en esta Ley, bajo los principios de sustentabilidad, sostenibilidad, protección al ambiente y responsabilidad hídrica.
