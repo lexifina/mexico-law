@@ -1,0 +1,1 @@
+Artículo 64 Quáter. Será responsable de injerencia sindical la persona servidora pública que, por sí o por terceros, incurra en las conductas previstas en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional o en las leyes equivalentes de las entidades federativas.
