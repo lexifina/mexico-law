@@ -1,0 +1,11 @@
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Ascensos de la Armada de México.
+Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2025
+Artículo Único.- Se reforman los artículos 1o; 2o; 6o; 9o; 13; 14, párrafo segundo; 15; 19; 20, párrafo primero y fracción IV; 21; 32, fracción III; 33, fracción III; 34, párrafo primero y fracción II; 37, párrafo primero; 43; 44 Bis, párrafos primero y cuarto; 47; 48; 52; 54; 55 y 56 y se adiciona al artículo 54, un párrafo segundo, de la Ley de Ascensos de la Armada de México, para quedar como sigue:
+...
+Transitorios
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo.- El Ejecutivo Federal expedirá las modificaciones del Reglamento de la presente Ley y demás disposiciones administrativas que resulten necesarias para el cumplimiento del presente Decreto, en un plazo que no excederá de 180 días naturales, contados a partir del día siguiente de su publicación.
+Tercero.- Las erogaciones que deriven por la implementación del presente Decreto se cubrirán con cargo al presupuesto aprobado de la Secretaría de Marina, por lo que no se autorizarán ampliaciones líquidas de recursos a su presupuesto en el presente ejercicio fiscal ni en años subsecuentes.
+Cuarto.- Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, relacionados con las modificaciones a los preceptos legales contemplados en la misma, se resolverán de conformidad con las disposiciones que les dieron origen.
+Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Alan Sahir Márquez Becerra, Secretario.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de diciembre de 2025.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
