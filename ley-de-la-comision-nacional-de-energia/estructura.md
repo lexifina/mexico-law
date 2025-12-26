@@ -9,7 +9,6 @@ Atribuciones de la Comisión Nacional de Energía
 Capítulo II
 Coordinación con otras autoridades
 TÍTULO TERCERO
-DE LA ORGANIZACIÓN, INTEGRACIÓN Y FUNCIONAMIENTO DE LA COMISIÓN
 Capítulo I
 De la organización e integración de la Comisión
 Capítulo II
