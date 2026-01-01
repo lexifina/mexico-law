@@ -1,0 +1,1 @@
+ARTICULO 49 bis. Las resoluciones o criterios anticipados previstos en los tratados internacionales de los que México sea Parte, se tramitarán ante el Servicio de Administración Tributaria, cumpliendo con los requisitos y condiciones que se establezcan mediante reglas.

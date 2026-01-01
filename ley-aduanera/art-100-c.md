@@ -2,4 +2,5 @@ ARTICULO 100-C. El Servicio de Administración Tributaria cancelará la autoriza
 a) Cuando se dejen de cumplir los requisitos previstos para el otorgamiento de la autorización o de su prórroga.
 b) Cuando se incumpla con las obligaciones previstas en esta Ley o en la autorización.
 c) Cuando incurran en alguna causal de cancelación establecida en esta Ley o en la autorización.
+Cuando la cancelación de la autorización a que se refiere el artículo 100-A derive de alguna condena en sentencia definitiva por haber participado en la comisión de delitos fiscales, o por la imposición de sanciones que correspondan a infracciones relacionadas con la entrada y la salida de mercancías del territorio nacional en perjuicio del Fisco Federal; en ningún caso procederá la autorización de una nueva inscripción.
 La autorización podrá ser cancelada a petición de la empresa autorizada, sin que sea necesario llevar a cabo el procedimiento previsto en el artículo 144-A de esta Ley.
