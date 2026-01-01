@@ -6,4 +6,5 @@ IV. En el supuesto previsto en el artículo 178, fracción IV de esta Ley, excep
 V. Los vehículos, cuando no se haya cumplido con las regulaciones y restricciones no arancelarias.
 VI. En los casos a que se refiere el artículo 182, fracciones I, incisos d) y e), III, excepto yates y veleros turísticos y IV de esta Ley.
 VII. En el supuesto a que se refiere el artículo 183, fracción III de esta Ley.
+El importador, propietario o poseedor de la mercancía que pasará a propiedad del Fisco Federal deberá ponerla a disposición de la autoridad aduanera, en la fecha, hora y lugar que dicha autoridad le señale.
 Cuando existiere imposibilidad material para que las mercancías pasen a propiedad del Fisco Federal, el infractor deberá pagar el importe de su valor comercial en el territorio nacional al momento de la aplicación de las sanciones que correspondan.
