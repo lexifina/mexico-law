@@ -1,0 +1,1 @@
+ARTICULO 184-D. Con independencia de las demás sanciones que procedan, se impondrá al agente aduanal una multa de $69,900.00 a $109,870.00 cuando no se cumpla con la obligación establecida en el artículo 162, fracción XVI de esta Ley.
