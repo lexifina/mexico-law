@@ -1,1 +1,1 @@
-Artículo 53-G. Por el estudio y trámite de cada solicitud de resolución relativa a los precios, montos de contraprestaciones o márgenes de utilidad, en operaciones celebradas entre partes relacionadas, se pagarán derechos conforme a la cuota de ... $310,246.79
+Artículo 53-G. Por el estudio y trámite de cada solicitud de resolución relativa a los precios, montos de contraprestaciones o márgenes de utilidad, en operaciones celebradas entre partes relacionadas, se pagarán derechos conforme a la cuota de ... $336,624.17

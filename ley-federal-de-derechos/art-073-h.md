@@ -1,1 +1,1 @@
-Artículo 73-H. Por la recepción y estudio de la solicitud, dictaminación y, en su caso, la autorización de prórroga de etiquetado por Inexactitud de Datos, se pagarán los derechos conforme a la cuota de: ... $11,551.40
+Artículo 73-H. Por la recepción y estudio de la solicitud, dictaminación y, en su caso, la autorización de prórroga de etiquetado por Inexactitud de Datos, se pagarán los derechos conforme a la cuota de: ... $12,533.50

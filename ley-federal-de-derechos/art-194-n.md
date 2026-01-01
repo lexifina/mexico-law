@@ -1,15 +1,15 @@
 Artículo 194-N. (Se deroga).
-Artículo 194-N-1. Por la expedición de los certificados de inscripción o de constancias del Registro Forestal Nacional, se pagarán derechos, por cada uno, conforme a la cuota de ... $594.86
+Artículo 194-N-1. Por la expedición de los certificados de inscripción o de constancias del Registro Forestal Nacional, se pagarán derechos, por cada uno, conforme a la cuota de ... $645.44
 Artículo 194-N-2.- Por los servicios que presta la Secretaría de Medio Ambiente y Recursos Naturales, en materia de sanidad forestal, se pagarán derechos conforme a las siguientes cuotas:
-I. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de cada hoja de requisitos fitosanitarios para la importación de materias primas, productos y subproductos forestales ... $1,784.61
-II. Por la recepción, evaluación de la solicitud, verificación de la calidad fitosanitaria de los embarques y, en su caso, la expedición de cada certificado fitosanitario internacional para la exportación o la reexportación de materias primas o productos forestales ... $1,427.70
-III. Por la recepción, evaluación de la solicitud y, en su caso, la emisión del dictamen técnico de determinación taxonómica de muestras entomológicas o patológicas detectadas en productos y/o subproductos forestales de importación... $2,022.56
-Artículo 194-N-3.- Por la recepción y evaluación de la solicitud y, en su caso, la autorización para el funcionamiento de centros de almacenamiento y transformación de materias primas forestales, se pagará el derecho conforme a la cuota de ... $2,617.44
+I. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de cada hoja de requisitos fitosanitarios para la importación de materias primas, productos y subproductos forestales ... $1,936.34
+II. Por la recepción, evaluación de la solicitud, verificación de la calidad fitosanitaria de los embarques y, en su caso, la expedición de cada certificado fitosanitario internacional para la exportación o la reexportación de materias primas o productos forestales ... $1,549.09
+III. Por la recepción, evaluación de la solicitud y, en su caso, la emisión del dictamen técnico de determinación taxonómica de muestras entomológicas o patológicas detectadas en productos y/o subproductos forestales de importación... $2,194.52
+Artículo 194-N-3.- Por la recepción y evaluación de la solicitud y, en su caso, la autorización para el funcionamiento de centros de almacenamiento y transformación de materias primas forestales, se pagará el derecho conforme a la cuota de ... $2,839.97
 Artículo 194-N-4. Por la recepción, evaluación y, en su caso, la autorización para la colecta y uso de recursos biológicos y genéticos forestales, se pagarán derechos conforme a las siguientes cuotas:
-I. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de la autorización para la colecta y uso de recursos biológicos forestales, con fines de utilización en biotecnología ... $7,412.55
-II. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de la autorización para la colecta y uso de recursos biológicos forestales, con fines de utilización en investigación ... $869.60
-III. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de la autorización para la colecta y uso de recursos genéticos forestales, con fines comerciales ... $7,412.55
-IV. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de la autorización para la colecta de recursos biológicos forestales, con fines de investigación para la generación de información científica básica ... $869.60
-V. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de la autorización para la colecta y uso de recursos genéticos forestales, con fines de investigación ... $869.60
-VI. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de la autorización para la colecta de recursos genéticos forestales, con fines de investigación para la generación de información científica básica ... $869.60
+I. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de la autorización para la colecta y uso de recursos biológicos forestales, con fines de utilización en biotecnología ... $8,042.77
+II. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de la autorización para la colecta y uso de recursos biológicos forestales, con fines de utilización en investigación ... $943.53
+III. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de la autorización para la colecta y uso de recursos genéticos forestales, con fines comerciales ... $8,042.77
+IV. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de la autorización para la colecta de recursos biológicos forestales, con fines de investigación para la generación de información científica básica ... $943.53
+V. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de la autorización para la colecta y uso de recursos genéticos forestales, con fines de investigación ... $943.53
+VI. Por la recepción, evaluación de la solicitud y, en su caso, la expedición de la autorización para la colecta de recursos genéticos forestales, con fines de investigación para la generación de información científica básica ... $943.53
 Artículo 194-N-5. (Se deroga).

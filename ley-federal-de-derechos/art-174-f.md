@@ -1,3 +1,3 @@
 Artículo 174-F. Por el estudio de la solicitud y, en su caso, expedición de autorización o prórroga para instalar, operar o explotar estaciones terrenas para transmitir señales satelitales, se pagarán derechos conforme a las siguientes cuotas:
-I. Por la expedición de la autorización ... $5,178.87
-II. Por la prórroga ... $3,968.84
+I. Por la expedición de la autorización ... $5,619.18
+II. Por la prórroga ... $4,306.28
