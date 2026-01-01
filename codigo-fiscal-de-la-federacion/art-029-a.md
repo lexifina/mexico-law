@@ -15,6 +15,7 @@ e) Los que expidan los fabricantes, ensambladores, comercializadores e importado
 El valor del vehículo enajenado deberá estar expresado en el comprobante correspondiente en moneda nacional.
 Para efectos de esta fracción se entiende por automóvil la definición contenida en el artículo 5 de la Ley Federal del Impuesto sobre Automóviles Nuevos.
 Cuando los bienes o las mercancías no puedan ser identificados individualmente, se hará el señalamiento expreso de tal situación.
+f) Los que expidan los contribuyentes que distribuyan o enajenen hidrocarburos o petrolíferos, deberán contener el número de permiso vigente concedido por la Comisión Nacional de Energía.
 VI. El valor unitario consignado en número.
 Los comprobantes que se expidan en los supuestos que a continuación se indican, deberán cumplir adicionalmente con lo que en cada caso se especifica:
 a) Los que expidan los contribuyentes que enajenen lentes ópticos graduados, deberán separar el monto que corresponda por dicho concepto.
@@ -29,10 +30,12 @@ c) Señalar la forma en que se realizó el pago, ya sea en efectivo, transferenc
 VIII. Tratándose de mercancías de importación:
 a) El número y fecha del documento aduanero, tratándose de ventas de primera mano.
 b) En importaciones efectuadas a favor de un tercero, el número y fecha del documento aduanero, los conceptos y montos pagados por el contribuyente directamente al proveedor extranjero y los importes de las contribuciones pagadas con motivo de la importación.
-IX. Los contenidos en las disposiciones fiscales, que sean requeridos y dé a conocer el Servicio de Administración Tributaria, mediante reglas de carácter general.
+IX. Amparar operaciones existentes, verdaderas o actos jurídicos reales.
+Los comprobantes fiscales que no cumplan con el requisito establecido en esta fracción, se consideran falsos para efectos de este Código.
+X. Los contenidos en las disposiciones fiscales, que sean requeridos y dé a conocer el Servicio de Administración Tributaria, mediante reglas de carácter general.
 Los comprobantes fiscales digitales por Internet, incluyendo los que se generen para efectos de amparar la retención de contribuciones deberán contener los requisitos que determine el Servicio de Administración Tributaria mediante reglas de carácter general.
 Las cantidades que estén amparadas en los comprobantes fiscales que no reúnan algún requisito de los establecidos en esta disposición o en el artículo 29 de este Código, según sea el caso, o cuando los datos contenidos en los mismos se plasmen en forma distinta a lo señalado por las disposiciones fiscales, no podrán deducirse o acreditarse fiscalmente.
-Salvo que las disposiciones fiscales prevean un plazo menor, los comprobantes fiscales digitales por Internet sólo podrán cancelarse en el ejercicio en el que se expidan y siempre que la persona a favor de quien se expidan acepte su cancelación.
+Los comprobantes fiscales digitales por Internet se podrán cancelar a más tardar en el mes en el cual se deba presentar la declaración anual del impuesto sobre la renta que corresponda al ejercicio fiscal en el cual se expidió el referido comprobante y siempre que la persona a favor de quien se expidan acepte su cancelación.
 El Servicio de Administración Tributaria, mediante reglas de carácter general, establecerá la forma y los medios en los que se deberá manifestar la aceptación a que se refiere el párrafo anterior, así como las características de los comprobantes fiscales digitales por Internet o documentos digitales a que se refiere el artículo 29, primer y último párrafo de este Código en el caso de operaciones realizadas con residentes en el extranjero sin establecimiento permanente en México.
 Cuando los contribuyentes cancelen comprobantes fiscales digitales por Internet que amparen ingresos, deberán justificar y soportar documentalmente el motivo de dicha cancelación, misma que podrá ser verificada por las autoridades fiscales en el ejercicio de las facultades establecidas en este Código.
 El Servicio de Administración Tributaria, mediante reglas de carácter general, podrá establecer los casos en los que los contribuyentes deban emitir el comprobante fiscal digital por Internet en un plazo distinto al señalado en el Reglamento de este Código.
