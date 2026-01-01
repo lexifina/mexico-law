@@ -102,7 +102,7 @@ Otorgamiento de permisos
 Sección Novena
 Otros Servicios
 CAPÍTULO IX
-Del Instituto Federal de Telecomunicaciones
+De la Comisión Reguladora de Telecomunicaciones
 CAPITULO X
 De la Secretaría de Educación Pública
 Sección Primera

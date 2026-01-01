@@ -1,1 +1,2 @@
-Artículo 53-L.- Por la obtención de precintos que se adhieran a los envases que contengan bebidas alcohólicas a granel a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de precintos conforme a la cuota de ... $2.17 por cada uno.
+Artículo 53-L.- Por la obtención de precintos que se adhieran a los envases que contengan bebidas alcohólicas a granel a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de precintos conforme a la cuota de ... $2.36 por cada uno.
+El 50% de los ingresos derivados de los derechos establecidos en este artículo, se destinarán al Servicio de Administración Tributaria para cubrir el pago de producción de dichos precintos.

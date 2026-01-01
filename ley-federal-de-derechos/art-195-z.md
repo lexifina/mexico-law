@@ -1,353 +1,354 @@
 Artículo 195-Z. Por la solicitud, análisis y, en su caso, resolución de trámites a cargo de la Secretaría de Marina en el ejercicio de la Autoridad Marítima Nacional, se pagarán derechos conforme a las siguientes cuotas:
 I. Por el abanderamiento o dimisión de bandera de embarcaciones o artefactos navales, tomando en cuenta la unidad de arqueo bruto:
-a). Hasta de 50 unidades de arqueo bruto ... $1,527.46
-b). De más de 50 hasta 500 unidades de arqueo bruto ... $1,828.53
-c). De más de 500 hasta 5,000 unidades de arqueo bruto ... $3,447.06
-d). De más de 5,000 hasta 15,000 unidades de arqueo bruto ... $4,749.11
-e). De 15,000.01 hasta 25,000 unidades de arqueo bruto ... $11,042.58
-f). De 25,000.01 hasta 50,000 unidades de arqueo bruto ... $15,944.56
-g). De más de 50,000.01 unidades de arqueo bruto ... $17,976.37
+a). Hasta de 50 unidades de arqueo bruto ... $1,657.33
+b). De más de 50 hasta 500 unidades de arqueo bruto ... $1,984.00
+c). De más de 500 hasta 5,000 unidades de arqueo bruto ... $3,740.13
+d). De más de 5,000 hasta 15,000 unidades de arqueo bruto ... $5,152.88
+e). De 15,000.01 hasta 25,000 unidades de arqueo bruto ... $11,981.42
+f). De 25,000.01 hasta 50,000 unidades de arqueo bruto ... $17,300.17
+g). De más de 50,000.01 unidades de arqueo bruto ... $19,504.74
 II. Por la expedición del certificado de matrícula para embarcaciones o artefactos navales:
 a). Tratándose de embarcaciones para el servicio de recreo o deportivas:
-1. Hasta de 5 unidades de arqueo bruto ... $1,331.02
-2. De 5.01 hasta 10 unidades de arqueo bruto ... $1,539.93
-3. De 10.01 hasta 20 unidades de arqueo bruto ... $1,904.81
+1. Hasta de 5 unidades de arqueo bruto ... $1,444.19
+2. De 5.01 hasta 10 unidades de arqueo bruto ... $1,670.85
+3. De 10.01 hasta 20 unidades de arqueo bruto ... $2,066.76
 b). Embarcaciones para navegación interior de carga, pasajeros o mixto (carga y pasaje):
-1. Hasta de 5 unidades de arqueo bruto ... $1,331.02
-2. De 5.01 hasta 10 unidades de arqueo bruto ... $1,539.93
-3. De 10.01 hasta 20 unidades de arqueo bruto ... $1,748.87
+1. Hasta de 5 unidades de arqueo bruto ... $1,444.19
+2. De 5.01 hasta 10 unidades de arqueo bruto ... $1,670.85
+3. De 10.01 hasta 20 unidades de arqueo bruto ... $1,897.56
 c). Tratándose de embarcaciones para remolque, dragado, salvamento y demás relacionados con las comunicaciones por agua o con las obras de los puertos:
-1. Hasta de 5 unidades de arqueo bruto ... $1,169.67
-2. De 5.01 hasta 10 unidades de arqueo bruto ... $1,539.93
-3. De 10.01 hasta 20 unidades de arqueo bruto ... $1,748.87
+1. Hasta de 5 unidades de arqueo bruto ... $1,269.11
+2. De 5.01 hasta 10 unidades de arqueo bruto ... $1,670.85
+3. De 10.01 hasta 20 unidades de arqueo bruto ... $1,897.56
 d). Tratándose de embarcaciones pesqueras en cualquier clase de pesca:
-1. Hasta de 5 unidades de arqueo bruto ... $1,196.38
-2. De 5.01 hasta 10 unidades de arqueo bruto ... $1,582.11
-3. De 10.01 hasta 20 unidades de arqueo bruto ... $1,844.74
+1. Hasta de 5 unidades de arqueo bruto ... $1,298.10
+2. De 5.01 hasta 10 unidades de arqueo bruto ... $1,716.62
+3. De 10.01 hasta 20 unidades de arqueo bruto ... $2,001.58
 e). Para embarcaciones que efectúen en cualquier tipo de servicio, navegación de altura, cabotaje e interior, o para artefactos navales que efectúen cualquier tipo de servicio:
-1. De 20.01 hasta 100 unidades de arqueo bruto ... $1,851.25
-2. De 100.01 hasta 500 unidades de arqueo bruto ... $2,164.15
-3. De 500.01 hasta 5,000 unidades de arqueo bruto ... $2,550.85
-4. De 5,000.01 hasta 15,000 unidades de arqueo bruto ... $2,937.60
-5. De 15,000.01 hasta 25,000 unidades de arqueo bruto ... $8,435.75
-6. De 25,000.01 hasta 50,000 unidades de arqueo bruto ... $11,809.40
-7. De más de 50,000.01 unidades de arqueo bruto ... $13,498.08
+1. De 20.01 hasta 100 unidades de arqueo bruto ... $2,008.65
+2. De 100.01 hasta 500 unidades de arqueo bruto ... $2,348.14
+3. De 500.01 hasta 5,000 unidades de arqueo bruto ... $2,767.73
+4. De 5,000.01 hasta 15,000 unidades de arqueo bruto ... $3,187.36
+5. De 15,000.01 hasta 25,000 unidades de arqueo bruto ... $9,152.96
+6. De 25,000.01 hasta 50,000 unidades de arqueo bruto ... $12,813.45
+7. De más de 50,000.01 unidades de arqueo bruto ... $14,645.69
 f). Para el caso de las embarcaciones sin cubierta corrida, destinadas a la pesca ribereña, se pagarán las cuotas correspondientes a su eslora:
-1. De hasta 5 metros de eslora ... $136.43
-2. De 5.01 hasta 10 metros de eslora ... $347.30
+1. De hasta 5 metros de eslora ... $148.03
+2. De 5.01 hasta 10 metros de eslora ... $376.83
 III. Por la reposición o modificación del certificado de matrícula por cambio de características, cambio de nombre de la embarcación o artefacto naval, cambio de propietario, cambio del tipo de navegación o cambio de puerto:
 a). Tratándose de embarcaciones para el servicio de recreo o deportivas:
-1. Hasta de 5 unidades de arqueo bruto ... $1,149.06
-2. De 5.01 hasta 10 unidades de arqueo bruto ... $1,547.64
-3. De 10.01 hasta 20 unidades de arqueo bruto ... $1,902.31
+1. Hasta de 5 unidades de arqueo bruto ... $1,246.76
+2. De 5.01 hasta 10 unidades de arqueo bruto ... $1,679.22
+3. De 10.01 hasta 20 unidades de arqueo bruto ... $2,064.04
 b). Embarcaciones para navegación interior de carga, pasajeros o mixto (carga y pasaje):
-1. Hasta de 5 unidades de arqueo bruto ... $1,136.60
-2. De 5.01 hasta 10 unidades de arqueo bruto ... $1,153.75
-3. De 10.01 hasta 20 unidades de arqueo bruto ... $1,613.96
+1. Hasta de 5 unidades de arqueo bruto ... $1,233.23
+2. De 5.01 hasta 10 unidades de arqueo bruto ... $1,251.84
+3. De 10.01 hasta 20 unidades de arqueo bruto ... $1,751.18
 c). Tratándose de embarcaciones para remolque, dragado, salvamento y demás relacionados con las comunicaciones por agua o con las obras de los puertos:
-1. Hasta de 5 unidades de arqueo bruto ... $1,149.06
-2. De 5.01 hasta 10 unidades de arqueo bruto ... $1,192.74
-3. De 10.01 hasta 20 unidades de arqueo bruto ... $1,484.15
+1. Hasta de 5 unidades de arqueo bruto ... $1,246.76
+2. De 5.01 hasta 10 unidades de arqueo bruto ... $1,294.15
+3. De 10.01 hasta 20 unidades de arqueo bruto ... $1,610.33
 d). Tratándose de embarcaciones pesqueras en cualquier clase de pesca:
-1. Hasta de 5 unidades de arqueo bruto ... $1,102.42
-2. De 5.01 hasta 10 unidades de arqueo bruto ... $1,149.06
-3. De 10.01 hasta 20 unidades de arqueo bruto ... $1,613.96
+1. Hasta de 5 unidades de arqueo bruto ... $1,196.15
+2. De 5.01 hasta 10 unidades de arqueo bruto ... $1,246.76
+3. De 10.01 hasta 20 unidades de arqueo bruto ... $1,751.18
 e). Para embarcaciones o artefactos navales que efectúen cualquier tipo de servicio y/o cualquier tipo de navegación:
-1. De 20.01 hasta 100 unidades de arqueo bruto ... $2,098.49
-2. De 100.01 hasta 500 unidades de arqueo bruto ... $2,260.50
-3. De 500.01 hasta 5,000 unidades de arqueo bruto ... $2,456.28
-4. De 5,000.01 hasta 15,000 unidades de arqueo bruto ... $3,123.51
-5. De 15,000.01 hasta 25,000 unidades de arqueo bruto ... $8,131.89
-6. De 25,000.01 hasta 50,000 unidades de arqueo bruto ... $11,114.58
-7. De más de 50,000.01 unidades de arqueo bruto ... $12,653.48
+1. De 20.01 hasta 100 unidades de arqueo bruto ... $2,276.90
+2. De 100.01 hasta 500 unidades de arqueo bruto ... $2,452.69
+3. De 500.01 hasta 5,000 unidades de arqueo bruto ... $2,665.12
+4. De 5,000.01 hasta 15,000 unidades de arqueo bruto ... $3,389.08
+5. De 15,000.01 hasta 25,000 unidades de arqueo bruto ... $8,823.27
+6. De 25,000.01 hasta 50,000 unidades de arqueo bruto ... $12,059.55
+7. De más de 50,000.01 unidades de arqueo bruto ... $13,729.29
 f). Para el caso de las embarcaciones sin cubierta corrida, destinadas a la pesca ribereña, se pagarán las cuotas correspondientes a su eslora:
-1. De hasta 5 metros de eslora ... $136.43
-2. De 5.01 hasta 10 metros de eslora ... $347.30
+1. De hasta 5 metros de eslora ... $148.03
+2. De 5.01 hasta 10 metros de eslora ... $376.83
 IV. Por expedición de pasavantes, se cobrarán las siguientes cuotas por unidades de arqueo bruto:
-a). Hasta de 5 unidades de arqueo bruto ... $181.55
-b). De más de 5 hasta 10 unidades de arqueo bruto ... $318.23
-c). De más de 10 hasta 20 unidades de arqueo bruto ... $454.77
-d). De 20.01 hasta 100 unidades de arqueo bruto ... $1,138.30
-e). De 100.01 hasta 500 unidades de arqueo bruto ... $1,366.01
-f). De 500.01 hasta 1,000 unidades de arqueo bruto ... $1,821.52
-g). De 1,000.01 hasta 5,000 unidades de arqueo bruto ... $3,188.34
-h). De 5,000.01 hasta 15,000 unidades de arqueo bruto ... $4,099.38
-i). De 15,000.01 hasta 25,000 unidades de arqueo bruto ... $5,466.27
-j). De 25,000.01 hasta 50,000 unidades de arqueo bruto ... $6,833.06
-k). De más de 50,000.01 unidades de arqueo bruto ... $9,111.00
+a). Hasta de 5 unidades de arqueo bruto ... $196.98
+b). De más de 5 hasta 10 unidades de arqueo bruto ... $345.29
+c). De más de 10 hasta 20 unidades de arqueo bruto ... $493.44
+d). De 20.01 hasta 100 unidades de arqueo bruto ... $1,235.08
+e). De 100.01 hasta 500 unidades de arqueo bruto ... $1,482.15
+f). De 500.01 hasta 1,000 unidades de arqueo bruto ... $1,976.39
+g). De 1,000.01 hasta 5,000 unidades de arqueo bruto ... $3,459.41
+h). De 5,000.01 hasta 15,000 unidades de arqueo bruto ... $4,447.91
+i). De 15,000.01 hasta 25,000 unidades de arqueo bruto ... $5,931.02
+j). De 25,000.01 hasta 50,000 unidades de arqueo bruto ... $7,414.01
+k). De más de 50,000.01 unidades de arqueo bruto ... $9,885.62
 V. Por la revisión de los cálculos de arqueo y de francobordo y, en su caso, por la expedición de certificados, por cada unidad de arqueo bruto de conformidad con lo siguiente:
-a). Hasta 1,000 unidades de arqueo bruto ... $5.87 por unidad
-b). De más de 1,000 hasta 5,000 unidades de arqueo bruto, por las primeras 1,000, la cuota señalada en el inciso anterior, y por cada una o fracción de las excedentes ... $3.06 por unidad
-c). De más de 5,000 hasta 15,000 unidades de arqueo bruto, por las primeras 5,000, la cuota señalada en el inciso anterior y por cada una o fracción de las excedentes ... $2.74 por unidad
-d). De más de 15,000 unidades de arqueo bruto, por las primeras 15,000, la cuota señalada en el inciso anterior y por cada una o fracción de las excedentes ... $2.42 por unidad
-VI. Por la expedición de autorización para la extracción, remoción o reflotación de embarcaciones, aeronaves o artefactos navales ... $7,106.13
-VII. Por la autorización para el desguace de embarcaciones o artefactos navales ... $9,607.26
-VIII. Por autorizar el embarque de técnicos extranjeros en embarcaciones y artefactos navales con permiso o autorización para operar en las zonas marinas mexicanas, por cada técnico ... $1,613.19
-IX. Autorización para realizar regatas o competencias deportivas náuticas ... $1,684.05
-X. Autorización de amarre temporal de embarcaciones y artefactos navales ... $1,690.96
-XI. Por la modificación o reposición del certificado de arqueo o francobordo ... $2,050.53
+a). Hasta 1,000 unidades de arqueo bruto ... $6.37 por unidad
+b). De más de 1,000 hasta 5,000 unidades de arqueo bruto, por las primeras 1,000, la cuota señalada en el inciso anterior, y por cada una o fracción de las excedentes ... $3.32 por unidad
+c). De más de 5,000 hasta 15,000 unidades de arqueo bruto, por las primeras 5,000, la cuota señalada en el inciso anterior y por cada una o fracción de las excedentes ... $2.97 por unidad
+d). De más de 15,000 unidades de arqueo bruto, por las primeras 15,000, la cuota señalada en el inciso anterior y por cada una o fracción de las excedentes ... $2.63 por unidad
+VI. Por la expedición de autorización para la extracción, remoción o reflotación de embarcaciones, aeronaves o artefactos navales ... $7,710.30
+VII. Por la autorización para el desguace de embarcaciones o artefactos navales ... $10,424.08
+VIII. Por autorizar el embarque de técnicos extranjeros en embarcaciones y artefactos navales con permiso o autorización para operar en las zonas marinas mexicanas, por cada técnico ... $1,750.35
+IX. Autorización para realizar regatas o competencias deportivas náuticas ... $1,827.23
+X. Autorización de amarre temporal de embarcaciones y artefactos navales ... $1,834.73
+XI. Por la modificación o reposición del certificado de arqueo o francobordo ... $2,224.86
 No pagarán los derechos a que se refiere este artículo, las embarcaciones o artefactos navales siguientes:
 I. Las dedicadas exclusivamente a fines humanitarios o científicos, y
 II. Las pertenecientes al Gobierno Federal, que estén dedicadas a servicios oficiales.
 Artículo 195-Z-1. Por la solicitud, análisis y, en su caso, por el abanderamiento, dimisión de bandera, expedición de certificado de matrícula, reposición o modificación del certificado de matrícula de una unidad fija mar adentro, se tomará en cuenta su peso en toneladas:
-I. Hasta 5,000 toneladas ... $1,768.53
-II. De más de 5,000 hasta 10,000 toneladas ... $2,202.32
-III. De más de 10,000 hasta 20,000 toneladas ... $2,411.01
-IV. De más de 20,000 hasta 30,000 toneladas ... $2,925.00
-V. De más de 30,000 hasta 40,000 toneladas ... $7,952.82
-VI. De más de 40,000 hasta 50,000 toneladas ... $11,036.77
-VII. De más de 50,000 toneladas ... $12,825.85
+I. Hasta 5,000 toneladas ... $1,918.89
+II. De más de 5,000 hasta 10,000 toneladas ... $2,389.57
+III. De más de 10,000 hasta 20,000 toneladas ... $2,616.00
+IV. De más de 20,000 hasta 30,000 toneladas ... $3,173.69
+V. De más de 30,000 hasta 40,000 toneladas ... $8,628.98
+VI. De más de 40,000 hasta 50,000 toneladas ... $11,975.12
+VII. De más de 50,000 toneladas ... $13,916.31
 Artículo 195-Z-2. Por la solicitud, análisis y, en su caso, expedición de permisos, o la renovación de éstos, para la explotación de embarcaciones, se pagará anualmente el derecho por cada embarcación conforme a las cuotas siguientes:
 I. Transporte de pasajeros para embarcaciones menores en navegación interior:
-a). Embarcaciones cuya capacidad sea hasta 3.5 unidades de arqueo bruto ... $1,038.00
-b). Embarcaciones mayores a 3.5 y menores de 500 unidades de arqueo bruto ... $2,076.01
+a). Embarcaciones cuya capacidad sea hasta 3.5 unidades de arqueo bruto ... $1,126.26
+b). Embarcaciones mayores a 3.5 y menores de 500 unidades de arqueo bruto ... $2,252.51
 II. Turismo náutico:
-a). Embarcaciones cuya capacidad sea hasta 3.5 unidades de arqueo bruto ... $2,201.33
-b). Embarcaciones mayores a 3.5 y menores de 500 unidades de arqueo bruto ... $5,793.38
-c). Embarcaciones de 500 o más unidades de arqueo bruto ... $7,742.92
-Artículo 195-Z-3. Por la solicitud, análisis y, en su caso, expedición del permiso para la prestación de servicios en navegación interior, en el que se incluyan hasta cinco embarcaciones, se pagará la cuota anual de ... $5,713.39
+a). Embarcaciones cuya capacidad sea hasta 3.5 unidades de arqueo bruto ... $2,388.49
+b). Embarcaciones mayores a 3.5 y menores de 500 unidades de arqueo bruto ... $6,285.94
+c). Embarcaciones de 500 o más unidades de arqueo bruto ... $8,401.23
+Artículo 195-Z-3. Por la solicitud, análisis y, en su caso, expedición del permiso para la prestación de servicios en navegación interior, en el que se incluyan hasta cinco embarcaciones, se pagará la cuota anual de ... $6,199.15
 Tratándose de:
 I. Servicio de transporte marítimo de pasajeros con embarcaciones de hasta de 3.5 unidades de arqueo bruto.
-II. Servicio de turismo náutico, con embarcaciones de recreo o deportivas, tales como motos acuáticas, kayaks, botes de remos y otras de hasta 3 metros de eslora.
+II. Servicio de turismo náutico, con embarcaciones de recreo o deportivas tales como motos acuáticas, kayaks, botes de remos y otras de hasta 5 metros de eslora.
 Artículo 195-Z-4. Por el reconocimiento y, en su caso, expedición de certificados o revalidación anual de certificados de seguridad para salvaguardar la vida humana en el mar y prevenir la contaminación, se pagará conforme a las siguientes cuotas:
 I. Por el reconocimiento de embarcaciones o artefactos navales:
-a). Hasta 10 unidades de arqueo bruto ... $128.04
-b). De más de 10 y hasta 20 unidades de arqueo bruto ... $585.35
-c). De más de 20 y hasta 50 unidades de arqueo bruto ... $1,022.16
-d). De más de 50 y hasta 75 unidades de arqueo bruto ... $3,658.65
-e). De más de 75 y hasta 100 unidades de arqueo bruto ... $4,215.85
-f). De más de 100 y hasta 200 unidades de arqueo bruto ... $5,617.26
-g). De más de 200 y hasta 300 unidades de arqueo bruto ... $6,963.11
-h). De más de 300 y hasta 500 unidades de arqueo bruto ... $9,932.12
-i). De más de 500 y hasta 1,000 unidades de arqueo bruto ... $13,329.18
-j). De más de 1,000 y hasta 2,000 unidades de arqueo bruto ... $15,837.14
-k). De más de 2,000 unidades de arqueo brutos, por las primeras 2,000 la cuota señalada en el inciso anterior, y por cada una o fracción de las excedentes ... $3.94
+a). Hasta 10 unidades de arqueo bruto ... $138.92
+b). De más de 10 y hasta 20 unidades de arqueo bruto ... $635.11
+c). De más de 20 y hasta 50 unidades de arqueo bruto ... $1,109.07
+d). De más de 50 y hasta 75 unidades de arqueo bruto ... $3,969.71
+e). De más de 75 y hasta 100 unidades de arqueo bruto ... $4,574.28
+f). De más de 100 y hasta 200 unidades de arqueo bruto ... $6,094.84
+g). De más de 200 y hasta 300 unidades de arqueo bruto ... $7,555.12
+h). De más de 300 y hasta 500 unidades de arqueo bruto ... $10,776.56
+i). De más de 500 y hasta 1,000 unidades de arqueo bruto ... $14,462.43
+j). De más de 1,000 y hasta 2,000 unidades de arqueo bruto ... $17,183.63
+k). De más de 2,000 unidades de arqueo brutos, por las primeras 2,000 la cuota señalada en el inciso anterior, y por cada una o fracción de las excedentes ... $4.28
 Si se efectúa un segundo o subsecuente reconocimiento, se pagará lo que resulte de aplicar el factor de 0.15 a la cuota correspondiente.
 II. Por la revisión y, en su caso, aprobación de especificaciones técnicas, planos y proyectos de construcción:
-a). Hasta de 100 unidades de arqueo bruto ... $4,334.42
-b). De más de 100 hasta 500 unidades de arqueo bruto ... $5,440.20
-c). De más de 500 hasta 1,000 unidades de arqueo bruto ... $6,621.75
-d). De más de 1,000 a 5,000 unidades de arqueo bruto ... $8,640.37
-e). De más de 5,000 a 10,000 unidades de arqueo bruto ... $10,474.26
-f). De más de 10,000 unidades de arqueo bruto ... $13,325.17
+a). Hasta de 100 unidades de arqueo bruto ... $4,702.93
+b). De más de 100 hasta 500 unidades de arqueo bruto ... $5,902.73
+c). De más de 500 hasta 1,000 unidades de arqueo bruto ... $7,184.74
+d). De más de 1,000 a 5,000 unidades de arqueo bruto ... $9,374.98
+e). De más de 5,000 a 10,000 unidades de arqueo bruto ... $11,364.79
+f). De más de 10,000 unidades de arqueo bruto ... $14,458.08
 III. Por la revisión y, en su caso, aprobación de especificaciones técnicas, planos o proyectos que impliquen reformas o modificaciones:
-a). Hasta de 100 unidades de arqueo bruto ... $1,910.14
-b). De más de 100 hasta 500 unidades de arqueo bruto ... $2,633.17
-c). De más de 500 hasta 1,000 unidades de arqueo bruto ... $5,716.66
-d). De más de 1,000 a 5,000 unidades de arqueo bruto ... $6,886.27
-e). De más de 5,000 a 10,000 unidades de arqueo bruto ... $9,358.85
-f). De más de 10,000 unidades de arqueo bruto ... $12,080.82
+a). Hasta de 100 unidades de arqueo bruto ... $2,072.54
+b). De más de 100 hasta 500 unidades de arqueo bruto ... $2,857.05
+c). De más de 500 hasta 1,000 unidades de arqueo bruto ... $6,202.70
+d). De más de 1,000 a 5,000 unidades de arqueo bruto ... $7,471.75
+e). De más de 5,000 a 10,000 unidades de arqueo bruto ... $10,154.54
+f). De más de 10,000 unidades de arqueo bruto ... $13,107.94
 IV. Por el reconocimiento total en los casos de construcción, reparación o modificación para verificar el estado de avance y el cumplimiento de las especificaciones y normas aplicables, se pagarán los derechos correspondientes de acuerdo a las unidades de arqueo bruto conforme a las siguientes cuotas:
-a). Hasta 50 unidades de arqueo bruto, comprendiendo 3 inspecciones parciales ... $9,027.47
-b). De más de 50 hasta 100 unidades de arqueo bruto, comprendiendo 3 inspecciones parciales ... $13,280.56
-c). De más de 100 hasta 200 unidades de arqueo bruto, comprendiendo 4 inspecciones parciales ... $18,030.32
-d). De más de 200 hasta 300 unidades de arqueo bruto, comprendiendo 4 inspecciones parciales ... $21,832.04
-e). De más de 300 hasta 500 unidades de arqueo bruto, comprendiendo 4 inspecciones parciales ... $26,114.58
-f). De más de 500 hasta 1000 unidades de arqueo bruto, comprendiendo 4 inspecciones parciales ... $34,732.00
-g). De más de 1000 hasta 5000 unidades de arqueo bruto, comprendiendo 4 inspecciones parciales ... $42,857.63
-h). De más de 5000 hasta 15000 unidades de arqueo bruto, comprendiendo 5 inspecciones parciales ... $53,894.11
-i). De más de 15000 hasta 25000 unidades de arqueo bruto, comprendiendo 5 inspecciones parciales ... $64,903.03
-j). De más de 25000 hasta 50000 unidades de arqueo bruto, comprendiendo 6 inspecciones parciales ... $107,919.36
-k). De más de 50000 unidades de arqueo bruto en adelante, comprendiendo 6 inspecciones parciales, la cuota indicada en el inciso anterior, más $4.36 por cada unidad de arqueo bruto o fracción excedente.
+a). Hasta 50 unidades de arqueo bruto, comprendiendo 3 inspecciones parciales ... $9,794.99
+b). De más de 50 hasta 100 unidades de arqueo bruto, comprendiendo 3 inspecciones parciales ... $14,409.68
+c). De más de 100 hasta 200 unidades de arqueo bruto, comprendiendo 4 inspecciones parciales ... $19,563.27
+d). De más de 200 hasta 300 unidades de arqueo bruto, comprendiendo 4 inspecciones parciales ... $23,688.21
+e). De más de 300 hasta 500 unidades de arqueo bruto, comprendiendo 4 inspecciones parciales ... $28,334.86
+f). De más de 500 hasta 1000 unidades de arqueo bruto, comprendiendo 4 inspecciones parciales ... $37,684.93
+g). De más de 1000 hasta 5000 unidades de arqueo bruto, comprendiendo 4 inspecciones parciales ... $46,501.42
+h). De más de 5000 hasta 15000 unidades de arqueo bruto, comprendiendo 5 inspecciones parciales ... $58,476.22
+i). De más de 15000 hasta 25000 unidades de arqueo bruto, comprendiendo 5 inspecciones parciales ... $70,421.13
+j). De más de 25000 hasta 50000 unidades de arqueo bruto, comprendiendo 6 inspecciones parciales ... $117,094.74
+k). De más de 50000 unidades de arqueo bruto en adelante, comprendiendo 6 inspecciones parciales, la cuota indicada en el inciso anterior, más $4.73 por cada unidad de arqueo bruto o fracción excedente.
 V. Por el reconocimiento en dique seco o testificación de inspección submarina de embarcaciones y artefactos navales, conforme a las siguientes cuotas:
-a). Hasta 200 unidades de arqueo bruto ... $7,035.07
-b). De más de 200 hasta 300 unidades de arqueo bruto ... $8,465.67
-c). De más de 300 hasta 1000 unidades de arqueo bruto ... $11,307.19
-d). De más de 1000 hasta 5000 unidades de arqueo bruto ... $13,949.89
-e). De más de 5000 hasta 10000 unidades de arqueo bruto ... $20,065.18
-f). De más de 10000 unidades de arqueo bruto ... $25,759.52
+a). Hasta 200 unidades de arqueo bruto ... $7,633.19
+b). De más de 200 hasta 300 unidades de arqueo bruto ... $9,185.43
+c). De más de 300 hasta 1000 unidades de arqueo bruto ... $12,268.54
+d). De más de 1000 hasta 5000 unidades de arqueo bruto ... $15,135.91
+e). De más de 5000 hasta 10000 unidades de arqueo bruto ... $21,771.14
+f). De más de 10000 unidades de arqueo bruto ... $27,949.61
 VI. Por el reconocimiento de unidades fijas mar adentro:
-a). Hasta 300 toneladas ... $6,963.11
-b). De más de 300 y hasta 500 toneladas ... $9,932.12
-c). De más de 500 y hasta 1,000 toneladas ... $13,329.18
-d). De más de 1,000 y hasta 2,000 toneladas ... $15,837.14
-e). De más de 2,000 toneladas, por las primeras 2,000 la cuota señalada en el inciso anterior, y por cada una o fracción de las excedentes ... $3.94
+a). Hasta 300 toneladas ... $7,555.12
+b). De más de 300 y hasta 500 toneladas ... $10,776.56
+c). De más de 500 y hasta 1,000 toneladas ... $14,462.43
+d). De más de 1,000 y hasta 2,000 toneladas ... $17,183.63
+e). De más de 2,000 toneladas, por las primeras 2,000 la cuota señalada en el inciso anterior, y por cada una o fracción de las excedentes ... $4.28
 Si se efectúa un segundo o subsecuente reconocimiento, se pagará lo que resulte de aplicar el factor de 0.15 a la cuota correspondiente.
-Artículo 195-Z-5. Por la autorización y determinación de señalamiento marítimo con que deben cumplir las instalaciones privadas o concesionadas, se pagará el derecho de señalamiento marítimo, conforme a las siguientes cuotas:
-I. Señales en escolleras ... $8,063.57
-II. Señales en faros ... $40,658.01
-III. Señales en muelles ... $9,505.66
-IV. Señales en atracaderos y peines de marinas turísticas ... $31,528.20
-V. Señales de enfilaciones ... $18,314.01
-VI. Señales flotantes ... $19,386.61
-VII. Señales diurnas ... $10,901.20
-VIII. Señales laterales fijas ... $9,151.86
-IX. Señales acústicas ... $19,861.18
-X. Señales radioeléctricas ... $32,266.47
-XI. Otras señales ... $9,096.17
+Artículo 195-Z-5. Por la solicitud y análisis para la determinación de señalamiento marítimo para instalaciones privadas o concesionadas, se pagará el derecho conforme a la cuota de: ... $11,684.44
+En el caso de que se determine que es necesario contar con señalamientos marítimos en las instalaciones privadas o concesionadas, se pagará el derecho de autorización de señalamiento marítimo, conforme a las siguientes cuotas:
+I. Señales en escolleras ... $8,749.14
+II. Señales en faros ... $44,114.78
+III. Señales en muelles ... $10,313.84
+IV. Señales en atracaderos y peines de marinas turísticas ... $34,208.75
+V. Señales de enfilaciones ... $19,871.08
+VI. Señales flotantes ... $21,034.87
+VII. Señales diurnas ... $11,828.02
+VIII. Señales laterales fijas ... $9,929.95
+IX. Señales acústicas ... $21,549.79
+X. Señales radioeléctricas ... $35,009.79
+XI. Otras señales ... $9,869.54
 Artículo 195-Z-6. Por los servicios de verificación de las pruebas de estabilidad, banco, botadura, sistemas y equipamiento, pruebas de mar y tirón a punto fijo, se pagará por cada embarcación, conforme a las siguientes cuotas:
-I. Hasta 200 unidades de arqueo bruto ... $7,173.30
-II. De más de 200 hasta 300 unidades de arqueo bruto ... $8,465.67
-III. De más de 300 hasta 1,000 unidades de arqueo bruto ... $11,307.19
-IV. De más de 1,000 hasta 5,000 unidades de arqueo bruto ... $13,949.89
-V. De más de 5,000 hasta 10,000 unidades de arqueo bruto ... $20,065.18
-VI. De más de 10,000 unidades de arqueo bruto ... $25,759.52
-VII. Por la revisión del protocolo de la prueba de estabilidad, banco, botadura, sistemas y equipamiento, pruebas de mar y tirón a punto fijo, se pagará por cada embarcación ... $2,314.18
+I. Hasta 200 unidades de arqueo bruto ... $7,783.18
+II. De más de 200 hasta 300 unidades de arqueo bruto ... $9,185.43
+III. De más de 300 hasta 1,000 unidades de arqueo bruto ... $12,268.54
+IV. De más de 1,000 hasta 5,000 unidades de arqueo bruto ... $15,135.92
+V. De más de 5,000 hasta 10,000 unidades de arqueo bruto ... $21,771.14
+VI. De más de 10,000 unidades de arqueo bruto ... $27,949.61
+VII. Por la revisión del protocolo de la prueba de estabilidad, banco, botadura, sistemas y equipamiento, pruebas de mar y tirón a punto fijo, se pagará por cada embarcación ... $2,510.93
 Artículo 195-Z-7. Por la revisión de los documentos técnicos, de embarcaciones y artefactos navales, establecidos en el Reglamento de la Ley de Navegación y Comercio Marítimos y, en su caso, expedición del documento de cumplimiento, se pagará por cada documento presentado, las siguientes cuotas:
-I. Hasta 200 unidades de arqueo bruto ... $7,671.23
-II. De más de 200 hasta 300 unidades de arqueo bruto ... $8,635.81
-III. De más de 300 hasta 1,000 unidades de arqueo bruto ... $11,796.53
-IV. De más de 1,000 hasta 5,000 unidades de arqueo bruto ... $13,284.04
-V. De más de 5,000 hasta 10,000 unidades de arqueo bruto ... $20,228.70
-VI. De más de 10,000 unidades de arqueo bruto ... $26,069.46
+I. Hasta 200 unidades de arqueo bruto ... $8,323.44
+II. De más de 200 hasta 300 unidades de arqueo bruto ... $9,370.04
+III. De más de 300 hasta 1,000 unidades de arqueo bruto ... $12,799.48
+IV. De más de 1,000 hasta 5,000 unidades de arqueo bruto ... $14,413.46
+V. De más de 5,000 hasta 10,000 unidades de arqueo bruto ... $21,948.55
+VI. De más de 10,000 unidades de arqueo bruto ... $28,285.90
 Artículo 195-Z-8. Por la revisión del manual de operación de dique flotante y, en su caso, expedición del documento de aprobación, se pagará el derecho de revisión anual, conforme a las siguientes cuotas:
-I. Dique menor de 150 metros de eslora ... $25,851.76
-II. Dique de 150 metros o más de eslora ... $39,412.64
+I. Dique menor de 150 metros de eslora ... $28,049.69
+II. Dique de 150 metros o más de eslora ... $42,763.52
 Artículo 195-Z-9. Por la inspección, verificación y, en su caso, expedición y renovación del documento de aprobación para estaciones de servicio a balsas salvavidas, botes totalmente cerrados, equipos contra incendio de las embarcaciones o artefactos navales, astilleros, varaderos y diques flotantes, se pagará el derecho, conforme a las cuotas siguientes:
-I. Por la expedición ... $41,564.27
-II. Por la renovación ... $28,223.47
-Por el análisis de la solicitud y, en su caso, autorización del personal técnico distinto o del que sustituya al considerado en el certificado otorgado, se pagará el derecho por cada persona, conforme a la cuota de ... $2,524.87
+I. Por la expedición ... $45,098.09
+II. Por la renovación ... $30,623.05
+Por el análisis de la solicitud y, en su caso, autorización del personal técnico distinto o del que sustituya al considerado en el certificado otorgado, se pagará el derecho por cada persona, conforme a la cuota de ... $2,739.54
 Artículo 195-Z-10. Por la revisión de los documentos y, en su caso, autorización como inspector naval privado a personas físicas o morales, se pagarán anualmente las siguientes cuotas:
-I. Por persona moral ... $32,693.64
-II. Por persona física ... $4,334.42
+I. Por persona moral ... $35,473.27
+II. Por persona física ... $4,702.93
 Artículo 195-Z-11. Se pagará el derecho de cumplimiento del Código Internacional para la Protección de los Buques y de las Instalaciones Portuarias, por cada buque, con excepción de los buques pesqueros o de cualquier otro giro, que no siendo de altura, realicen su actividad en puertos nacionales, conforme a las siguientes cuotas:
 I. Por la revisión de la evaluación de protección:
-a). De más de 10 hasta 200 unidades de arqueo bruto ... $6,886.27
-b). De más de 200 hasta 500 unidades de arqueo bruto ... $8,162.22
-c). De más de 500 hasta 1,000 unidades de arqueo bruto ... $9,582.07
-d). De más de 1,000 hasta 5,000 unidades de arqueo bruto ... $12,433.43
-e). De más de 5,000 hasta 10,000 unidades de arqueo bruto ... $17,443.18
-f). De más de 10,000 unidades de arqueo bruto ... $28,117.21
+a). De más de 10 hasta 200 unidades de arqueo bruto ... $7,471.74
+b). De más de 200 hasta 500 unidades de arqueo bruto ... $8,856.17
+c). De más de 500 hasta 1,000 unidades de arqueo bruto ... $10,396.75
+d). De más de 1,000 hasta 5,000 unidades de arqueo bruto ... $13,490.53
+e). De más de 5,000 hasta 10,000 unidades de arqueo bruto ... $18,926.21
+f). De más de 10,000 unidades de arqueo bruto ... $30,507.75
 II. Por la revisión y, en su caso, aprobación del Plan de Protección:
-a). De más de 10 hasta 200 unidades de arqueo bruto ... $7,259.72
-b). De más de 200 hasta 500 unidades de arqueo bruto ... $8,598.01
-c). De más de 500 hasta 1,000 unidades de arqueo bruto ... $11,606.68
-d). De más de 1,000 hasta 5,000 unidades de arqueo bruto ... $13,201.51
-e). De más de 5,000 hasta 10,000 unidades de arqueo bruto ... $19,827.64
-f). De más de 10,000 de unidades de arqueo bruto ... $32,063.46
+a). De más de 10 hasta 200 unidades de arqueo bruto ... $7,876.94
+b). De más de 200 hasta 500 unidades de arqueo bruto ... $9,329.02
+c). De más de 500 hasta 1,000 unidades de arqueo bruto ... $12,593.48
+d). De más de 1,000 hasta 5,000 unidades de arqueo bruto ... $14,323.91
+e). De más de 5,000 hasta 10,000 unidades de arqueo bruto ... $21,513.39
+f). De más de 10,000 de unidades de arqueo bruto ... $34,789.52
 También se pagarán los derechos establecidos en esta fracción, cuando se lleven a cabo modificaciones en el Plan de Protección de cada buque.
 III. Por la verificación de la implantación del Plan de Protección y, en su caso, certificación o renovación anual:
-a). De más de 10 y hasta 200 unidades de arqueo bruto ... $6,886.27
-b). De más de 200 y hasta 500 unidades de arqueo bruto ... $8,162.22
-c). De más de 500 y hasta 1,000 unidades de arqueo bruto ... $9,582.07
-d). De más de 1,000 y hasta 5,000 unidades de arqueo bruto ... $12,433.43
-e). De más de 5,000 y hasta 10,000 unidades de arqueo bruto ... $19,091.62
-f). De más de 10,000 unidades de arqueo bruto ... $28,117.21
+a). De más de 10 y hasta 200 unidades de arqueo bruto ... $7,471.75
+b). De más de 200 y hasta 500 unidades de arqueo bruto ... $8,856.17
+c). De más de 500 y hasta 1,000 unidades de arqueo bruto ... $10,396.75
+d). De más de 1,000 y hasta 5,000 unidades de arqueo bruto ... $13,490.53
+e). De más de 5,000 y hasta 10,000 unidades de arqueo bruto ... $20,714.80
+f). De más de 10,000 unidades de arqueo bruto ... $30,507.75
 IV. Por la expedición, reposición o renovación del Certificado Internacional de Protección del Buque y del Certificado Internacional de Protección del Buque Provisional:
-a). De más de 10 hasta 200 unidades de arqueo bruto ... $6,886.27
-b). De más de 200 y hasta 500 unidades de arqueo bruto ... $8,162.22
-c). De más de 500 y hasta 1,000 unidades de arqueo bruto ... $9,582.07
-d). De más de 1,000 y hasta 5,000 unidades de arqueo bruto ... $12,433.43
-e). De más de 5,000 y hasta 10,000 unidades de arqueo bruto ... $17,443.18
-f). De más de 10,000 unidades de arqueo bruto ... $28,117.21
+a). De más de 10 hasta 200 unidades de arqueo bruto ... $7,471.75
+b). De más de 200 y hasta 500 unidades de arqueo bruto ... $8,856.17
+c). De más de 500 y hasta 1,000 unidades de arqueo bruto ... $10,396.75
+d). De más de 1,000 y hasta 5,000 unidades de arqueo bruto ... $13,490.53
+e). De más de 5,000 y hasta 10,000 unidades de arqueo bruto ... $18,926.21
+f). De más de 10,000 unidades de arqueo bruto ... $30,507.75
 Artículo 195-Z-11 Bis. Por los servicios relacionados con el cumplimiento del Código Internacional para la Protección de los Buques y de las Instalaciones Portuarias, por cada instalación portuaria, se pagarán las siguientes cuotas:
-I. Por la expedición, reposición o renovación de la declaración de cumplimiento ... $4,805.63
-II. Por la evaluación de protección ... $33,782.44
-III. Por la revisión y, en su caso, aprobación del plan de protección ... $12,652.17
-IV. Por la verificación inicial o anual de la implantación del plan de protección ... $24,928.87
+I. Por la expedición, reposición o renovación de la declaración de cumplimiento ... $5,214.21
+II. Por la evaluación de protección ... $36,654.64
+III. Por la revisión y, en su caso, aprobación del plan de protección ... $13,727.87
+IV. Por la verificación inicial o anual de la implantación del plan de protección ... $27,048.34
 Artículo 195-Z-11 Ter. Por los servicios relacionados con el cumplimiento de medidas de protección de las instalaciones portuarias que reciban embarcaciones menores a 500 unidades de arqueo bruto y realicen navegación de cabotaje se pagarán, por cada instalación portuaria, las siguientes cuotas:
-I. Expedición, reposición o renovación de la declaración nacional de cumplimiento ... $3,413.12
-II. Por la evaluación de protección ... $17,084.68
-III. Por la revisión y, en su caso, aprobación del plan de protección ... $9,285.40
-IV. Verificación inicial, anual o de renovación de la implementación del plan de protección ... $13,321.60
+I. Expedición, reposición o renovación de la declaración nacional de cumplimiento ... $3,703.31
+II. Por la evaluación de protección ... $18,537.23
+III. Por la revisión y, en su caso, aprobación del plan de protección ... $10,074.85
+IV. Verificación inicial, anual o de renovación de la implementación del plan de protección ... $14,454.21
 Artículo 195-Z-11 Quáter. Por los servicios relacionados con el cumplimiento de medidas de protección de los puertos, se pagará por cada uno, las siguientes cuotas:
-I. Por la expedición, reposición o renovación de la declaración de cumplimiento ... $7,771.33
-II. Por la evaluación de protección ... $67,487.74
-III. Por la revisión y, en su caso, aprobación del plan de protección ... $17,175.85
-IV. Por la verificación inicial, anual o de renovación de la implantación del plan de protección ... $45,482.21
+I. Por la expedición, reposición o renovación de la declaración de cumplimiento ... $8,432.06
+II. Por la evaluación de protección ... $73,225.59
+III. Por la revisión y, en su caso, aprobación del plan de protección ... $18,636.15
+IV. Por la verificación inicial, anual o de renovación de la implantación del plan de protección ... $49,349.14
 Artículo 195-Z-12. Se pagará el derecho de cumplimiento del Código Internacional de Gestión de la Seguridad, por cada buque o empresa, con excepción de los buques pesqueros o de cualquier otro giro, que no siendo de altura, realicen su actividad en puertos nacionales, así como el cumplimiento del Sistema de Administración de la Seguridad (SAS), conforme a las cuotas de:
 I. Por la revisión de documentación y, en su caso, expedición de documento de cumplimiento o certificado, según corresponda:
-a). Por empresa ... $13,074.27
+a). Por empresa ... $14,185.85
 b). Por buque:
-1. De 10 hasta 200 unidades de arqueo bruto ... $5,276.91
-2. De más de 200 hasta 500 unidades de arqueo bruto ... $6,339.13
-3. De más de 500 hasta 1,000 unidades de arqueo bruto ... $7,827.70
-4. De más de 1,000 hasta 5,000 unidades de arqueo bruto ... $10,926.78
-5. De más de 5,000 hasta 10,000 unidades de arqueo bruto ... $13,745.87
-6. De más de 10,000 unidades de arqueo bruto ... $19,167.30
+1. De 10 hasta 200 unidades de arqueo bruto ... $5,725.55
+2. De más de 200 hasta 500 unidades de arqueo bruto ... $6,878.09
+3. De más de 500 hasta 1,000 unidades de arqueo bruto ... $8,493.22
+4. De más de 1,000 hasta 5,000 unidades de arqueo bruto ... $11,855.79
+5. De más de 5,000 hasta 10,000 unidades de arqueo bruto ... $14,914.55
+6. De más de 10,000 unidades de arqueo bruto ... $20,796.92
 También se pagarán los derechos establecidos en esta fracción, cuando se lleven a cabo modificaciones a los documentos de gestión de la seguridad de la empresa o de cada buque.
 II. Por la verificación del cumplimiento del Código Internacional de Gestión de la Seguridad y, en su caso, expedición o renovación anual del documento de cumplimiento o certificado, según corresponda:
-a) Por empresa ... $35,860.62
+a) Por empresa ... $38,909.51
 b) Por buque:
-1. De más de 10 y hasta 200 unidades de arqueo bruto ... $6,886.27
-2. De más de 200 y hasta 500 unidades de arqueo bruto ... $8,162.22
-3. De más de 500 y hasta 1,000 unidades de arqueo bruto ... $9,582.07
-4. De más de 1,000 y hasta 5,000 unidades de arqueo bruto ... $12,433.43
-5. De más de 5,000 y hasta 10,000 unidades de arqueo bruto ... $17,443.18
-6. De más de 10,000 unidades de arqueo bruto ... $28,117.21
-Artículo 195-Z-13. Por la revisión y, en su caso, aprobación u homologación de chalecos salvavidas, aros salvavidas, dispositivos y medios de salvamento, por cada tipo, se pagará anualmente el derecho conforme a la cuota de ... $6,886.27
+1. De más de 10 y hasta 200 unidades de arqueo bruto ... $7,471.75
+2. De más de 200 y hasta 500 unidades de arqueo bruto ... $8,856.17
+3. De más de 500 y hasta 1,000 unidades de arqueo bruto ... $10,396.75
+4. De más de 1,000 y hasta 5,000 unidades de arqueo bruto ... $13,490.53
+5. De más de 5,000 y hasta 10,000 unidades de arqueo bruto ... $18,926.21
+6. De más de 10,000 unidades de arqueo bruto ... $30,507.75
+Artículo 195-Z-13. Por la revisión y, en su caso, aprobación u homologación de chalecos salvavidas, aros salvavidas, dispositivos y medios de salvamento, por cada tipo, se pagará anualmente el derecho conforme a la cuota de ... $7,471.75
 Artículo 195-Z-14. No pagarán los derechos a que se refieren los artículos 195-Z-4, 195-Z-11 y 195 - Z-12 de esta Ley, las siguientes embarcaciones:
 I. Las dedicadas exclusivamente a fines educativos, humanitarios o científicos.
 II. Las pertenecientes al Gobierno Federal, Estados o Municipios, que estén dedicadas a servicios oficiales.
 Artículo 195-Z-15. Por la expedición y, en su caso, reposición de los siguientes documentos, se pagará el derecho conforme a las siguientes cuotas:
-I. Expedición y reposición de libreta de mar y documento de identidad marítima se pagará por cada uno ... $555.15
-II. Por la expedición o reposición de refrendo y dispensa a personal subalterno ... $897.55
+I. Expedición y reposición de libreta de mar y documento de identidad marítima se pagará por cada uno ... $602.35
+II. Por la expedición o reposición de refrendo y dispensa a personal subalterno ... $973.86
 Artículo 195-Z-16. Por la revisión y, en su caso, validación de:
 I. Cada certificado estatutario emitido por los inspectores navales privados y las Organizaciones Reconocidas (OR) autorizadas, conforme a las siguientes cuotas:
-a). Hasta 10 unidades de arqueo bruto ... $52.12
-b). De más de 10 y hasta 20 unidades de arqueo bruto ... $58.49
-c). De más de 20 y hasta 50 unidades de arqueo bruto ... $101.29
-d). De más de 50 y hasta 75 unidades de arqueo bruto ... $273.36
-e). De más de 75 y hasta 100 unidades de arqueo bruto ... $337.32
-f). De más de 100 y hasta 200 unidades de arqueo bruto ... $354.03
-g). De más de 200 y hasta 300 unidades de arqueo bruto ... $407.70
-h). De más de 300 y hasta 500 unidades de arqueo bruto ... $497.56
-i). De más de 500 y hasta 1,000 unidades de arqueo bruto ... $666.31
-j). De más de 1,000 y hasta 2,000 unidades de arqueo bruto ... $791.56
-k). Por las primeras 2,000 unidades de aqueo bruto la cuota señalada en el inciso anterior, y por cada una o fracción de las excedentes ... $1.98
-II. Cada reporte de cada servicio de evaluación y verificación de protección marítima a embarcaciones, que realizan las Organizaciones de Protección Reconocidas (OPR), se pagará la cuota de ... $2,058.66
-Artículo 195-Z-17. Por el trámite y, en su caso, expedición del certificado técnico de operación y navegabilidad ... $1,910.14
-Artículo 195-Z-18. Para obtener la aprobación inicial y, en su caso, renovación de la aprobación de los talleres de reparaciones navales ... $2,948.17
-Artículo 195-Z-19. Por el trámite y, en su caso, la expedición de la autorización a terceros para la elaboración de documentos técnicos ... $1,910.14
+a). Hasta 10 unidades de arqueo bruto ... $56.56
+b). De más de 10 y hasta 20 unidades de arqueo bruto ... $63.47
+c). De más de 20 y hasta 50 unidades de arqueo bruto ... $109.90
+d). De más de 50 y hasta 75 unidades de arqueo bruto ... $296.60
+e). De más de 75 y hasta 100 unidades de arqueo bruto ... $365.99
+f). De más de 100 y hasta 200 unidades de arqueo bruto ... $384.13
+g). De más de 200 y hasta 300 unidades de arqueo bruto ... $442.36
+h). De más de 300 y hasta 500 unidades de arqueo bruto ... $539.86
+i). De más de 500 y hasta 1,000 unidades de arqueo bruto ... $722.96
+j). De más de 1,000 y hasta 2,000 unidades de arqueo bruto ... $858.86
+k). Por las primeras 2,000 unidades de aqueo bruto la cuota señalada en el inciso anterior, y por cada una o fracción de las excedentes ... $2.15
+II. Cada reporte de cada servicio de evaluación y verificación de protección marítima a embarcaciones, que realizan las Organizaciones de Protección Reconocidas (OPR), se pagará la cuota de ... $2,233.69
+Artículo 195-Z-17. Por el trámite y, en su caso, expedición del certificado técnico de operación y navegabilidad ... $2,072.54
+Artículo 195-Z-18. Para obtener la aprobación inicial y, en su caso, renovación de la aprobación de los talleres de reparaciones navales ... $3,198.83
+Artículo 195-Z-19. Por el trámite y, en su caso, la expedición de la autorización a terceros para la elaboración de documentos técnicos ... $2,072.54
 Artículo 195-Z-20. Por el trámite y, en su caso, expedición de los certificados de exención de francobordo se pagará por cada embarcación conforme a las siguientes cuotas:
-I. De más de 10 hasta 200 unidades de arqueo bruto ... $6,886.27
-II. De más de 200 hasta 500 unidades de arqueo bruto ... $8,162.22
-III. De más de 500 hasta 1,000 unidades de arqueo bruto ... $9,582.07
-IV. De más de 1,000 hasta 5,000 unidades de arqueo bruto ... $12,433.43
-V. De más de 5,000 hasta 10,000 unidades de arqueo bruto ... $17,443.18
-VI. De más de 10,000 unidades de arqueo bruto ... $28,117.21
+I. De más de 10 hasta 200 unidades de arqueo bruto ... $7,471.75
+II. De más de 200 hasta 500 unidades de arqueo bruto ... $8,856.17
+III. De más de 500 hasta 1,000 unidades de arqueo bruto ... $10,396.75
+IV. De más de 1,000 hasta 5,000 unidades de arqueo bruto ... $13,490.53
+V. De más de 5,000 hasta 10,000 unidades de arqueo bruto ... $18,926.21
+VI. De más de 10,000 unidades de arqueo bruto ... $30,507.75
 Artículo 195-Z-21. Por el trámite y, en su caso, expedición del certificado de exención SOLAS se pagará por cada embarcación, conforme a las siguientes cuotas:
-I. De más de 10 hasta 200 unidades de arqueo bruto ... $6,886.27
-II. De más de 200 hasta 500 unidades de arqueo bruto ... $8,162.22
-III. De más de 500 hasta 1,000 unidades de arqueo bruto ... $9,582.07
-IV. De más de 1,000 hasta 5,000 unidades de arqueo bruto ... $12,433.43
-V. De más de 5,000 hasta 10,000 unidades de arqueo bruto ... $17,443.18
-VI. De más de 10,000 unidades de arqueo bruto ... $28,117.21
-Artículo 195-Z-22. Por el trámite y, en su caso, expedición, reposición o modificación del Registro Sinóptico Continuo, se pagará por cada embarcación ... $844.12
-Artículo 195-Z-23. Por el trámite y, en su caso, expedición o reposición de la constancia de Pruebas de Conformidad del Sistema de Identificación y Seguimiento de Largo Alcance de los Buques ... $816.91
-Artículo 195-Z-24. Por el trámite y, en su caso, expedición, reposición o renovación de la autorización como Organización de Protección Reconocida ... $31,640.03
+I. De más de 10 hasta 200 unidades de arqueo bruto ... $7,471.75
+II. De más de 200 hasta 500 unidades de arqueo bruto ... $8,856.17
+III. De más de 500 hasta 1,000 unidades de arqueo bruto ... $10,396.75
+IV. De más de 1,000 hasta 5,000 unidades de arqueo bruto ... $13,490.53
+V. De más de 5,000 hasta 10,000 unidades de arqueo bruto ... $18,926.21
+VI. De más de 10,000 unidades de arqueo bruto ... $30,507.75
+Artículo 195-Z-22. Por el trámite y, en su caso, expedición, reposición o modificación del Registro Sinóptico Continuo, se pagará por cada embarcación ... $915.88
+Artículo 195-Z-23. Por el trámite y, en su caso, expedición o reposición de la constancia de Pruebas de Conformidad del Sistema de Identificación y Seguimiento de Largo Alcance de los Buques ... $886.37
+Artículo 195-Z-24. Por el trámite y, en su caso, expedición, reposición o renovación de la autorización como Organización de Protección Reconocida ... $34,330.09
 Artículo 195-Z-25. Por la verificación y, en su caso, asignación de número de registro permanente, y expedición, revalidación o reposición del certificado de aprobación marítima como instalación receptora de desechos, según corresponda:
-I. Receptora de basuras ... $1,618.80
-II. Receptora de sustancias nocivas líquidas e hidrocarburos ... $1,722.48
-Artículo 195-Z-26. Por la autorización a terceros para efectuar el servicio de inspección submarina a embarcaciones y artefactos navales nacionales ... $1,618.80
-Artículo 195-Z-27. Por la verificación y, en su caso, asignación de número de registro permanente y certificado de aprobación marítima a estaciones de servicio para el mantenimiento a equipos de radiocomunicación marítima e instalaciones eléctricas ... $2,735.29
+I. Receptora de basuras ... $1,756.43
+II. Receptora de sustancias nocivas líquidas e hidrocarburos ... $1,868.93
+Artículo 195-Z-26. Por la autorización a terceros para efectuar el servicio de inspección submarina a embarcaciones y artefactos navales nacionales ... $1,756.43
+Artículo 195-Z-27. Por la verificación y, en su caso, asignación de número de registro permanente y certificado de aprobación marítima a estaciones de servicio para el mantenimiento a equipos de radiocomunicación marítima e instalaciones eléctricas ... $2,967.84
 Artículo 195-Z-28. Por los servicios que se presten a embarcaciones nacionales o extranjeras en horario ordinario de operación, que efectúen cualquier clase de navegación de altura o cabotaje, se pagará el derecho por cada autorización de arribo, despacho, maniobra de fondeo o enmienda, cuando sea a solicitud del particular, conforme a las siguientes cuotas:
-I. De más de 3 hasta 20 unidades de arqueo bruto ... $383.55
-II. De más de 20 hasta 100 unidades de arqueo bruto ... $577.81
-III. De más de 100 hasta 500 unidades de arqueo bruto ... $947.36
-IV. De más de 500 hasta 1,000 unidades de arqueo bruto ... $1,928.19
-V. De más de 1,000 hasta 15,000 unidades de arqueo bruto ... $3,867.58
-VI. De más de 15,000 hasta 25,000 unidades de arqueo bruto ... $4,927.46
-VII. De más de 25,000 hasta 50,000 unidades de arqueo bruto ... $5,683.45
-VIII. De más de 50,000 unidades de arqueo bruto ... $6,852.86
+I. De más de 3 hasta 20 unidades de arqueo bruto ... $416.16
+II. De más de 20 hasta 100 unidades de arqueo bruto ... $626.93
+III. De más de 100 hasta 500 unidades de arqueo bruto ... $1,027.91
+IV. De más de 500 hasta 1,000 unidades de arqueo bruto ... $2,092.13
+V. De más de 1,000 hasta 15,000 unidades de arqueo bruto ... $4,196.41
+VI. De más de 15,000 hasta 25,000 unidades de arqueo bruto ... $5,346.40
+VII. De más de 25,000 hasta 50,000 unidades de arqueo bruto ... $6,166.66
+VIII. De más de 50,000 unidades de arqueo bruto ... $7,435.49
 Para los efectos de la fracción I y cuando la embarcación se utilice para el servicio de carga y pasaje en navegación interior, se pagará el 50% de la cuota establecida.
 Cuando los servicios se presten en días inhábiles o fuera del horario ordinario de operación se pagará el doble de las cuotas señaladas, aplicable a cada caso, salvo lo previsto en la fracción I.
 Para los efectos de este artículo, se entenderá que el horario ordinario de operación comprende de lunes a viernes de 9:00 a las 14:30 horas tiempo del centro del país.
 No se pagará el derecho a que se refiere este artículo, por las embarcaciones que hagan navegación fluvial, lacustre, interior de puertos que estén dedicadas a la pesca comercial. Tampoco pagarán el derecho a que se refiere este artículo, las embarcaciones nacionales, de hasta 30 unidades de arqueo bruto que se dediquen a las actividades pesqueras.
 El pago que deba realizarse a la autoridad competente por los servicios anteriormente descritos, podrá ser efectuado en su totalidad previo a la autorización del despacho de la embarcación del puerto de que se trate.
-Artículo 195-Z-29. Por el análisis de la solicitud y, en su caso, expedición del permiso de vertimiento en las zonas marinas mexicanas, se pagará el derecho conforme a la cuota de ... $23,804.51
-Artículo 195-Z-30. Por la expedición de certificados de inscripción y no inscripción en el Registro Público Marítimo Nacional se pagará la cuota de ... $669.03
+Artículo 195-Z-29. Por el análisis de la solicitud y, en su caso, expedición del permiso de vertimiento en las zonas marinas mexicanas, se pagará el derecho conforme a la cuota de ... $25,828.38
+Artículo 195-Z-30. Por la expedición de certificados de inscripción y no inscripción en el Registro Público Marítimo Nacional se pagará la cuota de ... $725.91
 Artículo 195-Z-31. Por la solicitud, análisis y, en su caso, resolución de trámites a cargo de la Secretaría de Marina, se pagarán derechos conforme a las siguientes cuotas:
 I. Por la expedición de autorización para la permanencia de artefactos navales y permiso para servicio de dragado en zonas marinas mexicanas, por unidad de arqueo bruto o fracción de registro internacional:
-a). Hasta 500 unidades de arqueo bruto ... $13.1939
-b). De 500.01 hasta 1,000 unidades de arqueo bruto ... $10.9083
-c). De 1,000.01 hasta 5,000 unidades de arqueo bruto ... $9.0634
-d). De 5,000.01 hasta 15,000 unidades de arqueo bruto ... $6.7949
-e). De 15,000.01 unidades de arqueo bruto en adelante ... $4.5260
+a). Hasta 500 unidades de arqueo bruto ... $14.3157
+b). De 500.01 hasta 1,000 unidades de arqueo bruto ... $11.8357
+c). De 1,000.01 hasta 5,000 unidades de arqueo bruto ... $9.8340
+d). De 5,000.01 hasta 15,000 unidades de arqueo bruto ... $7.3726
+e). De 15,000.01 unidades de arqueo bruto en adelante ... $4.9108
 II. Por la expedición del permiso de navegación para embarcaciones mercantes extranjeras de carga en general, o mixto incluyendo el de pasajeras y pasajeros, por unidad de arqueo bruto o fracción de registro internacional:
-a). Hasta 500 unidades de arqueo bruto ... $49.37
-b). De 500.01 hasta 1,000 unidades de arqueo bruto ... $40.91
-c). De 1,000.01 hasta 5,000 unidades de arqueo bruto ... $34.30
-d). De 5,000.01 hasta 15,000 unidades de arqueo bruto ... $25.76
-e). De 15,000.01 unidades de arqueo bruto en adelante ... $17.13
-III. Por la expedición del permiso especial para servicio de pasajeras y pasajeros a partir de 2 unidades de arqueo bruto, por unidad de arqueo bruto o fracción ... $11.63
+a). Hasta 500 unidades de arqueo bruto ... $53.57
+b). De 500.01 hasta 1,000 unidades de arqueo bruto ... $44.39
+c). De 1,000.01 hasta 5,000 unidades de arqueo bruto ... $37.22
+d). De 5,000.01 hasta 15,000 unidades de arqueo bruto ... $27.95
+e). De 15,000.01 unidades de arqueo bruto en adelante ... $18.59
+III. Por la expedición del permiso especial para servicio de pasajeras y pasajeros a partir de 2 unidades de arqueo bruto, por unidad de arqueo bruto o fracción ... $12.62
 No pagarán los derechos a que se refiere este artículo, las embarcaciones o artefactos navales siguientes:
 I. Las dedicadas exclusivamente a fines humanitarios o científicos.
 II. Las pertenecientes al Gobierno Federal, que estén dedicadas a servicios oficiales.
 Artículo 195-Z-32. Por el estudio y trámite de la solicitud y, en su caso, expedición, prórroga, renovación, modificación, ampliación o cesión de concesiones, permisos o autorizaciones para el uso o aprovechamiento de obras marítimo portuarias, así como para la prestación de servicios portuarios en las vías generales de comunicación por agua, se pagará el derecho de solicitud correspondiente, conforme a las siguientes cuotas:
-I. Concesión de bienes sujetos al régimen de dominio público de la Federación destinados a la administración portuaria integral o a la construcción, operación y explotación de terminales, marinas e instalaciones portuarias ... $82,167.80
-II. Permiso para la prestación de servicios portuarios o para la construcción y uso de embarcaderos, atracaderos, botaderos y demás similares en las vías generales de comunicación por agua ... $20,871.49
-III. Autorización para la construcción de obras marítimas y de dragado ... $65,470.58
+I. Concesión de bienes sujetos al régimen de dominio público de la Federación destinados a la administración portuaria integral o a la construcción, operación y explotación de terminales, marinas e instalaciones portuarias ... $89,153.76
+II. Permiso para la prestación de servicios portuarios o para la construcción y uso de embarcaderos, atracaderos, botaderos y demás similares en las vías generales de comunicación por agua ... $22,646.00
+III. Autorización para la construcción de obras marítimas y de dragado ... $71,036.93
 No pagarán los derechos a que se refiere este artículo:
 I. Las Instituciones que se dediquen a la investigación oceanográfica.
 II. Las escuelas de preparación y capacitación de personal técnico para la explotación del mar.
@@ -355,29 +356,29 @@ III. Los hospitales de beneficencia pública.
 IV. Las instalaciones de señales marítimas y maniobras de rescate.
 Artículo 195-Z-33. Por otorgar permisos para la explotación de embarcaciones en servicio de navegación de cabotaje, o su renovación, se pagará anualmente el derecho correspondiente por cada embarcación, conforme a las cuotas siguientes:
 I. Cruceros turísticos:
-a) Embarcaciones de pasajeras y pasajeros, de hasta 499.99 unidades de arqueo bruto, equipadas para brindar servicios de pernocta, descanso y recreativos a bordo y en puerto ... $23,254.71
-b). Embarcaciones de 500 hasta 1,000 unidades de arqueo bruto ... $48,623.45
-c). Embarcaciones de 1,000.01 hasta 5,000.00 unidades de arqueo bruto ... $64,480.20
-d). Embarcaciones de más de 5,000.01 unidades de arqueo bruto ... $75,050.55
+a) Embarcaciones de pasajeras y pasajeros, de hasta 499.99 unidades de arqueo bruto, equipadas para brindar servicios de pernocta, descanso y recreativos a bordo y en puerto ... $25,231.84
+b). Embarcaciones de 500 hasta 1,000 unidades de arqueo bruto ... $52,757.44
+c). Embarcaciones de 1,000.01 hasta 5,000.00 unidades de arqueo bruto ... $69,962.35
+d). Embarcaciones de más de 5,000.01 unidades de arqueo bruto ... $81,431.39
 II. Transporte de pasajeras y pasajeros en navegación de cabotaje:
-a). Embarcaciones cuya capacidad sea hasta 3.5 unidades de arqueo bruto ... $1,033.47
-b). Embarcaciones mayores a 3.5 y menores de 500 unidades de arqueo bruto ... $2,066.96
-c). Embarcaciones de 500 o más unidades de arqueo bruto ... $4,133.91
+a). Embarcaciones cuya capacidad sea hasta 3.5 unidades de arqueo bruto ... $1,121.34
+b). Embarcaciones mayores a 3.5 y menores de 500 unidades de arqueo bruto ... $2,242.69
+c). Embarcaciones de 500 o más unidades de arqueo bruto ... $4,485.38
 Artículo 195-Z-34. Por el estudio de la solicitud y, en su caso, la expedición o reposición de los siguientes documentos, se pagará el derecho correspondiente, conforme a las siguientes cuotas:
-I. Títulos profesionales al personal de la marina mercante nacional, tanto de cubierta como de máquinas ... $1,389.98
-II. Certificados de competencia para mandar embarcaciones, tanto en el departamento de cubierta como en el de máquinas ... $926.44
-III. Certificados de competencia especial para mandar o laborar en buques especializados ... $1,853.59
+I. Títulos profesionales al personal de la marina mercante nacional, tanto de cubierta como de máquinas ... $1,508.16
+II. Certificados de competencia para mandar embarcaciones, tanto en el departamento de cubierta como en el de máquinas ... $1,005.21
+III. Certificados de competencia especial para mandar o laborar en buques especializados ... $2,011.18
 IV. Documento oficial para poder ejercer como tripulante en la categoría inmediata superior a bordo de las embarcaciones mercantes mexicanas:
-a). Personal subalterno, para ejercer un cargo que requiera certificado de competencia ... $926.44
-b). Personal titulado ... $1,389.98
-V. Expedición de refrendos de títulos a oficialidad de la marina mercante ... $694.68
-VI. Por la expedición de la autorización para prestar el servicio de pilotaje ... $1,041.67
+a). Personal subalterno, para ejercer un cargo que requiera certificado de competencia ... $1,005.21
+b). Personal titulado ... $1,508.16
+V. Expedición de refrendos de títulos a oficialidad de la marina mercante ... $753.74
+VI. Por la expedición de la autorización para prestar el servicio de pilotaje ... $1,130.23
 Artículo 195-Z-35. Por la autorización para ejercer como Agente Naviero Consignatario de Buques, Agente Naviero General o Agente Naviero Protector, se pagará el derecho de agente naviero, conforme a las siguientes cuotas:
 I. Por la expedición de la autorización de Agente Naviero Consignatario de Buques en:
-a). Navegación de Altura ... $12,338.05
-b). Navegación de Cabotaje ... $8,812.45
-II. Por la expedición de la autorización para actuar como Agente Naviero General o Agente Naviero Protector ... $25,089.75
+a). Navegación de Altura ... $13,387.04
+b). Navegación de Cabotaje ... $9,561.70
+II. Por la expedición de la autorización para actuar como Agente Naviero General o Agente Naviero Protector ... $27,222.89
 Artículo 195-Z-36. Por la solicitud, análisis y, en su caso, la expedición de la autorización, certificado o su renovación, para ejercer como institución educativa particular o como instructor o instructora en instituciones educativas particulares, se pagarán derechos conforme a las siguientes cuotas:
-I. Para ejercer como institución educativa particular, o su renovación ... $15,367.82
-II. Para ejercer como instructor o instructora en instituciones educativas particulares, o su renovación ... $1,535.50
+I. Para ejercer como institución educativa particular, o su renovación ... $16,674.40
+II. Para ejercer como instructor o instructora en instituciones educativas particulares, o su renovación ... $1,666.05
 De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
