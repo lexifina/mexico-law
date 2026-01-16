@@ -1,0 +1,1 @@
+Artículo 71 Bis.- La salud digital se refiere a la aplicación de las tecnologías de la información y la comunicación en los servicios de salud, como es el caso, entre otros, de la telesalud, la telemedicina, la salud móvil, los registros médicos o de salud electrónicos y dispositivos portátiles.

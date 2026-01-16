@@ -17,10 +17,15 @@ CAPITULO III
 Prestadores de Servicios de Salud
 CAPITULO IV
 Usuarios de los Servicios de Salud y Participación de la Comunidad
+CAPÍTULO IV BIS
+De la Comisión Nacional de Arbitraje Médico
+CAPÍTULO IV TER
 CAPITULO V
 Atención Materno-Infantil
 CAPITULO VI
 Servicios de Planificación Familiar
+CAPÍTULO VI BIS
+Salud Digital
 CAPITULO VII
 Salud Mental
 TÍTULO TERCERO BIS
@@ -137,6 +142,7 @@ CAPITULO XII
 Plaguicidas, Nutrientes Vegetales y Substancias Tóxicas o Peligrosas
 CAPITULO XII BIS
 Productos Biotecnológicos
+CAPÍTULO XII TER
 CAPITULO XIII
 Importación y Exportación
 TITULO DECIMO TERCERO

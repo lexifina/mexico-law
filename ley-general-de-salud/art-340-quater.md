@@ -1,0 +1,1 @@
+Artículo 340 Quater.- La Secretaría de Salud fijará las bases y modalidades a las que se sujetará el Sistema Nacional de Salud, sobre la disposición de la sangre y productos sanguíneos para atender contingencias, emergencias y situaciones extraordinarias.
