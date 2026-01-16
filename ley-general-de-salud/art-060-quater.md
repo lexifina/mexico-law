@@ -1,0 +1,1 @@
+Artículo 60 Quater.- Los mecanismos alternativos de solución de controversias en materia de servicios de salud contemplados en el presente Capítulo, se rigen de manera supletoria por los principios establecidos en la Ley General de Mecanismos Alternativos de Solución de Controversias y demás normativa aplicable.

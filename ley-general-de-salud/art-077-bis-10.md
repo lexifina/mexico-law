@@ -1,8 +1,9 @@
 Artículo 77 bis 10.- Los gobiernos de las entidades federativas prestarán servicios de atención médica en los siguientes supuestos:
 I. Tendrán a su cargo la administración y gestión de los recursos que la Federación aporte para la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados. En el caso de los recursos financieros que se les transfieran de conformidad con el artículo 77 bis 15, fracción I de esta Ley, deberán abrir cuentas bancarias productivas específicas para su manejo;
 II. Garantizarán y verificarán que se provean de manera integral los servicios de salud, medicamentos y demás insumos para la salud asociados;
-III. Fortalecerán el mantenimiento y desarrollo de infraestructura en salud, a partir de los recursos que reciban en los términos de este Título, destinando los recursos necesarios para la inversión en infraestructura médica, de conformidad con el plan maestro que para el efecto elabore la Secretaría de Salud;
-IV. Deberán rendir cuentas y proporcionar la información establecida respecto a los recursos que reciban, en los términos de esta ley y las demás aplicables, y
+III. Fortalecerán el desarrollo de la infraestructura para la prestación de servicios de salud y ejecutarán las acciones de conservación y mantenimiento, a partir de los recursos que reciban en los términos de este Título, destinando los recursos necesarios para la inversión en infraestructura y equipamiento, de conformidad con el Plan Maestro Nacional de Infraestructura en Salud y Equipamiento Médico de Alta Tecnología;
+IV. Deberán rendir cuentas y proporcionar la información establecida respecto a los recursos que reciban, en los términos de esta Ley y las demás aplicables;
+IV Bis. Darán prioridad a las acciones de mantenimiento sobre la creación, la sustitución y la ampliación de unidades médicas, a partir de los recursos que reciban en los términos de este Título, destinando los recursos necesarios para la inversión en acciones de infraestructura para la prestación de servicios de salud, de conformidad con el Plan Maestro Nacional de Infraestructura en Salud y Equipamiento Médico de Alta Tecnología, y
 V. Las demás que se incluyan en los acuerdos de coordinación que se celebren.
 Del financiamiento de la prestación gratuita de servicios de salud, medicamentos y
 demás insumos asociados

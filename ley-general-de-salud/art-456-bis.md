@@ -1,0 +1,1 @@
+Artículo 456 Bis.- Al que realice por cualquier medio alguna de las conductas a que se refiere el artículo 282 Quater de esta Ley, se le impondrá de uno a ocho años de prisión y multa equivalente de cien a dos mil veces el valor diario de la Unidad de Medida y Actualización.

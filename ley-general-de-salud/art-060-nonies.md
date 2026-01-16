@@ -1,0 +1,1 @@
+Artículo 60 Nonies.- El Plan Maestro Nacional de Infraestructura en Salud y Equipamiento Médico de Alta Tecnología estará disponible para su consulta de manera permanente, para las verificaciones que se requieran por las autoridades competentes sobre los folios de registro otorgados por la Secretaría de Salud.
