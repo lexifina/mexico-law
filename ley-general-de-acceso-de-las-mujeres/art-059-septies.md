@@ -6,4 +6,4 @@ IV. Dar seguimiento a los planes y programas de atención a mujeres víctimas de
 V. Difundir los servicios que se proporcionan en el Centro de Justicia para las Mujeres a las mujeres víctimas de violencia;
 VI. Elaborar la propuesta del ejercicio del presupuesto del Centro de Justicia para las Mujeres y aplicar los recursos financieros adoptados a los proyectos institucionales;
 VII. Rendir a la persona titular del Poder Ejecutivo estatal y al Congreso de la entidad federativa, un informe anual sobre las actividades realizadas en el Centro de Justicia para las Mujeres, y
-VIII. Elaborar los protocolos o manuales para la operación del Centro de Justicia para las Mujeres, que deberá cumplir con los modelos de gestión operativa y atención emitidos por la Secretaría de Gobernación.
+VIII. Elaborar los protocolos o manuales para la operación del Centro de Justicia para las Mujeres, que deberá cumplir con los modelos de gestión operativa y atención emitidos por la Secretaría de las Mujeres.

@@ -9,5 +9,5 @@ VII. Nivel de riesgo, y
 VIII. Plazo o término para que la autoridad o autoridades requeridas cumplimenten y den contestación a la autoridad emisora, el cual no podrá exceder de 48 horas.
 La información contenida en el Registro Nacional permitirá entre otras acciones, la verificación de antecedentes de violencia a víctimas por el mismo agresor.
 La información y datos contenidos en el Registro Nacional se clasifica como reservada para todos los efectos legales, su posesión, uso y transmisión tendrá como único objetivo, el plasmado en la presente ley y las autoridades deberán dar cumplimiento a las responsabilidades establecidas en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
-DEL SISTEMA NACIONAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA
-VIOLENCIA CONTRA LAS MUJERES
+DEL SISTEMA NACIONAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LAS
+VIOLENCIAS CONTRA LAS MUJERES
