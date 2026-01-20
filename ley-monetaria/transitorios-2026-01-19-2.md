@@ -1,0 +1,14 @@
+DECRETO por el que se reforma el Artículo Segundo del "Decreto que reforma el inciso b) del artículo 2° de la Ley Monetaria de los Estados Unidos Mexicanos y se señalan las características de la moneda de veinte pesos", publicado en el Diario Oficial de la Federación el 8 de diciembre de 1992.
+Publicado en el Diario Oficial de la Federación el 19 de enero de 2026
+Artículo Único.- Se reforma el Artículo Segundo del "Decreto que reforma el inciso b) del artículo 2° de la Ley Monetaria de los Estados Unidos Mexicanos y se señalan las características de la moneda de veinte pesos", publicado en el Diario Oficial de la Federación el 8 de diciembre de 1992, para quedar como sigue:
+...
+Transitorios
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Segundo. La moneda a que se refiere el presente Decreto podrá empezar a acuñarse a los 30 días naturales siguientes a la publicación de este Decreto.
+Tercero. Las monedas de veinte pesos emitidas de conformidad con el artículo 2°, inciso b), de la Ley Monetaria de los Estados Unidos Mexicanos, cuyas características se modifican con el presente Decreto, así como las que se emitan después de la entrada en vigor del mismo, continuarán con el poder liberatorio que señala el artículo 5° de la Ley en comento, hasta que sean retiradas de la circulación por el Banco de México.
+Cuarto. El Banco de México deberá publicar en el Diario Oficial de la Federación un aviso en el que indique que las piezas referidas en el artículo anterior ya han sido retiradas de circulación, fijando el plazo necesario para realizar su canje.
+Quinto. Corresponderá a la Casa de Moneda de México realizar los ajustes técnicos que se requieran, los que deberán ser acordes con las características esenciales de la moneda descrita en el presente Decreto.
+Sexto. Corresponderá al Banco de México la titularidad de todos los derechos patrimoniales de autor y cualquier otro derecho de propiedad industrial o intelectual derivado del diseño y la acuñación de la moneda a que se refiere el presente Decreto.
+Séptimo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+Ciudad de México, a 10 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de enero de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
