@@ -50,6 +50,8 @@ CAPÍTULO I
 Aprovechamiento Sustentable del Agua y los Ecosistemas Acuáticos
 CAPÍTULO II
 Preservación y Aprovechamiento Sustentable del Suelo y sus Recursos
+CAPÍTULO II BIS
+Aprovechamiento Sustentable en las Actividades Económicas
 CAPÍTULO III
 TÍTULO CUARTO
 Protección al Ambiente
