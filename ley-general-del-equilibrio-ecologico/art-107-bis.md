@@ -3,5 +3,3 @@ En dicho programa se deben establecer las acciones de reparación, restauración
 El programa debe ser presentado por el ganador de un concurso de licitación para concesión minera, una vez emitido el fallo correspondiente. La Secretaría debe analizar y, en su caso, dictaminar la viabilidad del programa propuesto a más tardar en ciento ochenta días naturales a partir de la fecha de su presentación.
 Una vez dictaminada la viabilidad del programa, la persona interesada deberá presentar como garantía seguro, carta de crédito, depósito ante la Tesorería de la Federación, fideicomiso o cualquier otro vehículo financiero que resulte idóneo. Una vez calificada, se emitirá la autorización del programa.
 El incumplimiento de cualquiera de las obligaciones previstas en el programa será motivo de ejecución de la garantía.
-De la Exploración y Explotación de los Recursos no Renovables en el Equilibrio
-Ecológico
