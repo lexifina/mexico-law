@@ -1,0 +1,6 @@
+Artículo 105 Bis.- La persona inventora o su causahabiente podrá presentar una solicitud provisional de patente en México, con la finalidad de que se le reconozca, como fecha de presentación de una solicitud de patente, la fecha y hora en la que fue recibida la solicitud provisional de patente en México.
+La solicitud provisional de patente en México deberá contener el nombre de la persona inventora o su causahabiente y estar acompañada de la descripción que permita identificar la invención reclamada.
+Para beneficiarse de este derecho, la persona solicitante tiene un plazo improrrogable de doce meses contado a partir de la fecha en que fue recibida la solicitud provisional de patente en México, para presentar la solicitud de patente correspondiente que cumpla con los requisitos previstos en esta Ley y su Reglamento.
+Una solicitud provisional de patente en México no gozará del derecho de prioridad respecto de otra solicitud o del beneficio de una fecha de presentación anterior en el Instituto.
+La solicitud provisional de patente en México no será publicada ni será objeto de examen por parte del Instituto.
+De no presentarse la solicitud de patente en el plazo señalado en el párrafo tercero de este artículo, la solicitud provisional de patente en México se considerará declinada, sin que medie declaración administrativa por parte del Instituto.
