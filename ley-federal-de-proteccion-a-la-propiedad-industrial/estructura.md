@@ -58,6 +58,12 @@ Capítulo III
 De la Autorización de Uso
 Capítulo IV
 Capítulo V
+TÍTULO QUINTO BIS
+Capítulo I
+Disposiciones Generales
+Capítulo II
+Del Comité Técnico Especializado
+Capítulo III
 TÍTULO SEXTO
 De los Procedimientos de Declaración Administrativa
 Capítulo I
