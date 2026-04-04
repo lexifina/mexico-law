@@ -1,0 +1,2 @@
+Artículo 229 Bis.- En caso de que el Instituto no emita requerimientos a la persona solicitante de un registro de marca o no se presente oposición sobre la solicitud, el plazo máximo de conclusión para que el Instituto resuelva la solicitud será de cinco meses contados a partir de la fecha de su presentación.
+Los plazos previstos en el presente artículo y en el artículo 229 de esta Ley, resultan aplicables para las marcas, avisos comerciales y nombres comerciales, previstos en este Título.

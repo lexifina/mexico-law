@@ -1,0 +1,4 @@
+Artículo 113 Bis.- Antes de que el Instituto declare el abandono, la persona solicitante podrá presentar la petición del restablecimiento de derecho de su solicitud, ante la falta de cumplimiento de un requerimiento contemplado por los artículos 106, 110 y 111 de esta Ley.
+La petición del restablecimiento de derecho de la solicitud podrá presentarse dentro del plazo de quince días hábiles contado a partir del día hábil siguiente a la fecha del vencimiento del plazo incumplido, acompañada del comprobante de pago de la tarifa correspondiente.
+Al momento de ingresar la petición de restablecimiento de derecho de la solicitud, la persona solicitante deberá dar cumplimiento al requerimiento del que fue omiso, previsto en los artículos 106, 110 o 111 de esta Ley, según corresponda.
+El Instituto resolverá la continuación del trámite conforme corresponda.
