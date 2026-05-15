@@ -1,0 +1,11 @@
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Fiscalización y Rendición de Cuentas de la Federación y de la Ley General de Contabilidad Gubernamental.
+Publicado en el Diario Oficial de la Federación el 14 de mayo de 2026
+Artículo Segundo.- Se adiciona un párrafo segundo, recorriéndose los subsecuentes, al artículo 67 de la Ley General de Contabilidad Gubernamental, para quedar como sigue:
+...
+Transitorios
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo. La Auditoría Superior de la Federación realizará y adecuará las disposiciones reglamentarias correspondientes dentro del plazo de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto.
+Tercero. La Auditoría Superior de la Federación emitirá los lineamientos e instruirá la implementación y operación del Registro de Información y Datos Relacionados con los Recursos Federales en un plazo no mayor a ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto. Para su funcionamiento deberá establecer los mecanismos de identificación y control de acceso que observarán los entes públicos.
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto correspondientes para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+Ciudad de México, a 21 de abril de 2026.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Laura Irais Ballesteros Mancilla, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 11 de mayo de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
