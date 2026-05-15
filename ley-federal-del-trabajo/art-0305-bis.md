@@ -1,0 +1,1 @@
+Artículo 305 Bis.- En los contratos que regulen la relación laboral de las personas trabajadoras artistas intérpretes o ejecutantes, se deberán estipular de manera específica las condiciones y la remuneración correspondiente para la utilización de su imagen o voz a través de sistemas de inteligencia artificial o cualquier otra tecnología.
