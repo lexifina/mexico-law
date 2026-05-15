@@ -83,7 +83,7 @@ De los Procedimientos
 Capítulo I
 Del Procedimiento ante Autoridades Jurisdiccionales
 Capítulo II
-Del Procedimiento de Avenencia
+De los Mecanismos Alternativos de Solución de Controversias
 Capítulo III
 Del Arbitraje
 TITULO XII
