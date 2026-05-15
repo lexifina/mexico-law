@@ -1,0 +1,1 @@
+Artículo 12 Bis.- La Auditoría Superior de la Federación coordinará y administrará un Registro de Información y Datos relacionados con los Recursos Federales, incluyendo las participaciones federales, en el que los entes públicos deberán aportar la información que para tal efecto se establezca.
