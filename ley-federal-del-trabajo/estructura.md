@@ -73,7 +73,7 @@ TRABAJO EN PLATAFORMAS DIGITALES
 CAPITULO X
 Deportistas profesionales
 CAPITULO XI
-Trabajadores actores y músicos
+Personas trabajadoras artistas intérpretes o ejecutantes
 CAPITULO XII
 Trabajo a domicilio
 CAPÍTULO XII BIS
