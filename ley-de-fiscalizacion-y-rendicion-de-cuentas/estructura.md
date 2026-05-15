@@ -21,6 +21,8 @@ De la Fiscalización de las Participaciones Federales
 Capítulo III
 Capítulo IV
 TÍTULO CUARTO
+TÍTULO CUARTO BIS
+De las investigaciones de oficio o derivadas de denuncia
 TÍTULO QUINTO
 Capítulo I
 Capítulo II
