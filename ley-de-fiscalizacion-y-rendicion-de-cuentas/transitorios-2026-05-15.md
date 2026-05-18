@@ -1,0 +1,6 @@
+FE de erratas al Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Fiscalización y Rendición de Cuentas de la Federación y de la Ley General de Contabilidad Gubernamental, publicado el 14 de mayo de 2026.
+Publicada en el Diario Oficial de la Federación el 15 de mayo de 2026
+En el Artículo 65, dice:
+Artículo 65.- De la revisión efectuada al ejercicio fiscal en curso o a los ejercicios anteriores, la Auditoria Superior de la Federación rendirá un informe a la Cámara, a más tardar a los 20 días hábiles posteriores a la conclusión de la auditoria. Asimismo, promoverá las acciones que, en su caso, correspondan para el financiamiento de las responsabilidades administrativas, penales y políticas a que haya lugar, conforme lo establecido en esta Ley y demás legislación aplicable.
+Debe decir:
+Artículo 65.- De la revisión efectuada al ejercicio fiscal en curso o a los ejercicios anteriores, la Auditoría Superior de la Federación rendirá un informe a la Cámara, a más tardar a los 20 días hábiles posteriores a la conclusión de la auditoría. Asimismo, promoverá las acciones que, en su caso, correspondan para el fincamiento de las responsabilidades administrativas, penales y políticas a que haya lugar, conforme lo establecido en esta Ley y demás legislación aplicable.
