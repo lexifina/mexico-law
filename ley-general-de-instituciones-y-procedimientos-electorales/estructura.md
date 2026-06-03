@@ -112,6 +112,10 @@ De la Fiscalización de Partidos Políticos
 CAPÍTULO IV
 De la Comisión de Fiscalización
 CAPÍTULO V
+TÍTULO SEGUNDO BIS
+De la Integridad de las Candidaturas
+CAPÍTULO ÚNICO
+De la Comisión de Verificación de Integridad en Candidaturas
 TÍTULO TERCERO
 De las Bases para la Organización del Servicio Profesional Electoral Nacional
 CAPÍTULO I
