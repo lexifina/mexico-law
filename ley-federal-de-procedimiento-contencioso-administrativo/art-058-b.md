@@ -1,2 +1,2 @@
-ARTÍCULO 58-B.- Cuando el demandante ejerza su derecho a presentar su demanda en línea a través del Sistema de Justicia en Línea del Tribunal, las autoridades demandadas deberán comparecer y tramitar el juicio en la misma vía.
-Si el demandante no señala expresamente su Dirección de Correo Electrónico, se tramitará el Juicio en la vía tradicional y el acuerdo correspondiente se notificará por lista y en el Boletín Procesal del Tribunal.
+ARTÍCULO 58-B.- Cuando la parte demandante ejerza su derecho a presentar su demanda en línea a través del Sistema de Justicia en Línea del Tribunal, las autoridades demandadas deberán comparecer y tramitar el juicio en la misma vía.
+Si la persona demandante no señala expresamente su Dirección de Correo Electrónico, se tramitará el juicio en la vía tradicional y el acuerdo correspondiente se notificará por lista y en el Boletín Procesal del Tribunal.

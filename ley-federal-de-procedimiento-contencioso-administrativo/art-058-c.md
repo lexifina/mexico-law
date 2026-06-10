@@ -1,3 +1,3 @@
-ARTÍCULO 58-C.- Cuando la demandante sea una autoridad, el particular demandado, al contestar la demanda, tendrá derecho a ejercer su opción para que el juicio se tramite y resuelva en línea conforme a las disposiciones de este Capítulo, señalando para ello su domicilio y Dirección de Correo Electrónico.
-A fin de emplazar al particular demandado, el Secretario de Acuerdos que corresponda, imprimirá y certificará la demanda y sus anexos que se notificarán de manera personal.
-Si el particular rechaza tramitar el juicio en línea contestará la demanda mediante el Juicio en la vía tradicional.
+ARTÍCULO 58-C.- Cuando la persona demandante sea una autoridad, la persona particular demandada, al contestar la demanda, tendrá derecho a ejercer su opción para que el juicio se tramite y resuelva en línea conforme a las disposiciones de este Capítulo, señalando para ello su domicilio y Dirección de Correo Electrónico.
+A fin de emplazar a la persona particular demandada, la Secretaria o el Secretario de Acuerdos que corresponda, imprimirá y certificará la demanda y sus anexos que se notificarán de manera personal.
+Si la persona particular rechaza tramitar el juicio en línea contestará la demanda mediante el juicio en la vía tradicional.

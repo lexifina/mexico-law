@@ -1,0 +1,1 @@
+ARTÍCULO 17 Bis.- Presentada la demanda o la ampliación a la misma, y en su caso una vez transcurridos los plazos concedidos a la persona demandante para el desahogo de prevenciones o requerimientos, la Magistrada Instructora o el Magistrado Instructor deberá acordar lo conducente, admitiéndola o desechándola, dentro de un plazo que no deberá exceder de cinco días.

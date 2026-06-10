@@ -1,1 +1,1 @@
-ARTÍCULO 58-G.- Solamente, las partes, las personas autorizadas y delegados tendrán acceso al Expediente Electrónico, exclusivamente para su consulta, una vez que tengan registrada su Clave de Acceso y Contraseña.
+ARTÍCULO 58-G.- Solamente, las partes, las personas autorizadas y las personas delegadas tendrán acceso al Expediente Electrónico, exclusivamente para su consulta, una vez que tengan registrada su Clave de Acceso y Contraseña.

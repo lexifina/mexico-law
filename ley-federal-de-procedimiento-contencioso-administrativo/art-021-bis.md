@@ -1,0 +1,1 @@
+ARTÍCULO 21 Bis.- Presentada la contestación a la demanda o a la ampliación, y en su caso una vez transcurridos los plazos concedidos a la parte demandada para el desahogo de prevenciones o requerimientos, la Magistrada Instructora o el Magistrado Instructor deberá acordar lo conducente, dentro de un plazo que no deberá exceder de cinco días.
