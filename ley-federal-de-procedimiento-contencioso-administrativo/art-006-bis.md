@@ -1,0 +1,1 @@
+ARTÍCULO 6o. Bis.- Salvo que alguna disposición de esta Ley establezca un plazo diverso, el acuerdo o resolución que deba recaer a toda promoción presentada ante el Tribunal ya sea por escrito ante la Sala o, en línea, a través del Sistema de Justicia en Línea, deberá emitirse en un plazo no mayor a cinco días siguientes a la fecha de su presentación.
