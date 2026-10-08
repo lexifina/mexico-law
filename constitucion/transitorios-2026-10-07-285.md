@@ -1,0 +1,13 @@
+DECRETO por el que se reforman y adicionan los artículos 82, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de nacionalidad única para el ejercicio de la titularidad de los Poderes Ejecutivos Federal y Locales.
+Publicado en el Diario Oficial de la Federación el 7 de octubre de 2026
+Artículo Único.- Se reforman los artículos 82, párrafo primero y su fracción I, párrafo primero; 116, párrafo segundo, fracción I, párrafo quinto, y 122, Apartado A, fracción III, párrafo segundo, y se adicionan a los artículos 82, fracción I, los párrafos segundo y tercero; 116, párrafo segundo, fracción I, un párrafo sexto; 122, Apartado A, fracción III, un párrafo tercero, y se recorre el subsecuente en su orden, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+...
+Transitorios
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+Segundo. Lo dispuesto en este Decreto será aplicable a partir del proceso electoral correspondiente al año 2028.
+Tercero. Lo dispuesto en este Decreto no será aplicable a quienes se encuentren en ejercicio de los cargos a que este se refiere, a la fecha de su entrada en vigor.
+Cuarto. El Congreso de la Unión realizará las adecuaciones a la Ley de Nacionalidad y a la legislación electoral dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto.
+Quinto. Los certificados de nacionalidad mexicana expedidos con anterioridad a la entrada en vigor del presente Decreto conservarán su validez y surtirán plenos efectos respecto de los cargos y funciones distintos de los señalados en los artículos 82, 116, fracción I, y 122, Apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos.
+Sexto. Las entidades federativas armonizarán sus constituciones y su legislación electoral con lo dispuesto en el presente Decreto dentro de los noventa días naturales siguientes a su entrada en vigor. En tanto, lo dispuesto en este Decreto será de aplicación directa.
+Ciudad de México, a 06 de octubre de 2026.- Sen. Higinio Martínez Miranda, Presidente.- Dip. Raúl Bolaños-Cacho Cué, Presidente.- Sen. Claudia Tello Espinosa, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 07 de octubre de 2026.- Claudia Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
