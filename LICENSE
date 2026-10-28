@@ -1,0 +1,17 @@
+The legal texts in this repository are Mexican federal legislation. Under the Ley Federal del Derecho de Autor,
+art. 14, fracción VIII, legislative, regulatory, administrative and judicial texts are not protected by
+copyright.
+
+The consolidated texts and the extractos come from the Suprema Corte de Justicia de la Nación, "Legislación"
+(https://legislacion.scjn.gob.mx), retrieved in October 2026. Its terms (https://www.scjn.gob.mx/terminos-condiciones)
+allow copying "con fines exclusivamente informativos, académicos, de orientación entre otros similares o
+análogos", ask whoever reproduces or processes the information to cite its electronic location and the date of
+consultation, and forbid commercialising the portal's information. Attribution:
+
+    Suprema Corte de Justicia de la Nación. Legislación. <https://legislacion.scjn.gob.mx> [Consulta: octubre de 2026]
+
+The official text is the one published in the Diario Oficial de la Federación. SCJN's editor's notes
+("N. DE E.") are SCJN's, not law.
+
+The scripts, the commit structure and the documentation are by Lexifina and may be reused under CC0 1.0.
+This repository is private; reuse terms for a public release have not been decided.
