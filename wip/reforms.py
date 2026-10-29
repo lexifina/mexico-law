@@ -40,13 +40,19 @@ def rows(raw: bytes) -> list[dict]:
                 when = date(int(m.group(3)), int(m.group(2)), int(m.group(1)))
         if not when:
             continue
-        title = max(texts, key=len)
-        if not re.search(r'(?i)decreto|fe de erratas|aclaraci|sentencia|declaratoria|acuerdo|ley', title):
+        ti = max(range(len(texts)), key=lambda i: len(texts[i]))
+        title = texts[ti]
+        # Decree 73 (DOF 14-02-1972) is printed as "REFORMAS y Adiciones a los artículos ...", so "reforma" counts too.
+        if not re.search(r'(?i)decreto|fe de erratas|aclaraci|sentencia|declaratoria|acuerdo|ley|reforma', title):
             continue
+        # The cell's first paragraph is the decree's own title; the rest is the publisher's summary.
+        paras = [clean(p) for p in re.findall(r'(?is)<p[^>]*>(.*?)(?=<p[^>]*>|</td>)', cells[ti])]
+        paras = [p for p in paras if p]
+        name = paras[0] if paras else title
         num = None
         for x in texts:
             if re.fullmatch(r'\d{1,4}', x):
                 num = int(x)
         links = [h for c in cells for h in HREF.findall(c)]
-        out.append({'num': num, 'title': title, 'dof': when.isoformat(), 'links': links})
+        out.append({'num': num, 'title': title, 'name': name, 'dof': when.isoformat(), 'links': links})
     return out
