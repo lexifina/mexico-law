@@ -1,0 +1,10 @@
+{
+  "path": "mx",
+  "code": "MX",
+  "name": "Mexico",
+  "level": "country",
+  "repo": "https://github.com/lexifina/mexico-law",
+  "build": "built: Constitución Política de los Estados Unidos Mexicanos 2006-2026 (117 versions, from the Cámara de Diputados' consolidated copies in the Internet Archive); LFPDPPP 2010-2025 (3 versions)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}

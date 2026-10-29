@@ -65,7 +65,7 @@ def norm(s: str) -> str:
     s = re.sub(r'[‘’‚´`]', "'", s)
     s = re.sub(r'[“”„«»]', '"', s)
     s = re.sub(r'[‐-―−]', '-', s)
-    s = re.sub(r'(?<![\w.])V{2,}(?![\w])', '……', s)  # two 2013 copies print the "……" glyphs as "VVV"
+    s = re.sub(r'(?<![\w.])(?:V{2,}|E{3,})(?![\w])', '……', s)  # 2013 copies print "……" glyphs as "VVV"/"EEE"
     s = s.replace('…', '...')
     s = re.sub(r'\.(?:\s?\.){2,}', '... ', s)  # runs of dots / ellipses ("……….." vs "………" vs "...")
     s = re.sub(r'\s+', ' ', s).strip()
@@ -131,11 +131,11 @@ def extract(path: str) -> dict:
                 x0, y0, x1, y1 = ln['bbox']
                 if y0 < 104:
                     if reform is None:
-                        m = re.search(r'ltimas? [Rr]eformas? DOF\s*(\d{1,2}-\d{1,2}-\d{4})', text)
+                        m = re.search(r'(?:ltimas? [Rr]eformas?|Nueva Ley) DOF\s*(\d{1,2}-\d{1,2}-\d{4})', text)
                         if m:
                             reform = min(note_dates(m.group(0)))
                     continue
-                if y0 > 735 and re.fullmatch(r'\s*(\d+ de \d+)?\s*', text):
+                if (y0 > 735 and re.fullmatch(r'\s*(\d+ de \d+)?\s*', text)) or (y0 > 700 and re.fullmatch(r'\s*\d+ de \d+\s*', text)):
                     continue
                 first = next((s for s in spans if s['text'].strip()), spans[0])
                 lines.append((pno, x0, y0, x1, text, first, width))
@@ -357,6 +357,43 @@ def title_articles(title: str) -> set[int]:
     return out
 
 
+NOTE_LINE = re.compile(r'(?i)(?:reformad|adicionad|derogad|recorrid|original|erratas?|reforma\b|declarad|aclarad)[^\n]*'
+                       r'DOF:?\s*\d{1,2}-\d{1,2}-\d{4}')
+
+
+def coverage(path: str, units: dict) -> dict:
+    """An independent check of one copy against the units made from it: the copy's body text read a second way
+    (PyMuPDF plain text, below the page header, publisher notes taken out by their wording), with every space removed,
+    must contain every unit paragraph, and the paragraphs must account for (nearly) all of it."""
+    import fitz
+    fitz.TOOLS.mupdf_display_errors(False)
+    doc = fitz.open(path)
+    body = []
+    for page in doc:
+        clip = fitz.Rect(0, 104, page.rect.width, 735)
+        for ln in page.get_text('text', clip=clip).split('\n'):
+            if re.fullmatch(r'\s*\d+ de \d+\s*', ln):
+                continue
+            if NOTE_LINE.search(ln) and len(ln) < 260 and not re.match(r'\s*(Art[íi]culo \d|[IVX]+\.)', ln):
+                continue
+            body.append(ln)
+    flat = re.sub(r'\s+', '', norm(' '.join(body)))
+    paras = [re.sub(r'\s+', '', l) for u in units.values() for l in u['lines']]
+    missing = [p[:80] for p in paras if p not in flat]
+    covered = sum(len(p) for p in paras if p in flat)
+    return {'paragraphs': len(paras), 'missing': missing, 'body_chars': len(flat), 'unit_chars': covered,
+            'share': round(covered / max(1, len(flat)), 4)}
+
+
+def all_coverage(states: list[dict]) -> dict:
+    with ProcessPoolExecutor(max_workers=min(8, os.cpu_count() or 2)) as ex:
+        res = list(ex.map(coverage, [c['path'] for c in states],
+                          [{k: {'lines': u['lines']} for k, u in c['units'].items()} for c in states]))
+    return {'copies': len(res), 'paragraphs': sum(r['paragraphs'] for r in res),
+            'missing': sum(len(r['missing']) for r in res), 'min_share': min(r['share'] for r in res),
+            'min_share_copy': states[min(range(len(res)), key=lambda i: res[i]['share'])]['timestamp']}
+
+
 def title_fits(title: str, art: int | None) -> bool:
     """Could this decree have changed this unit, by its own title? A title that lists articles fits only those
     articles; one that names none ("diversas disposiciones") fits any unit. Units other than articles fit only titles
@@ -419,10 +456,13 @@ def build(verify: bool = False) -> dict:
             if re.match(r'(?i)fe de erratas?\b', b['title']):
                 # An erratum printed in the DOF that corrects a decree's text: a publication of its own.
                 key = f'fe-de-erratas-{b["date"]}'
-                errata[key] = {'num': None, 'key': key, 'dof': b['date'], 'name': b['title'], 'title': b['title'],
-                               'erratum': True, 'url': LEYES + 'pdf/CPEUM.pdf'}
+                if key not in errata:
+                    errata[key] = {'num': None, 'key': key, 'dof': b['date'], 'name': b['title'], 'title': b['title'],
+                                   'erratum': True, 'url': LEYES + 'pdf/CPEUM.pdf'}
                 dmy = f'{b["date"][8:10]}-{b["date"][5:7]}-{b["date"][:4]}'
-                c['units'][key] = {'label': f'Fe de erratas (DOF {dmy})', 'kind': 'transitional',
+                n = sum(1 for k in c['units'] if k.startswith(key))  # two errata printed on one day
+                ukey = key if not n else f'{key}-{n + 1}'
+                c['units'][ukey] = {'label': f'Fe de erratas (DOF {dmy})' + (f', {n + 1}' if n else ''), 'kind': 'transitional',
                                    'lines': [p['t'] for p in b['paras']],
                                    'notes': [x for p in b['paras'] for x in p['notes']], 'decree': key}
                 continue
@@ -561,6 +601,8 @@ def build(verify: bool = False) -> dict:
         'reforms': [c['reform'] for c in states], 'versions': len(versions), 'events': len(events), 'stats': stats,
         'clamped': clamped, 'unmatched_blocks': unmatched_blocks,
         'final_matches_newest_copy': final == state, 'newest_copy': states[-1]['timestamp'],
+        'newest_copy_coverage': coverage(states[-1]['path'], states[-1]['units']),
+        'all_copies_coverage': all_coverage(states),
         'unexplained': unexplained,
         'force_rules': {n: r for n, (_, r) in force.items()},
     }
@@ -616,6 +658,22 @@ def corpus(res: dict) -> dict:
         'Constitución: copies before 2013 print the transitorios of only some earlier decrees; transitorios the '
         'publisher added later for decrees before the gap arrive as unexplained publisher changes.',
     ]
+    cov, allc = rep['newest_copy_coverage'], rep['all_copies_coverage']
+    decisions += [
+        'Constitución: a copy prints a decree\'s wording from its publication day, but each change here takes effect '
+        'only on its decree\'s in-force day, so no wording appears before its decree applies.',
+        'Constitución: errata ("Fe de erratas") that the DOF printed and the publisher reproduces with the decrees are '
+        'laws of their own, dated by Código Civil Federal art. 3; one (DOF 25-06-2009) corrects art. 16.',
+        'Constitución: when two decrees were published on the same day and a note names that day, the change is '
+        'credited only if exactly one decree\'s title fits the article (a title listing other articles does not fit; '
+        '"diversas disposiciones" fits any); otherwise it is unexplained, as for art. 41 on DOF 02-06-2026.',
+        f'Constitución, verification: the last version equals the units read from the newest copy (Internet Archive '
+        f'{rep["newest_copy"]}, last reform DOF 07-10-2026): {rep["final_matches_newest_copy"]}. Read a second way '
+        f'(plain text, notes removed), that copy contains all {cov["paragraphs"]} unit paragraphs verbatim, which '
+        f'cover {cov["share"]:.2%} of its body text (the rest is the cover page and wrapped note lines); across all '
+        f'{allc["copies"]} copies used, {allc["paragraphs"]} paragraphs, {allc["missing"]} missing, lowest coverage '
+        f'{allc["min_share"]:.2%}.',
+    ]
     if rep['clamped']:
         decisions.append(f'Constitución: {len(rep["clamped"])} unit changes from a later copy would have taken effect '
                          'before a change from an earlier copy to the same unit; they were moved to that later day: '
@@ -623,7 +681,7 @@ def corpus(res: dict) -> dict:
     sources = [{
         'name': 'Cámara de Diputados, LeyesBiblio: Constitución Política de los Estados Unidos Mexicanos (texto vigente, '
                 'consolidated PDFs), read through the Internet Archive Wayback Machine',
-        'url': LEYES + 'pdf/CPEUM.pdf', 'retrieved': '2026-10-28', 'requests': len(res['states']),
+        'url': LEYES + 'pdf/CPEUM.pdf', 'retrieved': '2026-10-28', 'requests': logged_requests(r'LeyesBiblio/pdf/(?:1[._]|CPEUM)'),
         'licence': 'Public legal text; Cámara de Diputados del H. Congreso de la Unión, Secretaría de Servicios '
                    'Parlamentarios. Archived copies: Internet Archive.',
         'notes': f'{rep["copies"]} distinct archived copies (CDX digests) 2006-2026; captures used: '
@@ -646,6 +704,15 @@ def corpus(res: dict) -> dict:
         'ai_use': ['Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote fetch.py, reforms.py and parse.py. No model '
                    'output is used as legal text, dates or credits: all come from the cached official copies by '
                    'deterministic code.']}
+
+
+def logged_requests(pattern: str) -> int:
+    """How many logged requests (archive.org CDX listings and captures) touched these files."""
+    n = 0
+    for line in (CACHE / 'requests.jsonl').read_text(encoding='utf-8').splitlines():
+        if re.search(pattern, json.loads(line).get('url', '')):
+            n += 1
+    return n
 
 
 def write_atomic(path: Path, data: dict) -> None:
