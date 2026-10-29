@@ -21,19 +21,43 @@ Builder: `C:/Users/alany/Documents/lexifina/scripts/mexico-law/`; checkout `C:/U
 - [x] builder: parse.py (docx -> files), inforce.py (first transitorio), build.py (fast-import), docs.py
 - [x] wip push: Constitution + 9 laws, 343 commits (check_repo 0 failures, check_words 343/343, check_corpus pass,
       test_corpus OK, test_noon clean)
-- [ ] fetch all records (`--no-word`), then Word + extractos, 4 threads. SCJN takes ~8 s to make each Word file,
-      so ~25-30 files a minute: the full set takes many hours. wip is rebuilt from the laws whose fetch is complete.
-- [ ] checks on the full build, main push
+- [x] fetch all records (`--no-word`): 313 laws (1 constitution, 9 codes, 303 leyes), 3,755 DOF records,
+      3,629 with a Word file.
+- [ ] fetch Word + extractos (4 threads): STOPPED by the user's stop at 2026-10-29 ~00:27, after 9 of 313 laws
+      (Constitution, the 9 codes). Small laws take 1-2 s a file; the big codes ~8 s. About 3,000 files are left,
+      roughly an hour. A file being written when the fetch was killed could be truncated: if a build fails to
+      gunzip one, delete that file and rerun fetch.py.
+- [x] wip pushed: bfdfdae, 606 commits, 9 complete laws (Constitution + 8 codes). check_repo: 0 failures
+      (605 commits, 504 version days), check_words: 701/701 texts, check_corpus pass, test_corpus OK
+      (on the 343-commit build), test_noon clean.
+- [ ] full build, all checks, then main ONCE (force-push over the placeholder), then append-only.
+      Main has NOT been pushed: it still holds only the placeholder ee03ec1.
+
+## Fixes made during the work (all in the scripts)
+- parse.py: article numbers like `1,000`, `410 A`, `32-B Bis`, `30 SEXTUS`/`SÉPTIMUS`; PARSE_VERSION 5.
+- fetch.py: codes of conduct/ethics are dropped wherever CONDUCTA/ETICA appears in the title.
+- build.py: only laws whose fetch is complete are built (`complete()`); check_repo/check_words use the same filter.
+- Commits from different laws are not merged: SCJN extractos are per law, and one DOF edition can carry several
+  decrees, so one commit per law per publication (a deviation from "one commit per act across laws").
+
+## Still to do before main
+- Finish the fetch; run survey.py to catch article-numbering patterns in the leyes (duplicates show as `~2`).
+- `--today 2026-10-29` (last retrieval day) for the final build; build twice and compare heads (determinism).
+- Hand-check tools/in_force_on.py on 2-3 provisions at several dates (e.g. Constitution art. 3 around
+  2019-05-15/16, art. 1 around 2011-06-10/11).
+- Write memory `mexico_law_history.md`, add it to MEMORY.md, and SendMessage gitlaw-global when main is pushed.
 
 ## Next commands
 ```
 cd C:/Users/alany/Documents/lexifina/scripts/mexico-law
 python -E -s fetch.py --threads 4                       # resumable; everything cached
-python -E -s build.py C:/Users/alany/Documents/mexico-law --today 2026-10-28 --branch wip
+sh push_wip.sh                                          # checks GitHub for foreign commits, builds wip, pushes
+python -E -s build.py C:/Users/alany/Documents/mexico-law --today 2026-10-29 --branch wip
 python -E -s check_repo.py C:/Users/alany/Documents/mexico-law --branch wip
 python -E -s check_words.py
 cd C:/Users/alany/Documents/mexico-law && git push -f origin wip    # check GitHub for foreign commits first
 ```
 
 ## Last pushed
-- wip: 45d0153 (Constitution + 9 laws)
+- wip: bfdfdae (606 commits) + a PROGRESS.md commit on top
+- main: not pushed (placeholder ee03ec1)
