@@ -1,0 +1,1724 @@
+# Código de Comercio
+
+CCom · 37 versions, from 2006-06-07 (latest in force: 2026-02-18) · <https://www.diputados.gob.mx/LeyesBiblio/pdf/CCom.pdf>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Artículo 1o. | [art-0001.md](art-0001.md) | 0 |  |
+| Artículo 2o. | [art-0002.md](art-0002.md) | 0 |  |
+| Artículo 3o. | [art-0003.md](art-0003.md) | 0 |  |
+| Artículo 4o. | [art-0004.md](art-0004.md) | 0 |  |
+| Artículo 5o. | [art-0005.md](art-0005.md) | 0 |  |
+| Artículo 6o. | [art-0006.md](art-0006.md) | 0 |  |
+| Artículo 6 bis | [art-0006-bis.md](art-0006-bis.md) | 0 |  |
+| Artículo 7o. | [art-0007.md](art-0007.md) | 0 |  |
+| Artículo 8o. | [art-0008.md](art-0008.md) | 0 |  |
+| Artículo 9o. | [art-0009.md](art-0009.md) | 0 |  |
+| Artículo 10 | [art-0010.md](art-0010.md) | 0 |  |
+| Artículo 11 | [art-0011.md](art-0011.md) | 0 |  |
+| Artículo 12 | [art-0012.md](art-0012.md) | 0 |  |
+| Artículo 13 | [art-0013.md](art-0013.md) | 0 |  |
+| Artículo 14 | [art-0014.md](art-0014.md) | 0 |  |
+| Artículo 15 | [art-0015.md](art-0015.md) | 0 |  |
+| Artículo 16 | [art-0016.md](art-0016.md) | 2 | 2019-01-01 |
+| Artículo 17 | [art-0017.md](art-0017.md) | 1 | 2014-06-14 |
+| Artículo 18 | [art-0018.md](art-0018.md) | 1 | 2012-04-10 |
+| Artículo 19 | [art-0019.md](art-0019.md) | 1 | 2009-06-03 |
+| Artículo 20 | [art-0020.md](art-0020.md) | 1 | 2014-06-14 |
+| Artículo 20 bis | [art-0020-bis.md](art-0020-bis.md) | 0 |  |
+| Artículo 21 | [art-0021.md](art-0021.md) | 2 | 2014-06-14 |
+| Artículo 21 bis | [art-0021-bis.md](art-0021-bis.md) | 1 | 2009-08-28 |
+| Artículo 21 bis 1 | [art-0021-bis-1.md](art-0021-bis-1.md) | 1 | 2009-08-28 |
+| Artículo 22 | [art-0022.md](art-0022.md) | 2 | 2014-06-14 |
+| Artículo 23 | [art-0023.md](art-0023.md) | 0 |  |
+| Artículo 24 | [art-0024.md](art-0024.md) | 0 |  |
+| Artículo 25 | [art-0025.md](art-0025.md) | 0 |  |
+| Artículo 26 | [art-0026.md](art-0026.md) | 0 |  |
+| Artículo 27 | [art-0027.md](art-0027.md) | 1 | 2014-06-14 |
+| Artículo 28 | [art-0028.md](art-0028.md) | 0 |  |
+| Artículo 29 | [art-0029.md](art-0029.md) | 1 | 2014-06-14 |
+| Artículo 30 | [art-0030.md](art-0030.md) | 1 | 2009-08-28 |
+| Artículo 30 bis | [art-0030-bis.md](art-0030-bis.md) | 1 | 2009-08-28 |
+| Artículo 30 bis 1 | [art-0030-bis-1.md](art-0030-bis-1.md) | 1 | 2009-08-28 |
+| Artículo 31 | [art-0031.md](art-0031.md) | 1 | 2009-08-28 |
+| Artículo 32 | [art-0032.md](art-0032.md) | 0 |  |
+| Artículo 32 bis | [art-0032-bis.md](art-0032-bis.md) | 0 |  |
+| Artículo 32 bis 1 | [art-0032-bis-1.md](art-0032-bis-1.md) | 2 | 2014-06-14 |
+| Artículo 32 bis 2 | [art-0032-bis-2.md](art-0032-bis-2.md) | 2 | 2014-06-14 |
+| Artículo 32 bis 3 | [art-0032-bis-3.md](art-0032-bis-3.md) | 1 | 2009-08-28 |
+| Artículo 32 bis 4 | [art-0032-bis-4.md](art-0032-bis-4.md) | 2 | 2014-06-14 |
+| Artículo 32 bis 5 | [art-0032-bis-5.md](art-0032-bis-5.md) | 1 | 2009-08-28 |
+| Artículo 32 Bis 6 | [art-0032-bis-6.md](art-0032-bis-6.md) | 2 | 2014-06-14 |
+| Artículo 32 bis 7 | [art-0032-bis-7.md](art-0032-bis-7.md) | 1 | 2009-08-28 |
+| Artículo 32 bis 8 | [art-0032-bis-8.md](art-0032-bis-8.md) | 1 | 2009-08-28 |
+| Artículo 32 bis 9 | [art-0032-bis-9.md](art-0032-bis-9.md) | 1 | 2009-08-28 |
+| Artículo 33 | [art-0033.md](art-0033.md) | 0 |  |
+| Artículo 34 | [art-0034.md](art-0034.md) | 1 | 2016-04-08 |
+| Artículo 35 | [art-0035.md](art-0035.md) | 0 |  |
+| Artículo 36 | [art-0036.md](art-0036.md) | 0 |  |
+| Artículo 37 | [art-0037.md](art-0037.md) | 1 | 2019-01-01 |
+| Artículo 38 | [art-0038.md](art-0038.md) | 1 | 2016-04-08 |
+| Artículo 39 | [art-0039.md](art-0039.md) | 0 |  |
+| Artículo 40 | [art-0040.md](art-0040.md) | 0 |  |
+| Artículo 41 | [art-0041.md](art-0041.md) | 0 |  |
+| Artículo 42 | [art-0042.md](art-0042.md) | 0 |  |
+| Artículo 43 | [art-0043.md](art-0043.md) | 0 |  |
+| Artículo 44 | [art-0044.md](art-0044.md) | 0 |  |
+| Artículo 45 | [art-0045.md](art-0045.md) | 0 |  |
+| Artículo 46 | [art-0046.md](art-0046.md) | 0 |  |
+| Artículo 46 bis | [art-0046-bis.md](art-0046-bis.md) | 1 | 2016-04-08 |
+| Artículo 47 | [art-0047.md](art-0047.md) | 0 |  |
+| Artículo 48 | [art-0048.md](art-0048.md) | 0 |  |
+| Artículo 49 | [art-0049.md](art-0049.md) | 1 | 2012-04-10 |
+| Artículo 50 | [art-0050.md](art-0050.md) | 1 | 2014-06-14 |
+| Artículo 50 Bis | [art-0050-bis.md](art-0050-bis.md) | 1 | 2014-06-14 |
+| Artículo 51 | [art-0051.md](art-0051.md) | 0 |  |
+| Artículo 52 | [art-0052.md](art-0052.md) | 0 |  |
+| Artículo 53 | [art-0053.md](art-0053.md) | 0 |  |
+| Artículo 54 | [art-0054.md](art-0054.md) | 0 |  |
+| Artículo 55 | [art-0055.md](art-0055.md) | 0 |  |
+| Artículo 56 | [art-0056.md](art-0056.md) | 0 |  |
+| Artículo 57 | [art-0057.md](art-0057.md) | 0 |  |
+| Artículo 58 | [art-0058.md](art-0058.md) | 0 |  |
+| Artículo 59 | [art-0059.md](art-0059.md) | 0 |  |
+| Artículo 60 | [art-0060.md](art-0060.md) | 0 |  |
+| Artículo 61 | [art-0061.md](art-0061.md) | 0 |  |
+| Artículo 62 | [art-0062.md](art-0062.md) | 0 |  |
+| Artículo 63 | [art-0063.md](art-0063.md) | 0 |  |
+| Artículo 64 | [art-0064.md](art-0064.md) | 0 |  |
+| Artículo 65 | [art-0065.md](art-0065.md) | 0 |  |
+| Artículo 66 | [art-0066.md](art-0066.md) | 0 |  |
+| Artículo 67 | [art-0067.md](art-0067.md) | 0 |  |
+| Artículo 68 | [art-0068.md](art-0068.md) | 0 |  |
+| Artículo 69 | [art-0069.md](art-0069.md) | 0 |  |
+| Artículo 70 | [art-0070.md](art-0070.md) | 0 |  |
+| Artículo 71 | [art-0071.md](art-0071.md) | 0 |  |
+| Artículo 72 | [art-0072.md](art-0072.md) | 0 |  |
+| Artículo 73 | [art-0073.md](art-0073.md) | 0 |  |
+| Artículo 74 | [art-0074.md](art-0074.md) | 0 |  |
+| Artículo 75 | [art-0075.md](art-0075.md) | 2 | 2019-01-01 |
+| Artículo 76 | [art-0076.md](art-0076.md) | 0 |  |
+| Artículo 77 | [art-0077.md](art-0077.md) | 0 |  |
+| Artículo 78 | [art-0078.md](art-0078.md) | 0 |  |
+| Artículo 79 | [art-0079.md](art-0079.md) | 0 |  |
+| Artículo 80 | [art-0080.md](art-0080.md) | 0 |  |
+| Artículo 81 | [art-0081.md](art-0081.md) | 0 |  |
+| Artículo 82 | [art-0082.md](art-0082.md) | 0 |  |
+| Artículo 83 | [art-0083.md](art-0083.md) | 0 |  |
+| Artículo 84 | [art-0084.md](art-0084.md) | 0 |  |
+| Artículo 85 | [art-0085.md](art-0085.md) | 0 |  |
+| Artículo 86 | [art-0086.md](art-0086.md) | 0 |  |
+| Artículo 87 | [art-0087.md](art-0087.md) | 0 |  |
+| Artículo 88 | [art-0088.md](art-0088.md) | 0 |  |
+| Artículo 89 | [art-0089.md](art-0089.md) | 1 | 2016-04-08 |
+| Artículo 89 bis | [art-0089-bis.md](art-0089-bis.md) | 1 | 2016-04-08 |
+| Artículo 90 | [art-0090.md](art-0090.md) | 0 |  |
+| Artículo 90 bis | [art-0090-bis.md](art-0090-bis.md) | 1 | 2017-05-03 |
+| Artículo 91 | [art-0091.md](art-0091.md) | 1 | 2017-05-03 |
+| Artículo 91 bis | [art-0091-bis.md](art-0091-bis.md) | 0 |  |
+| Artículo 92 | [art-0092.md](art-0092.md) | 1 | 2017-05-03 |
+| Artículo 93 | [art-0093.md](art-0093.md) | 0 |  |
+| Artículo 93 bis | [art-0093-bis.md](art-0093-bis.md) | 0 |  |
+| Artículo 94 | [art-0094.md](art-0094.md) | 0 |  |
+| Artículo 95 | [art-0095.md](art-0095.md) | 0 |  |
+| Artículo 95 bis 1 | [art-0095-bis-1.md](art-0095-bis-1.md) | 1 | 2016-04-08 |
+| Artículo 95 bis 2 | [art-0095-bis-2.md](art-0095-bis-2.md) | 1 | 2016-04-08 |
+| Artículo 95 bis 3 | [art-0095-bis-3.md](art-0095-bis-3.md) | 1 | 2016-04-08 |
+| Artículo 95 bis 4 | [art-0095-bis-4.md](art-0095-bis-4.md) | 1 | 2016-04-08 |
+| Artículo 95 bis 5 | [art-0095-bis-5.md](art-0095-bis-5.md) | 1 | 2016-04-08 |
+| Artículo 95 bis 6 | [art-0095-bis-6.md](art-0095-bis-6.md) | 1 | 2016-04-08 |
+| Artículo 96 | [art-0096.md](art-0096.md) | 0 |  |
+| Artículo 97 | [art-0097.md](art-0097.md) | 0 |  |
+| Artículo 98 | [art-0098.md](art-0098.md) | 0 |  |
+| Artículo 99 | [art-0099.md](art-0099.md) | 0 |  |
+| Artículo 100 | [art-0100.md](art-0100.md) | 1 | 2016-04-08 |
+| Artículo 101 | [art-0101.md](art-0101.md) | 1 | 2016-04-08 |
+| Artículo 102 | [art-0102.md](art-0102.md) | 1 | 2016-04-08 |
+| Artículo 103 | [art-0103.md](art-0103.md) | 0 |  |
+| Artículo 104 | [art-0104.md](art-0104.md) | 0 |  |
+| Artículo 105 | [art-0105.md](art-0105.md) | 0 |  |
+| Artículo 106 | [art-0106.md](art-0106.md) | 0 |  |
+| Artículo 107 | [art-0107.md](art-0107.md) | 0 |  |
+| Artículo 108 | [art-0108.md](art-0108.md) | 1 | 2016-04-08 |
+| Artículo 109 | [art-0109.md](art-0109.md) | 0 |  |
+| Artículo 110 | [art-0110.md](art-0110.md) | 1 | 2016-04-08 |
+| Artículo 111 | [art-0111.md](art-0111.md) | 0 |  |
+| Artículo 112 | [art-0112.md](art-0112.md) | 0 |  |
+| Artículo 113 | [art-0113.md](art-0113.md) | 1 | 2019-01-01 |
+| Artículo 114 | [art-0114.md](art-0114.md) | 0 |  |
+| Artículo 115 | [art-0115.md](art-0115.md) | 0 |  |
+| Artículo 116 | [art-0116.md](art-0116.md) | 0 |  |
+| Artículo 117 | [art-0117.md](art-0117.md) | 0 |  |
+| Artículo 118 | [art-0118.md](art-0118.md) | 0 |  |
+| Artículo 119 | [art-0119.md](art-0119.md) | 0 |  |
+| Artículo 120 | [art-0120.md](art-0120.md) | 0 |  |
+| Artículo 121 | [art-0121.md](art-0121.md) | 0 |  |
+| Artículo 122 | [art-0122.md](art-0122.md) | 0 |  |
+| Artículo 123 | [art-0123.md](art-0123.md) | 0 |  |
+| Artículo 124 | [art-0124.md](art-0124.md) | 0 |  |
+| Artículo 125 | [art-0125.md](art-0125.md) | 0 |  |
+| Artículo 126 | [art-0126.md](art-0126.md) | 0 |  |
+| Artículo 127 | [art-0127.md](art-0127.md) | 0 |  |
+| Artículo 128 | [art-0128.md](art-0128.md) | 0 |  |
+| Artículo 129 | [art-0129.md](art-0129.md) | 0 |  |
+| Artículo 130 | [art-0130.md](art-0130.md) | 0 |  |
+| Artículo 131 | [art-0131.md](art-0131.md) | 0 |  |
+| Artículo 132 | [art-0132.md](art-0132.md) | 0 |  |
+| Artículo 133 | [art-0133.md](art-0133.md) | 0 |  |
+| Artículo 134 | [art-0134.md](art-0134.md) | 0 |  |
+| Artículo 135 | [art-0135.md](art-0135.md) | 0 |  |
+| Artículo 136 | [art-0136.md](art-0136.md) | 0 |  |
+| Artículo 137 | [art-0137.md](art-0137.md) | 0 |  |
+| Artículo 138 | [art-0138.md](art-0138.md) | 0 |  |
+| Artículo 139 | [art-0139.md](art-0139.md) | 0 |  |
+| Artículo 140 | [art-0140.md](art-0140.md) | 0 |  |
+| Artículo 141 | [art-0141.md](art-0141.md) | 0 |  |
+| Artículo 142 | [art-0142.md](art-0142.md) | 0 |  |
+| Artículo 143 | [art-0143.md](art-0143.md) | 0 |  |
+| Artículo 144 | [art-0144.md](art-0144.md) | 0 |  |
+| Artículo 145 | [art-0145.md](art-0145.md) | 0 |  |
+| Artículo 146 | [art-0146.md](art-0146.md) | 0 |  |
+| Artículo 147 | [art-0147.md](art-0147.md) | 0 |  |
+| Artículo 148 | [art-0148.md](art-0148.md) | 0 |  |
+| Artículo 149 | [art-0149.md](art-0149.md) | 0 |  |
+| Artículo 150 | [art-0150.md](art-0150.md) | 0 |  |
+| Artículo 151 | [art-0151.md](art-0151.md) | 0 |  |
+| Artículo 152 | [art-0152.md](art-0152.md) | 0 |  |
+| Artículo 153 | [art-0153.md](art-0153.md) | 1 | 2015-12-24 |
+| Artículo 154 | [art-0154.md](art-0154.md) | 0 |  |
+| Artículo 155 | [art-0155.md](art-0155.md) | 0 |  |
+| Artículo 156 | [art-0156.md](art-0156.md) | 0 |  |
+| Artículo 157 | [art-0157.md](art-0157.md) | 0 |  |
+| Artículo 158 | [art-0158.md](art-0158.md) | 0 |  |
+| Artículo 159 | [art-0159.md](art-0159.md) | 0 |  |
+| Artículo 160 | [art-0160.md](art-0160.md) | 0 |  |
+| Artículo 161 | [art-0161.md](art-0161.md) | 0 |  |
+| Artículo 162 | [art-0162.md](art-0162.md) | 0 |  |
+| Artículo 163 | [art-0163.md](art-0163.md) | 0 |  |
+| Artículo 164 | [art-0164.md](art-0164.md) | 0 |  |
+| Artículo 165 | [art-0165.md](art-0165.md) | 0 |  |
+| Artículo 166 | [art-0166.md](art-0166.md) | 0 |  |
+| Artículo 167 | [art-0167.md](art-0167.md) | 0 |  |
+| Artículo 168 | [art-0168.md](art-0168.md) | 0 |  |
+| Artículo 169 | [art-0169.md](art-0169.md) | 0 |  |
+| Artículo 170 | [art-0170.md](art-0170.md) | 0 |  |
+| Artículo 171 | [art-0171.md](art-0171.md) | 0 |  |
+| Artículo 172 | [art-0172.md](art-0172.md) | 0 |  |
+| Artículo 173 | [art-0173.md](art-0173.md) | 0 |  |
+| Artículo 174 | [art-0174.md](art-0174.md) | 0 |  |
+| Artículo 175 | [art-0175.md](art-0175.md) | 0 |  |
+| Artículo 176 | [art-0176.md](art-0176.md) | 0 |  |
+| Artículo 177 | [art-0177.md](art-0177.md) | 0 |  |
+| Artículo 178 | [art-0178.md](art-0178.md) | 0 |  |
+| Artículo 179 | [art-0179.md](art-0179.md) | 0 |  |
+| Artículo 180 | [art-0180.md](art-0180.md) | 0 |  |
+| Artículo 181 | [art-0181.md](art-0181.md) | 0 |  |
+| Artículo 182 | [art-0182.md](art-0182.md) | 0 |  |
+| Artículo 183 | [art-0183.md](art-0183.md) | 0 |  |
+| Artículo 184 | [art-0184.md](art-0184.md) | 0 |  |
+| Artículo 185 | [art-0185.md](art-0185.md) | 0 |  |
+| Artículo 186 | [art-0186.md](art-0186.md) | 0 |  |
+| Artículo 187 | [art-0187.md](art-0187.md) | 0 |  |
+| Artículo 188 | [art-0188.md](art-0188.md) | 0 |  |
+| Artículo 189 | [art-0189.md](art-0189.md) | 0 |  |
+| Artículo 190 | [art-0190.md](art-0190.md) | 0 |  |
+| Artículo 191 | [art-0191.md](art-0191.md) | 0 |  |
+| Artículo 192 | [art-0192.md](art-0192.md) | 0 |  |
+| Artículo 193 | [art-0193.md](art-0193.md) | 0 |  |
+| Artículo 194 | [art-0194.md](art-0194.md) | 0 |  |
+| Artículo 195 | [art-0195.md](art-0195.md) | 0 |  |
+| Artículo 196 | [art-0196.md](art-0196.md) | 0 |  |
+| Artículo 197 | [art-0197.md](art-0197.md) | 0 |  |
+| Artículo 198 | [art-0198.md](art-0198.md) | 0 |  |
+| Artículo 199 | [art-0199.md](art-0199.md) | 0 |  |
+| Artículo 200 | [art-0200.md](art-0200.md) | 0 |  |
+| Artículo 201 | [art-0201.md](art-0201.md) | 0 |  |
+| Artículo 202 | [art-0202.md](art-0202.md) | 0 |  |
+| Artículo 203 | [art-0203.md](art-0203.md) | 0 |  |
+| Artículo 204 | [art-0204.md](art-0204.md) | 0 |  |
+| Artículo 205 | [art-0205.md](art-0205.md) | 0 |  |
+| Artículo 206 | [art-0206.md](art-0206.md) | 0 |  |
+| Artículo 207 | [art-0207.md](art-0207.md) | 0 |  |
+| Artículo 208 | [art-0208.md](art-0208.md) | 0 |  |
+| Artículo 209 | [art-0209.md](art-0209.md) | 0 |  |
+| Artículo 210 | [art-0210.md](art-0210.md) | 0 |  |
+| Artículo 211 | [art-0211.md](art-0211.md) | 0 |  |
+| Artículo 212 | [art-0212.md](art-0212.md) | 0 |  |
+| Artículo 213 | [art-0213.md](art-0213.md) | 0 |  |
+| Artículo 214 | [art-0214.md](art-0214.md) | 0 |  |
+| Artículo 215 | [art-0215.md](art-0215.md) | 0 |  |
+| Artículo 216 | [art-0216.md](art-0216.md) | 0 |  |
+| Artículo 217 | [art-0217.md](art-0217.md) | 0 |  |
+| Artículo 218 | [art-0218.md](art-0218.md) | 0 |  |
+| Artículo 219 | [art-0219.md](art-0219.md) | 0 |  |
+| Artículo 220 | [art-0220.md](art-0220.md) | 0 |  |
+| Artículo 221 | [art-0221.md](art-0221.md) | 0 |  |
+| Artículo 222 | [art-0222.md](art-0222.md) | 0 |  |
+| Artículo 223 | [art-0223.md](art-0223.md) | 0 |  |
+| Artículo 224 | [art-0224.md](art-0224.md) | 0 |  |
+| Artículo 225 | [art-0225.md](art-0225.md) | 0 |  |
+| Artículo 226 | [art-0226.md](art-0226.md) | 0 |  |
+| Artículo 227 | [art-0227.md](art-0227.md) | 0 |  |
+| Artículo 228 | [art-0228.md](art-0228.md) | 0 |  |
+| Artículo 229 | [art-0229.md](art-0229.md) | 0 |  |
+| Artículo 230 | [art-0230.md](art-0230.md) | 0 |  |
+| Artículo 231 | [art-0231.md](art-0231.md) | 0 |  |
+| Artículo 232 | [art-0232.md](art-0232.md) | 0 |  |
+| Artículo 233 | [art-0233.md](art-0233.md) | 0 |  |
+| Artículo 234 | [art-0234.md](art-0234.md) | 0 |  |
+| Artículo 235 | [art-0235.md](art-0235.md) | 0 |  |
+| Artículo 236 | [art-0236.md](art-0236.md) | 0 |  |
+| Artículo 237 | [art-0237.md](art-0237.md) | 0 |  |
+| Artículo 238 | [art-0238.md](art-0238.md) | 0 |  |
+| Artículo 239 | [art-0239.md](art-0239.md) | 0 |  |
+| Artículo 240 | [art-0240.md](art-0240.md) | 0 |  |
+| Artículo 241 | [art-0241.md](art-0241.md) | 0 |  |
+| Artículo 242 | [art-0242.md](art-0242.md) | 0 |  |
+| Artículo 243 | [art-0243.md](art-0243.md) | 0 |  |
+| Artículo 244 | [art-0244.md](art-0244.md) | 0 |  |
+| Artículo 245 | [art-0245.md](art-0245.md) | 0 |  |
+| Artículo 246 | [art-0246.md](art-0246.md) | 0 |  |
+| Artículo 247 | [art-0247.md](art-0247.md) | 0 |  |
+| Artículo 248 | [art-0248.md](art-0248.md) | 0 |  |
+| Artículo 249 | [art-0249.md](art-0249.md) | 0 |  |
+| Artículo 250 | [art-0250.md](art-0250.md) | 0 |  |
+| Artículo 251 | [art-0251.md](art-0251.md) | 0 |  |
+| Artículo 252 | [art-0252.md](art-0252.md) | 0 |  |
+| Artículo 253 | [art-0253.md](art-0253.md) | 0 |  |
+| Artículo 254 | [art-0254.md](art-0254.md) | 0 |  |
+| Artículo 255 | [art-0255.md](art-0255.md) | 0 |  |
+| Artículo 256 | [art-0256.md](art-0256.md) | 0 |  |
+| Artículo 257 | [art-0257.md](art-0257.md) | 0 |  |
+| Artículo 258 | [art-0258.md](art-0258.md) | 0 |  |
+| Artículo 259 | [art-0259.md](art-0259.md) | 0 |  |
+| Artículo 260 | [art-0260.md](art-0260.md) | 0 |  |
+| Artículo 261 | [art-0261.md](art-0261.md) | 0 |  |
+| Artículo 262 | [art-0262.md](art-0262.md) | 0 |  |
+| Artículo 263 | [art-0263.md](art-0263.md) | 0 |  |
+| Artículo 264 | [art-0264.md](art-0264.md) | 0 |  |
+| Artículo 265 | [art-0265.md](art-0265.md) | 0 |  |
+| Artículo 266 | [art-0266.md](art-0266.md) | 0 |  |
+| Artículo 267 | [art-0267.md](art-0267.md) | 0 |  |
+| Artículo 268 | [art-0268.md](art-0268.md) | 0 |  |
+| Artículo 269 | [art-0269.md](art-0269.md) | 0 |  |
+| Artículo 270 | [art-0270.md](art-0270.md) | 0 |  |
+| Artículo 271 | [art-0271.md](art-0271.md) | 0 |  |
+| Artículo 272 | [art-0272.md](art-0272.md) | 0 |  |
+| Artículo 273 | [art-0273.md](art-0273.md) | 0 |  |
+| Artículo 274 | [art-0274.md](art-0274.md) | 0 |  |
+| Artículo 275 | [art-0275.md](art-0275.md) | 0 |  |
+| Artículo 276 | [art-0276.md](art-0276.md) | 0 |  |
+| Artículo 277 | [art-0277.md](art-0277.md) | 0 |  |
+| Artículo 278 | [art-0278.md](art-0278.md) | 0 |  |
+| Artículo 279 | [art-0279.md](art-0279.md) | 0 |  |
+| Artículo 280 | [art-0280.md](art-0280.md) | 0 |  |
+| Artículo 281 | [art-0281.md](art-0281.md) | 0 |  |
+| Artículo 282 | [art-0282.md](art-0282.md) | 0 |  |
+| Artículo 283 | [art-0283.md](art-0283.md) | 0 |  |
+| Artículo 284 | [art-0284.md](art-0284.md) | 0 |  |
+| Artículo 285 | [art-0285.md](art-0285.md) | 0 |  |
+| Artículo 286 | [art-0286.md](art-0286.md) | 0 |  |
+| Artículo 287 | [art-0287.md](art-0287.md) | 0 |  |
+| Artículo 288 | [art-0288.md](art-0288.md) | 0 |  |
+| Artículo 289 | [art-0289.md](art-0289.md) | 0 |  |
+| Artículo 290 | [art-0290.md](art-0290.md) | 1 | 2019-01-01 |
+| Artículo 291 | [art-0291.md](art-0291.md) | 1 | 2019-01-01 |
+| Artículo 292 | [art-0292.md](art-0292.md) | 0 |  |
+| Artículo 293 | [art-0293.md](art-0293.md) | 0 |  |
+| Artículo 294 | [art-0294.md](art-0294.md) | 0 |  |
+| Artículo 295 | [art-0295.md](art-0295.md) | 0 |  |
+| Artículo 296 | [art-0296.md](art-0296.md) | 0 |  |
+| Artículo 297 | [art-0297.md](art-0297.md) | 0 |  |
+| Artículo 298 | [art-0298.md](art-0298.md) | 0 |  |
+| Artículo 299 | [art-0299.md](art-0299.md) | 0 |  |
+| Artículo 300 | [art-0300.md](art-0300.md) | 0 |  |
+| Artículo 301 | [art-0301.md](art-0301.md) | 0 |  |
+| Artículo 302 | [art-0302.md](art-0302.md) | 0 |  |
+| Artículo 303 | [art-0303.md](art-0303.md) | 0 |  |
+| Artículo 304 | [art-0304.md](art-0304.md) | 0 |  |
+| Artículo 305 | [art-0305.md](art-0305.md) | 0 |  |
+| Artículo 306 | [art-0306.md](art-0306.md) | 0 |  |
+| Artículo 307 | [art-0307.md](art-0307.md) | 0 |  |
+| Artículo 308 | [art-0308.md](art-0308.md) | 0 |  |
+| Artículo 309 | [art-0309.md](art-0309.md) | 0 |  |
+| Artículo 310 | [art-0310.md](art-0310.md) | 0 |  |
+| Artículo 311 | [art-0311.md](art-0311.md) | 0 |  |
+| Artículo 312 | [art-0312.md](art-0312.md) | 0 |  |
+| Artículo 313 | [art-0313.md](art-0313.md) | 0 |  |
+| Artículo 314 | [art-0314.md](art-0314.md) | 0 |  |
+| Artículo 315 | [art-0315.md](art-0315.md) | 0 |  |
+| Artículo 316 | [art-0316.md](art-0316.md) | 0 |  |
+| Artículo 317 | [art-0317.md](art-0317.md) | 0 |  |
+| Artículo 318 | [art-0318.md](art-0318.md) | 0 |  |
+| Artículo 319 | [art-0319.md](art-0319.md) | 0 |  |
+| Artículo 320 | [art-0320.md](art-0320.md) | 0 |  |
+| Artículo 321 | [art-0321.md](art-0321.md) | 0 |  |
+| Artículo 322 | [art-0322.md](art-0322.md) | 0 |  |
+| Artículo 323 | [art-0323.md](art-0323.md) | 0 |  |
+| Artículo 324 | [art-0324.md](art-0324.md) | 0 |  |
+| Artículo 325 | [art-0325.md](art-0325.md) | 0 |  |
+| Artículo 326 | [art-0326.md](art-0326.md) | 0 |  |
+| Artículo 327 | [art-0327.md](art-0327.md) | 0 |  |
+| Artículo 328 | [art-0328.md](art-0328.md) | 0 |  |
+| Artículo 329 | [art-0329.md](art-0329.md) | 0 |  |
+| Artículo 330 | [art-0330.md](art-0330.md) | 0 |  |
+| Artículo 331 | [art-0331.md](art-0331.md) | 0 |  |
+| Artículo 332 | [art-0332.md](art-0332.md) | 0 |  |
+| Artículo 333 | [art-0333.md](art-0333.md) | 0 |  |
+| Artículo 334 | [art-0334.md](art-0334.md) | 0 |  |
+| Artículo 335 | [art-0335.md](art-0335.md) | 0 |  |
+| Artículo 336 | [art-0336.md](art-0336.md) | 0 |  |
+| Artículo 337 | [art-0337.md](art-0337.md) | 0 |  |
+| Artículo 338 | [art-0338.md](art-0338.md) | 0 |  |
+| Artículo 339 | [art-0339.md](art-0339.md) | 0 |  |
+| Artículo 340 | [art-0340.md](art-0340.md) | 0 |  |
+| Artículo 341 | [art-0341.md](art-0341.md) | 0 |  |
+| Artículo 342 | [art-0342.md](art-0342.md) | 0 |  |
+| Artículo 343 | [art-0343.md](art-0343.md) | 0 |  |
+| Artículo 344 | [art-0344.md](art-0344.md) | 0 |  |
+| Artículo 345 | [art-0345.md](art-0345.md) | 0 |  |
+| Artículo 346 | [art-0346.md](art-0346.md) | 0 |  |
+| Artículo 347 | [art-0347.md](art-0347.md) | 0 |  |
+| Artículo 348 | [art-0348.md](art-0348.md) | 0 |  |
+| Artículo 349 | [art-0349.md](art-0349.md) | 0 |  |
+| Artículo 350 | [art-0350.md](art-0350.md) | 0 |  |
+| Artículo 351 | [art-0351.md](art-0351.md) | 0 |  |
+| Artículo 352 | [art-0352.md](art-0352.md) | 0 |  |
+| Artículo 353 | [art-0353.md](art-0353.md) | 0 |  |
+| Artículo 354 | [art-0354.md](art-0354.md) | 0 |  |
+| Artículo 355 | [art-0355.md](art-0355.md) | 0 |  |
+| Artículo 356 | [art-0356.md](art-0356.md) | 0 |  |
+| Artículo 357 | [art-0357.md](art-0357.md) | 0 |  |
+| Artículo 358 | [art-0358.md](art-0358.md) | 0 |  |
+| Artículo 359 | [art-0359.md](art-0359.md) | 0 |  |
+| Artículo 360 | [art-0360.md](art-0360.md) | 0 |  |
+| Artículo 361 | [art-0361.md](art-0361.md) | 0 |  |
+| Artículo 362 | [art-0362.md](art-0362.md) | 0 |  |
+| Artículo 363 | [art-0363.md](art-0363.md) | 0 |  |
+| Artículo 364 | [art-0364.md](art-0364.md) | 0 |  |
+| Artículo 365 | [art-0365.md](art-0365.md) | 0 |  |
+| Artículo 366 | [art-0366.md](art-0366.md) | 0 |  |
+| Artículo 367 | [art-0367.md](art-0367.md) | 0 |  |
+| Artículo 368 | [art-0368.md](art-0368.md) | 0 |  |
+| Artículo 369 | [art-0369.md](art-0369.md) | 0 |  |
+| Artículo 370 | [art-0370.md](art-0370.md) | 1 | 2019-01-01 |
+| Artículo 371 | [art-0371.md](art-0371.md) | 0 |  |
+| Artículo 372 | [art-0372.md](art-0372.md) | 0 |  |
+| Artículo 373 | [art-0373.md](art-0373.md) | 0 |  |
+| Artículo 374 | [art-0374.md](art-0374.md) | 0 |  |
+| Artículo 375 | [art-0375.md](art-0375.md) | 0 |  |
+| Artículo 376 | [art-0376.md](art-0376.md) | 0 |  |
+| Artículo 377 | [art-0377.md](art-0377.md) | 0 |  |
+| Artículo 378 | [art-0378.md](art-0378.md) | 0 |  |
+| Artículo 379 | [art-0379.md](art-0379.md) | 0 |  |
+| Artículo 380 | [art-0380.md](art-0380.md) | 0 |  |
+| Artículo 381 | [art-0381.md](art-0381.md) | 0 |  |
+| Artículo 382 | [art-0382.md](art-0382.md) | 0 |  |
+| Artículo 383 | [art-0383.md](art-0383.md) | 0 |  |
+| Artículo 384 | [art-0384.md](art-0384.md) | 0 |  |
+| Artículo 385 | [art-0385.md](art-0385.md) | 0 |  |
+| Artículo 386 | [art-0386.md](art-0386.md) | 0 |  |
+| Artículo 387 | [art-0387.md](art-0387.md) | 0 |  |
+| Artículo 388 | [art-0388.md](art-0388.md) | 0 |  |
+| Artículo 389 | [art-0389.md](art-0389.md) | 0 |  |
+| Artículo 390 | [art-0390.md](art-0390.md) | 1 | 2014-06-14 |
+| Artículo 391 | [art-0391.md](art-0391.md) | 0 |  |
+| Artículo 392 | [art-0392.md](art-0392.md) | 0 |  |
+| Artículo 393 | [art-0393.md](art-0393.md) | 0 |  |
+| Artículo 394 | [art-0394.md](art-0394.md) | 0 |  |
+| Artículo 395 | [art-0395.md](art-0395.md) | 0 |  |
+| Artículo 396 | [art-0396.md](art-0396.md) | 0 |  |
+| Artículo 397 | [art-0397.md](art-0397.md) | 0 |  |
+| Artículo 398 | [art-0398.md](art-0398.md) | 0 |  |
+| Artículo 399 | [art-0399.md](art-0399.md) | 0 |  |
+| Artículo 400 | [art-0400.md](art-0400.md) | 0 |  |
+| Artículo 401 | [art-0401.md](art-0401.md) | 0 |  |
+| Artículo 402 | [art-0402.md](art-0402.md) | 0 |  |
+| Artículo 403 | [art-0403.md](art-0403.md) | 0 |  |
+| Artículo 404 | [art-0404.md](art-0404.md) | 0 |  |
+| Artículo 405 | [art-0405.md](art-0405.md) | 0 |  |
+| Artículo 406 | [art-0406.md](art-0406.md) | 0 |  |
+| Artículo 407 | [art-0407.md](art-0407.md) | 0 |  |
+| Artículo 408 | [art-0408.md](art-0408.md) | 0 |  |
+| Artículo 409 | [art-0409.md](art-0409.md) | 0 |  |
+| Artículo 410 | [art-0410.md](art-0410.md) | 0 |  |
+| Artículo 411 | [art-0411.md](art-0411.md) | 0 |  |
+| Artículo 412 | [art-0412.md](art-0412.md) | 0 |  |
+| Artículo 413 | [art-0413.md](art-0413.md) | 0 |  |
+| Artículo 414 | [art-0414.md](art-0414.md) | 0 |  |
+| Artículo 415 | [art-0415.md](art-0415.md) | 0 |  |
+| Artículo 416 | [art-0416.md](art-0416.md) | 0 |  |
+| Artículo 417 | [art-0417.md](art-0417.md) | 0 |  |
+| Artículo 418 | [art-0418.md](art-0418.md) | 0 |  |
+| Artículo 419 | [art-0419.md](art-0419.md) | 0 |  |
+| Artículo 420 | [art-0420.md](art-0420.md) | 0 |  |
+| Artículo 421 | [art-0421.md](art-0421.md) | 0 |  |
+| Artículo 422 | [art-0422.md](art-0422.md) | 0 |  |
+| Artículo 423 | [art-0423.md](art-0423.md) | 0 |  |
+| Artículo 424 | [art-0424.md](art-0424.md) | 0 |  |
+| Artículo 425 | [art-0425.md](art-0425.md) | 0 |  |
+| Artículo 426 | [art-0426.md](art-0426.md) | 0 |  |
+| Artículo 427 | [art-0427.md](art-0427.md) | 0 |  |
+| Artículo 428 | [art-0428.md](art-0428.md) | 0 |  |
+| Artículo 429 | [art-0429.md](art-0429.md) | 0 |  |
+| Artículo 430 | [art-0430.md](art-0430.md) | 0 |  |
+| Artículo 431 | [art-0431.md](art-0431.md) | 0 |  |
+| Artículo 432 | [art-0432.md](art-0432.md) | 0 |  |
+| Artículo 433 | [art-0433.md](art-0433.md) | 0 |  |
+| Artículo 434 | [art-0434.md](art-0434.md) | 0 |  |
+| Artículo 435 | [art-0435.md](art-0435.md) | 0 |  |
+| Artículo 436 | [art-0436.md](art-0436.md) | 0 |  |
+| Artículo 437 | [art-0437.md](art-0437.md) | 0 |  |
+| Artículo 438 | [art-0438.md](art-0438.md) | 0 |  |
+| Artículo 439 | [art-0439.md](art-0439.md) | 0 |  |
+| Artículo 440 | [art-0440.md](art-0440.md) | 0 |  |
+| Artículo 441 | [art-0441.md](art-0441.md) | 0 |  |
+| Artículo 442 | [art-0442.md](art-0442.md) | 0 |  |
+| Artículo 443 | [art-0443.md](art-0443.md) | 0 |  |
+| Artículo 444 | [art-0444.md](art-0444.md) | 0 |  |
+| Artículo 445 | [art-0445.md](art-0445.md) | 0 |  |
+| Artículo 446 | [art-0446.md](art-0446.md) | 0 |  |
+| Artículo 447 | [art-0447.md](art-0447.md) | 0 |  |
+| Artículo 448 | [art-0448.md](art-0448.md) | 1 | 2019-01-01 |
+| Artículo 449 | [art-0449.md](art-0449.md) | 0 |  |
+| Artículo 450 | [art-0450.md](art-0450.md) | 0 |  |
+| Artículo 451 | [art-0451.md](art-0451.md) | 0 |  |
+| Artículo 452 | [art-0452.md](art-0452.md) | 0 |  |
+| Artículo 453 | [art-0453.md](art-0453.md) | 0 |  |
+| Artículo 454 | [art-0454.md](art-0454.md) | 0 |  |
+| Artículo 455 | [art-0455.md](art-0455.md) | 0 |  |
+| Artículo 456 | [art-0456.md](art-0456.md) | 0 |  |
+| Artículo 457 | [art-0457.md](art-0457.md) | 0 |  |
+| Artículo 458 | [art-0458.md](art-0458.md) | 0 |  |
+| Artículo 459 | [art-0459.md](art-0459.md) | 0 |  |
+| Artículo 460 | [art-0460.md](art-0460.md) | 0 |  |
+| Artículo 461 | [art-0461.md](art-0461.md) | 0 |  |
+| Artículo 462 | [art-0462.md](art-0462.md) | 0 |  |
+| Artículo 463 | [art-0463.md](art-0463.md) | 0 |  |
+| Artículo 464 | [art-0464.md](art-0464.md) | 0 |  |
+| Artículo 465 | [art-0465.md](art-0465.md) | 0 |  |
+| Artículo 466 | [art-0466.md](art-0466.md) | 0 |  |
+| Artículo 467 | [art-0467.md](art-0467.md) | 0 |  |
+| Artículo 468 | [art-0468.md](art-0468.md) | 0 |  |
+| Artículo 469 | [art-0469.md](art-0469.md) | 0 |  |
+| Artículo 470 | [art-0470.md](art-0470.md) | 0 |  |
+| Artículo 471 | [art-0471.md](art-0471.md) | 0 |  |
+| Artículo 472 | [art-0472.md](art-0472.md) | 0 |  |
+| Artículo 473 | [art-0473.md](art-0473.md) | 0 |  |
+| Artículo 474 | [art-0474.md](art-0474.md) | 0 |  |
+| Artículo 475 | [art-0475.md](art-0475.md) | 0 |  |
+| Artículo 476 | [art-0476.md](art-0476.md) | 0 |  |
+| Artículo 477 | [art-0477.md](art-0477.md) | 0 |  |
+| Artículo 478 | [art-0478.md](art-0478.md) | 0 |  |
+| Artículo 479 | [art-0479.md](art-0479.md) | 0 |  |
+| Artículo 480 | [art-0480.md](art-0480.md) | 0 |  |
+| Artículo 481 | [art-0481.md](art-0481.md) | 0 |  |
+| Artículo 482 | [art-0482.md](art-0482.md) | 0 |  |
+| Artículo 483 | [art-0483.md](art-0483.md) | 0 |  |
+| Artículo 484 | [art-0484.md](art-0484.md) | 0 |  |
+| Artículo 485 | [art-0485.md](art-0485.md) | 0 |  |
+| Artículo 486 | [art-0486.md](art-0486.md) | 0 |  |
+| Artículo 487 | [art-0487.md](art-0487.md) | 0 |  |
+| Artículo 488 | [art-0488.md](art-0488.md) | 0 |  |
+| Artículo 489 | [art-0489.md](art-0489.md) | 0 |  |
+| Artículo 490 | [art-0490.md](art-0490.md) | 0 |  |
+| Artículo 491 | [art-0491.md](art-0491.md) | 0 |  |
+| Artículo 492 | [art-0492.md](art-0492.md) | 0 |  |
+| Artículo 493 | [art-0493.md](art-0493.md) | 0 |  |
+| Artículo 494 | [art-0494.md](art-0494.md) | 0 |  |
+| Artículo 495 | [art-0495.md](art-0495.md) | 0 |  |
+| Artículo 496 | [art-0496.md](art-0496.md) | 0 |  |
+| Artículo 497 | [art-0497.md](art-0497.md) | 0 |  |
+| Artículo 498 | [art-0498.md](art-0498.md) | 0 |  |
+| Artículo 499 | [art-0499.md](art-0499.md) | 0 |  |
+| Artículo 500 | [art-0500.md](art-0500.md) | 0 |  |
+| Artículo 501 | [art-0501.md](art-0501.md) | 0 |  |
+| Artículo 502 | [art-0502.md](art-0502.md) | 0 |  |
+| Artículo 503 | [art-0503.md](art-0503.md) | 0 |  |
+| Artículo 504 | [art-0504.md](art-0504.md) | 0 |  |
+| Artículo 505 | [art-0505.md](art-0505.md) | 0 |  |
+| Artículo 506 | [art-0506.md](art-0506.md) | 0 |  |
+| Artículo 507 | [art-0507.md](art-0507.md) | 0 |  |
+| Artículo 508 | [art-0508.md](art-0508.md) | 0 |  |
+| Artículo 509 | [art-0509.md](art-0509.md) | 0 |  |
+| Artículo 510 | [art-0510.md](art-0510.md) | 0 |  |
+| Artículo 511 | [art-0511.md](art-0511.md) | 0 |  |
+| Artículo 512 | [art-0512.md](art-0512.md) | 0 |  |
+| Artículo 513 | [art-0513.md](art-0513.md) | 0 |  |
+| Artículo 514 | [art-0514.md](art-0514.md) | 0 |  |
+| Artículo 515 | [art-0515.md](art-0515.md) | 0 |  |
+| Artículo 516 | [art-0516.md](art-0516.md) | 0 |  |
+| Artículo 517 | [art-0517.md](art-0517.md) | 0 |  |
+| Artículo 518 | [art-0518.md](art-0518.md) | 0 |  |
+| Artículo 519 | [art-0519.md](art-0519.md) | 0 |  |
+| Artículo 520 | [art-0520.md](art-0520.md) | 0 |  |
+| Artículo 521 | [art-0521.md](art-0521.md) | 0 |  |
+| Artículo 522 | [art-0522.md](art-0522.md) | 0 |  |
+| Artículo 523 | [art-0523.md](art-0523.md) | 0 |  |
+| Artículo 524 | [art-0524.md](art-0524.md) | 0 |  |
+| Artículo 525 | [art-0525.md](art-0525.md) | 0 |  |
+| Artículo 526 | [art-0526.md](art-0526.md) | 0 |  |
+| Artículo 527 | [art-0527.md](art-0527.md) | 0 |  |
+| Artículo 528 | [art-0528.md](art-0528.md) | 0 |  |
+| Artículo 529 | [art-0529.md](art-0529.md) | 0 |  |
+| Artículo 530 | [art-0530.md](art-0530.md) | 0 |  |
+| Artículo 531 | [art-0531.md](art-0531.md) | 0 |  |
+| Artículo 532 | [art-0532.md](art-0532.md) | 0 |  |
+| Artículo 533 | [art-0533.md](art-0533.md) | 0 |  |
+| Artículo 534 | [art-0534.md](art-0534.md) | 0 |  |
+| Artículo 535 | [art-0535.md](art-0535.md) | 0 |  |
+| Artículo 536 | [art-0536.md](art-0536.md) | 0 |  |
+| Artículo 537 | [art-0537.md](art-0537.md) | 0 |  |
+| Artículo 538 | [art-0538.md](art-0538.md) | 0 |  |
+| Artículo 539 | [art-0539.md](art-0539.md) | 0 |  |
+| Artículo 540 | [art-0540.md](art-0540.md) | 0 |  |
+| Artículo 541 | [art-0541.md](art-0541.md) | 0 |  |
+| Artículo 542 | [art-0542.md](art-0542.md) | 0 |  |
+| Artículo 543 | [art-0543.md](art-0543.md) | 0 |  |
+| Artículo 544 | [art-0544.md](art-0544.md) | 1 | 2019-01-01 |
+| Artículo 545 | [art-0545.md](art-0545.md) | 0 |  |
+| Artículo 546 | [art-0546.md](art-0546.md) | 0 |  |
+| Artículo 547 | [art-0547.md](art-0547.md) | 0 |  |
+| Artículo 548 | [art-0548.md](art-0548.md) | 0 |  |
+| Artículo 549 | [art-0549.md](art-0549.md) | 0 |  |
+| Artículo 550 | [art-0550.md](art-0550.md) | 0 |  |
+| Artículo 551 | [art-0551.md](art-0551.md) | 0 |  |
+| Artículo 552 | [art-0552.md](art-0552.md) | 0 |  |
+| Artículo 553 | [art-0553.md](art-0553.md) | 0 |  |
+| Artículo 554 | [art-0554.md](art-0554.md) | 0 |  |
+| Artículo 555 | [art-0555.md](art-0555.md) | 0 |  |
+| Artículo 556 | [art-0556.md](art-0556.md) | 0 |  |
+| Artículo 557 | [art-0557.md](art-0557.md) | 0 |  |
+| Artículo 558 | [art-0558.md](art-0558.md) | 0 |  |
+| Artículo 559 | [art-0559.md](art-0559.md) | 0 |  |
+| Artículo 560 | [art-0560.md](art-0560.md) | 0 |  |
+| Artículo 561 | [art-0561.md](art-0561.md) | 0 |  |
+| Artículo 562 | [art-0562.md](art-0562.md) | 0 |  |
+| Artículo 563 | [art-0563.md](art-0563.md) | 0 |  |
+| Artículo 564 | [art-0564.md](art-0564.md) | 0 |  |
+| Artículo 565 | [art-0565.md](art-0565.md) | 0 |  |
+| Artículo 566 | [art-0566.md](art-0566.md) | 0 |  |
+| Artículo 567 | [art-0567.md](art-0567.md) | 0 |  |
+| Artículo 568 | [art-0568.md](art-0568.md) | 0 |  |
+| Artículo 569 | [art-0569.md](art-0569.md) | 0 |  |
+| Artículo 570 | [art-0570.md](art-0570.md) | 0 |  |
+| Artículo 571 | [art-0571.md](art-0571.md) | 0 |  |
+| Artículo 572 | [art-0572.md](art-0572.md) | 0 |  |
+| Artículo 573 | [art-0573.md](art-0573.md) | 0 |  |
+| Artículo 574 | [art-0574.md](art-0574.md) | 0 |  |
+| Artículo 575 | [art-0575.md](art-0575.md) | 0 |  |
+| Artículo 576 | [art-0576.md](art-0576.md) | 0 |  |
+| Artículo 577 | [art-0577.md](art-0577.md) | 0 |  |
+| Artículo 578 | [art-0578.md](art-0578.md) | 0 |  |
+| Artículo 579 | [art-0579.md](art-0579.md) | 0 |  |
+| Artículo 580 | [art-0580.md](art-0580.md) | 0 |  |
+| Artículo 581 | [art-0581.md](art-0581.md) | 0 |  |
+| Artículo 582 | [art-0582.md](art-0582.md) | 0 |  |
+| Artículo 583 | [art-0583.md](art-0583.md) | 0 |  |
+| Artículo 584 | [art-0584.md](art-0584.md) | 0 |  |
+| Artículo 585 | [art-0585.md](art-0585.md) | 0 |  |
+| Artículo 586 | [art-0586.md](art-0586.md) | 0 |  |
+| Artículo 587 | [art-0587.md](art-0587.md) | 0 |  |
+| Artículo 588 | [art-0588.md](art-0588.md) | 0 |  |
+| Artículo 589 | [art-0589.md](art-0589.md) | 0 |  |
+| Artículo 590 | [art-0590.md](art-0590.md) | 0 |  |
+| Artículo 591 | [art-0591.md](art-0591.md) | 0 |  |
+| Artículo 592 | [art-0592.md](art-0592.md) | 0 |  |
+| Artículo 593 | [art-0593.md](art-0593.md) | 0 |  |
+| Artículo 594 | [art-0594.md](art-0594.md) | 0 |  |
+| Artículo 595 | [art-0595.md](art-0595.md) | 0 |  |
+| Artículo 596 | [art-0596.md](art-0596.md) | 0 |  |
+| Artículo 597 | [art-0597.md](art-0597.md) | 0 |  |
+| Artículo 598 | [art-0598.md](art-0598.md) | 0 |  |
+| Artículo 599 | [art-0599.md](art-0599.md) | 0 |  |
+| Artículo 600 | [art-0600.md](art-0600.md) | 1 | 2014-06-14 |
+| Artículo 601 | [art-0601.md](art-0601.md) | 0 |  |
+| Artículo 602 | [art-0602.md](art-0602.md) | 0 |  |
+| Artículo 603 | [art-0603.md](art-0603.md) | 0 |  |
+| Artículo 604 | [art-0604.md](art-0604.md) | 0 |  |
+| Artículo 605 | [art-0605.md](art-0605.md) | 0 |  |
+| Artículo 606 | [art-0606.md](art-0606.md) | 0 |  |
+| Artículo 607 | [art-0607.md](art-0607.md) | 0 |  |
+| Artículo 608 | [art-0608.md](art-0608.md) | 0 |  |
+| Artículo 609 | [art-0609.md](art-0609.md) | 0 |  |
+| Artículo 610 | [art-0610.md](art-0610.md) | 0 |  |
+| Artículo 611 | [art-0611.md](art-0611.md) | 0 |  |
+| Artículo 612 | [art-0612.md](art-0612.md) | 0 |  |
+| Artículo 613 | [art-0613.md](art-0613.md) | 0 |  |
+| Artículo 614 | [art-0614.md](art-0614.md) | 0 |  |
+| Artículo 615 | [art-0615.md](art-0615.md) | 1 | 2019-01-01 |
+| Artículo 616 | [art-0616.md](art-0616.md) | 0 |  |
+| Artículo 617 | [art-0617.md](art-0617.md) | 0 |  |
+| Artículo 618 | [art-0618.md](art-0618.md) | 0 |  |
+| Artículo 619 | [art-0619.md](art-0619.md) | 0 |  |
+| Artículo 620 | [art-0620.md](art-0620.md) | 0 |  |
+| Artículo 621 | [art-0621.md](art-0621.md) | 0 |  |
+| Artículo 622 | [art-0622.md](art-0622.md) | 0 |  |
+| Artículo 623 | [art-0623.md](art-0623.md) | 0 |  |
+| Artículo 624 | [art-0624.md](art-0624.md) | 0 |  |
+| Artículo 625 | [art-0625.md](art-0625.md) | 0 |  |
+| Artículo 626 | [art-0626.md](art-0626.md) | 0 |  |
+| Artículo 627 | [art-0627.md](art-0627.md) | 0 |  |
+| Artículo 628 | [art-0628.md](art-0628.md) | 0 |  |
+| Artículo 629 | [art-0629.md](art-0629.md) | 0 |  |
+| Artículo 630 | [art-0630.md](art-0630.md) | 0 |  |
+| Artículo 631 | [art-0631.md](art-0631.md) | 0 |  |
+| Artículo 632 | [art-0632.md](art-0632.md) | 0 |  |
+| Artículo 633 | [art-0633.md](art-0633.md) | 0 |  |
+| Artículo 634 | [art-0634.md](art-0634.md) | 0 |  |
+| Artículo 635 | [art-0635.md](art-0635.md) | 0 |  |
+| Artículo 636 | [art-0636.md](art-0636.md) | 0 |  |
+| Artículo 637 | [art-0637.md](art-0637.md) | 0 |  |
+| Artículo 638 | [art-0638.md](art-0638.md) | 0 |  |
+| Artículo 639 | [art-0639.md](art-0639.md) | 1 | 2014-01-11 |
+| Artículo 640 | [art-0640.md](art-0640.md) | 3 | 2019-01-01 |
+| Artículo 641 | [art-0641.md](art-0641.md) | 0 |  |
+| Artículo 642 | [art-0642.md](art-0642.md) | 0 |  |
+| Artículo 643 | [art-0643.md](art-0643.md) | 0 |  |
+| Artículo 644 | [art-0644.md](art-0644.md) | 0 |  |
+| Artículo 645 | [art-0645.md](art-0645.md) | 0 |  |
+| Artículo 646 | [art-0646.md](art-0646.md) | 0 |  |
+| Artículo 647 | [art-0647.md](art-0647.md) | 0 |  |
+| Artículo 648 | [art-0648.md](art-0648.md) | 0 |  |
+| Artículo 649 | [art-0649.md](art-0649.md) | 0 |  |
+| Artículo 650 | [art-0650.md](art-0650.md) | 0 |  |
+| Artículo 651 | [art-0651.md](art-0651.md) | 0 |  |
+| Artículo 652 | [art-0652.md](art-0652.md) | 0 |  |
+| Artículo 653 | [art-0653.md](art-0653.md) | 0 |  |
+| Artículo 654 | [art-0654.md](art-0654.md) | 0 |  |
+| Artículo 655 | [art-0655.md](art-0655.md) | 0 |  |
+| Artículo 656 | [art-0656.md](art-0656.md) | 0 |  |
+| Artículo 657 | [art-0657.md](art-0657.md) | 0 |  |
+| Artículo 658 | [art-0658.md](art-0658.md) | 0 |  |
+| Artículo 659 | [art-0659.md](art-0659.md) | 0 |  |
+| Artículo 660 | [art-0660.md](art-0660.md) | 0 |  |
+| Artículo 661 | [art-0661.md](art-0661.md) | 0 |  |
+| Artículo 662 | [art-0662.md](art-0662.md) | 0 |  |
+| Artículo 663 | [art-0663.md](art-0663.md) | 0 |  |
+| Artículo 664 | [art-0664.md](art-0664.md) | 0 |  |
+| Artículo 665 | [art-0665.md](art-0665.md) | 1 | 2019-01-01 |
+| Artículo 666 | [art-0666.md](art-0666.md) | 0 |  |
+| Artículo 667 | [art-0667.md](art-0667.md) | 0 |  |
+| Artículo 668 | [art-0668.md](art-0668.md) | 0 |  |
+| Artículo 669 | [art-0669.md](art-0669.md) | 0 |  |
+| Artículo 670 | [art-0670.md](art-0670.md) | 0 |  |
+| Artículo 671 | [art-0671.md](art-0671.md) | 0 |  |
+| Artículo 672 | [art-0672.md](art-0672.md) | 0 |  |
+| Artículo 673 | [art-0673.md](art-0673.md) | 0 |  |
+| Artículo 674 | [art-0674.md](art-0674.md) | 0 |  |
+| Artículo 675 | [art-0675.md](art-0675.md) | 0 |  |
+| Artículo 676 | [art-0676.md](art-0676.md) | 0 |  |
+| Artículo 677 | [art-0677.md](art-0677.md) | 0 |  |
+| Artículo 678 | [art-0678.md](art-0678.md) | 0 |  |
+| Artículo 679 | [art-0679.md](art-0679.md) | 0 |  |
+| Artículo 680 | [art-0680.md](art-0680.md) | 0 |  |
+| Artículo 681 | [art-0681.md](art-0681.md) | 0 |  |
+| Artículo 682 | [art-0682.md](art-0682.md) | 0 |  |
+| Artículo 683 | [art-0683.md](art-0683.md) | 0 |  |
+| Artículo 684 | [art-0684.md](art-0684.md) | 0 |  |
+| Artículo 685 | [art-0685.md](art-0685.md) | 0 |  |
+| Artículo 686 | [art-0686.md](art-0686.md) | 0 |  |
+| Artículo 687 | [art-0687.md](art-0687.md) | 0 |  |
+| Artículo 688 | [art-0688.md](art-0688.md) | 0 |  |
+| Artículo 689 | [art-0689.md](art-0689.md) | 0 |  |
+| Artículo 690 | [art-0690.md](art-0690.md) | 0 |  |
+| Artículo 691 | [art-0691.md](art-0691.md) | 0 |  |
+| Artículo 692 | [art-0692.md](art-0692.md) | 0 |  |
+| Artículo 693 | [art-0693.md](art-0693.md) | 0 |  |
+| Artículo 694 | [art-0694.md](art-0694.md) | 0 |  |
+| Artículo 695 | [art-0695.md](art-0695.md) | 0 |  |
+| Artículo 696 | [art-0696.md](art-0696.md) | 0 |  |
+| Artículo 697 | [art-0697.md](art-0697.md) | 0 |  |
+| Artículo 698 | [art-0698.md](art-0698.md) | 0 |  |
+| Artículo 699 | [art-0699.md](art-0699.md) | 0 |  |
+| Artículo 700 | [art-0700.md](art-0700.md) | 0 |  |
+| Artículo 701 | [art-0701.md](art-0701.md) | 0 |  |
+| Artículo 702 | [art-0702.md](art-0702.md) | 0 |  |
+| Artículo 703 | [art-0703.md](art-0703.md) | 0 |  |
+| Artículo 704 | [art-0704.md](art-0704.md) | 0 |  |
+| Artículo 705 | [art-0705.md](art-0705.md) | 0 |  |
+| Artículo 706 | [art-0706.md](art-0706.md) | 0 |  |
+| Artículo 707 | [art-0707.md](art-0707.md) | 0 |  |
+| Artículo 708 | [art-0708.md](art-0708.md) | 0 |  |
+| Artículo 709 | [art-0709.md](art-0709.md) | 0 |  |
+| Artículo 710 | [art-0710.md](art-0710.md) | 0 |  |
+| Artículo 711 | [art-0711.md](art-0711.md) | 0 |  |
+| Artículo 712 | [art-0712.md](art-0712.md) | 0 |  |
+| Artículo 713 | [art-0713.md](art-0713.md) | 0 |  |
+| Artículo 714 | [art-0714.md](art-0714.md) | 0 |  |
+| Artículo 715 | [art-0715.md](art-0715.md) | 0 |  |
+| Artículo 716 | [art-0716.md](art-0716.md) | 0 |  |
+| Artículo 717 | [art-0717.md](art-0717.md) | 0 |  |
+| Artículo 718 | [art-0718.md](art-0718.md) | 0 |  |
+| Artículo 719 | [art-0719.md](art-0719.md) | 0 |  |
+| Artículo 720 | [art-0720.md](art-0720.md) | 0 |  |
+| Artículo 721 | [art-0721.md](art-0721.md) | 0 |  |
+| Artículo 722 | [art-0722.md](art-0722.md) | 0 |  |
+| Artículo 723 | [art-0723.md](art-0723.md) | 0 |  |
+| Artículo 724 | [art-0724.md](art-0724.md) | 0 |  |
+| Artículo 725 | [art-0725.md](art-0725.md) | 0 |  |
+| Artículo 726 | [art-0726.md](art-0726.md) | 1 | 2019-01-01 |
+| Artículo 727 | [art-0727.md](art-0727.md) | 0 |  |
+| Artículo 728 | [art-0728.md](art-0728.md) | 0 |  |
+| Artículo 729 | [art-0729.md](art-0729.md) | 0 |  |
+| Artículo 730 | [art-0730.md](art-0730.md) | 0 |  |
+| Artículo 731 | [art-0731.md](art-0731.md) | 0 |  |
+| Artículo 732 | [art-0732.md](art-0732.md) | 0 |  |
+| Artículo 733 | [art-0733.md](art-0733.md) | 0 |  |
+| Artículo 734 | [art-0734.md](art-0734.md) | 0 |  |
+| Artículo 735 | [art-0735.md](art-0735.md) | 0 |  |
+| Artículo 736 | [art-0736.md](art-0736.md) | 0 |  |
+| Artículo 737 | [art-0737.md](art-0737.md) | 0 |  |
+| Artículo 738 | [art-0738.md](art-0738.md) | 0 |  |
+| Artículo 739 | [art-0739.md](art-0739.md) | 0 |  |
+| Artículo 740 | [art-0740.md](art-0740.md) | 0 |  |
+| Artículo 741 | [art-0741.md](art-0741.md) | 0 |  |
+| Artículo 742 | [art-0742.md](art-0742.md) | 0 |  |
+| Artículo 743 | [art-0743.md](art-0743.md) | 0 |  |
+| Artículo 744 | [art-0744.md](art-0744.md) | 0 |  |
+| Artículo 745 | [art-0745.md](art-0745.md) | 0 |  |
+| Artículo 746 | [art-0746.md](art-0746.md) | 0 |  |
+| Artículo 747 | [art-0747.md](art-0747.md) | 0 |  |
+| Artículo 748 | [art-0748.md](art-0748.md) | 0 |  |
+| Artículo 749 | [art-0749.md](art-0749.md) | 0 |  |
+| Artículo 750 | [art-0750.md](art-0750.md) | 0 |  |
+| Artículo 751 | [art-0751.md](art-0751.md) | 0 |  |
+| Artículo 752 | [art-0752.md](art-0752.md) | 0 |  |
+| Artículo 753 | [art-0753.md](art-0753.md) | 0 |  |
+| Artículo 754 | [art-0754.md](art-0754.md) | 0 |  |
+| Artículo 755 | [art-0755.md](art-0755.md) | 0 |  |
+| Artículo 756 | [art-0756.md](art-0756.md) | 0 |  |
+| Artículo 757 | [art-0757.md](art-0757.md) | 0 |  |
+| Artículo 758 | [art-0758.md](art-0758.md) | 0 |  |
+| Artículo 759 | [art-0759.md](art-0759.md) | 0 |  |
+| Artículo 760 | [art-0760.md](art-0760.md) | 0 |  |
+| Artículo 761 | [art-0761.md](art-0761.md) | 0 |  |
+| Artículo 762 | [art-0762.md](art-0762.md) | 1 | 2019-01-01 |
+| Artículo 763 | [art-0763.md](art-0763.md) | 0 |  |
+| Artículo 764 | [art-0764.md](art-0764.md) | 0 |  |
+| Artículo 765 | [art-0765.md](art-0765.md) | 0 |  |
+| Artículo 766 | [art-0766.md](art-0766.md) | 0 |  |
+| Artículo 767 | [art-0767.md](art-0767.md) | 1 | 2019-01-01 |
+| Artículo 768 | [art-0768.md](art-0768.md) | 0 |  |
+| Artículo 769 | [art-0769.md](art-0769.md) | 0 |  |
+| Artículo 770 | [art-0770.md](art-0770.md) | 0 |  |
+| Artículo 771 | [art-0771.md](art-0771.md) | 0 |  |
+| Artículo 772 | [art-0772.md](art-0772.md) | 0 |  |
+| Artículo 773 | [art-0773.md](art-0773.md) | 0 |  |
+| Artículo 774 | [art-0774.md](art-0774.md) | 0 |  |
+| Artículo 775 | [art-0775.md](art-0775.md) | 0 |  |
+| Artículo 776 | [art-0776.md](art-0776.md) | 0 |  |
+| Artículo 777 | [art-0777.md](art-0777.md) | 0 |  |
+| Artículo 778 | [art-0778.md](art-0778.md) | 0 |  |
+| Artículo 779 | [art-0779.md](art-0779.md) | 0 |  |
+| Artículo 780 | [art-0780.md](art-0780.md) | 0 |  |
+| Artículo 781 | [art-0781.md](art-0781.md) | 0 |  |
+| Artículo 782 | [art-0782.md](art-0782.md) | 0 |  |
+| Artículo 783 | [art-0783.md](art-0783.md) | 0 |  |
+| Artículo 784 | [art-0784.md](art-0784.md) | 0 |  |
+| Artículo 785 | [art-0785.md](art-0785.md) | 0 |  |
+| Artículo 786 | [art-0786.md](art-0786.md) | 0 |  |
+| Artículo 787 | [art-0787.md](art-0787.md) | 0 |  |
+| Artículo 788 | [art-0788.md](art-0788.md) | 0 |  |
+| Artículo 789 | [art-0789.md](art-0789.md) | 0 |  |
+| Artículo 790 | [art-0790.md](art-0790.md) | 0 |  |
+| Artículo 791 | [art-0791.md](art-0791.md) | 0 |  |
+| Artículo 792 | [art-0792.md](art-0792.md) | 0 |  |
+| Artículo 793 | [art-0793.md](art-0793.md) | 0 |  |
+| Artículo 794 | [art-0794.md](art-0794.md) | 0 |  |
+| Artículo 795 | [art-0795.md](art-0795.md) | 0 |  |
+| Artículo 796 | [art-0796.md](art-0796.md) | 0 |  |
+| Artículo 797 | [art-0797.md](art-0797.md) | 0 |  |
+| Artículo 798 | [art-0798.md](art-0798.md) | 0 |  |
+| Artículo 799 | [art-0799.md](art-0799.md) | 0 |  |
+| Artículo 800 | [art-0800.md](art-0800.md) | 0 |  |
+| Artículo 801 | [art-0801.md](art-0801.md) | 0 |  |
+| Artículo 802 | [art-0802.md](art-0802.md) | 0 |  |
+| Artículo 803 | [art-0803.md](art-0803.md) | 0 |  |
+| Artículo 804 | [art-0804.md](art-0804.md) | 0 |  |
+| Artículo 805 | [art-0805.md](art-0805.md) | 0 |  |
+| Artículo 806 | [art-0806.md](art-0806.md) | 0 |  |
+| Artículo 807 | [art-0807.md](art-0807.md) | 0 |  |
+| Artículo 808 | [art-0808.md](art-0808.md) | 0 |  |
+| Artículo 809 | [art-0809.md](art-0809.md) | 0 |  |
+| Artículo 810 | [art-0810.md](art-0810.md) | 0 |  |
+| Artículo 811 | [art-0811.md](art-0811.md) | 0 |  |
+| Artículo 812 | [art-0812.md](art-0812.md) | 0 |  |
+| Artículo 813 | [art-0813.md](art-0813.md) | 0 |  |
+| Artículo 814 | [art-0814.md](art-0814.md) | 0 |  |
+| Artículo 815 | [art-0815.md](art-0815.md) | 0 |  |
+| Artículo 816 | [art-0816.md](art-0816.md) | 0 |  |
+| Artículo 817 | [art-0817.md](art-0817.md) | 0 |  |
+| Artículo 818 | [art-0818.md](art-0818.md) | 0 |  |
+| Artículo 819 | [art-0819.md](art-0819.md) | 0 |  |
+| Artículo 820 | [art-0820.md](art-0820.md) | 0 |  |
+| Artículo 821 | [art-0821.md](art-0821.md) | 0 |  |
+| Artículo 822 | [art-0822.md](art-0822.md) | 0 |  |
+| Artículo 823 | [art-0823.md](art-0823.md) | 0 |  |
+| Artículo 824 | [art-0824.md](art-0824.md) | 0 |  |
+| Artículo 825 | [art-0825.md](art-0825.md) | 0 |  |
+| Artículo 826 | [art-0826.md](art-0826.md) | 0 |  |
+| Artículo 827 | [art-0827.md](art-0827.md) | 0 |  |
+| Artículo 828 | [art-0828.md](art-0828.md) | 0 |  |
+| Artículo 829 | [art-0829.md](art-0829.md) | 0 |  |
+| Artículo 830 | [art-0830.md](art-0830.md) | 0 |  |
+| Artículo 831 | [art-0831.md](art-0831.md) | 0 |  |
+| Artículo 832 | [art-0832.md](art-0832.md) | 0 |  |
+| Artículo 833 | [art-0833.md](art-0833.md) | 0 |  |
+| Artículo 834 | [art-0834.md](art-0834.md) | 0 |  |
+| Artículo 835 | [art-0835.md](art-0835.md) | 0 |  |
+| Artículo 836 | [art-0836.md](art-0836.md) | 0 |  |
+| Artículo 837 | [art-0837.md](art-0837.md) | 0 |  |
+| Artículo 838 | [art-0838.md](art-0838.md) | 0 |  |
+| Artículo 839 | [art-0839.md](art-0839.md) | 0 |  |
+| Artículo 840 | [art-0840.md](art-0840.md) | 0 |  |
+| Artículo 841 | [art-0841.md](art-0841.md) | 0 |  |
+| Artículo 842 | [art-0842.md](art-0842.md) | 0 |  |
+| Artículo 843 | [art-0843.md](art-0843.md) | 0 |  |
+| Artículo 844 | [art-0844.md](art-0844.md) | 0 |  |
+| Artículo 845 | [art-0845.md](art-0845.md) | 0 |  |
+| Artículo 846 | [art-0846.md](art-0846.md) | 0 |  |
+| Artículo 847 | [art-0847.md](art-0847.md) | 0 |  |
+| Artículo 848 | [art-0848.md](art-0848.md) | 0 |  |
+| Artículo 849 | [art-0849.md](art-0849.md) | 0 |  |
+| Artículo 850 | [art-0850.md](art-0850.md) | 0 |  |
+| Artículo 851 | [art-0851.md](art-0851.md) | 0 |  |
+| Artículo 852 | [art-0852.md](art-0852.md) | 0 |  |
+| Artículo 853 | [art-0853.md](art-0853.md) | 0 |  |
+| Artículo 854 | [art-0854.md](art-0854.md) | 0 |  |
+| Artículo 855 | [art-0855.md](art-0855.md) | 0 |  |
+| Artículo 856 | [art-0856.md](art-0856.md) | 0 |  |
+| Artículo 857 | [art-0857.md](art-0857.md) | 0 |  |
+| Artículo 858 | [art-0858.md](art-0858.md) | 0 |  |
+| Artículo 859 | [art-0859.md](art-0859.md) | 0 |  |
+| Artículo 860 | [art-0860.md](art-0860.md) | 0 |  |
+| Artículo 861 | [art-0861.md](art-0861.md) | 0 |  |
+| Artículo 862 | [art-0862.md](art-0862.md) | 0 |  |
+| Artículo 863 | [art-0863.md](art-0863.md) | 0 |  |
+| Artículo 864 | [art-0864.md](art-0864.md) | 0 |  |
+| Artículo 865 | [art-0865.md](art-0865.md) | 0 |  |
+| Artículo 866 | [art-0866.md](art-0866.md) | 0 |  |
+| Artículo 867 | [art-0867.md](art-0867.md) | 0 |  |
+| Artículo 868 | [art-0868.md](art-0868.md) | 0 |  |
+| Artículo 869 | [art-0869.md](art-0869.md) | 0 |  |
+| Artículo 870 | [art-0870.md](art-0870.md) | 0 |  |
+| Artículo 871 | [art-0871.md](art-0871.md) | 0 |  |
+| Artículo 872 | [art-0872.md](art-0872.md) | 0 |  |
+| Artículo 873 | [art-0873.md](art-0873.md) | 0 |  |
+| Artículo 874 | [art-0874.md](art-0874.md) | 0 |  |
+| Artículo 875 | [art-0875.md](art-0875.md) | 0 |  |
+| Artículo 876 | [art-0876.md](art-0876.md) | 0 |  |
+| Artículo 877 | [art-0877.md](art-0877.md) | 0 |  |
+| Artículo 878 | [art-0878.md](art-0878.md) | 0 |  |
+| Artículo 879 | [art-0879.md](art-0879.md) | 0 |  |
+| Artículo 880 | [art-0880.md](art-0880.md) | 0 |  |
+| Artículo 881 | [art-0881.md](art-0881.md) | 0 |  |
+| Artículo 882 | [art-0882.md](art-0882.md) | 0 |  |
+| Artículo 883 | [art-0883.md](art-0883.md) | 0 |  |
+| Artículo 884 | [art-0884.md](art-0884.md) | 0 |  |
+| Artículo 885 | [art-0885.md](art-0885.md) | 0 |  |
+| Artículo 886 | [art-0886.md](art-0886.md) | 0 |  |
+| Artículo 887 | [art-0887.md](art-0887.md) | 0 |  |
+| Artículo 888 | [art-0888.md](art-0888.md) | 0 |  |
+| Artículo 889 | [art-0889.md](art-0889.md) | 0 |  |
+| Artículo 890 | [art-0890.md](art-0890.md) | 0 |  |
+| Artículo 891 | [art-0891.md](art-0891.md) | 0 |  |
+| Artículo 892 | [art-0892.md](art-0892.md) | 0 |  |
+| Artículo 893 | [art-0893.md](art-0893.md) | 0 |  |
+| Artículo 894 | [art-0894.md](art-0894.md) | 0 |  |
+| Artículo 895 | [art-0895.md](art-0895.md) | 0 |  |
+| Artículo 896 | [art-0896.md](art-0896.md) | 0 |  |
+| Artículo 897 | [art-0897.md](art-0897.md) | 0 |  |
+| Artículo 898 | [art-0898.md](art-0898.md) | 0 |  |
+| Artículo 899 | [art-0899.md](art-0899.md) | 0 |  |
+| Artículo 900 | [art-0900.md](art-0900.md) | 0 |  |
+| Artículo 901 | [art-0901.md](art-0901.md) | 0 |  |
+| Artículo 902 | [art-0902.md](art-0902.md) | 0 |  |
+| Artículo 903 | [art-0903.md](art-0903.md) | 0 |  |
+| Artículo 904 | [art-0904.md](art-0904.md) | 0 |  |
+| Artículo 905 | [art-0905.md](art-0905.md) | 0 |  |
+| Artículo 906 | [art-0906.md](art-0906.md) | 0 |  |
+| Artículo 907 | [art-0907.md](art-0907.md) | 0 |  |
+| Artículo 908 | [art-0908.md](art-0908.md) | 0 |  |
+| Artículo 909 | [art-0909.md](art-0909.md) | 0 |  |
+| Artículo 910 | [art-0910.md](art-0910.md) | 0 |  |
+| Artículo 911 | [art-0911.md](art-0911.md) | 0 |  |
+| Artículo 912 | [art-0912.md](art-0912.md) | 0 |  |
+| Artículo 913 | [art-0913.md](art-0913.md) | 0 |  |
+| Artículo 914 | [art-0914.md](art-0914.md) | 0 |  |
+| Artículo 915 | [art-0915.md](art-0915.md) | 0 |  |
+| Artículo 916 | [art-0916.md](art-0916.md) | 0 |  |
+| Artículo 917 | [art-0917.md](art-0917.md) | 0 |  |
+| Artículo 918 | [art-0918.md](art-0918.md) | 0 |  |
+| Artículo 919 | [art-0919.md](art-0919.md) | 0 |  |
+| Artículo 920 | [art-0920.md](art-0920.md) | 1 | 2019-01-01 |
+| Artículo 921 | [art-0921.md](art-0921.md) | 0 |  |
+| Artículo 922 | [art-0922.md](art-0922.md) | 0 |  |
+| Artículo 923 | [art-0923.md](art-0923.md) | 0 |  |
+| Artículo 924 | [art-0924.md](art-0924.md) | 0 |  |
+| Artículo 925 | [art-0925.md](art-0925.md) | 0 |  |
+| Artículo 926 | [art-0926.md](art-0926.md) | 0 |  |
+| Artículo 927 | [art-0927.md](art-0927.md) | 0 |  |
+| Artículo 928 | [art-0928.md](art-0928.md) | 0 |  |
+| Artículo 929 | [art-0929.md](art-0929.md) | 0 |  |
+| Artículo 930 | [art-0930.md](art-0930.md) | 0 |  |
+| Artículo 931 | [art-0931.md](art-0931.md) | 0 |  |
+| Artículo 932 | [art-0932.md](art-0932.md) | 0 |  |
+| Artículo 933 | [art-0933.md](art-0933.md) | 0 |  |
+| Artículo 934 | [art-0934.md](art-0934.md) | 0 |  |
+| Artículo 935 | [art-0935.md](art-0935.md) | 0 |  |
+| Artículo 936 | [art-0936.md](art-0936.md) | 0 |  |
+| Artículo 937 | [art-0937.md](art-0937.md) | 0 |  |
+| Artículo 938 | [art-0938.md](art-0938.md) | 0 |  |
+| Artículo 939 | [art-0939.md](art-0939.md) | 0 |  |
+| Artículo 940 | [art-0940.md](art-0940.md) | 0 |  |
+| Artículo 941 | [art-0941.md](art-0941.md) | 0 |  |
+| Artículo 942 | [art-0942.md](art-0942.md) | 0 |  |
+| Artículo 943 | [art-0943.md](art-0943.md) | 1 | 2019-01-01 |
+| Artículo 944 | [art-0944.md](art-0944.md) | 1 | 2019-01-01 |
+| Artículo 945 | [art-0945.md](art-0945.md) | 0 |  |
+| Artículo 946 | [art-0946.md](art-0946.md) | 0 |  |
+| Artículo 947 | [art-0947.md](art-0947.md) | 0 |  |
+| Artículo 948 | [art-0948.md](art-0948.md) | 0 |  |
+| Artículo 949 | [art-0949.md](art-0949.md) | 0 |  |
+| Artículo 950 | [art-0950.md](art-0950.md) | 0 |  |
+| Artículo 951 | [art-0951.md](art-0951.md) | 0 |  |
+| Artículo 952 | [art-0952.md](art-0952.md) | 0 |  |
+| Artículo 953 | [art-0953.md](art-0953.md) | 0 |  |
+| Artículo 954 | [art-0954.md](art-0954.md) | 0 |  |
+| Artículo 955 | [art-0955.md](art-0955.md) | 0 |  |
+| Artículo 956 | [art-0956.md](art-0956.md) | 0 |  |
+| Artículo 957 | [art-0957.md](art-0957.md) | 0 |  |
+| Artículo 958 | [art-0958.md](art-0958.md) | 0 |  |
+| Artículo 959 | [art-0959.md](art-0959.md) | 0 |  |
+| Artículo 960 | [art-0960.md](art-0960.md) | 0 |  |
+| Artículo 961 | [art-0961.md](art-0961.md) | 0 |  |
+| Artículo 962 | [art-0962.md](art-0962.md) | 0 |  |
+| Artículo 963 | [art-0963.md](art-0963.md) | 0 |  |
+| Artículo 964 | [art-0964.md](art-0964.md) | 0 |  |
+| Artículo 965 | [art-0965.md](art-0965.md) | 0 |  |
+| Artículo 966 | [art-0966.md](art-0966.md) | 0 |  |
+| Artículo 967 | [art-0967.md](art-0967.md) | 0 |  |
+| Artículo 968 | [art-0968.md](art-0968.md) | 0 |  |
+| Artículo 969 | [art-0969.md](art-0969.md) | 0 |  |
+| Artículo 970 | [art-0970.md](art-0970.md) | 0 |  |
+| Artículo 971 | [art-0971.md](art-0971.md) | 0 |  |
+| Artículo 972 | [art-0972.md](art-0972.md) | 0 |  |
+| Artículo 973 | [art-0973.md](art-0973.md) | 0 |  |
+| Artículo 974 | [art-0974.md](art-0974.md) | 0 |  |
+| Artículo 975 | [art-0975.md](art-0975.md) | 0 |  |
+| Artículo 976 | [art-0976.md](art-0976.md) | 0 |  |
+| Artículo 977 | [art-0977.md](art-0977.md) | 0 |  |
+| Artículo 978 | [art-0978.md](art-0978.md) | 0 |  |
+| Artículo 979 | [art-0979.md](art-0979.md) | 0 |  |
+| Artículo 980 | [art-0980.md](art-0980.md) | 0 |  |
+| Artículo 981 | [art-0981.md](art-0981.md) | 0 |  |
+| Artículo 982 | [art-0982.md](art-0982.md) | 0 |  |
+| Artículo 983 | [art-0983.md](art-0983.md) | 0 |  |
+| Artículo 984 | [art-0984.md](art-0984.md) | 0 |  |
+| Artículo 985 | [art-0985.md](art-0985.md) | 0 |  |
+| Artículo 986 | [art-0986.md](art-0986.md) | 0 |  |
+| Artículo 987 | [art-0987.md](art-0987.md) | 0 |  |
+| Artículo 988 | [art-0988.md](art-0988.md) | 0 |  |
+| Artículo 989 | [art-0989.md](art-0989.md) | 0 |  |
+| Artículo 990 | [art-0990.md](art-0990.md) | 0 |  |
+| Artículo 991 | [art-0991.md](art-0991.md) | 0 |  |
+| Artículo 992 | [art-0992.md](art-0992.md) | 0 |  |
+| Artículo 993 | [art-0993.md](art-0993.md) | 0 |  |
+| Artículo 994 | [art-0994.md](art-0994.md) | 0 |  |
+| Artículo 995 | [art-0995.md](art-0995.md) | 0 |  |
+| Artículo 996 | [art-0996.md](art-0996.md) | 0 |  |
+| Artículo 997 | [art-0997.md](art-0997.md) | 0 |  |
+| Artículo 998 | [art-0998.md](art-0998.md) | 0 |  |
+| Artículo 999 | [art-0999.md](art-0999.md) | 0 |  |
+| Artículo 1000 | [art-1000.md](art-1000.md) | 0 |  |
+| Artículo 1001 | [art-1001.md](art-1001.md) | 0 |  |
+| Artículo 1002 | [art-1002.md](art-1002.md) | 0 |  |
+| Artículo 1003 | [art-1003.md](art-1003.md) | 0 |  |
+| Artículo 1004 | [art-1004.md](art-1004.md) | 0 |  |
+| Artículo 1005 | [art-1005.md](art-1005.md) | 0 |  |
+| Artículo 1006 | [art-1006.md](art-1006.md) | 0 |  |
+| Artículo 1007 | [art-1007.md](art-1007.md) | 0 |  |
+| Artículo 1008 | [art-1008.md](art-1008.md) | 0 |  |
+| Artículo 1009 | [art-1009.md](art-1009.md) | 0 |  |
+| Artículo 1010 | [art-1010.md](art-1010.md) | 0 |  |
+| Artículo 1011 | [art-1011.md](art-1011.md) | 0 |  |
+| Artículo 1012 | [art-1012.md](art-1012.md) | 0 |  |
+| Artículo 1013 | [art-1013.md](art-1013.md) | 0 |  |
+| Artículo 1014 | [art-1014.md](art-1014.md) | 0 |  |
+| Artículo 1015 | [art-1015.md](art-1015.md) | 0 |  |
+| Artículo 1016 | [art-1016.md](art-1016.md) | 0 |  |
+| Artículo 1017 | [art-1017.md](art-1017.md) | 0 |  |
+| Artículo 1018 | [art-1018.md](art-1018.md) | 0 |  |
+| Artículo 1019 | [art-1019.md](art-1019.md) | 0 |  |
+| Artículo 1020 | [art-1020.md](art-1020.md) | 0 |  |
+| Artículo 1021 | [art-1021.md](art-1021.md) | 0 |  |
+| Artículo 1022 | [art-1022.md](art-1022.md) | 0 |  |
+| Artículo 1023 | [art-1023.md](art-1023.md) | 0 |  |
+| Artículo 1024 | [art-1024.md](art-1024.md) | 0 |  |
+| Artículo 1025 | [art-1025.md](art-1025.md) | 0 |  |
+| Artículo 1026 | [art-1026.md](art-1026.md) | 0 |  |
+| Artículo 1027 | [art-1027.md](art-1027.md) | 0 |  |
+| Artículo 1028 | [art-1028.md](art-1028.md) | 0 |  |
+| Artículo 1029 | [art-1029.md](art-1029.md) | 0 |  |
+| Artículo 1030 | [art-1030.md](art-1030.md) | 0 |  |
+| Artículo 1031 | [art-1031.md](art-1031.md) | 0 |  |
+| Artículo 1032 | [art-1032.md](art-1032.md) | 0 |  |
+| Artículo 1033 | [art-1033.md](art-1033.md) | 0 |  |
+| Artículo 1034 | [art-1034.md](art-1034.md) | 0 |  |
+| Artículo 1035 | [art-1035.md](art-1035.md) | 0 |  |
+| Artículo 1036 | [art-1036.md](art-1036.md) | 0 |  |
+| Artículo 1037 | [art-1037.md](art-1037.md) | 0 |  |
+| Artículo 1038 | [art-1038.md](art-1038.md) | 0 |  |
+| Artículo 1039 | [art-1039.md](art-1039.md) | 0 |  |
+| Artículo 1040 | [art-1040.md](art-1040.md) | 0 |  |
+| Artículo 1041 | [art-1041.md](art-1041.md) | 0 |  |
+| Artículo 1042 | [art-1042.md](art-1042.md) | 0 |  |
+| Artículo 1043 | [art-1043.md](art-1043.md) | 0 |  |
+| Artículo 1044 | [art-1044.md](art-1044.md) | 0 |  |
+| Artículo 1045 | [art-1045.md](art-1045.md) | 0 |  |
+| Artículo 1046 | [art-1046.md](art-1046.md) | 0 |  |
+| Artículo 1047 | [art-1047.md](art-1047.md) | 0 |  |
+| Artículo 1048 | [art-1048.md](art-1048.md) | 0 |  |
+| Artículo 1049 | [art-1049.md](art-1049.md) | 0 |  |
+| Artículo 1050 | [art-1050.md](art-1050.md) | 0 |  |
+| Artículo 1051 | [art-1051.md](art-1051.md) | 1 | 2009-06-10 |
+| Artículo 1052 | [art-1052.md](art-1052.md) | 0 |  |
+| Artículo 1053 | [art-1053.md](art-1053.md) | 0 |  |
+| Artículo 1054 | [art-1054.md](art-1054.md) | 3 | 2025-11-15 |
+| Artículo 1055 | [art-1055.md](art-1055.md) | 1 | 2012-01-27 |
+| Artículo 1055 bis | [art-1055-bis.md](art-1055-bis.md) | 1 | 2014-01-11 |
+| Artículo 1056 | [art-1056.md](art-1056.md) | 0 |  |
+| Artículo 1057 | [art-1057.md](art-1057.md) | 1 | 2008-07-16 |
+| Artículo 1058 | [art-1058.md](art-1058.md) | 1 | 2008-07-16 |
+| Artículo 1059 | [art-1059.md](art-1059.md) | 0 |  |
+| Artículo 1060 | [art-1060.md](art-1060.md) | 0 |  |
+| Artículo 1061 | [art-1061.md](art-1061.md) | 1 | 2017-01-26 |
+| Artículo 1061 Bis | [art-1061-bis.md](art-1061-bis.md) | 2 | 2025-11-15 |
+| Artículo 1062 | [art-1062.md](art-1062.md) | 0 |  |
+| Artículo 1063 | [art-1063.md](art-1063.md) | 2 | 2025-11-15 |
+| Artículo 1064 | [art-1064.md](art-1064.md) | 1 | 2019-01-01 |
+| Artículo 1065 | [art-1065.md](art-1065.md) | 0 |  |
+| Artículo 1066 | [art-1066.md](art-1066.md) | 0 |  |
+| Artículo 1067 | [art-1067.md](art-1067.md) | 1 | 2019-01-01 |
+| Artículo 1067 Bis | [art-1067-bis.md](art-1067-bis.md) | 15 | 2026-02-18 |
+| Artículo 1068 | [art-1068.md](art-1068.md) | 1 | 2014-01-11 |
+| Artículo 1068 Bis | [art-1068-bis.md](art-1068-bis.md) | 1 | 2017-01-26 |
+| Artículo 1069 | [art-1069.md](art-1069.md) | 2 | 2009-06-09 |
+| Artículo 1070 | [art-1070.md](art-1070.md) | 1 | 2014-01-11 |
+| Artículo 1070 Bis | [art-1070-bis.md](art-1070-bis.md) | 2 | 2019-01-01 |
+| Artículo 1071 | [art-1071.md](art-1071.md) | 0 |  |
+| Artículo 1072 | [art-1072.md](art-1072.md) | 0 |  |
+| Artículo 1073 | [art-1073.md](art-1073.md) | 0 |  |
+| Artículo 1074 | [art-1074.md](art-1074.md) | 0 |  |
+| Artículo 1075 | [art-1075.md](art-1075.md) | 0 |  |
+| Artículo 1076 | [art-1076.md](art-1076.md) | 1 | 2017-01-26 |
+| Artículo 1077 | [art-1077.md](art-1077.md) | 0 |  |
+| Artículo 1078 | [art-1078.md](art-1078.md) | 0 |  |
+| Artículo 1079 | [art-1079.md](art-1079.md) | 3 | 2019-01-01 |
+| Artículo 1080 | [art-1080.md](art-1080.md) | 1 | 2011-06-10 |
+| Artículo 1081 | [art-1081.md](art-1081.md) | 0 |  |
+| Artículo 1082 | [art-1082.md](art-1082.md) | 0 |  |
+| Artículo 1083 | [art-1083.md](art-1083.md) | 0 |  |
+| Artículo 1084 | [art-1084.md](art-1084.md) | 1 | 2019-01-01 |
+| Artículo 1085 | [art-1085.md](art-1085.md) | 1 | 2014-01-11 |
+| Artículo 1086 | [art-1086.md](art-1086.md) | 0 |  |
+| Artículo 1087 | [art-1087.md](art-1087.md) | 0 |  |
+| Artículo 1088 | [art-1088.md](art-1088.md) | 0 |  |
+| Artículo 1089 | [art-1089.md](art-1089.md) | 0 |  |
+| Artículo 1090 | [art-1090.md](art-1090.md) | 0 |  |
+| Artículo 1091 | [art-1091.md](art-1091.md) | 0 |  |
+| Artículo 1092 | [art-1092.md](art-1092.md) | 0 |  |
+| Artículo 1093 | [art-1093.md](art-1093.md) | 1 | 2014-01-11 |
+| Artículo 1094 | [art-1094.md](art-1094.md) | 0 |  |
+| Artículo 1095 | [art-1095.md](art-1095.md) | 0 |  |
+| Artículo 1096 | [art-1096.md](art-1096.md) | 0 |  |
+| Artículo 1097 | [art-1097.md](art-1097.md) | 0 |  |
+| Artículo 1097 Bis | [art-1097-bis.md](art-1097-bis.md) | 0 |  |
+| Artículo 1098 | [art-1098.md](art-1098.md) | 0 |  |
+| Artículo 1099 | [art-1099.md](art-1099.md) | 0 |  |
+| Artículo 1100 | [art-1100.md](art-1100.md) | 0 |  |
+| Artículo 1101 | [art-1101.md](art-1101.md) | 0 |  |
+| Artículo 1102 | [art-1102.md](art-1102.md) | 0 |  |
+| Artículo 1103 | [art-1103.md](art-1103.md) | 0 |  |
+| Artículo 1104 | [art-1104.md](art-1104.md) | 1 | 2014-01-11 |
+| Artículo 1105 | [art-1105.md](art-1105.md) | 1 | 2014-01-11 |
+| Artículo 1106 | [art-1106.md](art-1106.md) | 1 | 2014-01-11 |
+| Artículo 1107 | [art-1107.md](art-1107.md) | 1 | 2014-01-11 |
+| Artículo 1108 | [art-1108.md](art-1108.md) | 1 | 2014-01-11 |
+| Artículo 1109 | [art-1109.md](art-1109.md) | 0 |  |
+| Artículo 1110 | [art-1110.md](art-1110.md) | 0 |  |
+| Artículo 1111 | [art-1111.md](art-1111.md) | 0 |  |
+| Artículo 1112 | [art-1112.md](art-1112.md) | 0 |  |
+| Artículo 1113 | [art-1113.md](art-1113.md) | 0 |  |
+| Artículo 1114 | [art-1114.md](art-1114.md) | 0 |  |
+| Artículo 1115 | [art-1115.md](art-1115.md) | 0 |  |
+| Artículo 1116 | [art-1116.md](art-1116.md) | 0 |  |
+| Artículo 1117 | [art-1117.md](art-1117.md) | 0 |  |
+| Artículo 1118 | [art-1118.md](art-1118.md) | 0 |  |
+| Artículo 1119 | [art-1119.md](art-1119.md) | 0 |  |
+| Artículo 1120 | [art-1120.md](art-1120.md) | 0 |  |
+| Artículo 1121 | [art-1121.md](art-1121.md) | 0 |  |
+| Artículo 1122 | [art-1122.md](art-1122.md) | 0 |  |
+| Artículo 1123 | [art-1123.md](art-1123.md) | 1 | 2017-01-26 |
+| Artículo 1124 | [art-1124.md](art-1124.md) | 0 |  |
+| Artículo 1125 | [art-1125.md](art-1125.md) | 0 |  |
+| Artículo 1126 | [art-1126.md](art-1126.md) | 0 |  |
+| Artículo 1127 | [art-1127.md](art-1127.md) | 0 |  |
+| Artículo 1128 | [art-1128.md](art-1128.md) | 0 |  |
+| Artículo 1129 | [art-1129.md](art-1129.md) | 0 |  |
+| Artículo 1130 | [art-1130.md](art-1130.md) | 0 |  |
+| Artículo 1131 | [art-1131.md](art-1131.md) | 0 |  |
+| Artículo 1132 | [art-1132.md](art-1132.md) | 1 | 2014-01-11 |
+| Artículo 1133 | [art-1133.md](art-1133.md) | 0 |  |
+| Artículo 1134 | [art-1134.md](art-1134.md) | 0 |  |
+| Artículo 1135 | [art-1135.md](art-1135.md) | 0 |  |
+| Artículo 1136 | [art-1136.md](art-1136.md) | 0 |  |
+| Artículo 1137 | [art-1137.md](art-1137.md) | 0 |  |
+| Artículo 1138 | [art-1138.md](art-1138.md) | 0 |  |
+| Artículo 1139 | [art-1139.md](art-1139.md) | 0 |  |
+| Artículo 1140 | [art-1140.md](art-1140.md) | 0 |  |
+| Artículo 1141 | [art-1141.md](art-1141.md) | 0 |  |
+| Artículo 1142 | [art-1142.md](art-1142.md) | 0 |  |
+| Artículo 1143 | [art-1143.md](art-1143.md) | 0 |  |
+| Artículo 1144 | [art-1144.md](art-1144.md) | 0 |  |
+| Artículo 1145 | [art-1145.md](art-1145.md) | 0 |  |
+| Artículo 1146 | [art-1146.md](art-1146.md) | 0 |  |
+| Artículo 1147 | [art-1147.md](art-1147.md) | 0 |  |
+| Artículo 1148 | [art-1148.md](art-1148.md) | 0 |  |
+| Artículo 1149 | [art-1149.md](art-1149.md) | 0 |  |
+| Artículo 1150 | [art-1150.md](art-1150.md) | 0 |  |
+| Artículo 1151 | [art-1151.md](art-1151.md) | 0 |  |
+| Artículo 1152 | [art-1152.md](art-1152.md) | 0 |  |
+| Artículo 1153 | [art-1153.md](art-1153.md) | 0 |  |
+| Artículo 1154 | [art-1154.md](art-1154.md) | 2 | 2008-12-31 |
+| Artículo 1155 | [art-1155.md](art-1155.md) | 0 |  |
+| Artículo 1156 | [art-1156.md](art-1156.md) | 0 |  |
+| Artículo 1157 | [art-1157.md](art-1157.md) | 0 |  |
+| Artículo 1158 | [art-1158.md](art-1158.md) | 0 |  |
+| Artículo 1159 | [art-1159.md](art-1159.md) | 0 |  |
+| Artículo 1160 | [art-1160.md](art-1160.md) | 0 |  |
+| Artículo 1161 | [art-1161.md](art-1161.md) | 0 |  |
+| Artículo 1162 | [art-1162.md](art-1162.md) | 0 |  |
+| Artículo 1163 | [art-1163.md](art-1163.md) | 0 |  |
+| Artículo 1164 | [art-1164.md](art-1164.md) | 0 |  |
+| Artículo 1165 | [art-1165.md](art-1165.md) | 2 | 2008-12-31 |
+| Artículo 1166 | [art-1166.md](art-1166.md) | 0 |  |
+| Artículo 1167 | [art-1167.md](art-1167.md) | 0 |  |
+| Artículo 1168 | [art-1168.md](art-1168.md) | 1 | 2014-01-11 |
+| Artículo 1169 | [art-1169.md](art-1169.md) | 0 |  |
+| Artículo 1170 | [art-1170.md](art-1170.md) | 1 | 2014-01-11 |
+| Artículo 1171 | [art-1171.md](art-1171.md) | 1 | 2014-01-11 |
+| Artículo 1172 | [art-1172.md](art-1172.md) | 1 | 2014-01-11 |
+| Artículo 1173 | [art-1173.md](art-1173.md) | 1 | 2014-01-11 |
+| Artículo 1174 | [art-1174.md](art-1174.md) | 1 | 2014-01-11 |
+| Artículo 1175 | [art-1175.md](art-1175.md) | 1 | 2014-01-11 |
+| Artículo 1176 | [art-1176.md](art-1176.md) | 1 | 2014-01-11 |
+| Artículo 1177 | [art-1177.md](art-1177.md) | 1 | 2014-01-11 |
+| Artículo 1178 | [art-1178.md](art-1178.md) | 1 | 2014-01-11 |
+| Artículo 1179 | [art-1179.md](art-1179.md) | 1 | 2014-01-11 |
+| Artículo 1180 | [art-1180.md](art-1180.md) | 1 | 2014-01-11 |
+| Artículo 1181 | [art-1181.md](art-1181.md) | 1 | 2014-01-11 |
+| Artículo 1182 | [art-1182.md](art-1182.md) | 1 | 2014-01-11 |
+| Artículo 1183 | [art-1183.md](art-1183.md) | 1 | 2014-01-11 |
+| Artículo 1184 | [art-1184.md](art-1184.md) | 1 | 2014-01-11 |
+| Artículo 1185 | [art-1185.md](art-1185.md) | 1 | 2014-01-11 |
+| Artículo 1186 | [art-1186.md](art-1186.md) | 1 | 2014-01-11 |
+| Artículo 1187 | [art-1187.md](art-1187.md) | 1 | 2014-01-11 |
+| Artículo 1188 | [art-1188.md](art-1188.md) | 1 | 2014-01-11 |
+| Artículo 1189 | [art-1189.md](art-1189.md) | 1 | 2014-01-11 |
+| Artículo 1190 | [art-1190.md](art-1190.md) | 1 | 2014-01-11 |
+| Artículo 1191 | [art-1191.md](art-1191.md) | 2 | 2014-01-11 |
+| Artículo 1192 | [art-1192.md](art-1192.md) | 1 | 2014-01-11 |
+| Artículo 1193 | [art-1193.md](art-1193.md) | 2 | 2014-01-11 |
+| Artículo 1194 | [art-1194.md](art-1194.md) | 0 |  |
+| Artículo 1195 | [art-1195.md](art-1195.md) | 0 |  |
+| Artículo 1196 | [art-1196.md](art-1196.md) | 0 |  |
+| Artículo 1197 | [art-1197.md](art-1197.md) | 0 |  |
+| Artículo 1198 | [art-1198.md](art-1198.md) | 0 |  |
+| Artículo 1199 | [art-1199.md](art-1199.md) | 0 |  |
+| Artículo 1200 | [art-1200.md](art-1200.md) | 0 |  |
+| Artículo 1201 | [art-1201.md](art-1201.md) | 0 |  |
+| Artículo 1202 | [art-1202.md](art-1202.md) | 0 |  |
+| Artículo 1203 | [art-1203.md](art-1203.md) | 1 | 2008-07-16 |
+| Artículo 1204 | [art-1204.md](art-1204.md) | 0 |  |
+| Artículo 1205 | [art-1205.md](art-1205.md) | 0 |  |
+| Artículo 1206 | [art-1206.md](art-1206.md) | 0 |  |
+| Artículo 1207 | [art-1207.md](art-1207.md) | 0 |  |
+| Artículo 1208 | [art-1208.md](art-1208.md) | 0 |  |
+| Artículo 1209 | [art-1209.md](art-1209.md) | 0 |  |
+| Artículo 1210 | [art-1210.md](art-1210.md) | 0 |  |
+| Artículo 1211 | [art-1211.md](art-1211.md) | 0 |  |
+| Artículo 1212 | [art-1212.md](art-1212.md) | 0 |  |
+| Artículo 1213 | [art-1213.md](art-1213.md) | 0 |  |
+| Artículo 1214 | [art-1214.md](art-1214.md) | 0 |  |
+| Artículo 1215 | [art-1215.md](art-1215.md) | 0 |  |
+| Artículo 1216 | [art-1216.md](art-1216.md) | 0 |  |
+| Artículo 1217 | [art-1217.md](art-1217.md) | 0 |  |
+| Artículo 1218 | [art-1218.md](art-1218.md) | 0 |  |
+| Artículo 1219 | [art-1219.md](art-1219.md) | 0 |  |
+| Artículo 1220 | [art-1220.md](art-1220.md) | 0 |  |
+| Artículo 1221 | [art-1221.md](art-1221.md) | 0 |  |
+| Artículo 1222 | [art-1222.md](art-1222.md) | 0 |  |
+| Artículo 1223 | [art-1223.md](art-1223.md) | 1 | 2008-07-16 |
+| Artículo 1224 | [art-1224.md](art-1224.md) | 1 | 2008-07-16 |
+| Artículo 1225 | [art-1225.md](art-1225.md) | 0 |  |
+| Artículo 1226 | [art-1226.md](art-1226.md) | 0 |  |
+| Artículo 1227 | [art-1227.md](art-1227.md) | 0 |  |
+| Artículo 1228 | [art-1228.md](art-1228.md) | 0 |  |
+| Artículo 1229 | [art-1229.md](art-1229.md) | 0 |  |
+| Artículo 1230 | [art-1230.md](art-1230.md) | 0 |  |
+| Artículo 1231 | [art-1231.md](art-1231.md) | 0 |  |
+| Artículo 1232 | [art-1232.md](art-1232.md) | 1 | 2008-07-16 |
+| Artículo 1233 | [art-1233.md](art-1233.md) | 0 |  |
+| Artículo 1234 | [art-1234.md](art-1234.md) | 0 |  |
+| Artículo 1235 | [art-1235.md](art-1235.md) | 1 | 2008-07-16 |
+| Artículo 1236 | [art-1236.md](art-1236.md) | 0 |  |
+| Artículo 1237 | [art-1237.md](art-1237.md) | 0 |  |
+| Artículo 1238 | [art-1238.md](art-1238.md) | 0 |  |
+| Artículo 1239 | [art-1239.md](art-1239.md) | 0 |  |
+| Artículo 1240 | [art-1240.md](art-1240.md) | 0 |  |
+| Artículo 1241 | [art-1241.md](art-1241.md) | 0 |  |
+| Artículo 1242 | [art-1242.md](art-1242.md) | 0 |  |
+| Artículo 1243 | [art-1243.md](art-1243.md) | 0 |  |
+| Artículo 1244 | [art-1244.md](art-1244.md) | 0 |  |
+| Artículo 1245 | [art-1245.md](art-1245.md) | 0 |  |
+| Artículo 1246 | [art-1246.md](art-1246.md) | 0 |  |
+| Artículo 1247 | [art-1247.md](art-1247.md) | 1 | 2008-07-16 |
+| Artículo 1248 | [art-1248.md](art-1248.md) | 1 | 2019-01-01 |
+| Artículo 1249 | [art-1249.md](art-1249.md) | 0 |  |
+| Artículo 1250 | [art-1250.md](art-1250.md) | 1 | 2008-07-16 |
+| Artículo 1250 bis | [art-1250-bis.md](art-1250-bis.md) | 1 | 2008-07-16 |
+| Artículo 1250 bis 1 | [art-1250-bis-1.md](art-1250-bis-1.md) | 1 | 2008-07-16 |
+| Artículo 1251 | [art-1251.md](art-1251.md) | 0 |  |
+| Artículo 1252 | [art-1252.md](art-1252.md) | 0 |  |
+| Artículo 1253 | [art-1253.md](art-1253.md) | 17 | 2026-02-18 |
+| Artículo 1254 | [art-1254.md](art-1254.md) | 1 | 2008-07-16 |
+| Artículo 1255 | [art-1255.md](art-1255.md) | 2 | 2011-06-10 |
+| Artículo 1256 | [art-1256.md](art-1256.md) | 0 |  |
+| Artículo 1257 | [art-1257.md](art-1257.md) | 0 |  |
+| Artículo 1258 | [art-1258.md](art-1258.md) | 0 |  |
+| Artículo 1259 | [art-1259.md](art-1259.md) | 0 |  |
+| Artículo 1260 | [art-1260.md](art-1260.md) | 0 |  |
+| Artículo 1261 | [art-1261.md](art-1261.md) | 0 |  |
+| Artículo 1262 | [art-1262.md](art-1262.md) | 0 |  |
+| Artículo 1263 | [art-1263.md](art-1263.md) | 1 | 2008-07-16 |
+| Artículo 1264 | [art-1264.md](art-1264.md) | 0 |  |
+| Artículo 1265 | [art-1265.md](art-1265.md) | 0 |  |
+| Artículo 1266 | [art-1266.md](art-1266.md) | 0 |  |
+| Artículo 1267 | [art-1267.md](art-1267.md) | 0 |  |
+| Artículo 1268 | [art-1268.md](art-1268.md) | 0 |  |
+| Artículo 1269 | [art-1269.md](art-1269.md) | 0 |  |
+| Artículo 1270 | [art-1270.md](art-1270.md) | 0 |  |
+| Artículo 1271 | [art-1271.md](art-1271.md) | 0 |  |
+| Artículo 1272 | [art-1272.md](art-1272.md) | 0 |  |
+| Artículo 1273 | [art-1273.md](art-1273.md) | 0 |  |
+| Artículo 1274 | [art-1274.md](art-1274.md) | 0 |  |
+| Artículo 1275 | [art-1275.md](art-1275.md) | 0 |  |
+| Artículo 1276 | [art-1276.md](art-1276.md) | 0 |  |
+| Artículo 1277 | [art-1277.md](art-1277.md) | 0 |  |
+| Artículo 1278 | [art-1278.md](art-1278.md) | 0 |  |
+| Artículo 1279 | [art-1279.md](art-1279.md) | 0 |  |
+| Artículo 1280 | [art-1280.md](art-1280.md) | 0 |  |
+| Artículo 1281 | [art-1281.md](art-1281.md) | 0 |  |
+| Artículo 1282 | [art-1282.md](art-1282.md) | 0 |  |
+| Artículo 1283 | [art-1283.md](art-1283.md) | 0 |  |
+| Artículo 1284 | [art-1284.md](art-1284.md) | 0 |  |
+| Artículo 1285 | [art-1285.md](art-1285.md) | 0 |  |
+| Artículo 1286 | [art-1286.md](art-1286.md) | 0 |  |
+| Artículo 1287 | [art-1287.md](art-1287.md) | 0 |  |
+| Artículo 1288 | [art-1288.md](art-1288.md) | 0 |  |
+| Artículo 1289 | [art-1289.md](art-1289.md) | 0 |  |
+| Artículo 1290 | [art-1290.md](art-1290.md) | 0 |  |
+| Artículo 1291 | [art-1291.md](art-1291.md) | 0 |  |
+| Artículo 1292 | [art-1292.md](art-1292.md) | 0 |  |
+| Artículo 1293 | [art-1293.md](art-1293.md) | 0 |  |
+| Artículo 1294 | [art-1294.md](art-1294.md) | 0 |  |
+| Artículo 1295 | [art-1295.md](art-1295.md) | 0 |  |
+| Artículo 1296 | [art-1296.md](art-1296.md) | 0 |  |
+| Artículo 1297 | [art-1297.md](art-1297.md) | 0 |  |
+| Artículo 1298 | [art-1298.md](art-1298.md) | 0 |  |
+| Artículo 1298-A | [art-1298-a.md](art-1298-a.md) | 0 |  |
+| Artículo 1299 | [art-1299.md](art-1299.md) | 0 |  |
+| Artículo 1300 | [art-1300.md](art-1300.md) | 0 |  |
+| Artículo 1301 | [art-1301.md](art-1301.md) | 0 |  |
+| Artículo 1302 | [art-1302.md](art-1302.md) | 0 |  |
+| Artículo 1303 | [art-1303.md](art-1303.md) | 0 |  |
+| Artículo 1304 | [art-1304.md](art-1304.md) | 0 |  |
+| Artículo 1305 | [art-1305.md](art-1305.md) | 0 |  |
+| Artículo 1306 | [art-1306.md](art-1306.md) | 0 |  |
+| Artículo 1307 | [art-1307.md](art-1307.md) | 0 |  |
+| Artículo 1308 | [art-1308.md](art-1308.md) | 0 |  |
+| Artículo 1309 | [art-1309.md](art-1309.md) | 0 |  |
+| Artículo 1310 | [art-1310.md](art-1310.md) | 0 |  |
+| Artículo 1311 | [art-1311.md](art-1311.md) | 0 |  |
+| Artículo 1312 | [art-1312.md](art-1312.md) | 0 |  |
+| Artículo 1313 | [art-1313.md](art-1313.md) | 0 |  |
+| Artículo 1314 | [art-1314.md](art-1314.md) | 0 |  |
+| Artículo 1315 | [art-1315.md](art-1315.md) | 0 |  |
+| Artículo 1316 | [art-1316.md](art-1316.md) | 0 |  |
+| Artículo 1317 | [art-1317.md](art-1317.md) | 0 |  |
+| Artículo 1318 | [art-1318.md](art-1318.md) | 0 |  |
+| Artículo 1319 | [art-1319.md](art-1319.md) | 0 |  |
+| Artículo 1320 | [art-1320.md](art-1320.md) | 0 |  |
+| Artículo 1321 | [art-1321.md](art-1321.md) | 0 |  |
+| Artículo 1322 | [art-1322.md](art-1322.md) | 0 |  |
+| Artículo 1323 | [art-1323.md](art-1323.md) | 0 |  |
+| Artículo 1324 | [art-1324.md](art-1324.md) | 0 |  |
+| Artículo 1325 | [art-1325.md](art-1325.md) | 0 |  |
+| Artículo 1326 | [art-1326.md](art-1326.md) | 0 |  |
+| Artículo 1327 | [art-1327.md](art-1327.md) | 0 |  |
+| Artículo 1328 | [art-1328.md](art-1328.md) | 0 |  |
+| Artículo 1329 | [art-1329.md](art-1329.md) | 0 |  |
+| Artículo 1330 | [art-1330.md](art-1330.md) | 0 |  |
+| Artículo 1331 | [art-1331.md](art-1331.md) | 1 | 2017-01-26 |
+| Artículo 1332 | [art-1332.md](art-1332.md) | 0 |  |
+| Artículo 1333 | [art-1333.md](art-1333.md) | 1 | 2017-01-26 |
+| Artículo 1334 | [art-1334.md](art-1334.md) | 0 |  |
+| Artículo 1335 | [art-1335.md](art-1335.md) | 0 |  |
+| Artículo 1336 | [art-1336.md](art-1336.md) | 1 | 2008-07-16 |
+| Artículo 1337 | [art-1337.md](art-1337.md) | 2 | 2019-01-01 |
+| Artículo 1338 | [art-1338.md](art-1338.md) | 1 | 2008-07-16 |
+| Artículo 1339 | [art-1339.md](art-1339.md) | 17 | 2026-02-18 |
+| Artículo 1339 Bis | [art-1339-bis.md](art-1339-bis.md) | 1 | 2011-01-28 |
+| Artículo 1340 | [art-1340.md](art-1340.md) | 17 | 2026-02-18 |
+| Artículo 1341 | [art-1341.md](art-1341.md) | 0 |  |
+| Artículo 1342 | [art-1342.md](art-1342.md) | 1 | 2008-07-16 |
+| Artículo 1343 | [art-1343.md](art-1343.md) | 0 |  |
+| Artículo 1344 | [art-1344.md](art-1344.md) | 2 | 2008-12-31 |
+| Artículo 1345 | [art-1345.md](art-1345.md) | 2 | 2008-12-31 |
+| Artículo 1345 bis | [art-1345-bis.md](art-1345-bis.md) | 1 | 2008-07-16 |
+| Artículo 1345 bis 1 | [art-1345-bis-1.md](art-1345-bis-1.md) | 2 | 2008-12-31 |
+| Artículo 1345 bis 2 | [art-1345-bis-2.md](art-1345-bis-2.md) | 1 | 2008-07-16 |
+| Artículo 1345 bis 3 | [art-1345-bis-3.md](art-1345-bis-3.md) | 1 | 2008-07-16 |
+| Artículo 1345 bis 4 | [art-1345-bis-4.md](art-1345-bis-4.md) | 2 | 2008-12-31 |
+| Artículo 1345 bis 5 | [art-1345-bis-5.md](art-1345-bis-5.md) | 1 | 2008-07-16 |
+| Artículo 1345 bis 6 | [art-1345-bis-6.md](art-1345-bis-6.md) | 1 | 2008-07-16 |
+| Artículo 1345 bis 7 | [art-1345-bis-7.md](art-1345-bis-7.md) | 3 | 2014-06-14 |
+| Artículo 1345 bis 8 | [art-1345-bis-8.md](art-1345-bis-8.md) | 1 | 2008-07-16 |
+| Artículo 1346 | [art-1346.md](art-1346.md) | 0 |  |
+| Artículo 1347 | [art-1347.md](art-1347.md) | 0 |  |
+| Artículo 1347-A | [art-1347-a.md](art-1347-a.md) | 1 | 2008-12-31 |
+| Artículo 1348 | [art-1348.md](art-1348.md) | 1 | 2008-07-16 |
+| Artículo 1349 | [art-1349.md](art-1349.md) | 0 |  |
+| Artículo 1350 | [art-1350.md](art-1350.md) | 2 | 2017-01-26 |
+| Artículo 1351 | [art-1351.md](art-1351.md) | 0 |  |
+| Artículo 1352 | [art-1352.md](art-1352.md) | 0 |  |
+| Artículo 1353 | [art-1353.md](art-1353.md) | 0 |  |
+| Artículo 1354 | [art-1354.md](art-1354.md) | 0 |  |
+| Artículo 1355 | [art-1355.md](art-1355.md) | 0 |  |
+| Artículo 1356 | [art-1356.md](art-1356.md) | 0 |  |
+| Artículo 1357 | [art-1357.md](art-1357.md) | 0 |  |
+| Artículo 1358 | [art-1358.md](art-1358.md) | 0 |  |
+| Artículo 1359 | [art-1359.md](art-1359.md) | 0 |  |
+| Artículo 1360 | [art-1360.md](art-1360.md) | 0 |  |
+| Artículo 1361 | [art-1361.md](art-1361.md) | 0 |  |
+| Artículo 1362 | [art-1362.md](art-1362.md) | 0 |  |
+| Artículo 1363 | [art-1363.md](art-1363.md) | 0 |  |
+| Artículo 1364 | [art-1364.md](art-1364.md) | 0 |  |
+| Artículo 1365 | [art-1365.md](art-1365.md) | 0 |  |
+| Artículo 1366 | [art-1366.md](art-1366.md) | 0 |  |
+| Artículo 1367 | [art-1367.md](art-1367.md) | 0 |  |
+| Artículo 1368 | [art-1368.md](art-1368.md) | 0 |  |
+| Artículo 1369 | [art-1369.md](art-1369.md) | 0 |  |
+| Artículo 1370 | [art-1370.md](art-1370.md) | 0 |  |
+| Artículo 1371 | [art-1371.md](art-1371.md) | 0 |  |
+| Artículo 1372 | [art-1372.md](art-1372.md) | 0 |  |
+| Artículo 1373 | [art-1373.md](art-1373.md) | 0 |  |
+| Artículo 1374 | [art-1374.md](art-1374.md) | 0 |  |
+| Artículo 1375 | [art-1375.md](art-1375.md) | 1 | 2014-01-11 |
+| Artículo 1376 | [art-1376.md](art-1376.md) | 0 |  |
+| Artículo 1376 Bis | [art-1376-bis.md](art-1376-bis.md) | 0 |  |
+| Artículo 1377 | [art-1377.md](art-1377.md) | 1 | 2012-01-27 |
+| Artículo 1378 | [art-1378.md](art-1378.md) | 2 | 2017-01-26 |
+| Artículo 1379 | [art-1379.md](art-1379.md) | 0 |  |
+| Artículo 1380 | [art-1380.md](art-1380.md) | 1 | 2017-01-26 |
+| Artículo 1381 | [art-1381.md](art-1381.md) | 0 |  |
+| Artículo 1382 | [art-1382.md](art-1382.md) | 0 |  |
+| Artículo 1383 | [art-1383.md](art-1383.md) | 0 |  |
+| Artículo 1384 | [art-1384.md](art-1384.md) | 0 |  |
+| Artículo 1385 | [art-1385.md](art-1385.md) | 0 |  |
+| Artículo 1386 | [art-1386.md](art-1386.md) | 0 |  |
+| Artículo 1387 | [art-1387.md](art-1387.md) | 0 |  |
+| Artículo 1388 | [art-1388.md](art-1388.md) | 0 |  |
+| Artículo 1389 | [art-1389.md](art-1389.md) | 0 |  |
+| Artículo 1390 | [art-1390.md](art-1390.md) | 0 |  |
+| Artículo 1390 Bis | [art-1390-bis.md](art-1390-bis.md) | 4 | 2017-01-26 |
+| Artículo 1390 Bis 1 | [art-1390-bis-1.md](art-1390-bis-1.md) | 3 | 2017-01-26 |
+| Artículo 1390 Bis 10 | [art-1390-bis-10.md](art-1390-bis-10.md) | 2 | 2017-01-26 |
+| Artículo 1390 Bis 11 | [art-1390-bis-11.md](art-1390-bis-11.md) | 1 | 2011-01-28 |
+| Artículo 1390 Bis 12 | [art-1390-bis-12.md](art-1390-bis-12.md) | 1 | 2011-01-28 |
+| Artículo 1390 bis 13 | [art-1390-bis-13.md](art-1390-bis-13.md) | 3 | 2014-01-11 |
+| Artículo 1390 Bis 14 | [art-1390-bis-14.md](art-1390-bis-14.md) | 1 | 2011-01-28 |
+| Artículo 1390 Bis 15 | [art-1390-bis-15.md](art-1390-bis-15.md) | 1 | 2011-01-28 |
+| Artículo 1390 Bis 16 | [art-1390-bis-16.md](art-1390-bis-16.md) | 2 | 2012-01-27 |
+| Artículo 1390 Bis 17 | [art-1390-bis-17.md](art-1390-bis-17.md) | 1 | 2011-01-28 |
+| Artículo 1390 Bis 18 | [art-1390-bis-18.md](art-1390-bis-18.md) | 4 | 2017-01-26 |
+| Artículo 1390 Bis 19 | [art-1390-bis-19.md](art-1390-bis-19.md) | 1 | 2011-01-28 |
+| Artículo 1390 Bis 2 | [art-1390-bis-2.md](art-1390-bis-2.md) | 1 | 2011-01-28 |
+| Artículo 1390 Bis 20 | [art-1390-bis-20.md](art-1390-bis-20.md) | 3 | 2017-01-26 |
+| Artículo 1390 Bis 21 | [art-1390-bis-21.md](art-1390-bis-21.md) | 1 | 2011-01-28 |
+| Artículo 1390 Bis 22 | [art-1390-bis-22.md](art-1390-bis-22.md) | 1 | 2011-01-28 |
+| Artículo 1390 Bis 23 | [art-1390-bis-23.md](art-1390-bis-23.md) | 2 | 2012-01-27 |
+| Artículo 1390 Bis 24 | [art-1390-bis-24.md](art-1390-bis-24.md) | 2 | 2017-01-26 |
+| Artículo 1390 Bis 25 | [art-1390-bis-25.md](art-1390-bis-25.md) | 2 | 2017-01-26 |
+| Artículo 1390 Bis 26 | [art-1390-bis-26.md](art-1390-bis-26.md) | 2 | 2012-01-27 |
+| Artículo 1390 Bis 27 | [art-1390-bis-27.md](art-1390-bis-27.md) | 1 | 2011-01-28 |
+| Artículo 1390 Bis 28 | [art-1390-bis-28.md](art-1390-bis-28.md) | 1 | 2011-01-28 |
+| Artículo 1390 Bis 29 | [art-1390-bis-29.md](art-1390-bis-29.md) | 2 | 2017-01-26 |
+| Artículo 1390 Bis 3 | [art-1390-bis-3.md](art-1390-bis-3.md) | 1 | 2011-01-28 |
+| Artículo 1390 Bis 30 | [art-1390-bis-30.md](art-1390-bis-30.md) | 1 | 2011-01-28 |
+| Artículo 1390 Bis 31 | [art-1390-bis-31.md](art-1390-bis-31.md) | 1 | 2011-01-28 |
+| Artículo 1390 Bis 32 | [art-1390-bis-32.md](art-1390-bis-32.md) | 2 | 2012-01-27 |
+| Artículo 1390 Bis 33 | [art-1390-bis-33.md](art-1390-bis-33.md) | 15 | 2026-02-18 |
+| Artículo 1390 Bis 34 | [art-1390-bis-34.md](art-1390-bis-34.md) | 2 | 2012-01-27 |
+| Artículo 1390 Bis 35 | [art-1390-bis-35.md](art-1390-bis-35.md) | 1 | 2011-01-28 |
+| Artículo 1390 Bis 36 | [art-1390-bis-36.md](art-1390-bis-36.md) | 2 | 2017-01-26 |
+| Artículo 1390 Bis 37 | [art-1390-bis-37.md](art-1390-bis-37.md) | 3 | 2017-01-26 |
+| Artículo 1390 Bis 38 | [art-1390-bis-38.md](art-1390-bis-38.md) | 3 | 2017-01-26 |
+| Artículo 1390 Bis 39 | [art-1390-bis-39.md](art-1390-bis-39.md) | 3 | 2017-01-26 |
+| Artículo 1390 Bis 4 | [art-1390-bis-4.md](art-1390-bis-4.md) | 1 | 2011-01-28 |
+| Artículo 1390 Bis 40 | [art-1390-bis-40.md](art-1390-bis-40.md) | 4 | 2017-01-26 |
+| Artículo 1390 Bis 41 | [art-1390-bis-41.md](art-1390-bis-41.md) | 3 | 2017-01-26 |
+| Artículo 1390 Bis 42 | [art-1390-bis-42.md](art-1390-bis-42.md) | 3 | 2017-01-26 |
+| Artículo 1390 Bis 43 | [art-1390-bis-43.md](art-1390-bis-43.md) | 2 | 2012-01-27 |
+| Artículo 1390 Bis 44 | [art-1390-bis-44.md](art-1390-bis-44.md) | 1 | 2011-01-28 |
+| Artículo 1390 Bis 45 | [art-1390-bis-45.md](art-1390-bis-45.md) | 3 | 2017-01-26 |
+| Artículo 1390 Bis 46 | [art-1390-bis-46.md](art-1390-bis-46.md) | 3 | 2017-01-26 |
+| Artículo 1390 Bis 47 | [art-1390-bis-47.md](art-1390-bis-47.md) | 3 | 2017-01-26 |
+| Artículo 1390 Bis 48 | [art-1390-bis-48.md](art-1390-bis-48.md) | 3 | 2017-01-26 |
+| Artículo 1390 Bis 49 | [art-1390-bis-49.md](art-1390-bis-49.md) | 2 | 2012-01-27 |
+| Artículo 1390 Bis 5 | [art-1390-bis-5.md](art-1390-bis-5.md) | 1 | 2011-01-28 |
+| Artículo 1390 Bis 50 | [art-1390-bis-50.md](art-1390-bis-50.md) | 1 | 2012-01-27 |
+| Artículo 1390 Bis 6 | [art-1390-bis-6.md](art-1390-bis-6.md) | 3 | 2017-01-26 |
+| Artículo 1390 Bis 7 | [art-1390-bis-7.md](art-1390-bis-7.md) | 3 | 2017-01-26 |
+| Artículo 1390 Bis 8 | [art-1390-bis-8.md](art-1390-bis-8.md) | 2 | 2012-01-27 |
+| Artículo 1390 Bis 9 | [art-1390-bis-9.md](art-1390-bis-9.md) | 3 | 2017-01-26 |
+| Artículo 1390 Ter | [art-1390-ter.md](art-1390-ter.md) | 1 | 2017-01-26 |
+| Artículo 1390 Ter 1 | [art-1390-ter-1.md](art-1390-ter-1.md) | 1 | 2017-01-26 |
+| Artículo 1390 Ter 10 | [art-1390-ter-10.md](art-1390-ter-10.md) | 1 | 2017-01-26 |
+| Artículo 1390 Ter 11 | [art-1390-ter-11.md](art-1390-ter-11.md) | 1 | 2017-01-26 |
+| Artículo 1390 Ter 12 | [art-1390-ter-12.md](art-1390-ter-12.md) | 1 | 2017-01-26 |
+| Artículo 1390 Ter 13 | [art-1390-ter-13.md](art-1390-ter-13.md) | 1 | 2017-01-26 |
+| Artículo 1390 Ter 14 | [art-1390-ter-14.md](art-1390-ter-14.md) | 1 | 2017-01-26 |
+| Artículo 1390 Ter 15 | [art-1390-ter-15.md](art-1390-ter-15.md) | 1 | 2017-01-26 |
+| Artículo 1390 Ter 2 | [art-1390-ter-2.md](art-1390-ter-2.md) | 1 | 2017-01-26 |
+| Artículo 1390 Ter 3 | [art-1390-ter-3.md](art-1390-ter-3.md) | 1 | 2017-01-26 |
+| Artículo 1390 Ter 4 | [art-1390-ter-4.md](art-1390-ter-4.md) | 1 | 2017-01-26 |
+| Artículo 1390 Ter 5 | [art-1390-ter-5.md](art-1390-ter-5.md) | 1 | 2017-01-26 |
+| Artículo 1390 Ter 6 | [art-1390-ter-6.md](art-1390-ter-6.md) | 1 | 2017-01-26 |
+| Artículo 1390 Ter 7 | [art-1390-ter-7.md](art-1390-ter-7.md) | 1 | 2017-01-26 |
+| Artículo 1390 Ter 8 | [art-1390-ter-8.md](art-1390-ter-8.md) | 1 | 2017-01-26 |
+| Artículo 1390 Ter 9 | [art-1390-ter-9.md](art-1390-ter-9.md) | 1 | 2017-01-26 |
+| Artículo 1391 | [art-1391.md](art-1391.md) | 2 | 2014-01-11 |
+| Artículo 1392 | [art-1392.md](art-1392.md) | 1 | 2014-01-11 |
+| Artículo 1393 | [art-1393.md](art-1393.md) | 2 | 2025-11-15 |
+| Artículo 1394 | [art-1394.md](art-1394.md) | 1 | 2014-01-11 |
+| Artículo 1395 | [art-1395.md](art-1395.md) | 2 | 2014-06-14 |
+| Artículo 1396 | [art-1396.md](art-1396.md) | 2 | 2014-01-11 |
+| Artículo 1397 | [art-1397.md](art-1397.md) | 0 |  |
+| Artículo 1398 | [art-1398.md](art-1398.md) | 0 |  |
+| Artículo 1399 | [art-1399.md](art-1399.md) | 1 | 2008-12-31 |
+| Artículo 1400 | [art-1400.md](art-1400.md) | 0 |  |
+| Artículo 1401 | [art-1401.md](art-1401.md) | 1 | 2017-01-26 |
+| Artículo 1402 | [art-1402.md](art-1402.md) | 0 |  |
+| Artículo 1403 | [art-1403.md](art-1403.md) | 0 |  |
+| Artículo 1404 | [art-1404.md](art-1404.md) | 0 |  |
+| Artículo 1405 | [art-1405.md](art-1405.md) | 1 | 2014-01-11 |
+| Artículo 1406 | [art-1406.md](art-1406.md) | 1 | 2017-01-26 |
+| Artículo 1407 | [art-1407.md](art-1407.md) | 1 | 2017-01-26 |
+| Artículo 1407 bis | [art-1407-bis.md](art-1407-bis.md) | 3 | 2019-01-01 |
+| Artículo 1408 | [art-1408.md](art-1408.md) | 1 | 2014-01-11 |
+| Artículo 1409 | [art-1409.md](art-1409.md) | 0 |  |
+| Artículo 1410 | [art-1410.md](art-1410.md) | 1 | 2014-01-11 |
+| Artículo 1411 | [art-1411.md](art-1411.md) | 2 | 2014-01-11 |
+| Artículo 1412 | [art-1412.md](art-1412.md) | 1 | 2014-01-11 |
+| Artículo 1412 Bis | [art-1412-bis.md](art-1412-bis.md) | 0 |  |
+| Artículo 1412 Bis 1 | [art-1412-bis-1.md](art-1412-bis-1.md) | 0 |  |
+| Artículo 1412 bis 2 | [art-1412-bis-2.md](art-1412-bis-2.md) | 1 | 2014-01-11 |
+| Artículo 1413 | [art-1413.md](art-1413.md) | 0 |  |
+| Artículo 1414 | [art-1414.md](art-1414.md) | 3 | 2025-11-15 |
+| Artículo 1414 bis | [art-1414-bis.md](art-1414-bis.md) | 1 | 2014-06-14 |
+| Artículo 1414 bis 1 | [art-1414-bis-1.md](art-1414-bis-1.md) | 0 |  |
+| Artículo 1414 bis 10 | [art-1414-bis-10.md](art-1414-bis-10.md) | 1 | 2014-01-11 |
+| Artículo 1414 bis 11 | [art-1414-bis-11.md](art-1414-bis-11.md) | 0 |  |
+| Artículo 1414 bis 12 | [art-1414-bis-12.md](art-1414-bis-12.md) | 0 |  |
+| Artículo 1414 bis 13 | [art-1414-bis-13.md](art-1414-bis-13.md) | 0 |  |
+| Artículo 1414 bis 14 | [art-1414-bis-14.md](art-1414-bis-14.md) | 0 |  |
+| Artículo 1414 bis 15 | [art-1414-bis-15.md](art-1414-bis-15.md) | 0 |  |
+| Artículo 1414 bis 16 | [art-1414-bis-16.md](art-1414-bis-16.md) | 0 |  |
+| Artículo 1414 bis 17 | [art-1414-bis-17.md](art-1414-bis-17.md) | 1 | 2014-01-11 |
+| Artículo 1414 bis 18 | [art-1414-bis-18.md](art-1414-bis-18.md) | 0 |  |
+| Artículo 1414 bis 19 | [art-1414-bis-19.md](art-1414-bis-19.md) | 1 | 2014-01-11 |
+| Artículo 1414 bis 2 | [art-1414-bis-2.md](art-1414-bis-2.md) | 0 |  |
+| Artículo 1414 bis 20 | [art-1414-bis-20.md](art-1414-bis-20.md) | 0 |  |
+| Artículo 1414 bis 3 | [art-1414-bis-3.md](art-1414-bis-3.md) | 0 |  |
+| Artículo 1414 bis 4 | [art-1414-bis-4.md](art-1414-bis-4.md) | 0 |  |
+| Artículo 1414 bis 5 | [art-1414-bis-5.md](art-1414-bis-5.md) | 0 |  |
+| Artículo 1414 bis 6 | [art-1414-bis-6.md](art-1414-bis-6.md) | 1 | 2019-01-01 |
+| Artículo 1414 bis 7 | [art-1414-bis-7.md](art-1414-bis-7.md) | 0 |  |
+| Artículo 1414 bis 8 | [art-1414-bis-8.md](art-1414-bis-8.md) | 1 | 2014-01-11 |
+| Artículo 1414 bis 9 | [art-1414-bis-9.md](art-1414-bis-9.md) | 2 | 2014-01-11 |
+| Artículo 1415 | [art-1415.md](art-1415.md) | 0 |  |
+| Artículo 1416 | [art-1416.md](art-1416.md) | 0 |  |
+| Artículo 1417 | [art-1417.md](art-1417.md) | 0 |  |
+| Artículo 1418 | [art-1418.md](art-1418.md) | 0 |  |
+| Artículo 1419 | [art-1419.md](art-1419.md) | 0 |  |
+| Artículo 1420 | [art-1420.md](art-1420.md) | 0 |  |
+| Artículo 1421 | [art-1421.md](art-1421.md) | 0 |  |
+| Artículo 1422 | [art-1422.md](art-1422.md) | 0 |  |
+| Artículo 1423 | [art-1423.md](art-1423.md) | 0 |  |
+| Artículo 1424 | [art-1424.md](art-1424.md) | 1 | 2011-06-07 |
+| Artículo 1425 | [art-1425.md](art-1425.md) | 0 |  |
+| Artículo 1426 | [art-1426.md](art-1426.md) | 0 |  |
+| Artículo 1427 | [art-1427.md](art-1427.md) | 0 |  |
+| Artículo 1428 | [art-1428.md](art-1428.md) | 0 |  |
+| Artículo 1429 | [art-1429.md](art-1429.md) | 0 |  |
+| Artículo 1430 | [art-1430.md](art-1430.md) | 0 |  |
+| Artículo 1431 | [art-1431.md](art-1431.md) | 0 |  |
+| Artículo 1432 | [art-1432.md](art-1432.md) | 0 |  |
+| Artículo 1433 | [art-1433.md](art-1433.md) | 0 |  |
+| Artículo 1434 | [art-1434.md](art-1434.md) | 0 |  |
+| Artículo 1435 | [art-1435.md](art-1435.md) | 0 |  |
+| Artículo 1436 | [art-1436.md](art-1436.md) | 0 |  |
+| Artículo 1437 | [art-1437.md](art-1437.md) | 0 |  |
+| Artículo 1438 | [art-1438.md](art-1438.md) | 0 |  |
+| Artículo 1439 | [art-1439.md](art-1439.md) | 0 |  |
+| Artículo 1440 | [art-1440.md](art-1440.md) | 0 |  |
+| Artículo 1441 | [art-1441.md](art-1441.md) | 0 |  |
+| Artículo 1442 | [art-1442.md](art-1442.md) | 0 |  |
+| Artículo 1443 | [art-1443.md](art-1443.md) | 0 |  |
+| Artículo 1444 | [art-1444.md](art-1444.md) | 0 |  |
+| Artículo 1445 | [art-1445.md](art-1445.md) | 0 |  |
+| Artículo 1446 | [art-1446.md](art-1446.md) | 0 |  |
+| Artículo 1447 | [art-1447.md](art-1447.md) | 0 |  |
+| Artículo 1448 | [art-1448.md](art-1448.md) | 0 |  |
+| Artículo 1449 | [art-1449.md](art-1449.md) | 1 | 2019-01-01 |
+| Artículo 1450 | [art-1450.md](art-1450.md) | 0 |  |
+| Artículo 1451 | [art-1451.md](art-1451.md) | 0 |  |
+| Artículo 1452 | [art-1452.md](art-1452.md) | 0 |  |
+| Artículo 1453 | [art-1453.md](art-1453.md) | 0 |  |
+| Artículo 1454 | [art-1454.md](art-1454.md) | 0 |  |
+| Artículo 1455 | [art-1455.md](art-1455.md) | 0 |  |
+| Artículo 1456 | [art-1456.md](art-1456.md) | 1 | 2019-01-01 |
+| Artículo 1457 | [art-1457.md](art-1457.md) | 1 | 2019-01-01 |
+| Artículo 1458 | [art-1458.md](art-1458.md) | 0 |  |
+| Artículo 1459 | [art-1459.md](art-1459.md) | 0 |  |
+| Artículo 1460 | [art-1460.md](art-1460.md) | 1 | 2011-01-28 |
+| Artículo 1461 | [art-1461.md](art-1461.md) | 0 |  |
+| Artículo 1462 | [art-1462.md](art-1462.md) | 0 |  |
+| Artículo 1463 | [art-1463.md](art-1463.md) | 1 | 2011-01-28 |
+| Artículo 1464 | [art-1464.md](art-1464.md) | 1 | 2011-01-28 |
+| Artículo 1465 | [art-1465.md](art-1465.md) | 1 | 2011-01-28 |
+| Artículo 1466 | [art-1466.md](art-1466.md) | 2 | 2025-11-15 |
+| Artículo 1467 | [art-1467.md](art-1467.md) | 2 | 2012-01-27 |
+| Artículo 1468 | [art-1468.md](art-1468.md) | 1 | 2011-01-28 |
+| Artículo 1469 | [art-1469.md](art-1469.md) | 1 | 2011-01-28 |
+| Artículo 1470 | [art-1470.md](art-1470.md) | 1 | 2011-01-28 |
+| Artículo 1471 | [art-1471.md](art-1471.md) | 1 | 2011-01-28 |
+| Artículo 1472 | [art-1472.md](art-1472.md) | 1 | 2011-01-28 |
+| Artículo 1473 | [art-1473.md](art-1473.md) | 1 | 2011-01-28 |
+| Artículo 1474 | [art-1474.md](art-1474.md) | 1 | 2011-01-28 |
+| Artículo 1475 | [art-1475.md](art-1475.md) | 1 | 2011-01-28 |
+| Artículo 1476 | [art-1476.md](art-1476.md) | 1 | 2011-01-28 |
+| Artículo 1477 | [art-1477.md](art-1477.md) | 2 | 2025-11-15 |
+| Artículo 1478 | [art-1478.md](art-1478.md) | 1 | 2011-01-28 |
+| Artículo 1479 | [art-1479.md](art-1479.md) | 1 | 2011-01-28 |
+| Artículo 1480 | [art-1480.md](art-1480.md) | 1 | 2011-01-28 |
+| Artículo 1481 | [art-1481.md](art-1481.md) | 0 |  |
+| Artículo 1482 | [art-1482.md](art-1482.md) | 0 |  |
+| Artículo 1483 | [art-1483.md](art-1483.md) | 0 |  |
+| Artículo 1484 | [art-1484.md](art-1484.md) | 0 |  |
+| Artículo 1485 | [art-1485.md](art-1485.md) | 0 |  |
+| Artículo 1486 | [art-1486.md](art-1486.md) | 0 |  |
+| Artículo 1487 | [art-1487.md](art-1487.md) | 0 |  |
+| Artículo 1488 | [art-1488.md](art-1488.md) | 0 |  |
+| Artículo 1489 | [art-1489.md](art-1489.md) | 0 |  |
+| Artículo 1490 | [art-1490.md](art-1490.md) | 0 |  |
+| Artículo 1491 | [art-1491.md](art-1491.md) | 0 |  |
+| Artículo 1492 | [art-1492.md](art-1492.md) | 0 |  |
+| Artículo 1493 | [art-1493.md](art-1493.md) | 0 |  |
+| Artículo 1494 | [art-1494.md](art-1494.md) | 0 |  |
+| Artículo 1495 | [art-1495.md](art-1495.md) | 0 |  |
+| Artículo 1496 | [art-1496.md](art-1496.md) | 0 |  |
+| Artículo 1497 | [art-1497.md](art-1497.md) | 0 |  |
+| Artículo 1498 | [art-1498.md](art-1498.md) | 0 |  |
+| Artículo 1499 | [art-1499.md](art-1499.md) | 0 |  |
+| Artículo 1500 | [art-1500.md](art-1500.md) | 0 |  |
+| Decreto de expedición | [decreto.md](decreto.md) | 0 |  |
+| Libros, títulos, capítulos y secciones | [estructura.md](estructura.md) | 6 | 2019-01-01 |
+| Transitorios | [transitorios.md](transitorios.md) | 0 |  |
+| Transitorios del decreto de reforma (DOF 27-08-1932) | [transitorios-1932-08-27.md](transitorios-1932-08-27.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 30-05-1933) | [transitorios-1933-05-30.md](transitorios-1933-05-30.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 04-08-1934) | [transitorios-1934-08-04.md](transitorios-1934-08-04.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 31-08-1934) | [transitorios-1934-08-31.md](transitorios-1934-08-31.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 31-08-1935) | [transitorios-1935-08-31.md](transitorios-1935-08-31.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 20-04-1943) | [transitorios-1943-04-20.md](transitorios-1943-04-20.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 03-05-1946) | [transitorios-1946-05-03.md](transitorios-1946-05-03.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 06-01-1954) | [transitorios-1954-01-06.md](transitorios-1954-01-06.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 04-02-1963) | [transitorios-1963-02-04.md](transitorios-1963-02-04.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 21-11-1963) | [transitorios-1963-11-21.md](transitorios-1963-11-21.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 27-01-1970) | [transitorios-1970-01-27.md](transitorios-1970-01-27.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 27-01-1970), 2 | [transitorios-1970-01-27-2.md](transitorios-1970-01-27-2.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 23-12-1974) | [transitorios-1974-12-23.md](transitorios-1974-12-23.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 31-12-1974) | [transitorios-1974-12-31.md](transitorios-1974-12-31.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 30-12-1975) | [transitorios-1975-12-30.md](transitorios-1975-12-30.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 23-01-1981) | [transitorios-1981-01-23.md](transitorios-1981-01-23.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 27-12-1983) | [transitorios-1983-12-27.md](transitorios-1983-12-27.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 08-01-1985) | [transitorios-1985-01-08.md](transitorios-1985-01-08.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 04-01-1989) | [transitorios-1989-01-04.md](transitorios-1989-01-04.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 02-07-1992) | [transitorios-1992-07-02.md](transitorios-1992-07-02.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 29-12-1992) | [transitorios-1992-12-29.md](transitorios-1992-12-29.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 22-07-1993) | [transitorios-1993-07-22.md](transitorios-1993-07-22.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 04-01-1994) | [transitorios-1994-01-04.md](transitorios-1994-01-04.md) | 0 |  |
+| Transitorios del decreto de reforma (DOF 24-05-1996) | [transitorios-1996-05-24.md](transitorios-1996-05-24.md) | 0 |  |
+| Transitorios del decreto de reforma (DOF 23-05-2000) | [transitorios-2000-05-23.md](transitorios-2000-05-23.md) | 0 |  |
+| Transitorios del decreto de reforma (DOF 29-05-2000) | [transitorios-2000-05-29.md](transitorios-2000-05-29.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 05-06-2000) | [transitorios-2000-06-05.md](transitorios-2000-06-05.md) | 0 |  |
+| Transitorios del decreto de reforma (DOF 13-06-2003) | [transitorios-2003-06-13.md](transitorios-2003-06-13.md) | 0 |  |
+| Transitorios del decreto de reforma (DOF 13-06-2003), 2 | [transitorios-2003-06-13-2.md](transitorios-2003-06-13-2.md) | 0 |  |
+| Transitorios del decreto de reforma (DOF 29-08-2003) | [transitorios-2003-08-29.md](transitorios-2003-08-29.md) | 0 |  |
+| Transitorios del decreto de reforma (DOF 26-01-2005) | [transitorios-2005-01-26.md](transitorios-2005-01-26.md) | 0 |  |
+| Transitorios del decreto de reforma (DOF 26-01-2006) | [transitorios-2006-01-26.md](transitorios-2006-01-26.md) | 0 |  |
+| Transitorios del decreto de reforma (DOF 26-04-2006) | [transitorios-2006-04-26.md](transitorios-2006-04-26.md) | 0 |  |
+| Transitorios del decreto de reforma (DOF 26-04-2006), 2 | [transitorios-2006-04-26-2.md](transitorios-2006-04-26-2.md) | 0 |  |
+| Transitorios del decreto de reforma (DOF 06-06-2006) | [transitorios-2006-06-06.md](transitorios-2006-06-06.md) | 0 |  |
+| Transitorios del decreto de reforma (DOF 17-04-2008) | [transitorios-2008-04-17.md](transitorios-2008-04-17.md) | 1 | 2008-07-16 |
+| Transitorios del decreto de reforma (DOF 30-12-2008) | [transitorios-2008-12-30.md](transitorios-2008-12-30.md) | 1 | 2008-12-31 |
+| Transitorios del decreto de reforma (DOF 30-12-2008), 2 | [transitorios-2008-12-30-2.md](transitorios-2008-12-30-2.md) | 1 | 2008-12-31 |
+| Transitorios del decreto de reforma (DOF 02-06-2009) | [transitorios-2009-06-02.md](transitorios-2009-06-02.md) | 1 | 2009-06-03 |
+| Transitorios del decreto de reforma (DOF 08-06-2009) | [transitorios-2009-06-08.md](transitorios-2009-06-08.md) | 1 | 2009-06-09 |
+| Transitorios del decreto de reforma (DOF 08-06-2009), 2 | [transitorios-2009-06-08-2.md](transitorios-2009-06-08-2.md) | 1 | 2009-06-09 |
+| Transitorios del decreto de reforma (DOF 09-06-2009) | [transitorios-2009-06-09.md](transitorios-2009-06-09.md) | 1 | 2009-06-10 |
+| Transitorios del decreto de reforma (DOF 27-08-2009) | [transitorios-2009-08-27.md](transitorios-2009-08-27.md) | 1 | 2009-08-28 |
+| Transitorios del decreto de reforma (DOF 27-01-2011) | [transitorios-2011-01-27.md](transitorios-2011-01-27.md) | 1 | 2011-01-28 |
+| Transitorios del decreto de reforma (DOF 06-06-2011) | [transitorios-2011-06-06.md](transitorios-2011-06-06.md) | 1 | 2011-06-07 |
+| Transitorios del decreto de reforma (DOF 09-06-2011) | [transitorios-2011-06-09.md](transitorios-2011-06-09.md) | 1 | 2011-06-10 |
+| Transitorios del decreto de reforma (DOF 19-10-2011) | [transitorios-2011-10-19.md](transitorios-2011-10-19.md) | 1 | 2011-10-20 |
+| Transitorios del decreto de reforma (DOF 14-12-2011) | [transitorios-2011-12-14.md](transitorios-2011-12-14.md) | 1 | 2011-12-15 |
+| Transitorios del decreto de reforma (DOF 09-01-2012) | [transitorios-2012-01-09.md](transitorios-2012-01-09.md) | 1 | 2012-01-27 |
+| Transitorios del decreto de reforma (DOF 09-04-2012) | [transitorios-2012-04-09.md](transitorios-2012-04-09.md) | 1 | 2012-04-10 |
+| Transitorios del decreto de reforma (DOF 17-04-2012) | [transitorios-2012-04-17.md](transitorios-2012-04-17.md) | 1 | 2012-04-18 |
+| Transitorios del decreto de reforma (DOF 29-12-2012) | [transitorios-2012-12-29.md](transitorios-2012-12-29.md) | 1 | 2012-12-29 |
+| Transitorios del decreto de reforma (DOF 30-12-2013) | [transitorios-2013-12-30.md](transitorios-2013-12-30.md) | 1 | 2013-12-30 |
+| Transitorios del decreto de reforma (DOF 10-01-2014) | [transitorios-2014-01-10.md](transitorios-2014-01-10.md) | 1 | 2014-01-11 |
+| Transitorios del decreto de reforma (DOF 13-06-2014) | [transitorios-2014-06-13.md](transitorios-2014-06-13.md) | 1 | 2014-06-14 |
+| Transitorios del decreto de reforma (DOF 26-12-2014) | [transitorios-2014-12-26.md](transitorios-2014-12-26.md) | 1 | 2014-12-26 |
+| Transitorios del decreto de reforma (DOF 24-12-2015) | [transitorios-2015-12-24.md](transitorios-2015-12-24.md) | 2 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 07-03-2016) | [transitorios-2016-03-07.md](transitorios-2016-03-07.md) | 1 | 2016-03-07 |
+| Transitorios del decreto de reforma (DOF 07-04-2016) | [transitorios-2016-04-07.md](transitorios-2016-04-07.md) | 2 | 2017-01-26 |
+| Transitorios del decreto de reforma (DOF 26-12-2016) | [transitorios-2016-12-26.md](transitorios-2016-12-26.md) | 1 | 2016-12-27 |
+| Transitorios del decreto de reforma (DOF 25-01-2017) | [transitorios-2017-01-25.md](transitorios-2017-01-25.md) | 2 | 2018-03-29 |
+| Transitorios del decreto de reforma (DOF 02-05-2017) | [transitorios-2017-05-02.md](transitorios-2017-05-02.md) | 1 | 2017-05-03 |
+| Transitorios del decreto de reforma (DOF 26-12-2017) | [transitorios-2017-12-26.md](transitorios-2017-12-26.md) | 1 | 2017-12-27 |
+| Transitorios del decreto de reforma (DOF 28-03-2018) | [transitorios-2018-03-28.md](transitorios-2018-03-28.md) | 1 | 2018-03-29 |
+| Transitorios del decreto de reforma (DOF 31-12-2018) | [transitorios-2018-12-31.md](transitorios-2018-12-31.md) | 1 | 2019-01-01 |
+| Transitorios del decreto de reforma (DOF 30-12-2019) | [transitorios-2019-12-30.md](transitorios-2019-12-30.md) | 1 | 2020-01-01 |
+| Transitorios del decreto de reforma (DOF 24-12-2020) | [transitorios-2020-12-24.md](transitorios-2020-12-24.md) | 1 | 2021-01-01 |
+| Transitorios del decreto de reforma (DOF 30-12-2021) | [transitorios-2021-12-30.md](transitorios-2021-12-30.md) | 1 | 2022-01-01 |
+| Transitorios del decreto de reforma (DOF 27-12-2022) | [transitorios-2022-12-27.md](transitorios-2022-12-27.md) | 1 | 2024-01-01 |
+| Transitorios del decreto de reforma (DOF 28-12-2023) | [transitorios-2023-12-28.md](transitorios-2023-12-28.md) | 1 | 2024-01-01 |
+| Transitorios del decreto de reforma (DOF 30-12-2024) | [transitorios-2024-12-30.md](transitorios-2024-12-30.md) | 1 | 2025-01-01 |
+| Transitorios del decreto de reforma (DOF 14-11-2025) | [transitorios-2025-11-14.md](transitorios-2025-11-14.md) | 1 | 2025-11-15 |
+| Transitorios del decreto de reforma (DOF 26-12-2025) | [transitorios-2025-12-26.md](transitorios-2025-12-26.md) | 1 | 2026-01-01 |
+| Transitorios del decreto de reforma (DOF 18-02-2026) | [transitorios-2026-02-18.md](transitorios-2026-02-18.md) | 1 | 2026-02-18 |

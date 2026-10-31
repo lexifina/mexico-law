@@ -1,0 +1,10 @@
+{
+  "path": "mx",
+  "code": "MX",
+  "name": "Mexico",
+  "level": "country",
+  "repo": "https://github.com/lexifina/mexico-law",
+  "build": "built: Constitución Política de los Estados Unidos Mexicanos 2006-2026 (117 versions); LFPDPPP 2010-2025 (3); 7 federal codes and 9 laws (CCF, CPF, CCom, CFPC, CFF, CNPP, CNPCF, LFT, Ley de Amparo, LGSM, LGTOC, LIC, LFPC, LCM, LMV, LSS; 362 versions) from the Cámara de Diputados' consolidated copies",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}
