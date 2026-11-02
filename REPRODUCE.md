@@ -1038,9 +1038,21 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Cámara de Diputados, LeyesBiblio: Ley sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas (texto vigente, consolidated PDFs) | <https://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf> | 2026-11-02 | Public legal text (Ley Federal del Derecho de Autor art. 14 VIII); Cámara de Diputados del H. Congreso de la Unión, Secretaría de Servicios Parlamentarios. |
 | Cámara de Diputados: reformas, Ley sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas (ref/lcaaa.htm) | <https://www.diputados.gob.mx/LeyesBiblio/ref/lcaaa.htm> | 2026-11-02 | Public information, Cámara de Diputados. |
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Archived copies of the publisher's files; Internet Archive terms of use. |
+| Cámara de Diputados, LeyesBiblio: Ley para Conservar la Neutralidad del País (texto vigente, consolidated PDFs) | <https://www.diputados.gob.mx/LeyesBiblio/pdf/176_210618.pdf> | 2026-11-02 | Public legal text (Ley Federal del Derecho de Autor art. 14 VIII); Cámara de Diputados del H. Congreso de la Unión, Secretaría de Servicios Parlamentarios. |
+| Cámara de Diputados: reformas, Ley para Conservar la Neutralidad del País (ref/lcnp.htm) | <https://www.diputados.gob.mx/LeyesBiblio/ref/lcnp.htm> | 2026-11-02 | Public information, Cámara de Diputados. |
+| Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Archived copies of the publisher's files; Internet Archive terms of use. |
+| Cámara de Diputados, LeyesBiblio: Ley de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica (texto vigente, consolidated PDFs) | <https://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf> | 2026-11-02 | Public legal text (Ley Federal del Derecho de Autor art. 14 VIII); Cámara de Diputados del H. Congreso de la Unión, Secretaría de Servicios Parlamentarios. |
+| Cámara de Diputados: reformas, Ley de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica (ref/lcmopfih.htm) | <https://www.diputados.gob.mx/LeyesBiblio/ref/lcmopfih.htm> | 2026-11-02 | Public information, Cámara de Diputados. |
+| Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Archived copies of the publisher's files; Internet Archive terms of use. |
 | Cámara de Diputados, LeyesBiblio: Ley General de Títulos y Operaciones de Crédito (texto vigente, consolidated PDFs) | <https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTOC.pdf> | 2026-10-29 | Public legal text (Ley Federal del Derecho de Autor art. 14 VIII); Cámara de Diputados del H. Congreso de la Unión, Secretaría de Servicios Parlamentarios. |
 | Cámara de Diputados: reformas, Ley General de Títulos y Operaciones de Crédito (ref/lgtoc.htm) | <https://www.diputados.gob.mx/LeyesBiblio/ref/lgtoc.htm> | 2026-10-29 | Public information, Cámara de Diputados. |
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-10-29 | Archived copies of the publisher's files; Internet Archive terms of use. |
+| Cámara de Diputados, LeyesBiblio: Ley de Fiscalización y Rendición de Cuentas de la Federación (texto vigente, consolidated PDFs) | <https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf> | 2026-11-02 | Public legal text (Ley Federal del Derecho de Autor art. 14 VIII); Cámara de Diputados del H. Congreso de la Unión, Secretaría de Servicios Parlamentarios. |
+| Cámara de Diputados: reformas, Ley de Fiscalización y Rendición de Cuentas de la Federación (ref/lfrcf.htm) | <https://www.diputados.gob.mx/LeyesBiblio/ref/lfrcf.htm> | 2026-11-02 | Public information, Cámara de Diputados. |
+| Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Archived copies of the publisher's files; Internet Archive terms of use. |
+| Cámara de Diputados, LeyesBiblio: Ley de Fiscalización Superior de la Federación (texto vigente, consolidated PDFs) | <https://www.diputados.gob.mx/LeyesBiblio/pdf/37.pdf> | 2026-11-02 | Public legal text (Ley Federal del Derecho de Autor art. 14 VIII); Cámara de Diputados del H. Congreso de la Unión, Secretaría de Servicios Parlamentarios. |
+| Cámara de Diputados: reformas, Ley de Fiscalización Superior de la Federación (ref/lfsf.htm) | <https://www.diputados.gob.mx/LeyesBiblio/ref/lfsf.htm> | 2026-11-02 | Public information, Cámara de Diputados. |
+| Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-11-02 | Archived copies of the publisher's files; Internet Archive terms of use. |
 | Cámara de Diputados, LeyesBiblio: Ley de Instituciones de Crédito (texto vigente, consolidated PDFs) | <https://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf> | 2026-10-29 | Public legal text (Ley Federal del Derecho de Autor art. 14 VIII); Cámara de Diputados del H. Congreso de la Unión, Secretaría de Servicios Parlamentarios. |
 | Cámara de Diputados: reformas, Ley de Instituciones de Crédito (ref/lic.htm) | <https://www.diputados.gob.mx/LeyesBiblio/ref/lic.htm> | 2026-10-29 | Public information, Cámara de Diputados. |
 | Internet Archive, Wayback Machine | <https://web.archive.org/> | 2026-10-29 | Archived copies of the publisher's files; Internet Archive terms of use. |
@@ -1587,7 +1599,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos` | Ley para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos | 3 | 2006-02-10 to 2024-05-04 |
 | `ley-que-aprueba-la-adhesion-de-mexico-al-convenio-constitutivo-del-banco-de-desarrollo-del-caribe` | Ley que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución | 3 | 1991-12-25 to 2014-12-30 |
 | `ley-sobre-camaras-agricolas` | Ley sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas | 3 | 1936-05-15 to 2012-04-10 |
+| `ley-para-conservar-la-neutralidad-del-pais` | Ley para Conservar la Neutralidad del País | 1 | 2018-06-22 to 2018-06-22 |
+| `ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica` | Ley de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica | 1 | 1991-01-01 to 1991-01-01 |
 | `ley-general-de-titulos-y-operaciones-de-credito` | Ley General de Títulos y Operaciones de Crédito | 9 | 2006-07-19 to 2024-03-27 |
+| `ley-de-fiscalizacion-y-rendicion-de-cuentas-2009` | Ley de Fiscalización y Rendición de Cuentas de la Federación | 2 | 2010-06-19 to 2016-07-19 |
+| `ley-de-fiscalizacion-superior-de-la-federacion` | Ley de Fiscalización Superior de la Federación | 4 | 2005-04-05 to 2009-05-30 |
 | `ley-de-instituciones-de-credito` | Ley de Instituciones de Crédito | 22 | 2006-07-19 to 2025-11-15 |
 | `ley-federal-de-proteccion-al-consumidor` | Ley Federal de Protección al Consumidor | 40 | 2007-01-01 to 2026-01-01 |
 | `ley-de-concursos-mercantiles` | Ley de Concursos Mercantiles | 8 | 2000-05-13 to 2026-01-16 |
@@ -1648,19 +1664,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-del-sector-hidrocarburos` | Ley del Sector Hidrocarburos | 1 | 2025-03-19 to 2025-03-19 |
 | `ley-del-sector-electrico` | Ley del Sector Eléctrico | 1 | 2025-03-19 to 2025-03-19 |
 
-The build made 2475 commits:
+The build made 2483 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 360 | first version of an act |
-| 1552 | one law on its in-force day |
+| 364 | first version of an act |
+| 1556 | one law on its in-force day |
 | 563 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-02.
 - 10 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 2718 laws in the record.
-- 4242 tags.
+- 2723 laws in the record.
+- 4254 tags.
 
 ## Dates
 
@@ -1672,15 +1688,15 @@ When a law gives no date of its own, the default rule applies: Código Civil Fed
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `725c20f6fc36160792a319219cba318c834b4ccc9bba05d7b42753d9333eac9e` (113613432 bytes).
+- Corpus: sha256 `635674ba7df30e902972029149a756df0e0abc73a53bfeb1419418f8a67d7be5` (113921157 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-2578 versions of 360 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-A second build from the same corpus into an empty folder gave identical hashes for all 2434 history commits and 4196 tags (history tip `0851893bee3098aeade7bf437dca8cd50c39ddd3`).
+A second build from the same corpus into an empty folder gave identical hashes for all 2441 history commits and 4208 tags (history tip `61f0125056cee828b02e5f331d1af65a310a8800`).
 
 ## Decisions made by hand
 
@@ -3683,6 +3699,20 @@ A second build from the same corpus into an empty folder gave identical hashes f
 - LCAA: credits come from the publisher's paragraph notes ("Párrafo reformado DOF dd-mm-yyyy"), read for every unit across all later copies: a note date between two copies names the publication the reform page lists for that day, only when exactly one does; a reform decree's own transitorios are credited to it. Otherwise the change is unexplained (the publisher's, often its own proofreading) and takes effect once every publication between the two copies is in force. Counts: {'credited_notes': 10, 'credited_title': 0, 'credited_self': 2, 'unexplained': 1}.
 - LCAA: where a decree puts single provisions in force on later dates, the whole unit takes effect on the decree's general date; the staggered dates are in the decree's transitorios unit.
 - LCAA, verification: the last version equals the units read from the newest copy (capture 20181105072305, last reform DOF 09-04-2012): True. Read a second way (plain text, notes removed), that copy contains 75 of the 75 unit paragraphs verbatim, covering 88.75% of its body text.
+- LCNP: history starts at the oldest consolidated copy available (capture 20181105071927, last reform DOF 21-06-2018); the first version names the 1 earlier publications the reform page lists.
+- LCNP: 1 copies used, the newest for each last-reform date, from 8 distinct archived copies (0 cut off at 1 MiB and 5 unreadable dropped).
+- LCNP: in-force dates come from each decree's first transitorio speaking of entry into force, otherwise Código Civil Federal art. 3. Counts: .
+- LCNP: credits come from the publisher's paragraph notes ("Párrafo reformado DOF dd-mm-yyyy"), read for every unit across all later copies: a note date between two copies names the publication the reform page lists for that day, only when exactly one does; a reform decree's own transitorios are credited to it. Otherwise the change is unexplained (the publisher's, often its own proofreading) and takes effect once every publication between the two copies is in force. Counts: {'credited_notes': 0, 'credited_title': 0, 'credited_self': 0, 'unexplained': 0}.
+- LCNP: where a decree puts single provisions in force on later dates, the whole unit takes effect on the decree's general date; the staggered dates are in the decree's transitorios unit.
+- LCNP, verification: the last version equals the units read from the newest copy (capture 20181105071927, last reform DOF 21-06-2018): True. Read a second way (plain text, notes removed), that copy contains 22 of the 22 unit paragraphs verbatim, covering 95.42% of its body text.
+- LCNP: this breadth-first current-text record keeps the Cámara's complete consolidated file as one source-faithful unit. Its provisions are headed "ARTICULO PRIMERO", "ARTICULO SEGUNDO", and so on rather than numbered article headings; no legal text is rewritten or split by inference. The version is dated from the reform of DOF 21-06-2018, in force the following day under its transitorio Único.
+- LCMOPFIH: history starts at the oldest consolidated copy available (capture 20190713201943, last reform DOF 26-12-1990).
+- LCMOPFIH: 1 copies used, the newest for each last-reform date, from 11 distinct archived copies (0 cut off at 1 MiB and 0 unreadable dropped).
+- LCMOPFIH: in-force dates come from each decree's first transitorio speaking of entry into force, otherwise Código Civil Federal art. 3. Counts: .
+- LCMOPFIH: credits come from the publisher's paragraph notes ("Párrafo reformado DOF dd-mm-yyyy"), read for every unit across all later copies: a note date between two copies names the publication the reform page lists for that day, only when exactly one does; a reform decree's own transitorios are credited to it. Otherwise the change is unexplained (the publisher's, often its own proofreading) and takes effect once every publication between the two copies is in force. Counts: {'credited_notes': 0, 'credited_title': 0, 'credited_self': 0, 'unexplained': 0}.
+- LCMOPFIH: where a decree puts single provisions in force on later dates, the whole unit takes effect on the decree's general date; the staggered dates are in the decree's transitorios unit.
+- LCMOPFIH, verification: the last version equals the units read from the newest copy (capture 20190713201943, last reform DOF 26-12-1990): True. Read a second way (plain text, notes removed), that copy contains 86 of the 86 unit paragraphs verbatim, covering 99.09% of its body text.
+- LCMOPFIH: the Cámara's reform page lists no publication. Its index and consolidated file identify the new law as published in the DOF on 26-12-1990; this record therefore has one version, in force 01-01-1991 under the law's artículo Primero transitorio.
 - LGTOC: history starts at the oldest consolidated copy available (capture 20060813201142, last reform DOF 18-07-2006); the first version names the 15 earlier publications the reform page lists.
 - LGTOC: 8 copies used, the newest for each last-reform date, from 21 distinct archived copies (4 cut off at 1 MiB and 0 unreadable dropped).
 - LGTOC: in-force dates come from each decree's first transitorio speaking of entry into force, otherwise Código Civil Federal art. 3. Counts: día siguiente al de su publicación: 7; transitorio Primero: al día siguiente al de su publicación (its exception, transitorio Noveno, defers for 120 days only the transfer of powers from the SHCP to the CNBV, not the words of the law; printed inside the block of the decree before it): 1.
@@ -3690,6 +3720,20 @@ A second build from the same corpus into an empty folder gave identical hashes f
 - LGTOC: where a decree puts single provisions in force on later dates, the whole unit takes effect on the decree's general date; the staggered dates are in the decree's transitorios unit.
 - LGTOC, verification: the last version equals the units read from the newest copy (capture 20250617213924, last reform DOF 26-03-2024): True. Read a second way (plain text, notes removed), that copy contains 1473 of the 1473 unit paragraphs verbatim, covering 99.92% of its body text.
 - LGTOC: the decree of DOF 01-02-2008 is dated 2008-02-02 by its own text (transitorio Primero: al día siguiente al de su publicación (its exception, transitorio Noveno, defers for 120 days only the transfer of powers from the SHCP to the CNBV, not the words of the law; printed inside the block of the decree before it)); the default reader of first transitorios did not read that wording.
+- LFRCF 2009: history starts at the oldest consolidated copy available (capture 20130515142955, last reform DOF 18-06-2010); the first version names the 2 earlier publications the reform page lists.
+- LFRCF 2009: 1 copies used, the newest for each last-reform date, from 13 distinct archived copies (0 cut off at 1 MiB and 1 unreadable dropped).
+- LFRCF 2009: in-force dates come from each decree's first transitorio speaking of entry into force, otherwise Código Civil Federal art. 3. Counts: .
+- LFRCF 2009: credits come from the publisher's paragraph notes ("Párrafo reformado DOF dd-mm-yyyy"), read for every unit across all later copies: a note date between two copies names the publication the reform page lists for that day, only when exactly one does; a reform decree's own transitorios are credited to it. Otherwise the change is unexplained (the publisher's, often its own proofreading) and takes effect once every publication between the two copies is in force. Counts: {'credited_notes': 0, 'credited_title': 0, 'credited_self': 0, 'unexplained': 0}.
+- LFRCF 2009: where a decree puts single provisions in force on later dates, the whole unit takes effect on the decree's general date; the staggered dates are in the decree's transitorios unit.
+- LFRCF 2009, verification: the last version equals the units read from the newest copy (capture 20130515142955, last reform DOF 18-06-2010): True. Read a second way (plain text, notes removed), that copy contains 522 of the 522 unit paragraphs verbatim, covering 99.84% of its body text.
+- LFRCF 2009: abrogated in full; the last version (from 2016-07-19) removes all 114 units, credited to the decree of DOF 18-07-2016 (Ley de Fiscalización y Rendición de Cuentas de la Federación de 2016, transitorio Segundo: "Se abroga la Ley de Fiscalización y Rendición de Cuentas de la Federación publicada en el Diario Oficial de la Federación el 29 de mayo de 2009"; in force al día siguiente de su publicación (transitorio Primero)). Its source is the newest copy of the abrogating act (LFRCF, capture 20260617073033), whose transitorios print the abrogation.
+- LFSF: history starts at the oldest consolidated copy available (capture 20061020072726, last reform DOF 04-04-2005); the first version names the 2 earlier publications the reform page lists.
+- LFSF: 3 copies used, the newest for each last-reform date, from 3 distinct archived copies (0 cut off at 1 MiB and 0 unreadable dropped).
+- LFSF: in-force dates come from each decree's first transitorio speaking of entry into force, otherwise Código Civil Federal art. 3. Counts: día siguiente al de su publicación: 2.
+- LFSF: credits come from the publisher's paragraph notes ("Párrafo reformado DOF dd-mm-yyyy"), read for every unit across all later copies: a note date between two copies names the publication the reform page lists for that day, only when exactly one does; a reform decree's own transitorios are credited to it. Otherwise the change is unexplained (the publisher's, often its own proofreading) and takes effect once every publication between the two copies is in force. Counts: {'credited_notes': 2, 'credited_title': 0, 'credited_self': 2, 'unexplained': 0}.
+- LFSF: where a decree puts single provisions in force on later dates, the whole unit takes effect on the decree's general date; the staggered dates are in the decree's transitorios unit.
+- LFSF, verification: the last version equals the units read from the newest copy (capture 20080911231609, last reform DOF 20-06-2008): True. Read a second way (plain text, notes removed), that copy contains 387 of the 387 unit paragraphs verbatim, covering 99.78% of its body text.
+- LFSF: abrogated in full; the last version (from 2009-05-30) removes all 103 units, credited to the decree of DOF 29-05-2009 (Ley de Fiscalización y Rendición de Cuentas de la Federación de 2009, transitorio Segundo: "Se abroga la Ley de Fiscalización Superior de la Federación publicada en el Diario Oficial de la Federación el 29 de diciembre de 2000"; in force al día siguiente de su publicación (transitorio Primero)). Its source is the newest copy of the abrogating act (LFRCF 2009, capture 20130515142955), whose transitorios print the abrogation.
 - LIC: history starts at the oldest consolidated copy available (capture 20061012102803, last reform DOF 18-07-2006); the first version names the 29 earlier publications the reform page lists.
 - LIC: 15 copies used, the newest for each last-reform date, from 29 distinct archived copies (4 cut off at 1 MiB and 0 unreadable dropped).
 - LIC: in-force dates come from each decree's first transitorio speaking of entry into force, otherwise Código Civil Federal art. 3. Counts: Código Civil Federal art. 3 (tres días después de su publicación): 2; a los sesenta días de su publicación: 1; día siguiente al de su publicación: 18; transitorio Primero: al día siguiente al de su publicación (its exception, transitorio Noveno, defers for 120 days only the transfer of powers from the SHCP to the CNBV, not the words of the law; printed inside the block of the decree before it): 1.

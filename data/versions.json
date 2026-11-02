@@ -12734,6 +12734,34 @@
    ]
   },
   {
+   "slug": "ley-para-conservar-la-neutralidad-del-pais",
+   "short": "LCNP",
+   "title": "Ley para Conservar la Neutralidad del País",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/176_210618.pdf",
+   "versions": [
+    {
+     "from": "2018-06-22",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20181105071927id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/176_210618.pdf",
+     "sha256": "b1de107a982a73c02c12c952586d16063c9fc51c8e1e29594924f24d0107395a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica",
+   "short": "LCMOPFIH",
+   "title": "Ley de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf",
+   "versions": [
+    {
+     "from": "1991-01-01",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20190713201943id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/30.pdf",
+     "sha256": "c8a4080aaf0b6f80cf9c50f8085d899e2ba68bbac8568ab12743dddf65cfa742"
+    }
+   ]
+  },
+  {
    "slug": "ley-general-de-titulos-y-operaciones-de-credito",
    "short": "LGTOC",
    "title": "Ley General de Títulos y Operaciones de Crédito",
@@ -12792,6 +12820,58 @@
      "units": 477,
      "source_url": "https://web.archive.org/web/20250617213924id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/LGTOC.pdf",
      "sha256": "cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-fiscalizacion-y-rendicion-de-cuentas-2009",
+   "short": "LFRCF 2009",
+   "title": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf",
+   "versions": [
+    {
+     "from": "2010-06-19",
+     "units": 114,
+     "source_url": "https://web.archive.org/web/20130515142955id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf",
+     "sha256": "167ce1f4eef30861a28459a681ccc366d77dd2c5d07766688c032ffaed75f721"
+    },
+    {
+     "from": "2016-07-19",
+     "units": 0,
+     "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf",
+     "sha256": "d3f2fdb5813abb9d219a719b718062466db13cde06d3cacaab1e6289df060267"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-fiscalizacion-superior-de-la-federacion",
+   "short": "LFSF",
+   "title": "Ley de Fiscalización Superior de la Federación",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/37.pdf",
+   "versions": [
+    {
+     "from": "2005-04-05",
+     "units": 101,
+     "source_url": "https://web.archive.org/web/20061020072726id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/37.pdf",
+     "sha256": "cb9370787e4ccf5d177d4d8b43106e220ebf6b7db030515cafc4e46834893ceb"
+    },
+    {
+     "from": "2007-08-31",
+     "units": 102,
+     "source_url": "https://web.archive.org/web/20071122205553id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/37.pdf",
+     "sha256": "dc0bd769519201aa88aa7cad15429645ba3c98b57c272a37ee39311b7b8e3a42"
+    },
+    {
+     "from": "2008-06-21",
+     "units": 103,
+     "source_url": "https://web.archive.org/web/20080911231609id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/37.pdf",
+     "sha256": "2c9a021078016e3574f18d257b69ad5f9c05f7809cd551d0d671005ab210c281"
+    },
+    {
+     "from": "2009-05-30",
+     "units": 0,
+     "source_url": "https://web.archive.org/web/20130515142955id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf",
+     "sha256": "167ce1f4eef30861a28459a681ccc366d77dd2c5d07766688c032ffaed75f721"
     }
    ]
   },
