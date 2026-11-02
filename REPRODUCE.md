@@ -1694,7 +1694,7 @@ When a law gives no date of its own, the default rule applies: Código Civil Fed
 
 ## Checks
 
-Not yet run for this build.
+2586 versions of 364 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 A second build from the same corpus into an empty folder gave identical hashes for all 2441 history commits and 4208 tags (history tip `61f0125056cee828b02e5f331d1af65a310a8800`).
 
