@@ -1674,7 +1674,7 @@ When a law gives no date of its own, the default rule applies: Código Civil Fed
 
 - Corpus: sha256 `725c20f6fc36160792a319219cba318c834b4ccc9bba05d7b42753d9333eac9e` (113613432 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
