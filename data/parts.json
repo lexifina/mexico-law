@@ -1,0 +1,2189 @@
+{
+ "parts": {
+  "10-constitucion.json": {
+   "acts": [
+    "constitucion"
+   ],
+   "sha256": "5ee4adff607e82d5d1d6d85880dccb8b81c35d82ba23c301328b6f47daa990d3"
+  },
+  "100-ley-general-de-educacion-superior.json": {
+   "acts": [
+    "ley-general-de-educacion-superior"
+   ],
+   "sha256": "04d32217919c26a7e389c604b99d0aa4e63eb68da17125c8623b5289e7da09e4"
+  },
+  "101-ley-general-de-movilidad-y-seguridad-vial.json": {
+   "acts": [
+    "ley-general-de-movilidad-y-seguridad-vial"
+   ],
+   "sha256": "5e1476d1a7856f30cde5b3f165fd5da3d360a02917ee4352e69a1c218e00ceda"
+  },
+  "102-ley-general-de-turismo.json": {
+   "acts": [
+    "ley-general-de-turismo"
+   ],
+   "sha256": "eab575dedb44ed237b27ee2a34e4ed1bba0bf35e0bb7d81f17d464c733fe0598"
+  },
+  "103-ley-general-para-la-igualdad-entre-mujeres-y-hombres.json": {
+   "acts": [
+    "ley-general-para-la-igualdad-entre-mujeres-y-hombres"
+   ],
+   "sha256": "7edd471bf77c3890b232aef83b0494ba07112a494da4172c53f38553e8f0feb5"
+  },
+  "104-ley-general-para-la-inclusion-de-las-personas-con-discapacidad.json": {
+   "acts": [
+    "ley-general-para-la-inclusion-de-las-personas-con-discapacidad"
+   ],
+   "sha256": "953f5812629e0d305cb2d32341546b266908a5a2466a8e71cde027d90ce7eba7"
+  },
+  "105-ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes.json": {
+   "acts": [
+    "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes"
+   ],
+   "sha256": "87600bef0f1238cdb42e91006cf3d47a8fd3a920c8c852e5744abe9c35614094"
+  },
+  "106-ley-general-de-proteccion-de-datos-personales-sujetos-obligados.json": {
+   "acts": [
+    "ley-general-de-proteccion-de-datos-personales-sujetos-obligados"
+   ],
+   "sha256": "5ed297f615298b1310e23b417a79f035608f51750e71d646ee22d5c7d3fea3cd"
+  },
+  "107-ley-de-los-sistemas-de-ahorro-para-el-retiro.json": {
+   "acts": [
+    "ley-de-los-sistemas-de-ahorro-para-el-retiro"
+   ],
+   "sha256": "ed29d11bdfb7db282c8d7971d6a344c8aea10445c689f0c6630df5ac281716b1"
+  },
+  "108-ley-nacional-de-extincion-de-dominio.json": {
+   "acts": [
+    "ley-nacional-de-extincion-de-dominio"
+   ],
+   "sha256": "0901d5bcd647d1416d1cb151c50bfd5e021bea7de7a7fb824d919774a161e4d0"
+  },
+  "109-ley-nacional-sobre-el-uso-de-la-fuerza.json": {
+   "acts": [
+    "ley-nacional-sobre-el-uso-de-la-fuerza"
+   ],
+   "sha256": "173116f6c57c77439fa9d2114fbbb8b1b9157a3ac2c23e766dc04b1280b0630c"
+  },
+  "110-ley-de-la-guardia-nacional.json": {
+   "acts": [
+    "ley-de-la-guardia-nacional"
+   ],
+   "sha256": "faf7d2b97b150977b46afd78a0209b4629402ddc7d7e2a3be50225dbd9d07525"
+  },
+  "111-ley-de-planeacion.json": {
+   "acts": [
+    "ley-de-planeacion"
+   ],
+   "sha256": "e52bf24318e931c38b5bc8583dac3a4b58056ecb4329bbef6db8b41631145483"
+  },
+  "112-ley-de-los-derechos-de-las-personas-adultas-mayores.json": {
+   "acts": [
+    "ley-de-los-derechos-de-las-personas-adultas-mayores"
+   ],
+   "sha256": "e69e871dd561c978cf702db48c1daa7e0373b2bb03eb6262554e506acb199d7e"
+  },
+  "113-ley-federal-de-seguridad-privada.json": {
+   "acts": [
+    "ley-federal-de-seguridad-privada"
+   ],
+   "sha256": "38b3c46aac07324705bcaa1baadb2badfd18e7f9919914e5330596b3349611e5"
+  },
+  "114-ley-minera.json": {
+   "acts": [
+    "ley-minera"
+   ],
+   "sha256": "5d58be37744aedb1e0ffcb0ea33945d749def329f870c03cfa076ce9ceb5c921"
+  },
+  "115-ley-de-ingresos-sobre-hidrocarburos.json": {
+   "acts": [
+    "ley-de-ingresos-sobre-hidrocarburos"
+   ],
+   "sha256": "e72a5573d728d94faec44cd8fa41333e4bad86e5a17b633ab44f192073073a6e"
+  },
+  "116-ley-federal-de-procedimiento-contencioso-administrativo.json": {
+   "acts": [
+    "ley-federal-de-procedimiento-contencioso-administrativo"
+   ],
+   "sha256": "4301dd58d23752dbfe51a9ac23229769397265794863a060645be9653f43c3c2"
+  },
+  "117-ley-general-del-sistema-nacional-anticorrupcion.json": {
+   "acts": [
+    "ley-general-del-sistema-nacional-anticorrupcion"
+   ],
+   "sha256": "2a795e8b0d44aa7f082cb69258b1d8fb62f4072f7300634bd45d8f03c899f78f"
+  },
+  "118-ley-de-fiscalizacion-y-rendicion-de-cuentas.json": {
+   "acts": [
+    "ley-de-fiscalizacion-y-rendicion-de-cuentas"
+   ],
+   "sha256": "2e414c52dc0036fc95603e20485989ab7035c289253fe36c357ddd853953f8e9"
+  },
+  "119-ley-organica-del-tribunal-federal-de-justicia-administrativa.json": {
+   "acts": [
+    "ley-organica-del-tribunal-federal-de-justicia-administrativa"
+   ],
+   "sha256": "974f21b6cd401d196f39d041baf7a1466287642abcb32b3ac79aa5ce8c2cee27"
+  },
+  "120-ley-de-la-fiscalia-general-de-la-republica.json": {
+   "acts": [
+    "ley-de-la-fiscalia-general-de-la-republica"
+   ],
+   "sha256": "e179a0eb11ba9a16c2036750bcc892bc0922cbde40b2f68edb087208acb06662"
+  },
+  "121-ley-de-comercio-exterior.json": {
+   "acts": [
+    "ley-de-comercio-exterior"
+   ],
+   "sha256": "bf79ad7ae5d519ebea88c43c0782e9fe4554916edf5409fb064ff153058176d7"
+  },
+  "122-ley-federal-de-los-derechos-del-contribuyente.json": {
+   "acts": [
+    "ley-federal-de-los-derechos-del-contribuyente"
+   ],
+   "sha256": "58b5098311637fa87294ad8c72b766aafb8752de0325a1864f903c634b98fec3"
+  },
+  "123-ley-federal-de-remuneraciones-de-los-servidores-publicos.json": {
+   "acts": [
+    "ley-federal-de-remuneraciones-de-los-servidores-publicos"
+   ],
+   "sha256": "f4fa57a333745e2ed69af02d5e4c27c68f86de97cd398a14011ab4993a31871c"
+  },
+  "124-ley-general-de-sociedades-cooperativas.json": {
+   "acts": [
+    "ley-general-de-sociedades-cooperativas"
+   ],
+   "sha256": "3b850cb47cb9c090822385b50409e7ba20aa4c94d7f3b4e07ad10ace926a4691"
+  },
+  "125-ley-de-nacionalidad.json": {
+   "acts": [
+    "ley-de-nacionalidad"
+   ],
+   "sha256": "0d17ae48dad600e6a63dde0858b8ef12c5920f54d06caf7b4b4b8628565a7213"
+  },
+  "126-ley-del-banco-de-mexico.json": {
+   "acts": [
+    "ley-del-banco-de-mexico"
+   ],
+   "sha256": "4d1f69008c719242273fc7519825b73e16799aebd5e425385f88ba46a5177bb0"
+  },
+  "127-ley-de-la-comision-nacional-de-los-derechos-humanos.json": {
+   "acts": [
+    "ley-de-la-comision-nacional-de-los-derechos-humanos"
+   ],
+   "sha256": "3ed56b595ef1d4422b19687d6e6b112f4cd21758e165be771ee798a22c8a58ec"
+  },
+  "128-ley-federal-para-prevenir-y-eliminar-la-discriminacion.json": {
+   "acts": [
+    "ley-federal-para-prevenir-y-eliminar-la-discriminacion"
+   ],
+   "sha256": "7a0d47126ebba83efb04416b42624a01f6b7fc9b1698b33066cc033fef0c70b4"
+  },
+  "129-ley-de-desarrollo-rural-sustentable.json": {
+   "acts": [
+    "ley-de-desarrollo-rural-sustentable"
+   ],
+   "sha256": "4e1b21bb3e04c8151ddb1207e091868d64a916ef9c23af8f03e479423d3545d1"
+  },
+  "130-ley-general-de-desarrollo-forestal-sustentable.json": {
+   "acts": [
+    "ley-general-de-desarrollo-forestal-sustentable"
+   ],
+   "sha256": "421e8d1ef28e190c392d074067a8196bd1428bee0d1bc454be43cd55e4d90484"
+  },
+  "131-ley-federal-de-sanidad-animal.json": {
+   "acts": [
+    "ley-federal-de-sanidad-animal"
+   ],
+   "sha256": "b64a67df19bb097c9ab586f26df3aaa6fb34de75bd50760f3c5e75a25d58e27d"
+  },
+  "132-ley-de-caminos-puentes-y-autotransporte-federal.json": {
+   "acts": [
+    "ley-de-caminos-puentes-y-autotransporte-federal"
+   ],
+   "sha256": "504584df003219c3203a5d408aa29e3123361d5ebc6a9029ff6a4adb19f9138e"
+  },
+  "133-ley-de-aeropuertos.json": {
+   "acts": [
+    "ley-de-aeropuertos"
+   ],
+   "sha256": "cf85ce5a2cce5c7daa214e9812935aad87654e8a35d2f6ff9d5d5b2b7d671b6a"
+  },
+  "134-ley-de-puertos.json": {
+   "acts": [
+    "ley-de-puertos"
+   ],
+   "sha256": "5a213eddc1748ceb7f849f2104a0f2f6c8922094073b4f25fbc9b04ce115510e"
+  },
+  "135-ley-de-navegacion-y-comercio-maritimos.json": {
+   "acts": [
+    "ley-de-navegacion-y-comercio-maritimos"
+   ],
+   "sha256": "01baec4508f0a95999ec6761b493518a59ab5d94fa059df1c8f4dd69f8aacc3c"
+  },
+  "136-ley-de-seguridad-nacional.json": {
+   "acts": [
+    "ley-de-seguridad-nacional"
+   ],
+   "sha256": "be0e756c56600006a1f0833a60f3a2e26c7e66ecb9766c13b31b6efa247baa5b"
+  },
+  "137-ley-organica-del-ejercito-y-fuerza-aerea-mexicanos.json": {
+   "acts": [
+    "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos"
+   ],
+   "sha256": "c3e8bf4f9920d49fae2536f429b41b8af6c8054facd1b1c3ec860b88a28498ae"
+  },
+  "138-ley-organica-de-la-armada-de-mexico.json": {
+   "acts": [
+    "ley-organica-de-la-armada-de-mexico"
+   ],
+   "sha256": "49542a01ec2551f9ccb0dd34a892917dd0d580045c64ad1c2721baffdb010b73"
+  },
+  "139-ley-de-obras-publicas-y-servicios-relacionados.json": {
+   "acts": [
+    "ley-de-obras-publicas-y-servicios-relacionados"
+   ],
+   "sha256": "732342174dc01a097dac9acfe259b298bf88bdc11f4ee58ab932ce0744fe2249"
+  },
+  "140-ley-de-asociaciones-publico-privadas.json": {
+   "acts": [
+    "ley-de-asociaciones-publico-privadas"
+   ],
+   "sha256": "15ae09cdd6477cb855aa3a494c6019c1852b2a5bef89368a5e673f5c98a241e2"
+  },
+  "141-ley-de-vias-generales-de-comunicacion.json": {
+   "acts": [
+    "ley-de-vias-generales-de-comunicacion"
+   ],
+   "sha256": "0c737f5cb3fcc349773eba22448ead16c3f5a23dccad8816b0c8f7a729515a80"
+  },
+  "142-ley-del-servicio-exterior-mexicano.json": {
+   "acts": [
+    "ley-del-servicio-exterior-mexicano"
+   ],
+   "sha256": "78e33e9c918cba084f892eb70cb15d22c4f0c6e04903ef5dc255bc7ea737d587"
+  },
+  "143-ley-federal-de-juegos-y-sorteos.json": {
+   "acts": [
+    "ley-federal-de-juegos-y-sorteos"
+   ],
+   "sha256": "f66c73ed477e2090a84410635b66f0e4f78ef41e5a198b8571739db363cad23e"
+  },
+  "144-ley-de-bioseguridad-de-organismos-geneticamente-modificados.json": {
+   "acts": [
+    "ley-de-bioseguridad-de-organismos-geneticamente-modificados"
+   ],
+   "sha256": "ea89533fea74abcf4363d22cc022929b94a65fb4c5c676be48c474c9d886ffdc"
+  },
+  "145-ley-federal-de-variedades-vegetales.json": {
+   "acts": [
+    "ley-federal-de-variedades-vegetales"
+   ],
+   "sha256": "1a4fc760e7a617344e42dca82d7ecd1b1fa45471f6d50152f90907090e459f3d"
+  },
+  "146-ley-general-de-cultura-y-derechos-culturales.json": {
+   "acts": [
+    "ley-general-de-cultura-y-derechos-culturales"
+   ],
+   "sha256": "36dcfaf6300ba78f705ac218dbecfe4bce02c7088e1709c15f5162a45bf7f3f2"
+  },
+  "147-ley-general-de-cultura-fisica-y-deporte.json": {
+   "acts": [
+    "ley-general-de-cultura-fisica-y-deporte"
+   ],
+   "sha256": "2f98a87f719fde3a56ab6fbe5141eaa59117ccbe026c9bb7709e441e24e99dcb"
+  },
+  "148-ley-del-instituto-nacional-de-las-mujeres.json": {
+   "acts": [
+    "ley-del-instituto-nacional-de-las-mujeres"
+   ],
+   "sha256": "349784659cc29e6c0465903d235a3cb96626126d30c6fe3a6001bb9c3144e20e"
+  },
+  "149-ley-federal-de-fomento-a-las-actividades-de-osc.json": {
+   "acts": [
+    "ley-federal-de-fomento-a-las-actividades-de-osc"
+   ],
+   "sha256": "be753378f751cbb449a45baf540cce12ee947797e04ec1f3735ad3c5c78eaf07"
+  },
+  "150-ley-federal-del-mar.json": {
+   "acts": [
+    "ley-federal-del-mar"
+   ],
+   "sha256": "ef29923a22fd6cb0921b5512cacfe5d0521bbbfd5dba7dff9effdf163a697ab9"
+  },
+  "151-ley-de-energia-para-el-campo.json": {
+   "acts": [
+    "ley-de-energia-para-el-campo"
+   ],
+   "sha256": "ad135c821d49a8aefc7ce77fa261ab4451217c0f313d94f33d2945f60fb6ab16"
+  },
+  "152-ley-reglamentaria-del-articulo-105.json": {
+   "acts": [
+    "ley-reglamentaria-del-articulo-105"
+   ],
+   "sha256": "e3ffbc6e708833714955a6cba9d8a3d1bb1d0696f218fbe116f64e301cc10d08"
+  },
+  "153-ley-general-contra-la-tortura.json": {
+   "acts": [
+    "ley-general-contra-la-tortura"
+   ],
+   "sha256": "e14041f1ea4931a32553890e5340da2490ae1620f5c27ff3b9cd5d8b4e9547ca"
+  },
+  "154-ley-general-en-materia-de-desaparicion.json": {
+   "acts": [
+    "ley-general-en-materia-de-desaparicion"
+   ],
+   "sha256": "55d1e382dd7df1f512fa335f4f87b7950fd8fec57620bfca3e3e814a50f6d23d"
+  },
+  "155-ley-general-en-materia-de-trata-de-personas.json": {
+   "acts": [
+    "ley-general-en-materia-de-trata-de-personas"
+   ],
+   "sha256": "35117878d765b981a4c9542e32c5b43f19c4014cd5fb96513d0d161111e886cd"
+  },
+  "156-ley-federal-de-defensoria-publica.json": {
+   "acts": [
+    "ley-federal-de-defensoria-publica"
+   ],
+   "sha256": "592c5e2b44b9233c58e12b1352721e6bcb56115c39befa3fdac52ff252a42ad7"
+  },
+  "157-ley-del-servicio-de-administracion-tributaria.json": {
+   "acts": [
+    "ley-del-servicio-de-administracion-tributaria"
+   ],
+   "sha256": "4ae1761627a0ce9c3a9046a49501174298027e4613a6735f477901ec2aa45346"
+  },
+  "158-ley-federal-de-deuda-publica.json": {
+   "acts": [
+    "ley-federal-de-deuda-publica"
+   ],
+   "sha256": "be2595711b194bd6d761c3d81e3efa1b2d825080ded434299c4f10ed97d18ae2"
+  },
+  "159-ley-de-disciplina-financiera.json": {
+   "acts": [
+    "ley-de-disciplina-financiera"
+   ],
+   "sha256": "f6b4642d8934cb3423bde8858ab4fab5a1b82b8e176953a3165567d1e5f6dc18"
+  },
+  "160-ley-para-la-transparencia-de-los-servicios-financieros.json": {
+   "acts": [
+    "ley-para-la-transparencia-de-los-servicios-financieros"
+   ],
+   "sha256": "76344447d783e16fc7931eb7c2d1fdc93108300a70f7ddc2b07490e8a53c92f6"
+  },
+  "161-ley-de-proteccion-al-usuario-de-servicios-financieros.json": {
+   "acts": [
+    "ley-de-proteccion-al-usuario-de-servicios-financieros"
+   ],
+   "sha256": "87d1240208815fe0532efa25ed0d400dabbb8a1fc4caf4d3812cf9b6bc325737"
+  },
+  "162-ley-de-tecnologia-financiera.json": {
+   "acts": [
+    "ley-de-tecnologia-financiera"
+   ],
+   "sha256": "5c788c7ab3bfb62f7edc8167a95e8ed91faee34186a5dadc1c1c3851e4d651a9"
+  },
+  "163-ley-general-de-organizaciones-auxiliares-del-credito.json": {
+   "acts": [
+    "ley-general-de-organizaciones-auxiliares-del-credito"
+   ],
+   "sha256": "2bd1e62c7f4f508a2ad157d98ab69eedd8e9493d1189a9030744e3dab87eecb9"
+  },
+  "164-ley-del-sistema-nacional-de-informacion-estadistica.json": {
+   "acts": [
+    "ley-del-sistema-nacional-de-informacion-estadistica"
+   ],
+   "sha256": "d75b2a377b1f07d984e9b5d8782f81576aefa74df991fb4bab317f37efcfaa30"
+  },
+  "165-ley-federal-de-sanidad-vegetal.json": {
+   "acts": [
+    "ley-federal-de-sanidad-vegetal"
+   ],
+   "sha256": "ab92af0980ecb8081e7ba2201580836dd10c7a30dbba5b838511d9a75ad0ea12"
+  },
+  "166-ley-reglamentaria-del-articulo-5-profesiones.json": {
+   "acts": [
+    "ley-reglamentaria-del-articulo-5-profesiones"
+   ],
+   "sha256": "6b6a9ade2e443b5dbdefe15657b4427b7ac612e311e6022acd92874ecc8847a3"
+  },
+  "167-ley-de-ahorro-y-credito-popular.json": {
+   "acts": [
+    "ley-de-ahorro-y-credito-popular"
+   ],
+   "sha256": "51a6c36eff996725074d9f678a6e2154097ec055bdda95df2a6f09b4c8debc2f"
+  },
+  "168-ley-federal-de-consulta-popular.json": {
+   "acts": [
+    "ley-federal-de-consulta-popular"
+   ],
+   "sha256": "5b8e366cee2f58eb742c78594419d2019fda48478521cf7b327dc57a4d1f8cca"
+  },
+  "169-ley-federal-de-revocacion-de-mandato.json": {
+   "acts": [
+    "ley-federal-de-revocacion-de-mandato"
+   ],
+   "sha256": "84911f55bf86d49ec50998f4fbfd1616fe45ae35715f47c593d259df773630c3"
+  },
+  "170-ley-federal-de-austeridad-republicana.json": {
+   "acts": [
+    "ley-federal-de-austeridad-republicana"
+   ],
+   "sha256": "58308c171b4856057bb0ecb743713e2b11d0eb865ff5fa595c39df532dc59dbe"
+  },
+  "171-ley-federal-de-responsabilidad-ambiental.json": {
+   "acts": [
+    "ley-federal-de-responsabilidad-ambiental"
+   ],
+   "sha256": "b2f0f9543bdfe8a460d9df2ce868734e6cdcfb47ff7cb23022d4aa5324a03fc0"
+  },
+  "172-ley-de-la-comision-nacional-bancaria-y-de-valores.json": {
+   "acts": [
+    "ley-de-la-comision-nacional-bancaria-y-de-valores"
+   ],
+   "sha256": "bc9ebf441a4c36475c6fd5e82b780d7874ac9671e826307dac7b62e6b3990083"
+  },
+  "173-ley-de-proteccion-al-ahorro-bancario.json": {
+   "acts": [
+    "ley-de-proteccion-al-ahorro-bancario"
+   ],
+   "sha256": "c993ef83e8ae6d1330dbef6c2bb9cc89c977a259a7cc810171d45a76fb05f9ba"
+  },
+  "174-ley-de-uniones-de-credito.json": {
+   "acts": [
+    "ley-de-uniones-de-credito"
+   ],
+   "sha256": "4229e8f16e60c70d5a58053c8294e413f93210be4ffa5b5fe8c0868af9618bd5"
+  },
+  "175-ley-sobre-la-celebracion-de-tratados.json": {
+   "acts": [
+    "ley-sobre-la-celebracion-de-tratados"
+   ],
+   "sha256": "b579939c0682b7c06eb050047b32b88c71dacd303c5c84d04a6d925e9aed2309"
+  },
+  "176-ley-del-issfam.json": {
+   "acts": [
+    "ley-del-issfam"
+   ],
+   "sha256": "89268539c124e673af2011ec8551069fb49ce1c595cc01399530d3a4ff61c94d"
+  },
+  "177-ley-de-productos-organicos.json": {
+   "acts": [
+    "ley-de-productos-organicos"
+   ],
+   "sha256": "1cc97423a88190ad01563131760e4191ce54eebf5416be52f2c895e968692f64"
+  },
+  "178-ley-de-sistemas-de-pagos.json": {
+   "acts": [
+    "ley-de-sistemas-de-pagos"
+   ],
+   "sha256": "83537aa6780ffd1af7c6a8a9462fb9ee8b4057cc50471bf2c335c4cc07a308d6"
+  },
+  "179-ley-de-premios-estimulos-y-recompensas-civiles.json": {
+   "acts": [
+    "ley-de-premios-estimulos-y-recompensas-civiles"
+   ],
+   "sha256": "1481bac0f6b082896bedaa2b20f0626c384fa15b22d654bd99f779855bf5b2d0"
+  },
+  "180-ley-de-asistencia-social.json": {
+   "acts": [
+    "ley-de-asistencia-social"
+   ],
+   "sha256": "79da5f96d46e26c329aa775e92354ad45f48eceee6469bf48fe12148e196bc16"
+  },
+  "181-ley-de-expropiacion.json": {
+   "acts": [
+    "ley-de-expropiacion"
+   ],
+   "sha256": "4a28d01c1440eef5507eb4dd116fcdb1da9c506ce98b914b4331f4aaa5c3772e"
+  },
+  "182-ley-de-fomento-para-la-lectura-y-el-libro.json": {
+   "acts": [
+    "ley-de-fomento-para-la-lectura-y-el-libro"
+   ],
+   "sha256": "281ff550149f3bb5085c91a9735fccf97d31c960731843cd47200e0fca01ef35"
+  },
+  "183-ley-general-de-bibliotecas.json": {
+   "acts": [
+    "ley-general-de-bibliotecas"
+   ],
+   "sha256": "a95644b6c970c7ddb509205e66b5814b9a4f76f89f0277004bde14a3d5626c16"
+  },
+  "184-ley-federal-de-cinematografia.json": {
+   "acts": [
+    "ley-federal-de-cinematografia"
+   ],
+   "sha256": "1d47c965b3e454a561b56a264ea2bfebecf002233699df06acf6c58ecab56d05"
+  },
+  "185-ley-de-educacion-militar.json": {
+   "acts": [
+    "ley-de-educacion-militar"
+   ],
+   "sha256": "b972274dd272b507e7ed9d5e067d4beee810a53198b6759948711a5998496da9"
+  },
+  "186-ley-de-disciplina-del-ejercito.json": {
+   "acts": [
+    "ley-de-disciplina-del-ejercito"
+   ],
+   "sha256": "6710bf1e6b8426069346313f6bb14f6198cfb2244ba0eca67f1d435de5391c1c"
+  },
+  "187-ley-de-ascensos-y-recompensas-del-ejercito.json": {
+   "acts": [
+    "ley-de-ascensos-y-recompensas-del-ejercito"
+   ],
+   "sha256": "2a46f99aa14cbf7c90acf1876eaffad65d709f6f1c6e504673420d17df8ddda5"
+  },
+  "188-ley-de-ascensos-de-la-armada-de-mexico.json": {
+   "acts": [
+    "ley-de-ascensos-de-la-armada-de-mexico"
+   ],
+   "sha256": "3171481f2a67ca68696506a5ec8e837e88d42c5a06a3dd8e7ed3e94b621af2b4"
+  },
+  "189-ley-de-firma-electronica-avanzada.json": {
+   "acts": [
+    "ley-de-firma-electronica-avanzada"
+   ],
+   "sha256": "fbb5154e6ee2081f64e2e89505f5b1afc789a9c1af3e3eb0ffde2d3d76f34a2e"
+  },
+  "190-ley-en-materia-de-telecomunicaciones-y-radiodifusion.json": {
+   "acts": [
+    "ley-en-materia-de-telecomunicaciones-y-radiodifusion"
+   ],
+   "sha256": "7ecc29608f5da0ff032f77da769eda36729397fc5c9bc5330185e16d45a5c4be"
+  },
+  "191-codigo-de-justicia-militar.json": {
+   "acts": [
+    "codigo-de-justicia-militar"
+   ],
+   "sha256": "46fd1f26d0209316a138bdb19e30b84667aa0c978a5ad3603ae9e0cfb9f02a0a"
+  },
+  "192-codigo-militar-de-procedimientos-penales.json": {
+   "acts": [
+    "codigo-militar-de-procedimientos-penales"
+   ],
+   "sha256": "8bc0895a19b5ad2613c606f308528f69ad81a6045582cb164a198507aee6667e"
+  },
+  "193-ley-general-de-residuos.json": {
+   "acts": [
+    "ley-general-de-residuos"
+   ],
+   "sha256": "84135f278d7d9d71b912d2ca47c791a5d4622246125020fd533a6aff67ae2c44"
+  },
+  "194-ley-general-de-humanidades-ciencias-tecnologias-e-innovacion.json": {
+   "acts": [
+    "ley-general-de-humanidades-ciencias-tecnologias-e-innovacion"
+   ],
+   "sha256": "ee8ce2420fc52aca6ad770e010a8033233ade6530904964a972774840f8b478d"
+  },
+  "195-ley-del-instituto-nacional-de-los-pueblos-indigenas.json": {
+   "acts": [
+    "ley-del-instituto-nacional-de-los-pueblos-indigenas"
+   ],
+   "sha256": "f3ba2c5129434a5ab98892db007742baf7d61e8f79b31707c413ff6a599c1244"
+  },
+  "196-ley-de-tesoreria-de-la-federacion.json": {
+   "acts": [
+    "ley-de-tesoreria-de-la-federacion"
+   ],
+   "sha256": "9b678cd753d980461bd1aff0b8d599b2497e083e1933144b0d42f34a298cdec3"
+  },
+  "197-ley-sobre-el-contrato-de-seguro.json": {
+   "acts": [
+    "ley-sobre-el-contrato-de-seguro"
+   ],
+   "sha256": "216b44d732584c0ac782377c667f30a656457d01c586d95afbc77cddf81dcbe0"
+  },
+  "198-ley-general-de-comunicacion-social.json": {
+   "acts": [
+    "ley-general-de-comunicacion-social"
+   ],
+   "sha256": "0ba48a29d3230602b169c657e5a293ef2209f9910f88e47a9b1c12b81c95b480"
+  },
+  "199-ley-monetaria.json": {
+   "acts": [
+    "ley-monetaria"
+   ],
+   "sha256": "ee169c620abe3ceda2777a43dfa7a456bd3558f9374e046cc5cd10455e9d8f08"
+  },
+  "20-lfpdppp.json": {
+   "acts": [
+    "lfpdppp"
+   ],
+   "sha256": "6a3da9e5236ca28b5b14444c41a825b1d5b9e5b32c690c931849950763e5beeb"
+  },
+  "200-ley-de-sociedades-de-solidaridad-social.json": {
+   "acts": [
+    "ley-de-sociedades-de-solidaridad-social"
+   ],
+   "sha256": "27b668a97a25330050ec166423011adfd1b28ea7047108885c46f66bdbfabe01"
+  },
+  "201-ley-de-fomento-a-la-confianza-ciudadana.json": {
+   "acts": [
+    "ley-de-fomento-a-la-confianza-ciudadana"
+   ],
+   "sha256": "56345bd2195b62e60e27182f4d37457f340544736b4654282a3fb464b492180e"
+  },
+  "202-ley-federal-del-impuesto-sobre-automoviles-nuevos.json": {
+   "acts": [
+    "ley-federal-del-impuesto-sobre-automoviles-nuevos"
+   ],
+   "sha256": "0c0bb6a6384b6d03716174e335b0734f05e3a665bda26b010e84d252b7852d3f"
+  },
+  "204-ley-federal-contra-el-lavado-de-dinero.json": {
+   "acts": [
+    "ley-federal-contra-el-lavado-de-dinero"
+   ],
+   "sha256": "1249b79e9536bf6f276b0741c1c4a45a23a9a622b3d0653136fad51ef6383f61"
+  },
+  "205-ley-general-de-mejora-regulatoria.json": {
+   "acts": [
+    "ley-general-de-mejora-regulatoria"
+   ],
+   "sha256": "4963d6fb93486be34d74981d3f001381b5ea73130d060bf952dac0a163c6b49d"
+  },
+  "206-ley-de-sociedades-de-informacion-crediticia.json": {
+   "acts": [
+    "ley-de-sociedades-de-informacion-crediticia"
+   ],
+   "sha256": "97f4f32e081c04ed3f77bcd923563eb0f5cc6b5162e38e5baa50825c47a62465"
+  },
+  "207-ley-de-cooperativas-de-ahorro-y-prestamo.json": {
+   "acts": [
+    "ley-de-cooperativas-de-ahorro-y-prestamo"
+   ],
+   "sha256": "b49a9bf1eb9874e775af361ba4601b792a683b603a96e7275cb3054e7b0b65a4"
+  },
+  "208-ley-federal-de-precursores-quimicos.json": {
+   "acts": [
+    "ley-federal-de-precursores-quimicos"
+   ],
+   "sha256": "17928007c06769df6832ecc75462f2b0d6bafd4d72063f7224c0c11690e727c6"
+  },
+  "209-ley-de-declaracion-especial-de-ausencia.json": {
+   "acts": [
+    "ley-de-declaracion-especial-de-ausencia"
+   ],
+   "sha256": "1aac3d91553c38aa21c4cd6c197ec4532294b1f31b062bb88ce26a8af1d842d1"
+  },
+  "210-ley-general-de-derechos-linguisticos.json": {
+   "acts": [
+    "ley-general-de-derechos-linguisticos"
+   ],
+   "sha256": "125d9886cd58055c14d7f55e1de90b6ddf391ce62376bd1264e15484132b7da1"
+  },
+  "211-ley-general-en-materia-de-delitos-electorales.json": {
+   "acts": [
+    "ley-general-en-materia-de-delitos-electorales"
+   ],
+   "sha256": "7a05b17f55c1855fa9ecf45e02f2bd54050adaedfb8915117b690179ed63d723"
+  },
+  "212-ley-general-para-el-control-del-tabaco.json": {
+   "acts": [
+    "ley-general-para-el-control-del-tabaco"
+   ],
+   "sha256": "dfeb0c39cc10ea08195a1678f1ca48e3308f38a0b32175c9677cec9ec2cfe3b6"
+  },
+  "213-ley-del-servicio-militar.json": {
+   "acts": [
+    "ley-del-servicio-militar"
+   ],
+   "sha256": "7e030f50fcc090adbc6a6031f70a60b270fff6d71e4fd5190318a2f587c12664"
+  },
+  "214-ley-de-proteccion-a-personas-en-el-procedimiento-penal.json": {
+   "acts": [
+    "ley-de-proteccion-a-personas-en-el-procedimiento-penal"
+   ],
+   "sha256": "03cc26999755c6b9861720197e7b0ed1b8aab92ba0aa19bb2f22905e0ac9e1c0"
+  },
+  "215-ley-general-de-servicios-de-cuidado-infantil.json": {
+   "acts": [
+    "ley-general-de-servicios-de-cuidado-infantil"
+   ],
+   "sha256": "8d06e5ad941d176dacee60ee7b7d9a3d784ee7d9da5d42b6c58b7292e6b841ee"
+  },
+  "216-ley-general-de-prevencion-social-de-la-violencia.json": {
+   "acts": [
+    "ley-general-de-prevencion-social-de-la-violencia"
+   ],
+   "sha256": "60e8b2633ba613cf1995317217523df35907294ae2ac3c1e99bfc7a86e7a390c"
+  },
+  "217-ley-general-del-espectro-autista.json": {
+   "acts": [
+    "ley-general-del-espectro-autista"
+   ],
+   "sha256": "f2b1a098f6d282f79c996a0ef81d339656fae1465f2e598a006316a404542d13"
+  },
+  "218-ley-federal-de-semillas.json": {
+   "acts": [
+    "ley-federal-de-semillas"
+   ],
+   "sha256": "9b3cb77582b1b117f7e45fb2968eb0a408f46e12bd65e7c7366e8444ee03d9f2"
+  },
+  "219-ley-de-proteccion-de-personas-defensoras-y-periodistas.json": {
+   "acts": [
+    "ley-de-proteccion-de-personas-defensoras-y-periodistas"
+   ],
+   "sha256": "e51d39b68478c2b322ff660c311fc61dfe2e222e7e1e621d2db7bd2fc4d052cf"
+  },
+  "220-ley-de-planeacion-y-transicion-energetica.json": {
+   "acts": [
+    "ley-de-planeacion-y-transicion-energetica"
+   ],
+   "sha256": "6df1f1314ce5b1a2656d3b986bd417263e6211a14fc67ff4ca950e0c437ba48f"
+  },
+  "221-ley-federal-de-sustancias-quimicas.json": {
+   "acts": [
+    "ley-federal-de-sustancias-quimicas"
+   ],
+   "sha256": "ceb2d87947adadbe8209bb58aafd123675b1341a755f98d5ab83db2a4096d82e"
+  },
+  "222-ley-general-de-economia-circular.json": {
+   "acts": [
+    "ley-general-de-economia-circular"
+   ],
+   "sha256": "dc29ed13c797c94f5a778f4795a11b7d2581efa987023e168e5057e7d65f6623"
+  },
+  "223-ley-de-desarrollo-sustentable-de-la-cafeticultura.json": {
+   "acts": [
+    "ley-de-desarrollo-sustentable-de-la-cafeticultura"
+   ],
+   "sha256": "79834b9ff8c775fff00321b7edeca2beaa68c17fa182583517e0d00734f25e67"
+  },
+  "224-ley-reglamentaria-del-servicio-ferroviario.json": {
+   "acts": [
+    "ley-reglamentaria-del-servicio-ferroviario"
+   ],
+   "sha256": "4f57128d4a55dd0b72f0d1dd1df914e4f42753d4322a7d74ef4a890881dee8e0"
+  },
+  "225-ley-nacional-para-eliminar-tramites-burocraticos.json": {
+   "acts": [
+    "ley-nacional-para-eliminar-tramites-burocraticos"
+   ],
+   "sha256": "e1eed85471ff42b6dbb32f13b5af754d1c46b43d6a6f2fe01c1c96ea89fbc5e7"
+  },
+  "226-ley-del-fondo-mexicano-del-petroleo.json": {
+   "acts": [
+    "ley-del-fondo-mexicano-del-petroleo"
+   ],
+   "sha256": "1f4dc4d50a8f67b731eaec192fa7c510fdfd9140c97211631a6b18e3b1e1925c"
+  },
+  "227-ley-general-de-aguas.json": {
+   "acts": [
+    "ley-general-de-aguas"
+   ],
+   "sha256": "0228077d75dab9fb7c56181d64bae1ac9e40e4364f1e00b03abe7a691117c8a7"
+  },
+  "228-ley-general-en-materia-de-extorsion.json": {
+   "acts": [
+    "ley-general-en-materia-de-extorsion"
+   ],
+   "sha256": "fb4534985f332fe83ffd4d835d40060ea2feabfbef7f220285df18b49e6e79a5"
+  },
+  "229-ley-de-aviacion-civil.json": {
+   "acts": [
+    "ley-de-aviacion-civil"
+   ],
+   "sha256": "a4a7e74d296d13aa51b4f2d6bb7619dab43dccf5f3947d6c9da92bad3b47c139"
+  },
+  "230-ley-nacional-de-mecanismos-alternativos-en-materia-penal.json": {
+   "acts": [
+    "ley-nacional-de-mecanismos-alternativos-en-materia-penal"
+   ],
+   "sha256": "5279e259adb78e48c9d06c26f30e955eeca69f77957322438d4b7d1c249a029c"
+  },
+  "231-ley-de-la-empresa-publica-petroleos-mexicanos.json": {
+   "acts": [
+    "ley-de-la-empresa-publica-petroleos-mexicanos"
+   ],
+   "sha256": "192d761cbf83389bbea2a898b3f41c71f4818d815a06e635ac5ed088359dade6"
+  },
+  "232-ley-de-la-empresa-publica-cfe.json": {
+   "acts": [
+    "ley-de-la-empresa-publica-cfe"
+   ],
+   "sha256": "7124a152286d5c294df5901cc1f6b682f1536a8746544d07af8c7134e275ea89"
+  },
+  "233-ley-federal-sobre-monumentos-y-zonas-arqueologicos.json": {
+   "acts": [
+    "ley-federal-sobre-monumentos-y-zonas-arqueologicos"
+   ],
+   "sha256": "cea00c2022216c5a2112fdfef86c99876110b55aa1bcfdcf7dc04d633157abf9"
+  },
+  "234-ley-para-regular-las-agrupaciones-financieras.json": {
+   "acts": [
+    "ley-para-regular-las-agrupaciones-financieras"
+   ],
+   "sha256": "e36b8c333553f9f4eb9e0d8099d8783b9c41e9fec20c1130943183ba0d46d283"
+  },
+  "235-ley-federal-para-la-administracion-y-enajenacion-de-bienes.json": {
+   "acts": [
+    "ley-federal-para-la-administracion-y-enajenacion-de-bienes"
+   ],
+   "sha256": "f61840f6d5948b723df025388e424e6123396901b23bd341ec2130b4b9313f2f"
+  },
+  "236-ley-de-extradicion-internacional.json": {
+   "acts": [
+    "ley-de-extradicion-internacional"
+   ],
+   "sha256": "8044a3a937c163dec81ab2a735fda2cf4c5d9e1b3e160958df6c0e80fd5f46b4"
+  },
+  "237-ley-de-la-economia-social-y-solidaria.json": {
+   "acts": [
+    "ley-de-la-economia-social-y-solidaria"
+   ],
+   "sha256": "379c4524cfb96f8bdd8c291758941933f0471b4bbe195df95e89d28ce38ae585"
+  },
+  "238-ley-de-geotermia.json": {
+   "acts": [
+    "ley-de-geotermia"
+   ],
+   "sha256": "6764e1cdd67a76d15f078308b530d0183a2d9306d5df1ee9093622012708bc04"
+  },
+  "239-ley-de-biocombustibles.json": {
+   "acts": [
+    "ley-de-biocombustibles"
+   ],
+   "sha256": "14a9fd765d0236b1fc9b62bc07e77a0cd5795c3527bd74927d18900c3e4722a3"
+  },
+  "240-ley-del-sistema-nacional-de-investigacion-e-inteligencia.json": {
+   "acts": [
+    "ley-del-sistema-nacional-de-investigacion-e-inteligencia"
+   ],
+   "sha256": "f7ce5592f8b10ad43bc4203c3ae3ef8de5d014ad38bdd0093ba3d5200280ec94"
+  },
+  "241-ley-de-infraestructura-de-la-calidad.json": {
+   "acts": [
+    "ley-de-infraestructura-de-la-calidad"
+   ],
+   "sha256": "3ce48c224485bab01d18a3c26000f19ca82acc5fbbcff16cd70aee9a7661ff43"
+  },
+  "242-ley-del-sistema-publico-de-radiodifusion.json": {
+   "acts": [
+    "ley-del-sistema-publico-de-radiodifusion"
+   ],
+   "sha256": "7b05c9ff1450e9228f8ab5e79a4586dd2f9f6ef7f3115eb44401273c0d52a37a"
+  },
+  "243-ley-federal-de-cine-y-el-audiovisual.json": {
+   "acts": [
+    "ley-federal-de-cine-y-el-audiovisual"
+   ],
+   "sha256": "24960b25259352431936a9d9d4ad478c1d7905b2f9a83bba7ab7142b8e7b67c3"
+  },
+  "244-ley-de-carrera-judicial.json": {
+   "acts": [
+    "ley-de-carrera-judicial"
+   ],
+   "sha256": "a92c932a22fb9ec452186376968c0b32a442d9f5baf66d383e06a21465fbada9"
+  },
+  "245-ley-del-instituto-mexicano-de-la-juventud.json": {
+   "acts": [
+    "ley-del-instituto-mexicano-de-la-juventud"
+   ],
+   "sha256": "3cd77485bb9185d3042a550d284c5a220ecaca42c9e78a1764cc0bf7ac462999"
+  },
+  "246-ley-de-los-institutos-nacionales-de-salud.json": {
+   "acts": [
+    "ley-de-los-institutos-nacionales-de-salud"
+   ],
+   "sha256": "eb3835c5318dec3ad8fe8ca666759f63b5ddc71d89619aa0f09472ad71d23c06"
+  },
+  "247-ley-de-cooperacion-internacional-para-el-desarrollo.json": {
+   "acts": [
+    "ley-de-cooperacion-internacional-para-el-desarrollo"
+   ],
+   "sha256": "2d26fbca4bb72512b11a722c8bfbdff311ce4a766010c1e124cff47eb70e7a8d"
+  },
+  "248-ley-de-camaras-empresariales.json": {
+   "acts": [
+    "ley-de-camaras-empresariales"
+   ],
+   "sha256": "88e7121300b98ce2cb8cecba63fc619dc767ec5a9c84e648b4f1c9c5a65b360e"
+  },
+  "249-ley-para-el-fomento-de-la-inversion-en-infraestructura.json": {
+   "acts": [
+    "ley-para-el-fomento-de-la-inversion-en-infraestructura"
+   ],
+   "sha256": "a09ebac285c8644a1d5b649502d51bfb69c39d75606fc61f8a3f9d3e834266ae"
+  },
+  "250-ley-de-responsabilidad-civil-por-danos-nucleares.json": {
+   "acts": [
+    "ley-de-responsabilidad-civil-por-danos-nucleares"
+   ],
+   "sha256": "aded11188b793de431bccb374e54d54dcc200db07971533df1aa0c88e95e4a82"
+  },
+  "251-ley-de-desarrollo-sustentable-de-la-cana-de-azucar.json": {
+   "acts": [
+    "ley-de-desarrollo-sustentable-de-la-cana-de-azucar"
+   ],
+   "sha256": "79a8994e462776b4998f57171bd030cb1a24a5bd68dfdc374e09114ee033fde8"
+  },
+  "252-ley-del-servicio-postal-mexicano.json": {
+   "acts": [
+    "ley-del-servicio-postal-mexicano"
+   ],
+   "sha256": "b8f98543abe8c9ca289719969536a4412c48a3d03c360f4c83506e3ac136b86d"
+  },
+  "253-ley-del-registro-publico-vehicular.json": {
+   "acts": [
+    "ley-del-registro-publico-vehicular"
+   ],
+   "sha256": "d89d96db69415b2b2024205bcadfd48bf15ab6fe92328e0badffdaaacf4390a4"
+  },
+  "254-ley-de-transparencia-en-el-credito-garantizado.json": {
+   "acts": [
+    "ley-de-transparencia-en-el-credito-garantizado"
+   ],
+   "sha256": "796a85a4df17b233a4be4fa58926a9302665f9907b5581dfc25d3fda6c9a7b94"
+  },
+  "255-ley-de-la-casa-de-moneda-de-mexico.json": {
+   "acts": [
+    "ley-de-la-casa-de-moneda-de-mexico"
+   ],
+   "sha256": "5c31760d2974a2a2ae243e06ff4fef9d9f2addf9c85d70da6bac6ac1328592a7"
+  },
+  "256-ley-federal-para-el-fomento-de-la-microindustria.json": {
+   "acts": [
+    "ley-federal-para-el-fomento-de-la-microindustria"
+   ],
+   "sha256": "49356cb83b24706e6030390502f3a275b9dd57c22a8b4857548477d2a18109e4"
+  },
+  "257-ley-general-para-la-deteccion-oportuna-del-cancer.json": {
+   "acts": [
+    "ley-general-para-la-deteccion-oportuna-del-cancer"
+   ],
+   "sha256": "4245431323e76cc649f112425bb152452a1b729645b7375063a1ea37141bad88"
+  },
+  "258-ley-de-proteccion-del-espacio-aereo-mexicano.json": {
+   "acts": [
+    "ley-de-proteccion-del-espacio-aereo-mexicano"
+   ],
+   "sha256": "3a5e1c19f7fd4f921ab0cdc6fd58b5f0099e4fb0fb898399ed3aefb9b96f0a88"
+  },
+  "259-ley-de-educacion-naval.json": {
+   "acts": [
+    "ley-de-educacion-naval"
+   ],
+   "sha256": "d7b992b19331f947b734ac3816239f487ec6dfaa4edc4ec18c3f79f2d7aafb37"
+  },
+  "260-ley-de-fondos-de-aseguramiento-agropecuario.json": {
+   "acts": [
+    "ley-de-fondos-de-aseguramiento-agropecuario"
+   ],
+   "sha256": "78767508d00462a9ee215eeecf0dced5db7748d4726fdef89bd56afbdda22a7c"
+  },
+  "261-ley-de-fomento-a-la-industria-vitivinicola.json": {
+   "acts": [
+    "ley-de-fomento-a-la-industria-vitivinicola"
+   ],
+   "sha256": "84c0cc445f4ec51df3b119d0ccf8bca4ad9eeb842d6438fc1cd22d5069a99ae1"
+  },
+  "262-ley-del-impuesto-sobre-servicios-de-interes-publico.json": {
+   "acts": [
+    "ley-del-impuesto-sobre-servicios-de-interes-publico"
+   ],
+   "sha256": "f7c8de5a4fafc3ec943e25d0ab810d5db28aac178d18d545b8bde02dd8d0cd99"
+  },
+  "263-ley-reglamentaria-en-materia-nuclear.json": {
+   "acts": [
+    "ley-reglamentaria-en-materia-nuclear"
+   ],
+   "sha256": "42b8853406e6243e84b9c33f565872b9330299eea4932a17fbbd3fbf40298f3d"
+  },
+  "264-ley-federal-de-los-trabajadores-al-servicio-del-estado.json": {
+   "acts": [
+    "ley-federal-de-los-trabajadores-al-servicio-del-estado"
+   ],
+   "sha256": "b08516f373eaa73d6ad7a66b2e3b6c2652188d0bf358741ffc5843f5d2b5fe24"
+  },
+  "265-ley-general-para-prevenir-y-sancionar-los-delitos-en-materia-de-secuestro.json": {
+   "acts": [
+    "ley-general-para-prevenir-y-sancionar-los-delitos-en-materia-de-secuestro"
+   ],
+   "sha256": "bd5af25cac08a211689542ebc7ad8e42721bec0cc9dbfef9f58c65594bfed24b"
+  },
+  "266-ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales.json": {
+   "acts": [
+    "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales"
+   ],
+   "sha256": "05422f4ac0f149b266918c69d359f4e862fc995201f1b54bdfbf0f35c2472091"
+  },
+  "267-ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico.json": {
+   "acts": [
+    "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico"
+   ],
+   "sha256": "b2e92cf0fd1ad456eb5cdef24afe7d9b05e4018b6e780b0e06720a9e65e459f7"
+  },
+  "268-ley-federal-de-responsabilidades-de-los-servidores-publicos.json": {
+   "acts": [
+    "ley-federal-de-responsabilidades-de-los-servidores-publicos"
+   ],
+   "sha256": "e0f831468bca9060be2ba971feaa8d6d69d4064786cfee2f95d38a9cb6e48035"
+  },
+  "269-ley-federal-para-prevenir-y-sancionar-los-delitos-en-materia-de-hidrocarburos.json": {
+   "acts": [
+    "ley-federal-para-prevenir-y-sancionar-los-delitos-en-materia-de-hidrocarburos"
+   ],
+   "sha256": "1281f8a61f98f8759722d54271a7e0bc283f36c7b7caaf01e92f01426bdda303"
+  },
+  "270-ley-para-determinar-el-valor-de-la-unidad-de-medida-y-actualizacion.json": {
+   "acts": [
+    "ley-para-determinar-el-valor-de-la-unidad-de-medida-y-actualizacion"
+   ],
+   "sha256": "cdb96f60d704ac48e0ce29e40be245abb35ca7e1aab5c82242623cb413a3e085"
+  },
+  "271-ley-de-la-agencia-de-seguridad-industrial.json": {
+   "acts": [
+    "ley-de-la-agencia-de-seguridad-industrial"
+   ],
+   "sha256": "910608d8e50d703d9b663252307b098350ff4e62a4fe7167c1ccea2ca5eaf02f"
+  },
+  "273-ley-federal-anticorrupcion-en-contrataciones-publicas.json": {
+   "acts": [
+    "ley-federal-anticorrupcion-en-contrataciones-publicas"
+   ],
+   "sha256": "995f777cb90271cb393ca44afe15a862f04e534c8ba98d298c0e1c791bae2810"
+  },
+  "274-ley-de-la-propiedad-industrial.json": {
+   "acts": [
+    "ley-de-la-propiedad-industrial"
+   ],
+   "sha256": "d2368d9897fc84abcf9071b7cc818ae6d168b0534a33b3206385b694359c0876"
+  },
+  "275-ley-federal-sobre-metrologia-y-normalizacion.json": {
+   "acts": [
+    "ley-federal-sobre-metrologia-y-normalizacion"
+   ],
+   "sha256": "e1f0f754fcb660a949db3fdf5be0b76d755d1db0384e129e86eb7743320c7fa1"
+  },
+  "276-ley-del-servicio-profesional-de-carrera.json": {
+   "acts": [
+    "ley-del-servicio-profesional-de-carrera"
+   ],
+   "sha256": "b5175a424ded916916fa3f6aa48e265ad2923cdf69adccc811f10d9304e1c83c"
+  },
+  "277-ley-federal-de-correduria-publica.json": {
+   "acts": [
+    "ley-federal-de-correduria-publica"
+   ],
+   "sha256": "c4eb6a181a97b35c8c0f73678a3e1c374ec3e9295af511bbb67c246c4b88239f"
+  },
+  "278-ley-sobre-delitos-de-imprenta.json": {
+   "acts": [
+    "ley-sobre-delitos-de-imprenta"
+   ],
+   "sha256": "0a8abb221f9468fabdd946cadf64fecc0b6acbb7815813f2c8bc62ebb3db236c"
+  },
+  "279-ley-federal-de-archivos.json": {
+   "acts": [
+    "ley-federal-de-archivos"
+   ],
+   "sha256": "9d0cba3c942a73c1c6375b2b04e4a9e01425adfd03df2303fe302868ed60aeb1"
+  },
+  "280-ley-federal-de-extincion-de-dominio.json": {
+   "acts": [
+    "ley-federal-de-extincion-de-dominio"
+   ],
+   "sha256": "5bb2a8081d3a4d8867a45212128183d68941cc8fe8d4a402b1bee7195710367f"
+  },
+  "281-ley-general-de-la-infraestructura-fisica-educativa.json": {
+   "acts": [
+    "ley-general-de-la-infraestructura-fisica-educativa"
+   ],
+   "sha256": "19d7107d52b26f94fef4688fa4739d9cb56e4950ac3a10f3f79cb35f0c8db996"
+  },
+  "282-ley-de-hidrocarburos.json": {
+   "acts": [
+    "ley-de-hidrocarburos"
+   ],
+   "sha256": "798c7e605ab195ed24165586b00d84343ec97ff26f26043a2a2aac765fedf3c3"
+  },
+  "283-ley-de-la-industria-electrica.json": {
+   "acts": [
+    "ley-de-la-industria-electrica"
+   ],
+   "sha256": "3369d0a9c3b6812515895c1e7e5ce1480670ece45958ae0efb83cdc2ccd47430"
+  },
+  "284-ley-de-la-comision-federal-de-electricidad.json": {
+   "acts": [
+    "ley-de-la-comision-federal-de-electricidad"
+   ],
+   "sha256": "aa18c058ca8e959b1a5561394ada63db5a2dd6e88f61b2e15101891e09c8f85c"
+  },
+  "285-ley-de-petroleos-mexicanos.json": {
+   "acts": [
+    "ley-de-petroleos-mexicanos"
+   ],
+   "sha256": "c000c13c2ec1a0a59f1679cdd72763d3bfedd324cd16abf2df43e606bc84eb1e"
+  },
+  "286-ley-de-energia-geotermica.json": {
+   "acts": [
+    "ley-de-energia-geotermica"
+   ],
+   "sha256": "434e9889b7f4720a08ca4840739c1399653e3a8ae33f13292c0493eb45185b8d"
+  },
+  "287-ley-de-promocion-y-desarrollo-de-los-bioenergeticos.json": {
+   "acts": [
+    "ley-de-promocion-y-desarrollo-de-los-bioenergeticos"
+   ],
+   "sha256": "3be093d2699d95aa0fbec95b644907edbabe54f8a3fb2a3662970741f57de797"
+  },
+  "288-ley-de-transicion-energetica.json": {
+   "acts": [
+    "ley-de-transicion-energetica"
+   ],
+   "sha256": "375e048a60714fde5767e6d1d5e70c28d89cb41954638896c1834dbd87b930b1"
+  },
+  "289-ley-general-de-asentamientos-humanos-1993.json": {
+   "acts": [
+    "ley-general-de-asentamientos-humanos-1993"
+   ],
+   "sha256": "0e3d636fad6d5669b5202f0faef3ce212962ef3be3771273ac974cd0378a2f63"
+  },
+  "290-codigo-federal-de-instituciones-y-procedimientos-electorales.json": {
+   "acts": [
+    "codigo-federal-de-instituciones-y-procedimientos-electorales"
+   ],
+   "sha256": "fd703797b9f02e58a3a549f228b1e2f53b650d639e5680d79dc9582e070dcb2e"
+  },
+  "291-ley-organica-del-tribunal-federal-de-justicia-fiscal-y-administrativa.json": {
+   "acts": [
+    "ley-organica-del-tribunal-federal-de-justicia-fiscal-y-administrativa"
+   ],
+   "sha256": "adeb849beaae3020c572bc013d3e459f2942b9f198cb6f773147d5cf12448aa8"
+  },
+  "292-ley-federal-de-telecomunicaciones-y-radiodifusion.json": {
+   "acts": [
+    "ley-federal-de-telecomunicaciones-y-radiodifusion"
+   ],
+   "sha256": "92a433438ec5c35c8552a69e4865c70bc6a16a1b45848ea940ff221b02e245aa"
+  },
+  "293-ley-organica-del-instituto-nacional-de-antropologia-e-historia.json": {
+   "acts": [
+    "ley-organica-del-instituto-nacional-de-antropologia-e-historia"
+   ],
+   "sha256": "147b88a027d701bd2d1029ba8eda71a08e2d54d82eec1a6b1f002de19429023f"
+  },
+  "294-ley-del-diario-oficial-de-la-federacion-y-gacetas-gubernamentales.json": {
+   "acts": [
+    "ley-del-diario-oficial-de-la-federacion-y-gacetas-gubernamentales"
+   ],
+   "sha256": "a0fcc84c46bb8fdc76dbd7d350ac5a1826419f0f93bf8afe7af2d307b73c4f7b"
+  },
+  "296-ley-que-crea-la-agencia-espacial-mexicana.json": {
+   "acts": [
+    "ley-que-crea-la-agencia-espacial-mexicana"
+   ],
+   "sha256": "05941a5639b5b83a6136461a6c0014b3f1b4322ff393997b3f970a2bc776fdbc"
+  },
+  "297-ley-organica-de-la-universidad-nacional-autonoma-de-mexico.json": {
+   "acts": [
+    "ley-organica-de-la-universidad-nacional-autonoma-de-mexico"
+   ],
+   "sha256": "d1b828c4bafac6131f8e494f2f09d5e68b94cee6bcaa900049d996cf526cc147"
+  },
+  "298-ley-organica-del-instituto-politecnico-nacional.json": {
+   "acts": [
+    "ley-organica-del-instituto-politecnico-nacional"
+   ],
+   "sha256": "107f8de19af552a5c4b98aecc9cd4dc3246060b539587df2bb59c93e59646f7a"
+  },
+  "299-ley-organica-de-nacional-financiera.json": {
+   "acts": [
+    "ley-organica-de-nacional-financiera"
+   ],
+   "sha256": "abff73405f1c4b18d7dd87c9b131909b3fc24aca94f9609be06839ad07553f03"
+  },
+  "30-codigo-civil-federal.json": {
+   "acts": [
+    "codigo-civil-federal"
+   ],
+   "sha256": "a8725f8b23110aef6bc5544fd13c126cb313164bedae6b7dc36865c639f406e5"
+  },
+  "300-ley-organica-del-banco-nacional-del-ejercito-fuerza-aerea-y-armada.json": {
+   "acts": [
+    "ley-organica-del-banco-nacional-del-ejercito-fuerza-aerea-y-armada"
+   ],
+   "sha256": "8453503626b8b768e0d6931968172765dbf4ea677564b3c681ecb3954885b4aa"
+  },
+  "301-ley-organica-de-sociedad-hipotecaria-federal.json": {
+   "acts": [
+    "ley-organica-de-sociedad-hipotecaria-federal"
+   ],
+   "sha256": "67bd724e777d912dceb8b9b0940224c98e9d3067cc71e5e5794ef90e1c38daae"
+  },
+  "302-ley-organica-del-banco-nacional-de-comercio-exterior.json": {
+   "acts": [
+    "ley-organica-del-banco-nacional-de-comercio-exterior"
+   ],
+   "sha256": "4d4d35de3500d8937672d34be94b9dbb32461089d27124b7eeb25ba5ad78dc87"
+  },
+  "303-ley-organica-del-banco-nacional-de-obras-y-servicios-publicos.json": {
+   "acts": [
+    "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos"
+   ],
+   "sha256": "c4d0da86eaa97ab3c659462f8b864f839ee2fdac0c4249f7f9c7a72c836cc417"
+  },
+  "304-ley-de-proteccion-al-comercio-y-la-inversion-de-normas-extranjeras.json": {
+   "acts": [
+    "ley-de-proteccion-al-comercio-y-la-inversion-de-normas-extranjeras"
+   ],
+   "sha256": "8769ef5c420a3dbf2b7ab68ce38c045bca556610d1b6db3ff185e0c37cbda6c8"
+  },
+  "305-ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente.json": {
+   "acts": [
+    "ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente"
+   ],
+   "sha256": "a8a2141e4cecd6f197a062d05a8a09a2cc7d9e61070ab272d2985932c143a928"
+  },
+  "306-ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores.json": {
+   "acts": [
+    "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores"
+   ],
+   "sha256": "a769c675bb57793b35f84514ccb5b87ed9d5c7913bcf0ca06d358a1cf53d826e"
+  },
+  "307-ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa.json": {
+   "acts": [
+    "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa"
+   ],
+   "sha256": "cba8193e6da96c00e8903b5e3fa6ec7f8d763fc59e19d832a30ad9bac1c7e455"
+  },
+  "308-ley-organica-del-banco-del-bienestar.json": {
+   "acts": [
+    "ley-organica-del-banco-del-bienestar"
+   ],
+   "sha256": "04df00c88a3334f12fc886d355758d6bdb2a96dce4f1c0e8726f628c98c61b29"
+  },
+  "309-ley-organica-de-los-tribunales-agrarios.json": {
+   "acts": [
+    "ley-organica-de-los-tribunales-agrarios"
+   ],
+   "sha256": "93a5448801af998879e9e895e8a2f4df8117bc307515214c5f28e869984e8d8d"
+  },
+  "31-codigo-penal-federal.json": {
+   "acts": [
+    "codigo-penal-federal"
+   ],
+   "sha256": "242c403b683dc3be03109710ba35303428b7a39a034da49fda5f068616b9046c"
+  },
+  "310-ley-de-sociedades-de-responsabilidad-limitada-de-interes-publico.json": {
+   "acts": [
+    "ley-de-sociedades-de-responsabilidad-limitada-de-interes-publico"
+   ],
+   "sha256": "a03cea090998939eff64326500814832bd05d255085db0e5525a2a98ed0df3ca"
+  },
+  "311-ley-que-crea-el-instituto-nacional-de-bellas-artes-y-literatura.json": {
+   "acts": [
+    "ley-que-crea-el-instituto-nacional-de-bellas-artes-y-literatura"
+   ],
+   "sha256": "ee2afa5c27f188099c7992a4e0fb76a8a2d3f10cb8cfe8c1aec8cc5cf8a84782"
+  },
+  "313-ley-de-la-comision-nacional-de-energia.json": {
+   "acts": [
+    "ley-de-la-comision-nacional-de-energia"
+   ],
+   "sha256": "8855eb06bbc40df3313e24793f6f7d063e44e5ca106b0cc93d149241f9b1cd0c"
+  },
+  "314-ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad.json": {
+   "acts": [
+    "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad"
+   ],
+   "sha256": "d5e1d6a172766b1fbc2f93fdac89113111605f110d746c895eb74d527404d2cc"
+  },
+  "315-ley-para-el-uso-y-proteccion-de-la-denominacion-y-del-emblema-de-la-cruz-roja.json": {
+   "acts": [
+    "ley-para-el-uso-y-proteccion-de-la-denominacion-y-del-emblema-de-la-cruz-roja"
+   ],
+   "sha256": "cbf90c150b25e9cddba5bed74b80aad0b2104a6d1c5ae82246843f4bc4604803"
+  },
+  "316-ley-de-vertimientos-en-las-zonas-marinas-mexicanas.json": {
+   "acts": [
+    "ley-de-vertimientos-en-las-zonas-marinas-mexicanas"
+   ],
+   "sha256": "a0627b5e5c52c5c417f8992d63630cf8290041cedd3b393a8fce6d742170e231"
+  },
+  "318-ley-organica-del-seminario-de-cultura-mexicana.json": {
+   "acts": [
+    "ley-organica-del-seminario-de-cultura-mexicana"
+   ],
+   "sha256": "a542a61c2f132e16f7159b0192a5f29c878ca9f2e6ecbb758f8730d368d9e3a8"
+  },
+  "319-ley-de-recompensas-de-la-armada-de-mexico.json": {
+   "acts": [
+    "ley-de-recompensas-de-la-armada-de-mexico"
+   ],
+   "sha256": "c34c7105237f189f15d12e886a930ee43ff2da61de8a7349d5a820a883cc9152"
+  },
+  "32-codigo-de-comercio.json": {
+   "acts": [
+    "codigo-de-comercio"
+   ],
+   "sha256": "199d39f1d0ce9af73b41ba45c3b667e7c7447e1db08621201423010e1baed7a2"
+  },
+  "320-ley-federal-de-zonas-economicas-especiales.json": {
+   "acts": [
+    "ley-federal-de-zonas-economicas-especiales"
+   ],
+   "sha256": "517fa63b6829ff3982abe452e5b4e0b5f9a79626613359c4d2a232a0bee905ff"
+  },
+  "321-ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica.json": {
+   "acts": [
+    "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica"
+   ],
+   "sha256": "e2ef2f1187787cc37116865246abfe297d051f372f323e13c258f27009b8a4f9"
+  },
+  "322-ley-de-ayuda-alimentaria-para-los-trabajadores.json": {
+   "acts": [
+    "ley-de-ayuda-alimentaria-para-los-trabajadores"
+   ],
+   "sha256": "7f4462c5bf3a69c4b4b600a63d8a0cf4b2d4ae9c73bcf38fc39ce1f7093cf86c"
+  },
+  "323-ley-organica-de-la-universidad-autonoma-metropolitana.json": {
+   "acts": [
+    "ley-organica-de-la-universidad-autonoma-metropolitana"
+   ],
+   "sha256": "2cbb1e728b8f7e5dc84b14d58b65c255499392f390c176516888102a1488821c"
+  },
+  "325-ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas.json": {
+   "acts": [
+    "ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas"
+   ],
+   "sha256": "4cddaa5517e9c0ed2170db6da7c3e187b11e42896095a266f87e39b3d59a7f39"
+  },
+  "326-ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-la-armada-de-mexico.json": {
+   "acts": [
+    "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-la-armada-de-mexico"
+   ],
+   "sha256": "b22d0e3595285591ff1efd1325d0cf35b50f1eb9d32107e1bd538c4b9e425bcb"
+  },
+  "327-ley-de-disciplina-para-el-personal-de-la-armada-de-mexico.json": {
+   "acts": [
+    "ley-de-disciplina-para-el-personal-de-la-armada-de-mexico"
+   ],
+   "sha256": "ad3366cb024086f0b65cd0ffcf99132bc544f84822488dfadbb25e9c0b9c0de1"
+  },
+  "328-ley-para-el-dialogo-la-conciliacion-y-la-paz-digna-en-chiapas.json": {
+   "acts": [
+    "ley-para-el-dialogo-la-conciliacion-y-la-paz-digna-en-chiapas"
+   ],
+   "sha256": "33f83043058c7f3fbccb80b9fbfade929944849d7be12c8a6ebcbd75d305c59b"
+  },
+  "329-ley-organica-de-la-financiera-nacional-de-desarrollo-agropecuario-rural-forestal-y-pesquero.json": {
+   "acts": [
+    "ley-organica-de-la-financiera-nacional-de-desarrollo-agropecuario-rural-forestal-y-pesquero"
+   ],
+   "sha256": "307ce89a68860c7c149da19f785ffe9c3fcae4c5c92efa46e9d737d0cea4fbf9"
+  },
+  "33-codigo-federal-de-procedimientos-civiles.json": {
+   "acts": [
+    "codigo-federal-de-procedimientos-civiles"
+   ],
+   "sha256": "aba334be05e35b8c53d8388b7c826535902a91f97599b98e675daab0f0835c53"
+  },
+  "330-ley-que-crea-la-agencia-de-noticias-del-estado-mexicano.json": {
+   "acts": [
+    "ley-que-crea-la-agencia-de-noticias-del-estado-mexicano"
+   ],
+   "sha256": "02965cd410e300b32a6eb6f28135aed3a2af51042f67895b37106dbcf35f7a41"
+  },
+  "331-ley-sobre-elaboracion-y-venta-de-cafe-tostado.json": {
+   "acts": [
+    "ley-sobre-elaboracion-y-venta-de-cafe-tostado"
+   ],
+   "sha256": "be7e0608ff6ec793dbcd6428dfe16119486a4f54d8de363d88dc74cbad228d5d"
+  },
+  "332-ley-organica-de-la-loteria-nacional-para-la-asistencia-publica.json": {
+   "acts": [
+    "ley-organica-de-la-loteria-nacional-para-la-asistencia-publica"
+   ],
+   "sha256": "c9af9e630714e6c6b2b208e867a4d099b9cbbd0d2ea621de487b0e62952891c4"
+  },
+  "333-ley-para-la-reforma-del-estado.json": {
+   "acts": [
+    "ley-para-la-reforma-del-estado"
+   ],
+   "sha256": "438e5ae8bbaf4d4e4e1b27929c9db1390e502e2d5095e361539c31d1eac61069"
+  },
+  "334-ley-que-establece-bases-para-la-ejecucion-del-convenio-constitutivo-de-la-asociacion-internacional-de-fomento.json": {
+   "acts": [
+    "ley-que-establece-bases-para-la-ejecucion-del-convenio-constitutivo-de-la-asociacion-internacional-de-fomento"
+   ],
+   "sha256": "b1ebad6697edc7ef159078d03a229c5714fa264b3408a2bcf3dd43b5a6a6da90"
+  },
+  "335-ley-que-establece-bases-para-la-ejecucion-del-convenio-constitutivo-del-banco-interamericano-de-desarrollo.json": {
+   "acts": [
+    "ley-que-establece-bases-para-la-ejecucion-del-convenio-constitutivo-del-banco-interamericano-de-desarrollo"
+   ],
+   "sha256": "9b354cf1bba50da61f6d52dc6b9dc31ed8401df96a4bd47164442f46a7608c57"
+  },
+  "336-ley-de-amnistia.json": {
+   "acts": [
+    "ley-de-amnistia"
+   ],
+   "sha256": "1cc79ed3cd8b6bc1c01e9794ea04c63a74427b884f2236d863df7ee592489102"
+  },
+  "337-ley-de-amnistia-1994.json": {
+   "acts": [
+    "ley-de-amnistia-1994"
+   ],
+   "sha256": "5b2c3e93c9f747f35f5d2b573741d80de463fc0b3b656eafa96c1d06a9548e01"
+  },
+  "338-ley-que-declara-reservas-mineras-nacionales-los-yacimientos-de-uranio-y-torio.json": {
+   "acts": [
+    "ley-que-declara-reservas-mineras-nacionales-los-yacimientos-de-uranio-y-torio"
+   ],
+   "sha256": "22b65d7a9e322b9bbbf2eb6b0630b2da781950ac280806f404ce4f8b9f62462e"
+  },
+  "339-ley-reglamentaria-de-la-fraccion-v-del-articulo-76-constitucional.json": {
+   "acts": [
+    "ley-reglamentaria-de-la-fraccion-v-del-articulo-76-constitucional"
+   ],
+   "sha256": "4c2fecac6b856f4a62924ebe6cf864780c9df321a92e72c081a4bfb43403e3e7"
+  },
+  "34-codigo-fiscal-de-la-federacion.json": {
+   "acts": [
+    "codigo-fiscal-de-la-federacion"
+   ],
+   "sha256": "35eb0c07fe3526b7041ff9e0090ed681759e701c54da96b8a8c75e65dbcc281f"
+  },
+  "340-ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-constitucional.json": {
+   "acts": [
+    "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-constitucional"
+   ],
+   "sha256": "667ae617427fde8915b70fdda0619212ac0afdf137795983d1a0e4c81d53075a"
+  },
+  "341-ley-reglamentaria-de-la-fraccion-xviii-del-articulo-73-constitucional.json": {
+   "acts": [
+    "ley-reglamentaria-de-la-fraccion-xviii-del-articulo-73-constitucional"
+   ],
+   "sha256": "3c7deb278e10e068c40a8d6729f7a176a569b857e5d6f7ebef7bda1174e25414"
+  },
+  "342-ley-que-crea-la-universidad-autonoma-chapingo.json": {
+   "acts": [
+    "ley-que-crea-la-universidad-autonoma-chapingo"
+   ],
+   "sha256": "7db26a43cc8627b4304ba0a3639b7838e7303688534eaf44fc5c3ac18ba20396"
+  },
+  "343-ley-que-crea-la-universidad-del-ejercito-y-fuerza-aerea.json": {
+   "acts": [
+    "ley-que-crea-la-universidad-del-ejercito-y-fuerza-aerea"
+   ],
+   "sha256": "b9e0b9c9beb06ffd07baf3f8a70b1876e64b5baa13ca7928a4fe4210d0b33e7c"
+  },
+  "344-ordenanza-general-de-la-armada.json": {
+   "acts": [
+    "ordenanza-general-de-la-armada"
+   ],
+   "sha256": "deffad0203220fc676db5811efea500b7b7c5e73b9754249470ba2a7925b93e5"
+  },
+  "345-ley-federal-de-instituciones-de-fianzas.json": {
+   "acts": [
+    "ley-federal-de-instituciones-de-fianzas"
+   ],
+   "sha256": "96df66005d19e499a91131141c73eb29eb8c9c4c9483f8f8ea495272c699b2cd"
+  },
+  "346-ley-general-de-instituciones-y-sociedades-mutualistas-de-seguros.json": {
+   "acts": [
+    "ley-general-de-instituciones-y-sociedades-mutualistas-de-seguros"
+   ],
+   "sha256": "5c0c0fab41362d624045f3f0aeda77e6a70c47087b6efbbffbba8aaeb9f79d95"
+  },
+  "347-ley-del-servicio-de-tesoreria-de-la-federacion.json": {
+   "acts": [
+    "ley-del-servicio-de-tesoreria-de-la-federacion"
+   ],
+   "sha256": "9ec7be0acbdd2dae536615f95b252e981ad3163d464b70ff01d372468ad47ca1"
+  },
+  "348-ley-del-servicio-de-inspeccion-fiscal.json": {
+   "acts": [
+    "ley-del-servicio-de-inspeccion-fiscal"
+   ],
+   "sha256": "f7fb9b578664b7e1d873a7eca07c7737d8481c8aadc31c95385fa4436893d4f6"
+  },
+  "349-ley-para-la-proteccion-de-los-derechos-de-ninas-ninos-y-adolescentes.json": {
+   "acts": [
+    "ley-para-la-proteccion-de-los-derechos-de-ninas-ninos-y-adolescentes"
+   ],
+   "sha256": "18390157bccdd53c89e593f9fe4b3ea223c29e165c7c015b2c21a4f82599b470"
+  },
+  "35-codigo-nacional-de-procedimientos-penales.json": {
+   "acts": [
+    "codigo-nacional-de-procedimientos-penales"
+   ],
+   "sha256": "f717aba399277f7acefc7108fdb234c0e2666e12d8726e97e04a8591038e669f"
+  },
+  "350-ley-federal-para-prevenir-y-sancionar-la-tortura.json": {
+   "acts": [
+    "ley-federal-para-prevenir-y-sancionar-la-tortura"
+   ],
+   "sha256": "47d3377cd61e2bfb29becc1133e19e848892a70c05d4ee6bdcb777c1c0bec3ef"
+  },
+  "351-ley-general-de-las-personas-con-discapacidad.json": {
+   "acts": [
+    "ley-general-de-las-personas-con-discapacidad"
+   ],
+   "sha256": "39016cacfb9451ce28c2cae59173004e570c21d2acca3602ff6a6855ba07907a"
+  },
+  "352-ley-para-prevenir-y-sancionar-la-trata-de-personas.json": {
+   "acts": [
+    "ley-para-prevenir-y-sancionar-la-trata-de-personas"
+   ],
+   "sha256": "1943006933e0c8d9d918400dc461510eb6897b5093591b755bd8767e949d0018"
+  },
+  "353-ley-federal-de-radio-y-television.json": {
+   "acts": [
+    "ley-federal-de-radio-y-television"
+   ],
+   "sha256": "d0ce98f7fa33b5ad5eedbe114b7daef766fd87c522427c945752d928b9213459"
+  },
+  "355-ley-del-impuesto-al-activo.json": {
+   "acts": [
+    "ley-del-impuesto-al-activo"
+   ],
+   "sha256": "bff017ad87d1d41f56506802caccc69e5beeaaf1c6bc9536494443a587731654"
+  },
+  "356-ley-general-del-servicio-profesional-docente.json": {
+   "acts": [
+    "ley-general-del-servicio-profesional-docente"
+   ],
+   "sha256": "e01e7f373497a84d327fd172f4dc1ffceb16afc979c52fc54ec1f666d5c7973d"
+  },
+  "357-ley-del-instituto-nacional-para-la-evaluacion-de-la-educacion.json": {
+   "acts": [
+    "ley-del-instituto-nacional-para-la-evaluacion-de-la-educacion"
+   ],
+   "sha256": "3f32dce8a003c9473e04ac5f16be24a17aa33c69566aa495a20b2ab50bd5b22b"
+  },
+  "358-ley-en-favor-de-los-veteranos-de-la-revolucion-como-servidores-del-estado.json": {
+   "acts": [
+    "ley-en-favor-de-los-veteranos-de-la-revolucion-como-servidores-del-estado"
+   ],
+   "sha256": "cb39bc619513b3a5326543889d9be4a0e6695918cb345428bb8993c6aa3ba667"
+  },
+  "359-ley-del-impuesto-empresarial-a-tasa-unica.json": {
+   "acts": [
+    "ley-del-impuesto-empresarial-a-tasa-unica"
+   ],
+   "sha256": "b3735e41824d8dfac30dc4336eea0a1d7e1893eac5b54ab9358f5b18bc447472"
+  },
+  "36-codigo-nacional-de-procedimientos-civiles-y-familiares.json": {
+   "acts": [
+    "codigo-nacional-de-procedimientos-civiles-y-familiares"
+   ],
+   "sha256": "f9ee1be5b86dc530d0bfe58d0d02025dbc52aefed86fd22c7690ded5dcbba5e3"
+  },
+  "360-ley-del-impuesto-a-los-depositos-en-efectivo.json": {
+   "acts": [
+    "ley-del-impuesto-a-los-depositos-en-efectivo"
+   ],
+   "sha256": "ca0dae84a805ddf7787c6928fbf976e27d4603698191d3286e231d8f97490570"
+  },
+  "361-ley-para-la-coordinacion-de-la-educacion-superior.json": {
+   "acts": [
+    "ley-para-la-coordinacion-de-la-educacion-superior"
+   ],
+   "sha256": "68b49040266afe5602db0c2058b74f09f483f07058193f4c916a5084087ae59d"
+  },
+  "363-ley-que-establece-las-normas-minimas-sobre-readaptacion-social-de-sentenciados.json": {
+   "acts": [
+    "ley-que-establece-las-normas-minimas-sobre-readaptacion-social-de-sentenciados"
+   ],
+   "sha256": "48e84b4f164187cd75c0b45544327c5b1a5557fa322599b9f37b8de442fb55aa"
+  },
+  "364-ley-organica-de-la-fiscalia-general-de-la-republica.json": {
+   "acts": [
+    "ley-organica-de-la-fiscalia-general-de-la-republica"
+   ],
+   "sha256": "cb80707a5cb53f8cc52a5e37063a81689c07eed5019a13b971dd1061f1b0b1ff"
+  },
+  "365-ley-organica-de-la-procuraduria-general-de-la-republica.json": {
+   "acts": [
+    "ley-organica-de-la-procuraduria-general-de-la-republica"
+   ],
+   "sha256": "64f5a3602bd9f382a220da9e5e5e355da57cfcce998156874343f4dc0449c5c7"
+  },
+  "366-ley-de-los-organos-reguladores-coordinados-en-materia-energetica.json": {
+   "acts": [
+    "ley-de-los-organos-reguladores-coordinados-en-materia-energetica"
+   ],
+   "sha256": "91149803a2248db1fad5067380227895eb26c5870d26da1d9695cb54aa1a19c8"
+  },
+  "367-ley-de-la-comision-reguladora-de-energia.json": {
+   "acts": [
+    "ley-de-la-comision-reguladora-de-energia"
+   ],
+   "sha256": "439a5b34034e5a382534ca5a133700d23383745f4b62aa86c5ba36a6163b8599"
+  },
+  "368-ley-de-la-comision-nacional-de-hidrocarburos.json": {
+   "acts": [
+    "ley-de-la-comision-nacional-de-hidrocarburos"
+   ],
+   "sha256": "c12264441296d0f7b682628a341501a1ed42c1c593412b94f3bc69fde44235eb"
+  },
+  "369-ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros.json": {
+   "acts": [
+    "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros"
+   ],
+   "sha256": "c6edbeaa837ea37e50a77163ea162e0412598bdcf5efca3bf4f16e3d991d1a6e"
+  },
+  "37-ley-federal-del-trabajo.json": {
+   "acts": [
+    "ley-federal-del-trabajo"
+   ],
+   "sha256": "48729d1087ac98ab4a3c9893f22f954c5d80d4546dc5903bb1b617627d2b6977"
+  },
+  "370-ley-general-de-la-alimentacion-adecuada-y-sostenible.json": {
+   "acts": [
+    "ley-general-de-la-alimentacion-adecuada-y-sostenible"
+   ],
+   "sha256": "8992455cdb96ace11e09a348d97a316d617f4b13c93327485e9e60be8d217569"
+  },
+  "371-ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo.json": {
+   "acts": [
+    "ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo"
+   ],
+   "sha256": "d0e7af61fffef330166e330abf0a2621d755010aa5085fcc1918d535f1c58803"
+  },
+  "372-ley-de-capitalizacion-del-procampo.json": {
+   "acts": [
+    "ley-de-capitalizacion-del-procampo"
+   ],
+   "sha256": "39cb340e3d55adfb3c1e35929f24a306e7cacc0ac27325371a44a677516db1bd"
+  },
+  "373-ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos.json": {
+   "acts": [
+    "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos"
+   ],
+   "sha256": "146f079994217460a942b330f419778112e0b1f9db29c51ac7d42599bd2a177a"
+  },
+  "374-ley-del-sistema-de-horario-en-los-estados-unidos-mexicanos.json": {
+   "acts": [
+    "ley-del-sistema-de-horario-en-los-estados-unidos-mexicanos"
+   ],
+   "sha256": "89b70c328056463ae5ad6f681cce5004c0a49fcced99fb851e9dfca9994ec09f"
+  },
+  "375-ley-organica-del-consejo-nacional-de-ciencia-y-tecnologia.json": {
+   "acts": [
+    "ley-organica-del-consejo-nacional-de-ciencia-y-tecnologia"
+   ],
+   "sha256": "19bc2f78e81901cf891df2d224c31cf1003eb130b9014057d9121a8731e2f383"
+  },
+  "377-ley-para-el-tratamiento-de-menores-infractores.json": {
+   "acts": [
+    "ley-para-el-tratamiento-de-menores-infractores"
+   ],
+   "sha256": "a4f8232730ac13ce6219fb7a97aed15ad923bb708bd04f0127a2aa0770fb3d07"
+  },
+  "378-ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura.json": {
+   "acts": [
+    "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura"
+   ],
+   "sha256": "4d8ff3c6227f14ad8932cba684521cd96b5c355af577d846fd020ba46be7a0ca"
+  },
+  "379-ley-de-ciencia-y-tecnologia.json": {
+   "acts": [
+    "ley-de-ciencia-y-tecnologia"
+   ],
+   "sha256": "34ae8f73138232b9ee14de17e32665caabc7ae8e2ada221165481ee9abc902a9"
+  },
+  "38-ley-de-amparo.json": {
+   "acts": [
+    "ley-de-amparo"
+   ],
+   "sha256": "4cac4f39f6009ec56e92d548e487c6585f3998e445fed56f8322391286645a96"
+  },
+  "380-ley-de-la-comision-nacional-para-el-desarrollo-de-los-pueblos-indigenas.json": {
+   "acts": [
+    "ley-de-la-comision-nacional-para-el-desarrollo-de-los-pueblos-indigenas"
+   ],
+   "sha256": "26e3bddbaac7c71a75009e48cb69cd6168d31c64d9926687ec28fa31b5a6d0ab"
+  },
+  "381-ley-para-el-aprovechamiento-de-energias-renovables-y-el-financiamiento-de-la-transicion-energetica.json": {
+   "acts": [
+    "ley-para-el-aprovechamiento-de-energias-renovables-y-el-financiamiento-de-la-transicion-energetica"
+   ],
+   "sha256": "2e38bc6296a208700031cff0aaa534321df76ff6986629bb5253449491d8197d"
+  },
+  "382-ley-federal-de-transparencia-y-acceso-a-la-informacion-publica.json": {
+   "acts": [
+    "ley-federal-de-transparencia-y-acceso-a-la-informacion-publica"
+   ],
+   "sha256": "d130c82a7c7cdcc724d859e8417d9e5aa2566eaf375dac922c71b57f3c8d55cf"
+  },
+  "384-ley-para-el-aprovechamiento-sustentable-de-la-energia.json": {
+   "acts": [
+    "ley-para-el-aprovechamiento-sustentable-de-la-energia"
+   ],
+   "sha256": "077c8edbb07014d4da11bcf2eeb5cbf76c1655a2e0a499ff48ebf41551ab923f"
+  },
+  "385-ley-federal-de-derechos.json": {
+   "acts": [
+    "ley-federal-de-derechos"
+   ],
+   "sha256": "027826b917a3cabe0d3749d4a8ecb420dca7ce57a8f5c70c81b4b58885605254"
+  },
+  "386-estatuto-de-gobierno-del-distrito-federal.json": {
+   "acts": [
+    "estatuto-de-gobierno-del-distrito-federal"
+   ],
+   "sha256": "7fbf3f9686c750f023d75f836cb6b4c3b075ae415646d8d81690bc53bc8f54e9"
+  },
+  "387-ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal.json": {
+   "acts": [
+    "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal"
+   ],
+   "sha256": "61226572461ed641f3622960cd02c419073c80fe37cc12e7ab0d9b8b4a030465"
+  },
+  "388-reglamento-para-el-gobierno-interior-del-congreso-general.json": {
+   "acts": [
+    "reglamento-para-el-gobierno-interior-del-congreso-general"
+   ],
+   "sha256": "abaa62f0386d41c6e7ce23d74bacf7bdcc3c384c06b37c4757589cbc8ab12dab"
+  },
+  "389-reglamento-del-senado-de-la-republica.json": {
+   "acts": [
+    "reglamento-del-senado-de-la-republica"
+   ],
+   "sha256": "c257c3fa34316c2be270a2ca7112ece41c3473210d5c4d34019a6b0b27c9eea4"
+  },
+  "39-ley-general-de-sociedades-mercantiles.json": {
+   "acts": [
+    "ley-general-de-sociedades-mercantiles"
+   ],
+   "sha256": "ecec71b557783248e2c110d38d9711352bc6a30791c423df775cd610193f7592"
+  },
+  "390-reglamento-de-la-camara-de-diputados.json": {
+   "acts": [
+    "reglamento-de-la-camara-de-diputados"
+   ],
+   "sha256": "cd992839e988d0a4bbc00371b6fd7c47691549ae816e9d3ab93d9bac95d71453"
+  },
+  "391-ley-reglamentaria-del-articulo-3-en-materia-de-mejora-continua-de-la-educacion.json": {
+   "acts": [
+    "ley-reglamentaria-del-articulo-3-en-materia-de-mejora-continua-de-la-educacion"
+   ],
+   "sha256": "47113e7927123669f6a8e893d54239d93a7f34bc85be2b6abbc7b57626ba8ad9"
+  },
+  "392-ley-reglamentaria-del-articulo-6-en-materia-del-derecho-de-replica.json": {
+   "acts": [
+    "ley-reglamentaria-del-articulo-6-en-materia-del-derecho-de-replica"
+   ],
+   "sha256": "81820b9964abf2bcc58e635e5fe665a47b5e820b20a7a936111d282361c48bc6"
+  },
+  "393-ley-reglamentaria-de-la-fraccion-vi-del-articulo-76.json": {
+   "acts": [
+    "ley-reglamentaria-de-la-fraccion-vi-del-articulo-76"
+   ],
+   "sha256": "e510eff988c2ca689699ed121a1afad3cc41706188bbe8478bc520a3cb3807eb"
+  },
+  "394-ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral.json": {
+   "acts": [
+    "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral"
+   ],
+   "sha256": "55ea3006d47eaee4b1276816933479d1ed877fe6cedc1413b76bb57e4c8249e4"
+  },
+  "395-ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos.json": {
+   "acts": [
+    "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos"
+   ],
+   "sha256": "4afa18180e4b417187d0c0a7eb1eabc440d58349967bab0266c45fbb9899076e"
+  },
+  "396-ley-que-aprueba-la-adhesion-de-mexico-al-convenio-constitutivo-del-banco-de-desarrollo-del-caribe.json": {
+   "acts": [
+    "ley-que-aprueba-la-adhesion-de-mexico-al-convenio-constitutivo-del-banco-de-desarrollo-del-caribe"
+   ],
+   "sha256": "ff9142922932da45aec3d74035bd37a7503e2de91bf94c4f38011f8375eb1e42"
+  },
+  "397-ley-sobre-camaras-agricolas.json": {
+   "acts": [
+    "ley-sobre-camaras-agricolas"
+   ],
+   "sha256": "aa6a242823d1caf2de9e3f9433dc63d6f7f7c9ec031cb882725cf4bdbdc17d69"
+  },
+  "398-ley-para-conservar-la-neutralidad-del-pais.json": {
+   "acts": [
+    "ley-para-conservar-la-neutralidad-del-pais"
+   ],
+   "sha256": "50ce5c06b1fbdbfd878f0110a74d5fc00f3c022a7fb1ea6a2cdf879100278070"
+  },
+  "399-ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica.json": {
+   "acts": [
+    "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica"
+   ],
+   "sha256": "ee7bda7380031b63fe93cda96926126e543a1320a1183303b876956e016e8a2d"
+  },
+  "40-ley-general-de-titulos-y-operaciones-de-credito.json": {
+   "acts": [
+    "ley-general-de-titulos-y-operaciones-de-credito"
+   ],
+   "sha256": "c974416211e6d33e2ea86319e1dbec559280b3a4585673a11658909c9af50346"
+  },
+  "400-ley-de-fiscalizacion-y-rendicion-de-cuentas-2009.json": {
+   "acts": [
+    "ley-de-fiscalizacion-y-rendicion-de-cuentas-2009"
+   ],
+   "sha256": "b7432fb3aef749bce6b7b1ea7bd553dc7076192d9a1552bbb05dea33157bf823"
+  },
+  "401-ley-de-fiscalizacion-superior-de-la-federacion.json": {
+   "acts": [
+    "ley-de-fiscalizacion-superior-de-la-federacion"
+   ],
+   "sha256": "c8e4cf2a05df1dcb2bf0d21be0c583a39394c23608a4b256b09c5b7e792cc929"
+  },
+  "41-ley-de-instituciones-de-credito.json": {
+   "acts": [
+    "ley-de-instituciones-de-credito"
+   ],
+   "sha256": "67435cb698d0638ae0315ae0bc4c13aae90c95caa7a272a99556987900d6b3d0"
+  },
+  "42-ley-federal-de-proteccion-al-consumidor.json": {
+   "acts": [
+    "ley-federal-de-proteccion-al-consumidor"
+   ],
+   "sha256": "f7cdce8b56315998317327c256b156a3217952a7aed438719f988a3b8d05ce63"
+  },
+  "43-ley-de-concursos-mercantiles.json": {
+   "acts": [
+    "ley-de-concursos-mercantiles"
+   ],
+   "sha256": "db95bdb7d8e659ab2999bb39e66e6f95aabd783837c004d0ff3ab73828c3e506"
+  },
+  "44-ley-del-mercado-de-valores.json": {
+   "acts": [
+    "ley-del-mercado-de-valores"
+   ],
+   "sha256": "fd16f80934c683abac6b6a9b8a4d4d076dbe473f287b5445d9786710667671dc"
+  },
+  "45-ley-del-seguro-social.json": {
+   "acts": [
+    "ley-del-seguro-social"
+   ],
+   "sha256": "69bcffe9c9ae5558e76708f6181e77557029a859f9746ad2b19cf9d9aad161e5"
+  },
+  "46-ley-general-de-salud.json": {
+   "acts": [
+    "ley-general-de-salud"
+   ],
+   "sha256": "1508f9ecc18112e5f5a2d8fe1c6aabbde584200955a5cd070524525d965d062d"
+  },
+  "47-ley-del-issste.json": {
+   "acts": [
+    "ley-del-issste"
+   ],
+   "sha256": "b5ed1eb3bf3c805329f7fc1682804313d6732ecd02d7c0a4dfce413af3c4af4a"
+  },
+  "48-ley-federal-de-procedimiento-administrativo.json": {
+   "acts": [
+    "ley-federal-de-procedimiento-administrativo"
+   ],
+   "sha256": "6118df18002a5b0ed12d62bd4c602462777a7d57fe4909dff137788c9632adc4"
+  },
+  "49-ley-agraria.json": {
+   "acts": [
+    "ley-agraria"
+   ],
+   "sha256": "8463b50f43b6d8709fc0588ff3cde502d29708e41a8d2bf878d1e525043dfa4b"
+  },
+  "50-ley-de-migracion.json": {
+   "acts": [
+    "ley-de-migracion"
+   ],
+   "sha256": "bde5c0c09be0769d2d5d0cd7642dfc22d3c00f28cb09291102a445e33faea90b"
+  },
+  "51-ley-general-de-educacion.json": {
+   "acts": [
+    "ley-general-de-educacion"
+   ],
+   "sha256": "b4d914705eda0f42f411a976aa8f9c2e69d5bcf05a8f90d3e8f30ba453cf4083"
+  },
+  "52-ley-del-impuesto-sobre-la-renta.json": {
+   "acts": [
+    "ley-del-impuesto-sobre-la-renta"
+   ],
+   "sha256": "e1714bcb2eab67266a29e95c80cedb095a7bb8fd6587be546d85e92f0e1843b4"
+  },
+  "53-ley-del-impuesto-al-valor-agregado.json": {
+   "acts": [
+    "ley-del-impuesto-al-valor-agregado"
+   ],
+   "sha256": "2faadc270cbab0a75ff9f4f1aa78369aee52f90ebd8fdb93086fb46bc46be57c"
+  },
+  "54-ley-aduanera.json": {
+   "acts": [
+    "ley-aduanera"
+   ],
+   "sha256": "42de5543a235d22404e89edffe88d7b4b2ca30f17b1709a54a7d6893098e86a4"
+  },
+  "55-ley-federal-del-derecho-de-autor.json": {
+   "acts": [
+    "ley-federal-del-derecho-de-autor"
+   ],
+   "sha256": "e642a1f51784f846b58a3596d5e33636d6459d0f498cec285f4f6ba288cafdd8"
+  },
+  "56-ley-federal-de-proteccion-a-la-propiedad-industrial.json": {
+   "acts": [
+    "ley-federal-de-proteccion-a-la-propiedad-industrial"
+   ],
+   "sha256": "05bca8a9c7a6210344438b46aa795ae62537a72681540dfb3d00d011c1906e82"
+  },
+  "57-ley-general-de-responsabilidades-administrativas.json": {
+   "acts": [
+    "ley-general-de-responsabilidades-administrativas"
+   ],
+   "sha256": "cadf499bc2338d8a971570cbdbeffb27a3607f2e094960fb4f686e3a94e81005"
+  },
+  "58-ley-nacional-de-ejecucion-penal.json": {
+   "acts": [
+    "ley-nacional-de-ejecucion-penal"
+   ],
+   "sha256": "b4827fa9ab0f73b21c9724519a4e9fa65d5fafde0687b5701a59c67a0465a7a5"
+  },
+  "59-ley-federal-de-competencia-economica.json": {
+   "acts": [
+    "ley-federal-de-competencia-economica"
+   ],
+   "sha256": "ccbb7cd118f8bd6b142b42242fe57709b17e2b64d7c1976c08ffd36f699abe83"
+  },
+  "60-ley-general-de-transparencia.json": {
+   "acts": [
+    "ley-general-de-transparencia"
+   ],
+   "sha256": "2a84a0a524dedd577439915572e69e80bc14f610ac4d9296752b50c0815a7897"
+  },
+  "61-ley-general-de-instituciones-y-procedimientos-electorales.json": {
+   "acts": [
+    "ley-general-de-instituciones-y-procedimientos-electorales"
+   ],
+   "sha256": "fe5d79b31e62928b5d0f90c4fbb041207642e2a4d38f72a59c404fd29463fe09"
+  },
+  "62-ley-general-del-equilibrio-ecologico.json": {
+   "acts": [
+    "ley-general-del-equilibrio-ecologico"
+   ],
+   "sha256": "b41c4a296a41d919ee1dab6eb1de0a58cb31f0cd2f0a247c68671e7b2cae1f1d"
+  },
+  "63-ley-de-instituciones-de-seguros-y-de-fianzas.json": {
+   "acts": [
+    "ley-de-instituciones-de-seguros-y-de-fianzas"
+   ],
+   "sha256": "c8de663bd09a42291c48e3df00711a66a9ba68ea206949dd0e8ce88077bb2916"
+  },
+  "64-ley-general-de-acceso-de-las-mujeres.json": {
+   "acts": [
+    "ley-general-de-acceso-de-las-mujeres"
+   ],
+   "sha256": "d35a9a5cf8fdcf4d94864b8a5ee7d9204de7d36f459cb0a85d310a997834e04a"
+  },
+  "65-ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes.json": {
+   "acts": [
+    "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes"
+   ],
+   "sha256": "6bad75d3c367bfafe361c303342dc5a46c623faa08cd48a9513d61e70066defb"
+  },
+  "66-ley-organica-de-la-administracion-publica-federal.json": {
+   "acts": [
+    "ley-organica-de-la-administracion-publica-federal"
+   ],
+   "sha256": "b7c596fba75872661e25b85d715c88e98a83577195420b01c2514632da953b62"
+  },
+  "67-ley-federal-de-presupuesto-y-responsabilidad-hacendaria.json": {
+   "acts": [
+    "ley-federal-de-presupuesto-y-responsabilidad-hacendaria"
+   ],
+   "sha256": "99a8913bd0a6d1dd14edbc28e2521850c491ac73bb6402548592f0a0b6705009"
+  },
+  "68-ley-de-aguas-nacionales.json": {
+   "acts": [
+    "ley-de-aguas-nacionales"
+   ],
+   "sha256": "2e244910029c07c718a3af20edb3f2b54fda5f78955e302f734098bb5a71997c"
+  },
+  "69-ley-de-coordinacion-fiscal.json": {
+   "acts": [
+    "ley-de-coordinacion-fiscal"
+   ],
+   "sha256": "3ec13b6df1fc242aca89729b8883e578c3ff8799ec3f073b75c7e1bd89f049bc"
+  },
+  "70-ley-del-impuesto-especial-sobre-produccion-y-servicios.json": {
+   "acts": [
+    "ley-del-impuesto-especial-sobre-produccion-y-servicios"
+   ],
+   "sha256": "0863b13730634fbf7625e7a9419b9b38789bc7872efbfe5090679ad7c915dbcb"
+  },
+  "71-ley-del-infonavit.json": {
+   "acts": [
+    "ley-del-infonavit"
+   ],
+   "sha256": "c8d59991bd8f010a9f3178dc7553f213d54db7bd1a2c348ab92d3f2c20cdf2a8"
+  },
+  "72-ley-general-de-bienes-nacionales.json": {
+   "acts": [
+    "ley-general-de-bienes-nacionales"
+   ],
+   "sha256": "6ab3bc626a03a47012ac591bfb3cdef09b3ba6063f3f857697807fa61a7ded5f"
+  },
+  "73-ley-general-de-cambio-climatico.json": {
+   "acts": [
+    "ley-general-de-cambio-climatico"
+   ],
+   "sha256": "b5b984af77a6a12cb6336ad7fc06daf6383f9a1be61332767c67c7ceb237dd2f"
+  },
+  "74-ley-federal-contra-la-delincuencia-organizada.json": {
+   "acts": [
+    "ley-federal-contra-la-delincuencia-organizada"
+   ],
+   "sha256": "e7d8868d7cb01b8b24abe7a6933a8a0a52e7a304802d2200bd195aca5d775e9f"
+  },
+  "75-ley-organica-del-congreso-general.json": {
+   "acts": [
+    "ley-organica-del-congreso-general"
+   ],
+   "sha256": "19467cda34428b00a46a9bf1c406be8fd5fc5061326017368ad9cf10013a99db"
+  },
+  "76-ley-organica-del-poder-judicial-de-la-federacion.json": {
+   "acts": [
+    "ley-organica-del-poder-judicial-de-la-federacion"
+   ],
+   "sha256": "ba352565613abc7f2af3f765e112b1efafc314b308c2db34260296e75555ebc4"
+  },
+  "77-ley-de-adquisiciones-arrendamientos-y-servicios.json": {
+   "acts": [
+    "ley-de-adquisiciones-arrendamientos-y-servicios"
+   ],
+   "sha256": "402287022ae5a955ea9931eb51d0534232a001e1b314ed677c6f3e0cf916ffae"
+  },
+  "78-ley-de-inversion-extranjera.json": {
+   "acts": [
+    "ley-de-inversion-extranjera"
+   ],
+   "sha256": "bb05ce4b8d137a1ae816075fbc94908d8d6a279c54640a15736668f05304795c"
+  },
+  "79-ley-general-de-poblacion.json": {
+   "acts": [
+    "ley-general-de-poblacion"
+   ],
+   "sha256": "54ed9310687f1294922b903b46c8442890ea44103c8cfe4410d291eee756ce68"
+  },
+  "80-ley-federal-de-armas-de-fuego-y-explosivos.json": {
+   "acts": [
+    "ley-federal-de-armas-de-fuego-y-explosivos"
+   ],
+   "sha256": "1e567f3ea070333227e4b076308d422f9c7b2f44a7152fd5e50a4672cdf25e98"
+  },
+  "81-ley-general-del-sistema-nacional-de-seguridad-publica.json": {
+   "acts": [
+    "ley-general-del-sistema-nacional-de-seguridad-publica"
+   ],
+   "sha256": "082e8c8f4fb8296bd59f99b2135aab00f9c37db41aa9eb653dcb04863feea2de"
+  },
+  "82-ley-federal-de-las-entidades-paraestatales.json": {
+   "acts": [
+    "ley-federal-de-las-entidades-paraestatales"
+   ],
+   "sha256": "77e8981e1f128e45a77bb16c6a4336fa60d195cd015c0e971e0bca6ad6519518"
+  },
+  "83-ley-general-de-vida-silvestre.json": {
+   "acts": [
+    "ley-general-de-vida-silvestre"
+   ],
+   "sha256": "c9cfa53cfbb9ea89d1a1d3f855d65bb8d10542cd8fce180a29c6bf680921bec5"
+  },
+  "84-ley-general-de-proteccion-civil.json": {
+   "acts": [
+    "ley-general-de-proteccion-civil"
+   ],
+   "sha256": "9a553d482da493ff271604a42357dcfcd48f2d6c65a9b3783ffa77ef9337ceaa"
+  },
+  "85-ley-de-vivienda.json": {
+   "acts": [
+    "ley-de-vivienda"
+   ],
+   "sha256": "231519ee9a6f3257f4ef0d69e242c9aa44cd63c6e53f41936850ab83cdcc644d"
+  },
+  "86-ley-general-de-partidos-politicos.json": {
+   "acts": [
+    "ley-general-de-partidos-politicos"
+   ],
+   "sha256": "215f1ae1655f7b9f6daaa9a1a587d8858405be5afe05c90dda4e6666444c573a"
+  },
+  "87-ley-general-del-sistema-de-medios-de-impugnacion.json": {
+   "acts": [
+    "ley-general-del-sistema-de-medios-de-impugnacion"
+   ],
+   "sha256": "44316801cd0f4f54f99ca894d97e87ef0a46bac717c3024a1cd533c39581c86b"
+  },
+  "88-ley-general-de-contabilidad-gubernamental.json": {
+   "acts": [
+    "ley-general-de-contabilidad-gubernamental"
+   ],
+   "sha256": "987853e91fb2e2dd14a8205ff22c5aa54a26a1aca87bbea4c34e2a832138eef6"
+  },
+  "89-ley-general-de-mecanismos-alternativos.json": {
+   "acts": [
+    "ley-general-de-mecanismos-alternativos"
+   ],
+   "sha256": "de9ada88b88465cd7198ecce6b90e0d2a010e1d0e2edcd3304acdc3fad269c10"
+  },
+  "90-ley-federal-de-responsabilidad-patrimonial-del-estado.json": {
+   "acts": [
+    "ley-federal-de-responsabilidad-patrimonial-del-estado"
+   ],
+   "sha256": "645c448f16952061761fae6acb1d779c3f952722990a986bdecce7372b08de58"
+  },
+  "91-ley-de-asociaciones-religiosas-y-culto-publico.json": {
+   "acts": [
+    "ley-de-asociaciones-religiosas-y-culto-publico"
+   ],
+   "sha256": "ba34309d7841cc29183c21b562867e3707d2f67778df52c8c5d96c2066468557"
+  },
+  "92-ley-general-de-pesca-y-acuacultura-sustentables.json": {
+   "acts": [
+    "ley-general-de-pesca-y-acuacultura-sustentables"
+   ],
+   "sha256": "e40448bd3a169d7f61a9050b5c544b2338d4022e06f5767d0f44372c02d8f5f0"
+  },
+  "93-ley-de-fondos-de-inversion.json": {
+   "acts": [
+    "ley-de-fondos-de-inversion"
+   ],
+   "sha256": "0075374440b9a3fde03be1595bcbaf81a888a8f369de9ec0799337eff8f92642"
+  },
+  "94-ley-general-de-desarrollo-social.json": {
+   "acts": [
+    "ley-general-de-desarrollo-social"
+   ],
+   "sha256": "392293913c66c0e5091a419f8f35fba580ef452376e8660d3d2f48e04aeabeb0"
+  },
+  "95-ley-general-de-archivos.json": {
+   "acts": [
+    "ley-general-de-archivos"
+   ],
+   "sha256": "294926cab772a875d4cec4a0305f9a8e256c67859febbcc5a063843b9fc44707"
+  },
+  "96-ley-general-de-victimas.json": {
+   "acts": [
+    "ley-general-de-victimas"
+   ],
+   "sha256": "e1c2f3bca9400fcf4d07460e1c2e011938bb39e946e8408458e02ebb7a209efe"
+  },
+  "97-ley-general-de-asentamientos-humanos.json": {
+   "acts": [
+    "ley-general-de-asentamientos-humanos"
+   ],
+   "sha256": "c6bd65a8e8b76324239f2d01aef406c5587cf371e1c269390921ef04f58061bf"
+  },
+  "98-ley-del-sector-hidrocarburos.json": {
+   "acts": [
+    "ley-del-sector-hidrocarburos"
+   ],
+   "sha256": "ebbff6b249b51f2a9a41218746ed1f95c469fdfee6722598e95109555cf3b217"
+  },
+  "99-ley-del-sector-electrico.json": {
+   "acts": [
+    "ley-del-sector-electrico"
+   ],
+   "sha256": "c6f65e5550c64854c95d335150f654be86b9882f1fe33c255e7202f5f76baa38"
+  }
+ },
+ "schema": 1
+}
