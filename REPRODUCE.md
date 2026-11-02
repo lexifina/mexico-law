@@ -1672,15 +1672,15 @@ When a law gives no date of its own, the default rule applies: Código Civil Fed
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `725c20f6fc36160792a319219cba318c834b4ccc9bba05d7b42753d9333eac9e` (113613432 bytes).
+- Corpus: sha256 `de13164a2e31e96758608e121fbb24bebf33ff7fe663bc3a0d26edd799645067` (113613432 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-2578 versions of 360 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-A second build from the same corpus into an empty folder gave identical hashes for all 2434 history commits and 4196 tags (history tip `0851893bee3098aeade7bf437dca8cd50c39ddd3`).
+No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
