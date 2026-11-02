@@ -11520,6 +11520,32 @@
    ]
   },
   {
+   "slug": "ley-para-el-tratamiento-de-menores-infractores",
+   "short": "LTMI",
+   "title": "Ley para el Tratamiento de Menores Infractores, para el Distrito Federal en Materia Común y para toda la República en Materia Federal",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/179_020715.pdf",
+   "versions": [
+    {
+     "from": "2003-06-26",
+     "units": 134,
+     "source_url": "https://web.archive.org/web/20130626012207id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/179.pdf",
+     "sha256": "819b64ac14890ea1c78b32975098a2403ef5b54132e9aa2eb708f9f1bbe740aa"
+    },
+    {
+     "from": "2014-12-25",
+     "units": 135,
+     "source_url": "https://web.archive.org/web/20160328121800id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/179_020715.pdf",
+     "sha256": "9866be1e642c13841cce5e3278e1015dda7b91d28717060d4cad9968ab52c73e"
+    },
+    {
+     "from": "2016-06-18",
+     "units": 0,
+     "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNSIJPA.pdf",
+     "sha256": "90d519e37b5f4fb3106757667d7db811daf3aa8bdc5eef78ab4a7e7d6855334c"
+    }
+   ]
+  },
+  {
    "slug": "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura",
    "short": "LFGFAGA",
    "title": "Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura",
@@ -11536,6 +11562,74 @@
      "units": 20,
      "source_url": "https://web.archive.org/web/20181105071955id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/192.pdf",
      "sha256": "5ecf3ff973aa8817fdb63785bcf56d34826dabc130480ba3f1b344ce55ede363"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-ciencia-y-tecnologia",
+   "short": "LCyT",
+   "title": "Ley de Ciencia y Tecnología",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCT.pdf",
+   "versions": [
+    {
+     "from": "2006-08-22",
+     "units": 69,
+     "source_url": "https://web.archive.org/web/20060824021403id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/242.pdf",
+     "sha256": "095601d1a221138144c08c804ba6472a5890e2e668ff5f82a4bb56cc525f716f"
+    },
+    {
+     "from": "2009-06-13",
+     "units": 75,
+     "source_url": "https://web.archive.org/web/20101010230030id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/242.pdf",
+     "sha256": "abcc932d64faf11925d18a0613adba4a5065cc015fe770534b4ccaeb82274daf"
+    },
+    {
+     "from": "2010-04-28",
+     "units": 76,
+     "source_url": "https://web.archive.org/web/20101010230030id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/242.pdf",
+     "sha256": "abcc932d64faf11925d18a0613adba4a5065cc015fe770534b4ccaeb82274daf"
+    },
+    {
+     "from": "2011-01-29",
+     "units": 77,
+     "source_url": "https://web.archive.org/web/20130515112348id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/242.pdf",
+     "sha256": "4aecfbe7f872132e459148e253028a222f43a9a1b817e0ad3f5daf6aacf6a1e0"
+    },
+    {
+     "from": "2013-06-08",
+     "units": 78,
+     "source_url": "https://web.archive.org/web/20130614232549id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/242.pdf",
+     "sha256": "a809912eb5da3f9f469a9dab370c70e1e05b0de140b43661116ac860b6d41a75"
+    },
+    {
+     "from": "2014-05-21",
+     "units": 88,
+     "source_url": "https://web.archive.org/web/20190212222122id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/242_081215.pdf",
+     "sha256": "7b4f047c04bb7d0f87d3843f3e2d7261daa8362d1a97ab6db71b0af2b457c06f"
+    },
+    {
+     "from": "2015-12-09",
+     "units": 89,
+     "source_url": "https://web.archive.org/web/20190212222122id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/242_081215.pdf",
+     "sha256": "7b4f047c04bb7d0f87d3843f3e2d7261daa8362d1a97ab6db71b0af2b457c06f"
+    },
+    {
+     "from": "2020-11-07",
+     "units": 90,
+     "source_url": "https://web.archive.org/web/20201126035746id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/242_061120.pdf",
+     "sha256": "5f54b9bf6231f8e0325c02080881bfeb67693f3fe130a7d07d6c255d940c4651"
+    },
+    {
+     "from": "2022-05-12",
+     "units": 91,
+     "source_url": "https://arquivo.pt/wayback/20230119190355id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/LCT.pdf",
+     "sha256": "716657cb038a50a1fe4d93e509c5797ebc3b0e05be513813ec1179100e4fe65d"
+    },
+    {
+     "from": "2023-05-09",
+     "units": 0,
+     "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMHCTI.pdf",
+     "sha256": "c5372c29c542ac37f12ae219c10ee02ad675904e60ee33cb273541512835d9f1"
     }
    ]
   },
@@ -11616,6 +11710,158 @@
      "units": 284,
      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp.pdf",
      "sha256": "d82e45d82b91c760712fa9a55f58882842824f14afdfc86b2a82cefa2d6a91f3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-la-comision-nacional-para-el-desarrollo-de-los-pueblos-indigenas",
+   "short": "LCNDPI",
+   "title": "Ley de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/261_220617.pdf",
+   "versions": [
+    {
+     "from": "2003-07-05",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20081215232335id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/261.pdf",
+     "sha256": "3c9950745faae46119b01a3e89c4d17c2a2da7f353927d86b611be136dd571dd"
+    },
+    {
+     "from": "2011-06-24",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20111018002056id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/261.pdf",
+     "sha256": "ebe232cb87fb152927be1d0c6f039dbbb08f2e4eaabbc02b9fe3a8377a2167c7"
+    },
+    {
+     "from": "2012-04-10",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20130626032314id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/261.pdf",
+     "sha256": "03e014567182bce6a9e8112f0448e7d1c33c92aa751f4b28a130c00dcabec78d"
+    },
+    {
+     "from": "2016-04-08",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20160430030832id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/261_070416.pdf",
+     "sha256": "ec00292eb378596cf0aecb8867e2a9dcc8285e8d33ec07edff2e5c77e9e8a785"
+    },
+    {
+     "from": "2017-06-23",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20170713101251id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/261_220617.pdf",
+     "sha256": "7687b1a63ec8fb4b6538df0addaedde26b9a0ffa8975c285b2bdaa592ed93496"
+    },
+    {
+     "from": "2018-12-05",
+     "units": 0,
+     "source_url": "http://www.diputados.gob.mx/LeyesBiblio/pdf/LINPI.pdf",
+     "sha256": "748d7a60e7f5fb4ac5432830dca1d79fb168856b579ecb962ec8b74396e49fc8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-el-aprovechamiento-de-energias-renovables-y-el-financiamiento-de-la-transicion-energetica",
+   "short": "LAERFTE",
+   "title": "Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAERFTE.pdf",
+   "versions": [
+    {
+     "from": "2008-11-29",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20101116235438id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/LAERFTE.pdf",
+     "sha256": "9341ff4b5bedf15c8bc978604fe32bc4eed8e09e6e6ed02c9f663c748f62ca8e"
+    },
+    {
+     "from": "2011-06-02",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20110803222328id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/LAERFTE.pdf",
+     "sha256": "bed56b8095d7ade942a473277c710e4940b9c5e3b995ada3632ac179c865dc06"
+    },
+    {
+     "from": "2012-01-13",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20130117083726id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/LAERFTE.pdf",
+     "sha256": "e01ad05c95c057b7dd33df175333671ba5d2730a1cd786b317e23579676641cf"
+    },
+    {
+     "from": "2013-03-22",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20130614232556id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/LAERFTE.pdf",
+     "sha256": "bb4ea949fc58e10c84f696177b6f229f40068203342a9441be605d20dbe4a422"
+    },
+    {
+     "from": "2013-04-24",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20130614232556id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/LAERFTE.pdf",
+     "sha256": "bb4ea949fc58e10c84f696177b6f229f40068203342a9441be605d20dbe4a422"
+    },
+    {
+     "from": "2013-06-08",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20130614232556id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/LAERFTE.pdf",
+     "sha256": "bb4ea949fc58e10c84f696177b6f229f40068203342a9441be605d20dbe4a422"
+    },
+    {
+     "from": "2015-12-25",
+     "units": 0,
+     "source_url": "https://web.archive.org/web/20190212233242id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/LTE.pdf",
+     "sha256": "18aebc52f8de1094f8321b749c77188d8ac668366992c07b1a824505b1ac77b6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-federal-de-transparencia-y-acceso-a-la-informacion-publica",
+   "short": "LFTAIP",
+   "title": "Ley Federal de Transparencia y Acceso a la Información Pública",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFTAIP.pdf",
+   "versions": [
+    {
+     "from": "2016-05-10",
+     "units": 209,
+     "source_url": "https://web.archive.org/web/20161123041938id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/LFTAIP.pdf",
+     "sha256": "630125a4e5b3cec149c2c9addc641ec30b187d69391f1d60663a892b84c68dda"
+    },
+    {
+     "from": "2017-01-28",
+     "units": 214,
+     "source_url": "https://arquivo.pt/wayback/20190330053439id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/LFTAIP_270117.pdf",
+     "sha256": "58f8666ee1a185c1191831480ea5412882760612e75aa3cd1fcd2183e868b1a5"
+    },
+    {
+     "from": "2021-05-21",
+     "units": 215,
+     "source_url": "https://web.archive.org/web/20230920204800id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/LFTAIP.pdf",
+     "sha256": "6bfa4d6b2544f5cd2ff7a22d2d40aa89256c09cad37c33a3db486e5acd468629"
+    },
+    {
+     "from": "2024-04-02",
+     "units": 216,
+     "source_url": "https://web.archive.org/web/20240509184940id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/LFTAIP.pdf",
+     "sha256": "84d58981a21deef0d21fafd7b641542e9494d1e1a11f5797bca65eea14a2641e"
+    },
+    {
+     "from": "2025-03-21",
+     "units": 0,
+     "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf",
+     "sha256": "e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-el-aprovechamiento-sustentable-de-la-energia",
+   "short": "LASE",
+   "title": "Ley para el Aprovechamiento Sustentable de la Energía",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LASE.pdf",
+   "versions": [
+    {
+     "from": "2008-11-29",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20130614232558id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/LASE.pdf",
+     "sha256": "563d9e1923c174adb9302b764fffcb1e26ce51342fef1cfcf6a05a98be938410"
+    },
+    {
+     "from": "2015-12-25",
+     "units": 0,
+     "source_url": "https://web.archive.org/web/20190212233242id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/LTE.pdf",
+     "sha256": "18aebc52f8de1094f8321b749c77188d8ac668366992c07b1a824505b1ac77b6"
     }
    ]
   },
