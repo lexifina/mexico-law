@@ -1,0 +1,6 @@
+# Ley de Energía Geotérmica
+
+LEG · 2 versions, from 2014-08-12 (latest in force: 2025-03-19) · <https://www.diputados.gob.mx/LeyesBiblio/pdf/LEG_110814.pdf>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |

@@ -1,0 +1,20 @@
+The legal texts come from the Cámara de Diputados del H. Congreso de la Unión:
+
+  Fuente: Cámara de Diputados del H. Congreso de la Unión, Secretaría General, Secretaría de Servicios
+  Parlamentarios, Leyes Federales Vigentes (www.diputados.gob.mx/LeyesBiblio), as archived by the Internet Archive
+  (web.archive.org), copies captured 2006-2026, retrieved 28 October 2026.
+
+They are official legislative texts of the United Mexican States. The Ley Federal del Derecho de Autor, art. 14,
+fracción VIII, excludes legislative, regulatory, administrative and judicial texts from copyright protection. The
+Cámara de Diputados publishes no separate licence for LeyesBiblio; the texts are reproduced with the attribution
+above.
+
+Changes made by Lexifina: each archived copy of the consolidated text was converted to one Markdown file per
+provision, one paragraph per line; spacing, quotes, dashes and runs of dots were normalised; the Cámara's paragraph
+notes ("Párrafo reformado DOF ...") were removed from the text and used only to credit the amending decree; and the
+copies were arranged as git commits credited to the decrees that made each change, on the day each took effect. The
+wording of the law was not changed. The Cámara de Diputados does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
