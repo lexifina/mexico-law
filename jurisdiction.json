@@ -4,7 +4,7 @@
   "name": "Mexico",
   "level": "country",
   "repo": "https://github.com/lexifina/mexico-law",
-  "build": "built: 360 federal acts from the Cámara de Diputados' consolidated copies (2578 versions, checked 2026-11-03): the Constitución Política de los Estados Unidos Mexicanos 2006-2026, the federal and national codes, and federal laws in force, plus abrogated federal laws (each closed by an empty final version on the day its abrogation took effect, credited to the abrogating act or decree) and one law with a fixed term (closed when its term ended); the abrogation of the Ley Federal de Telecomunicaciones y Radiodifusión, which waits on an event no text in the record dates, is held",
+  "build": "built: 364 federal acts from the Cámara de Diputados' consolidated copies (2586 versions, checked 2026-11-03): the Constitución Política de los Estados Unidos Mexicanos 2006-2026, the federal and national codes, and federal laws in force, plus abrogated federal laws (each closed by an empty final version on the day its abrogation took effect, credited to the abrogating act or decree) and one law with a fixed term (closed when its term ended); the abrogation of the Ley Federal de Telecomunicaciones y Radiodifusión, which waits on an event no text in the record dates, is held",
   "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
   "register_date": "2026-10-28"
 }
