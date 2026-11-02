@@ -11866,6 +11866,436 @@
    ]
   },
   {
+   "slug": "ley-federal-de-derechos",
+   "short": "LFD",
+   "title": "Ley Federal de Derechos",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 684,
+     "source_url": "https://web.archive.org/web/20061018191502id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/107.pdf",
+     "sha256": "f370572935c3d8a1c55f5e4f7dc8bd0a7f297c3f6ada935f53d0f2d81b49b517"
+    },
+    {
+     "from": "2006-02-06",
+     "units": 684,
+     "source_url": "https://web.archive.org/web/20070315003234id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/107.pdf",
+     "sha256": "3d0ba3ace5f8b114b4a74a9e102b80c42dac18d1ceb5d832b748ecd733062377"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 687,
+     "source_url": "https://web.archive.org/web/20070315003234id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/107.pdf",
+     "sha256": "3d0ba3ace5f8b114b4a74a9e102b80c42dac18d1ceb5d832b748ecd733062377"
+    },
+    {
+     "from": "2007-10-04",
+     "units": 687,
+     "source_url": "https://web.archive.org/web/20071122205747id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/107.pdf",
+     "sha256": "59dca3551ef6160eaa072b647ec399acb61f1190b29d6ea773d5ba13e51bcc8e"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 693,
+     "source_url": "https://web.archive.org/web/20080912010712id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/107.pdf",
+     "sha256": "14160943bb57162fab4293ffaddd38fb98105ab8814277cc7a2170991eecb735"
+    },
+    {
+     "from": "2008-11-14",
+     "units": 694,
+     "source_url": "https://web.archive.org/web/20090306104512id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/107.pdf",
+     "sha256": "6e8d6df2aab3a5f1ee9edc29c030814bcaa438d5a2aa125a394b15186d6dc426"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 706,
+     "source_url": "https://web.archive.org/web/20090306104512id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/107.pdf",
+     "sha256": "6e8d6df2aab3a5f1ee9edc29c030814bcaa438d5a2aa125a394b15186d6dc426"
+    },
+    {
+     "from": "2009-07-01",
+     "units": 708,
+     "source_url": "https://web.archive.org/web/20110420195919id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/107.pdf",
+     "sha256": "b2153987526a370aa529fe8a39d7e5a75752cbeb9bb7b43dc13d27a6e45b0e30"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 711,
+     "source_url": "https://web.archive.org/web/20110420195919id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/107.pdf",
+     "sha256": "b2153987526a370aa529fe8a39d7e5a75752cbeb9bb7b43dc13d27a6e45b0e30"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 723,
+     "source_url": "https://web.archive.org/web/20110420195919id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/107.pdf",
+     "sha256": "b2153987526a370aa529fe8a39d7e5a75752cbeb9bb7b43dc13d27a6e45b0e30"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 727,
+     "source_url": "https://web.archive.org/web/20120316172033id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/107.pdf",
+     "sha256": "38bd7e28d3a3f883b481cccb04af575128e905aabf54ca630887f37448faa8ec"
+    },
+    {
+     "from": "2012-04-10",
+     "units": 729,
+     "source_url": "https://web.archive.org/web/20130614232606id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/107.pdf",
+     "sha256": "17b2ae0df01ef32d24596796b864cca79751e641479cf16f5db9df296b3bcd8d"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 737,
+     "source_url": "https://web.archive.org/web/20140226032951id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/107.pdf",
+     "sha256": "5a3d0d042a02b081bde59d29831a5138812d4771fa3f883d9e5c71bf21420fe6"
+    },
+    {
+     "from": "2014-06-14",
+     "units": 738,
+     "source_url": "https://web.archive.org/web/20140722060125id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/107_130614.pdf",
+     "sha256": "8451a5cef8a45d5d6efbf8c78c66b0d6f254c1000e9c2372a08fb9565ad392e8"
+    },
+    {
+     "from": "2014-08-12",
+     "units": 741,
+     "source_url": "https://web.archive.org/web/20150724052150id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/107_301214.pdf",
+     "sha256": "de03f2f22b0d321ad116d54cfaf837f545877eaaa5cda2dfc29d3e31a4a6bef3"
+    },
+    {
+     "from": "2015-12-26",
+     "units": 742,
+     "source_url": "https://web.archive.org/web/20180127234225id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/107_221217.pdf",
+     "sha256": "52d22350a524647204cc4d8088838e545be314712faffe65fa960ef5bf6b5047"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 746,
+     "source_url": "https://web.archive.org/web/20180127234225id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/107_221217.pdf",
+     "sha256": "52d22350a524647204cc4d8088838e545be314712faffe65fa960ef5bf6b5047"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 749,
+     "source_url": "https://web.archive.org/web/20180127234225id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/107_221217.pdf",
+     "sha256": "52d22350a524647204cc4d8088838e545be314712faffe65fa960ef5bf6b5047"
+    },
+    {
+     "from": "2018-12-24",
+     "units": 750,
+     "source_url": "https://web.archive.org/web/20191020195346id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/107_281218.pdf",
+     "sha256": "72743e7a92c751f12240696a7105b683edc7ef22c8de0dfc14809220d9044266"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 752,
+     "source_url": "https://web.archive.org/web/20191020195346id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/107_281218.pdf",
+     "sha256": "72743e7a92c751f12240696a7105b683edc7ef22c8de0dfc14809220d9044266"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 755,
+     "source_url": "https://web.archive.org/web/20200131180804id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/107_281219.pdf",
+     "sha256": "c80022e5d77f00c27415df9eb5f3ac99e143ae5afb9a3e569b5c76816cf62e75"
+    },
+    {
+     "from": "2020-11-07",
+     "units": 756,
+     "source_url": "https://web.archive.org/web/20210422201546id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/107_291220.pdf",
+     "sha256": "42cf0b9c48e7f8da39f5dc41e82c566661d129c655e7d6e9429380358497a0c7"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 765,
+     "source_url": "https://web.archive.org/web/20210422201546id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/107_291220.pdf",
+     "sha256": "42cf0b9c48e7f8da39f5dc41e82c566661d129c655e7d6e9429380358497a0c7"
+    },
+    {
+     "from": "2021-05-21",
+     "units": 766,
+     "source_url": "https://web.archive.org/web/20210827182840id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/107_200521.pdf",
+     "sha256": "1c367e5f3f9d9dc86a599dbfb8b696d42daf988eeeb842a21ce443c122493c0a"
+    },
+    {
+     "from": "2021-12-30",
+     "units": 767,
+     "source_url": "https://web.archive.org/web/20230307185341id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf",
+     "sha256": "5efb324f466906a72288e9b1a3ca26b4d4cf4c6425aaea0b4e8525f92ac3aa0c"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 771,
+     "source_url": "https://web.archive.org/web/20220119134412id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf",
+     "sha256": "f685343cb8175c622f10f4f8057cc9d6d48a66e657cf38e2a1ab547ffb5ac4b4"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 776,
+     "source_url": "https://web.archive.org/web/20230307185341id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf",
+     "sha256": "5efb324f466906a72288e9b1a3ca26b4d4cf4c6425aaea0b4e8525f92ac3aa0c"
+    },
+    {
+     "from": "2023-05-04",
+     "units": 777,
+     "source_url": "https://web.archive.org/web/20230604031728id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf",
+     "sha256": "3eefc2b3cf46a4b35bcb95f8403520745baf8112148af90fdb036806735c3fe6"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 781,
+     "source_url": "https://web.archive.org/web/20240405093352id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf",
+     "sha256": "d5debb15f2376b8d4722e2d4d4457ce49abb3da17b0002302cd8c998f40b9c78"
+    },
+    {
+     "from": "2024-04-24",
+     "units": 783,
+     "source_url": "https://web.archive.org/web/20241007211652id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf",
+     "sha256": "5881e3822f2e55b9a55765a1784724a3d3951ff6e2bd21bd864af893f2591e81"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 784,
+     "source_url": "https://web.archive.org/web/20250505152613id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf",
+     "sha256": "03b3dd70582384c425d53e0c1a1a6fb3c619610bb98ad255cd04093a94637b8d"
+    },
+    {
+     "from": "2025-01-02",
+     "units": 785,
+     "source_url": "https://web.archive.org/web/20260804133140id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf",
+     "sha256": "64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 787,
+     "source_url": "https://web.archive.org/web/20260804133140id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf",
+     "sha256": "64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df"
+    }
+   ]
+  },
+  {
+   "slug": "estatuto-de-gobierno-del-distrito-federal",
+   "short": "EGDF",
+   "title": "Estatuto de Gobierno del Distrito Federal",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/10_270614.pdf",
+   "versions": [
+    {
+     "from": "1999-10-14",
+     "units": 153,
+     "source_url": "https://web.archive.org/web/20070609122350id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/10.pdf",
+     "sha256": "5edc772b3b81db50d915e3a951163abf5b348a519c702f4042fe248def82e1e2"
+    },
+    {
+     "from": "2008-04-29",
+     "units": 154,
+     "source_url": "https://web.archive.org/web/20080528135910id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/10.pdf",
+     "sha256": "d05f35233a3ec51d9f60ae525879a097d66530bd1b714f90aa85f92f76a80bae"
+    },
+    {
+     "from": "2008-09-26",
+     "units": 155,
+     "source_url": "https://web.archive.org/web/20081002000447id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/10.pdf",
+     "sha256": "723cd90762127e340794c924528422d1a394934db45b9d5a5979eea9bf8ac252"
+    },
+    {
+     "from": "2009-04-12",
+     "units": 156,
+     "source_url": "https://web.archive.org/web/20091122111549id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/10.pdf",
+     "sha256": "a4ecfc096f78c4bde1af132602c7c342217224248c1e8c3ecd1b928ebff2d8a1"
+    },
+    {
+     "from": "2011-01-29",
+     "units": 157,
+     "source_url": "https://web.archive.org/web/20121115133240id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/10.pdf",
+     "sha256": "0bc258f0c037bcdc3b7f2863cecec76905fc647674b9aedca41cd0bfeb87476e"
+    },
+    {
+     "from": "2013-01-08",
+     "units": 158,
+     "source_url": "https://web.archive.org/web/20130626005930id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/10.pdf",
+     "sha256": "fe719bd99408ea55fbbc69e7c0c8a9953e18dc465eea4e6bd230cf98899b9361"
+    },
+    {
+     "from": "2014-06-28",
+     "units": 159,
+     "source_url": "https://web.archive.org/web/20190212204535id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/10_270614.pdf",
+     "sha256": "b7dfa4da4a75e0e017cc880b385f3ed8ae4a4276206d8517effe2754d09e89ad"
+    }
+   ]
+  },
+  {
+   "slug": "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
+   "short": "LOPGJDF",
+   "title": "Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf",
+   "versions": [
+    {
+     "from": "2012-02-24",
+     "units": 88,
+     "source_url": "https://web.archive.org/web/20191020195803id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/LOPGJDF.pdf",
+     "sha256": "9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-el-gobierno-interior-del-congreso-general",
+   "short": "RGIC",
+   "title": "Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/219.pdf",
+   "versions": [
+    {
+     "from": "1981-11-28",
+     "units": 229,
+     "source_url": "https://web.archive.org/web/20081216103855id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/219.pdf",
+     "sha256": "79198b75474281a4b1b07b76f0ae9dd6d834d9e607ef95755e23e36d382fb24f"
+    },
+    {
+     "from": "2010-09-01",
+     "units": 230,
+     "source_url": "https://web.archive.org/web/20101011053302id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/219.pdf",
+     "sha256": "982008aeeeb23bc83a6f585233f8ac628d07b223ff633e61e00bbf71efa48e1a"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 231,
+     "source_url": "https://web.archive.org/web/20181023113821id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/219.pdf",
+     "sha256": "fff7e0e84270e4d5f9c103b0b792c5e05256d4c6957126d2a5c12509b6b383ec"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-senado-de-la-republica",
+   "short": "RSR",
+   "title": "Reglamento del Senado de la República",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf",
+   "versions": [
+    {
+     "from": "2011-02-12",
+     "units": 317,
+     "source_url": "https://web.archive.org/web/20110815150217id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Senado.pdf",
+     "sha256": "f897f238c9e49367a356c4fb3d67c9ab5165735c495fb86968998d775cf6303a"
+    },
+    {
+     "from": "2011-12-21",
+     "units": 318,
+     "source_url": "https://web.archive.org/web/20130228042437id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Senado.pdf",
+     "sha256": "82a6931cb4c765e7dfcd283d19ec88c611ecf157c2d05b993b9880036af68fa1"
+    },
+    {
+     "from": "2013-03-06",
+     "units": 319,
+     "source_url": "https://web.archive.org/web/20130626015008id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf",
+     "sha256": "7dff1b6a82d681800381e3dbbc05314bc7155b514216c2dee6483662d3465253"
+    },
+    {
+     "from": "2014-12-19",
+     "units": 323,
+     "source_url": "https://web.archive.org/web/20150315110452id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado_221214.pdf",
+     "sha256": "e7cca8479066e36db65cee0a79c4c040cd505b212a626ec03fde34795f4c53d0"
+    },
+    {
+     "from": "2014-12-23",
+     "units": 324,
+     "source_url": "https://web.archive.org/web/20150315110452id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado_221214.pdf",
+     "sha256": "e7cca8479066e36db65cee0a79c4c040cd505b212a626ec03fde34795f4c53d0"
+    },
+    {
+     "from": "2017-03-15",
+     "units": 321,
+     "source_url": "https://web.archive.org/web/20170518230559id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Senado_140317.pdf",
+     "sha256": "70d0d2ea5872a2fb87a0aa3df68e9fd44c3ed3fca3663dab46a7297f281338d1"
+    },
+    {
+     "from": "2017-10-10",
+     "units": 322,
+     "source_url": "https://web.archive.org/web/20171025040549id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Senado_091017.pdf",
+     "sha256": "ef9b38b048ab622067a2be92b3c326b833c1da424d00176e2503000a6bf14d39"
+    },
+    {
+     "from": "2017-12-20",
+     "units": 324,
+     "source_url": "https://web.archive.org/web/20180107121534id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Senado_191217.pdf",
+     "sha256": "fc43303fb215824a5da7d13e2abd4183b0f0274948543c3894b844b701a4164c"
+    },
+    {
+     "from": "2018-04-07",
+     "units": 325,
+     "source_url": "https://web.archive.org/web/20190212070546id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado_230518.pdf",
+     "sha256": "3ccfabdde1e0ae7d293431bd0736c5aa90b20b5b3e5fe9adce2ead6449e6883d"
+    },
+    {
+     "from": "2018-05-24",
+     "units": 327,
+     "source_url": "https://web.archive.org/web/20190212070546id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado_230518.pdf",
+     "sha256": "3ccfabdde1e0ae7d293431bd0736c5aa90b20b5b3e5fe9adce2ead6449e6883d"
+    },
+    {
+     "from": "2018-07-12",
+     "units": 328,
+     "source_url": "https://web.archive.org/web/20190212070546id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado_230518.pdf",
+     "sha256": "3ccfabdde1e0ae7d293431bd0736c5aa90b20b5b3e5fe9adce2ead6449e6883d"
+    },
+    {
+     "from": "2018-09-20",
+     "units": 336,
+     "source_url": "https://web.archive.org/web/20190212070546id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado_230518.pdf",
+     "sha256": "3ccfabdde1e0ae7d293431bd0736c5aa90b20b5b3e5fe9adce2ead6449e6883d"
+    },
+    {
+     "from": "2019-03-30",
+     "units": 337,
+     "source_url": "https://web.archive.org/web/20190711095617id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Senado_290319.pdf",
+     "sha256": "f833ebf08430f6d2dcd0d4ddd0ff8eabb51e0181c550e87305ede07ff25a1919"
+    },
+    {
+     "from": "2020-03-21",
+     "units": 338,
+     "source_url": "https://web.archive.org/web/20210316235549id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado_200320.pdf",
+     "sha256": "078dbe17d93ef2cc2c20498f46501e3c3c6dfec1736b10fbeba86dad33beb2b4"
+    },
+    {
+     "from": "2021-03-31",
+     "units": 339,
+     "source_url": "https://web.archive.org/web/20210422201741id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado_300321.pdf",
+     "sha256": "86b8d1c37cda3a8e6d8ba321cb7f66c323c9a24d1b26f301962962997929268f"
+    },
+    {
+     "from": "2022-04-09",
+     "units": 340,
+     "source_url": "https://web.archive.org/web/20220423203548id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf",
+     "sha256": "9f6469f03353e2557820b29d6c957c96adc65a013adb765f67753da2ed38ca06"
+    },
+    {
+     "from": "2022-10-26",
+     "units": 342,
+     "source_url": "https://web.archive.org/web/20230604084024id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf",
+     "sha256": "c8d2578271fb8d74224a2a356372df0ed4c9035d0a0c83c2a91af4dae0052598"
+    },
+    {
+     "from": "2022-11-12",
+     "units": 343,
+     "source_url": "https://web.archive.org/web/20230604084024id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf",
+     "sha256": "c8d2578271fb8d74224a2a356372df0ed4c9035d0a0c83c2a91af4dae0052598"
+    },
+    {
+     "from": "2023-09-23",
+     "units": 345,
+     "source_url": "https://web.archive.org/web/20231204224457id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf",
+     "sha256": "cb98b27ae914ddad9cc417d2a57894391d85bdd31f13f496a3f0795098409c42"
+    },
+    {
+     "from": "2023-12-06",
+     "units": 346,
+     "source_url": "https://web.archive.org/web/20240405093600id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf",
+     "sha256": "0453c4245d000c91388c8c96277043740a7f8b03a7c3482adcc7841a3e509d42"
+    },
+    {
+     "from": "2024-12-07",
+     "units": 347,
+     "source_url": "https://web.archive.org/web/20250307185505id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf",
+     "sha256": "97c7f328d93e915310ceb64d00da908a56188e78088e49e997c1dd60b33a57c2"
+    }
+   ]
+  },
+  {
    "slug": "ley-general-de-sociedades-mercantiles",
    "short": "LGSM",
    "title": "Ley General de Sociedades Mercantiles",
@@ -11936,6 +12366,370 @@
      "units": 293,
      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSM.pdf",
      "sha256": "1af570e8c92e2443ea7335a13a864b7603efb75d3529d8217983ee5f4903ecc9"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-la-camara-de-diputados",
+   "short": "RCD",
+   "title": "Reglamento de la Cámara de Diputados",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf",
+   "versions": [
+    {
+     "from": "2011-04-20",
+     "units": 289,
+     "source_url": "https://web.archive.org/web/20110815143326id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Diputados.pdf",
+     "sha256": "fdb7dc3438179e1514cfb216594ef2a8f038b43a573df522cec3196a5d11d660"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 290,
+     "source_url": "https://web.archive.org/web/20130303043518id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf",
+     "sha256": "c566012407939b02503f7b2e754abc8b834465398109b89cf46917c3b3360cad"
+    },
+    {
+     "from": "2013-10-19",
+     "units": 291,
+     "source_url": "https://web.archive.org/web/20140408224335id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf",
+     "sha256": "ae7b07caca5947fde5e8276cfb04af6c14317bfc525dca5cd8f212075bfe503c"
+    },
+    {
+     "from": "2013-12-24",
+     "units": 292,
+     "source_url": "https://web.archive.org/web/20140408224335id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf",
+     "sha256": "ae7b07caca5947fde5e8276cfb04af6c14317bfc525dca5cd8f212075bfe503c"
+    },
+    {
+     "from": "2014-09-09",
+     "units": 293,
+     "source_url": "https://web.archive.org/web/20150315235848id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados_080914.pdf",
+     "sha256": "910c886dcd8ff157956cf59fe4201e734f0f98d95d1a15fc7ddd0915bfc01073"
+    },
+    {
+     "from": "2015-03-26",
+     "units": 294,
+     "source_url": "https://web.archive.org/web/20150907194903id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados_060515.pdf",
+     "sha256": "376285702572d7e134cb125925a1cbf5d7dd0a6f6f9515f0e3777b393f81a04d"
+    },
+    {
+     "from": "2015-05-07",
+     "units": 295,
+     "source_url": "https://web.archive.org/web/20150907194903id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados_060515.pdf",
+     "sha256": "376285702572d7e134cb125925a1cbf5d7dd0a6f6f9515f0e3777b393f81a04d"
+    },
+    {
+     "from": "2015-12-19",
+     "units": 297,
+     "source_url": "https://web.archive.org/web/20160430030842id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Diputados_150416.pdf",
+     "sha256": "68bbd6dce8cdaed50b8fe36aba091c0b3cb6a9483b7c0a8a34a3a88875fe22e9"
+    },
+    {
+     "from": "2016-04-16",
+     "units": 298,
+     "source_url": "https://web.archive.org/web/20160430030842id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Diputados_150416.pdf",
+     "sha256": "68bbd6dce8cdaed50b8fe36aba091c0b3cb6a9483b7c0a8a34a3a88875fe22e9"
+    },
+    {
+     "from": "2016-05-05",
+     "units": 300,
+     "source_url": "https://web.archive.org/web/20160606055438id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Diputados_130516.pdf",
+     "sha256": "6e6a6ceefd918f03ab0e6f0ce04e180ffe0d19c295485f9789dd337bdb4e1ac0"
+    },
+    {
+     "from": "2016-05-11",
+     "units": 301,
+     "source_url": "https://web.archive.org/web/20160606055438id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Diputados_130516.pdf",
+     "sha256": "6e6a6ceefd918f03ab0e6f0ce04e180ffe0d19c295485f9789dd337bdb4e1ac0"
+    },
+    {
+     "from": "2016-05-14",
+     "units": 303,
+     "source_url": "https://web.archive.org/web/20160606055438id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Diputados_130516.pdf",
+     "sha256": "6e6a6ceefd918f03ab0e6f0ce04e180ffe0d19c295485f9789dd337bdb4e1ac0"
+    },
+    {
+     "from": "2016-10-19",
+     "units": 304,
+     "source_url": "https://web.archive.org/web/20170517095626id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Diputados_140417.pdf",
+     "sha256": "dfd0278f1b41a7de590bf0a5eb77a6de080f35b2e6b8dc4cf74684027acd1bbb"
+    },
+    {
+     "from": "2016-11-15",
+     "units": 305,
+     "source_url": "https://web.archive.org/web/20170517095626id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Diputados_140417.pdf",
+     "sha256": "dfd0278f1b41a7de590bf0a5eb77a6de080f35b2e6b8dc4cf74684027acd1bbb"
+    },
+    {
+     "from": "2016-12-29",
+     "units": 306,
+     "source_url": "https://web.archive.org/web/20170517095626id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Diputados_140417.pdf",
+     "sha256": "dfd0278f1b41a7de590bf0a5eb77a6de080f35b2e6b8dc4cf74684027acd1bbb"
+    },
+    {
+     "from": "2017-03-23",
+     "units": 307,
+     "source_url": "https://web.archive.org/web/20170517095626id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Diputados_140417.pdf",
+     "sha256": "dfd0278f1b41a7de590bf0a5eb77a6de080f35b2e6b8dc4cf74684027acd1bbb"
+    },
+    {
+     "from": "2017-04-15",
+     "units": 308,
+     "source_url": "https://web.archive.org/web/20170517095626id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Diputados_140417.pdf",
+     "sha256": "dfd0278f1b41a7de590bf0a5eb77a6de080f35b2e6b8dc4cf74684027acd1bbb"
+    },
+    {
+     "from": "2017-05-20",
+     "units": 309,
+     "source_url": "https://web.archive.org/web/20170617224627id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados_190517.pdf",
+     "sha256": "56aed55de3b3e85d695910a909788a1bdaafc7aa6ec9ca030ea45f94862c24ee"
+    },
+    {
+     "from": "2017-12-20",
+     "units": 310,
+     "source_url": "https://web.archive.org/web/20180107121447id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Diputados_191217.pdf",
+     "sha256": "31c11a503d94179d72d677b2606021c4e7f296c5f3ca8b91a06b3213a3cde0d6"
+    },
+    {
+     "from": "2018-02-16",
+     "units": 311,
+     "source_url": "https://web.archive.org/web/20180324171242id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Diputados_130318.pdf",
+     "sha256": "5787236f8e944c5b9112bf6cd4ba9dd7ce817ccf61d3f5f94a37542978ead92f"
+    },
+    {
+     "from": "2018-03-14",
+     "units": 312,
+     "source_url": "https://web.archive.org/web/20180324171242id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/Reg_Diputados_130318.pdf",
+     "sha256": "5787236f8e944c5b9112bf6cd4ba9dd7ce817ccf61d3f5f94a37542978ead92f"
+    },
+    {
+     "from": "2018-05-04",
+     "units": 313,
+     "source_url": "https://web.archive.org/web/20190212160142id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados_080518.pdf",
+     "sha256": "b14e92c80322378cd8b47b24d3730b3fa1faf515ebaf740a265b97cf0bc819d1"
+    },
+    {
+     "from": "2018-05-09",
+     "units": 324,
+     "source_url": "https://web.archive.org/web/20190212160142id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados_080518.pdf",
+     "sha256": "b14e92c80322378cd8b47b24d3730b3fa1faf515ebaf740a265b97cf0bc819d1"
+    },
+    {
+     "from": "2019-12-19",
+     "units": 325,
+     "source_url": "https://web.archive.org/web/20200103211750id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados_181219.pdf",
+     "sha256": "263e1eaca05da1b2eba61696a85f5451f9d1c4553b0e2ffc853bb5454d285e1b"
+    },
+    {
+     "from": "2020-12-23",
+     "units": 326,
+     "source_url": "https://web.archive.org/web/20210317001311id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados_221220.pdf",
+     "sha256": "eef3e88c0481f932405e768abe4eaa9d294c193a49e81f4156ffb1601de67c74"
+    },
+    {
+     "from": "2021-04-28",
+     "units": 330,
+     "source_url": "https://web.archive.org/web/20210607201252id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados_270421.pdf",
+     "sha256": "b6f1e7e0805b1723334638448625c1191a43df694495ac2d950d9e0ca3db551e"
+    },
+    {
+     "from": "2021-12-22",
+     "units": 332,
+     "source_url": "https://web.archive.org/web/20230107020210id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf",
+     "sha256": "c38e1d93e9e449dc2e6b47999da6143ceba440a02d066c547d08fdbdcdb4e70a"
+    },
+    {
+     "from": "2023-03-08",
+     "units": 333,
+     "source_url": "https://web.archive.org/web/20230407090359id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf",
+     "sha256": "c59e925afde1ee5644a6b8456de308a2eb2c15dcdfab7e7a17f17eac65699569"
+    },
+    {
+     "from": "2023-10-18",
+     "units": 362,
+     "source_url": "https://web.archive.org/web/20231127005452id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf",
+     "sha256": "2009bd52ba496308396ab9d115f63a99cf17ac8c4f9406e3a19f90b238d0050f"
+    },
+    {
+     "from": "2023-12-23",
+     "units": 363,
+     "source_url": "https://web.archive.org/web/20240405093703id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf",
+     "sha256": "409cb5775be916a855af5afc409dcea38453bf915d730662a7a5ca2245511ef1"
+    },
+    {
+     "from": "2024-05-03",
+     "units": 364,
+     "source_url": "https://web.archive.org/web/20240519044620id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf",
+     "sha256": "ce940a5c37db1f9d5691976b04d42714a15fca99ae8db4d0f20a19561aea04dd"
+    },
+    {
+     "from": "2025-05-08",
+     "units": 365,
+     "source_url": "https://web.archive.org/web/20250617134204id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf",
+     "sha256": "6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-reglamentaria-del-articulo-3-en-materia-de-mejora-continua-de-la-educacion",
+   "short": "LRA3MMCE",
+   "title": "Ley Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt3_MMCE_300919.pdf",
+   "versions": [
+    {
+     "from": "2019-10-01",
+     "units": 71,
+     "source_url": "https://web.archive.org/web/20191115000012id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt3_MMCE_300919.pdf",
+     "sha256": "6cfd550f22edb3253ebf98d885329be5402890d902d17afaa7860d94d76fe014"
+    }
+   ]
+  },
+  {
+   "slug": "ley-reglamentaria-del-articulo-6-en-materia-del-derecho-de-replica",
+   "short": "LRA6DR",
+   "title": "Ley Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt6_MDR.pdf",
+   "versions": [
+    {
+     "from": "2015-12-04",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20160328122007id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/LRArt6_MDR_041115.pdf",
+     "sha256": "ef2669ae72a851eb871905134c7792c0c18e6be20453f0b275dec6c814eb5971"
+    },
+    {
+     "from": "2018-04-24",
+     "units": 46,
+     "source_url": "https://web.archive.org/web/20181105072653id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/LRArt6_MDR_300518.pdf",
+     "sha256": "c5cbeb0656d0079753d300c3c71f85da48660e6346a63c6a70ca7cd1266c1eec"
+    },
+    {
+     "from": "2018-05-31",
+     "units": 47,
+     "source_url": "https://web.archive.org/web/20181105072653id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/LRArt6_MDR_300518.pdf",
+     "sha256": "c5cbeb0656d0079753d300c3c71f85da48660e6346a63c6a70ca7cd1266c1eec"
+    },
+    {
+     "from": "2024-04-02",
+     "units": 48,
+     "source_url": "https://web.archive.org/web/20240711111321id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt6_MDR.pdf",
+     "sha256": "4fdc21524c8dbb574d2cfbf7dfee56f7da866dd4274b5d45794158b4d0f8ddd9"
+    },
+    {
+     "from": "2025-11-15",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20260218164153id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt6_MDR.pdf",
+     "sha256": "b3013ac434856f46bc973c4178d55c6d5d440730a42f3d7f8ca225730e0d382c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-reglamentaria-de-la-fraccion-vi-del-articulo-76",
+   "short": "LRA76VI",
+   "title": "Ley Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt76_fracVI.pdf",
+   "versions": [
+    {
+     "from": "2007-09-01",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20181105072659id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/LRArt76_fracVI.pdf",
+     "sha256": "c63c365e63c7aeb751dc48c797b4fa9214c3ada4eec55dbf2237863c01902063"
+    },
+    {
+     "from": "2025-11-15",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20260111143617id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt76_fracVI.pdf",
+     "sha256": "bb06062d0e0454e928090853dd4071bfd19b713abe553033285147a67c323531"
+    }
+   ]
+  },
+  {
+   "slug": "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
+   "short": "LOCFCRL",
+   "title": "Ley Orgánica del Centro Federal de Conciliación y Registro Laboral",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCFCRL_060120.pdf",
+   "versions": [
+    {
+     "from": "2020-01-07",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20201027211024id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/LOCFCRL_060120.pdf",
+     "sha256": "1b50289dd80607f83a22c917a3ead722edbf30ee45e8756b3d764f000e1ffc48"
+    }
+   ]
+  },
+  {
+   "slug": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
+   "short": "LCACSEFAM",
+   "title": "Ley para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCACSEFAM.pdf",
+   "versions": [
+    {
+     "from": "2006-02-10",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20070609111140id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/LCACSEFAM.pdf",
+     "sha256": "ec6ed1bcf931b97ac346b9f7985bfd748d8c4aaf4ae1c7be8d3b888f7010e401"
+    },
+    {
+     "from": "2009-06-13",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20190212122341id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/LCACSEFAM.pdf",
+     "sha256": "7dc5f3fb83d634dacc34b90bb7ea175eef72e96c12c90f0271f544ea3632678e"
+    },
+    {
+     "from": "2024-05-04",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20241005150556id_/https://www.diputados.gob.mx/LeyesBiblio/pdf/LCACSEFAM.pdf",
+     "sha256": "93f2f807af3fd78f9e7ffcc4b1b544b2c7eecca463efcd7adaa16a0f8716049f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-que-aprueba-la-adhesion-de-mexico-al-convenio-constitutivo-del-banco-de-desarrollo-del-caribe",
+   "short": "LMCCBDC",
+   "title": "Ley que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/187_291214.pdf",
+   "versions": [
+    {
+     "from": "1991-12-25",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20110815142919id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/187.pdf",
+     "sha256": "d04daa02dd0b9ee8d4b36d7b83e95ff6e1b0776eedc6cb4b0dff7244da996b75"
+    },
+    {
+     "from": "2011-06-17",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20130626024239id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/187.pdf",
+     "sha256": "55bc0ca7ef34bd5f1be24013266a5f113f67ee557d548efd568aeb9012b83702"
+    },
+    {
+     "from": "2014-12-30",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20181105071943id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/187_291214.pdf",
+     "sha256": "2f11746efbe37cbc7bf8f9448f5d9050c4deee13184bbe78c4e958d017bebece"
+    }
+   ]
+  },
+  {
+   "slug": "ley-sobre-camaras-agricolas",
+   "short": "LCAA",
+   "title": "Ley sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas",
+   "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf",
+   "versions": [
+    {
+     "from": "1936-05-15",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20081216104506id_/http://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf",
+     "sha256": "c2ce97aaf1517fd2e3c8c49e05c2693a0e7c95fee6624c770d9d13d5be0772dd"
+    },
+    {
+     "from": "2010-12-01",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20110815150836id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/23.pdf",
+     "sha256": "b59af0f083d7b9c7b5f2b9b959d0d2827927c060f16ac8fee3b2349d3d778515"
+    },
+    {
+     "from": "2012-04-10",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20181105072305id_/http://www.diputados.gob.mx:80/LeyesBiblio/pdf/23.pdf",
+     "sha256": "e893cded29ecee9a0b5ad3c4c07a33b6be520db6a73f89e837a32235b6167c84"
     }
    ]
   },
