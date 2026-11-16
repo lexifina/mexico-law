@@ -61,6 +61,7 @@ Cada cambio se atribuye al decreto que lo hizo, con una dirección que no puede 
 - La última versión de cada ordenamiento es igual a la copia consolidada más reciente disponible de la Cámara; en 362 ordenamientos esa copia, leída de una segunda forma (texto plano, sin notas), también contiene cada párrafo palabra por palabra. Cada versión lleva el sha256 de la copia archivada de la que se leyó.
 - Una segunda construcción a partir del mismo corpus dio hashes idénticos (`tools/build.py`).
 - El historial solo crece por adición (`tools/append.py`): no hay commits de fusión (merge) en `main`, nada lleva una fecha futura y los trailers de todos los commits se pueden analizar.
+- [vulnerabilities/](vulnerabilities/): posibles errores de técnica legislativa en el derecho mexicano, hallados por los detectores de global-law y comprobados a mano.
 
 ## Lo que no muestra
 

@@ -61,6 +61,7 @@ Each change is credited to the decree that made it, with an address that cannot 
 - Each act's last version equals the Cámara's newest consolidated copy available; for 362 acts that copy, read a second way (plain text, notes removed), also contains every paragraph word for word. Every version carries the sha256 of the archived copy it was read from.
 - A second build from the same corpus gave identical hashes (`tools/build.py`).
 - History is append-only (`tools/append.py`): no merge commits on `main`, nothing dated in the future, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Mexican law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
